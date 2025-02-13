@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2025
+title: Latest 15 Papers - February 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks](http://arxiv.org/abs/2502.08586v1)** | 2025-02-12 |  |
+| **[Modification and Generated-Text Detection: Achieving Dual Detection Capabilities for the Outputs of LLM by Watermark](http://arxiv.org/abs/2502.08332v1)** | 2025-02-12 |  |
+| **[The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems](http://arxiv.org/abs/2409.20002v3)** | 2025-02-12 | <details><summary>This ...</summary><p>This work was submitted for review on Sept. 5, 2024, and the initial version was uploaded to Arxiv on Sept. 30, 2024. The latest version reflects the up-to-date experimental results</p></details> |
+| **[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](http://arxiv.org/abs/2405.09113v2)** | 2025-02-12 |  |
+| **[Universal Adversarial Attack on Aligned Multimodal LLMs](http://arxiv.org/abs/2502.07987v1)** | 2025-02-11 |  |
 | **[AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation](http://arxiv.org/abs/2502.06348v2)** | 2025-02-11 |  |
 | **[LUNAR: LLM Unlearning via Neural Activation Redirection](http://arxiv.org/abs/2502.07218v1)** | 2025-02-11 |  |
 | **[LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild](http://arxiv.org/abs/2410.13919v2)** | 2025-02-10 |  |
 | **[Tamper-Resistant Safeguards for Open-Weight LLMs](http://arxiv.org/abs/2408.00761v4)** | 2025-02-10 | <details><summary>Websi...</summary><p>Website: https://www.tamper-resistant-safeguards.com</p></details> |
 | **[Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks](http://arxiv.org/abs/2501.18727v2)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for presentation(Poster) at PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence</p></details> |
-| **[LIAR: Leveraging Inference Time Alignment (Best-of-N) to Jailbreak LLMs in Seconds](http://arxiv.org/abs/2412.05232v2)** | 2025-02-10 |  |
-| **[Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](http://arxiv.org/abs/2501.18280v2)** | 2025-02-10 |  |
-| **[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](http://arxiv.org/abs/2403.04801v3)** | 2025-02-09 |  |
-| **[Arabic Dataset for LLM Safeguard Evaluation](http://arxiv.org/abs/2410.17040v2)** | 2025-02-09 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 Main Conference</p></details> |
-| **[Obfuscated Activations Bypass LLM Latent-Space Defenses](http://arxiv.org/abs/2412.09565v2)** | 2025-02-08 | <details><summary>Proje...</summary><p>Project page: https://obfuscated-activations.github.io/ Code: https://github.com/LukeBailey181/obfuscated-activations</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks](http://arxiv.org/abs/2502.08586v1)** | 2025-02-12 |  |
+| **[Modification and Generated-Text Detection: Achieving Dual Detection Capabilities for the Outputs of LLM by Watermark](http://arxiv.org/abs/2502.08332v1)** | 2025-02-12 |  |
+| **[The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems](http://arxiv.org/abs/2409.20002v3)** | 2025-02-12 | <details><summary>This ...</summary><p>This work was submitted for review on Sept. 5, 2024, and the initial version was uploaded to Arxiv on Sept. 30, 2024. The latest version reflects the up-to-date experimental results</p></details> |
+| **[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](http://arxiv.org/abs/2405.09113v2)** | 2025-02-12 |  |
+| **[Universal Adversarial Attack on Aligned Multimodal LLMs](http://arxiv.org/abs/2502.07987v1)** | 2025-02-11 |  |
 | **[AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation](http://arxiv.org/abs/2502.06348v2)** | 2025-02-11 |  |
 | **[LUNAR: LLM Unlearning via Neural Activation Redirection](http://arxiv.org/abs/2502.07218v1)** | 2025-02-11 |  |
 | **[LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild](http://arxiv.org/abs/2410.13919v2)** | 2025-02-10 |  |
 | **[Tamper-Resistant Safeguards for Open-Weight LLMs](http://arxiv.org/abs/2408.00761v4)** | 2025-02-10 | <details><summary>Websi...</summary><p>Website: https://www.tamper-resistant-safeguards.com</p></details> |
 | **[Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks](http://arxiv.org/abs/2501.18727v2)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for presentation(Poster) at PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence</p></details> |
-| **[LIAR: Leveraging Inference Time Alignment (Best-of-N) to Jailbreak LLMs in Seconds](http://arxiv.org/abs/2412.05232v2)** | 2025-02-10 |  |
-| **[Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](http://arxiv.org/abs/2501.18280v2)** | 2025-02-10 |  |
-| **[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](http://arxiv.org/abs/2403.04801v3)** | 2025-02-09 |  |
-| **[Arabic Dataset for LLM Safeguard Evaluation](http://arxiv.org/abs/2410.17040v2)** | 2025-02-09 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 Main Conference</p></details> |
-| **[Obfuscated Activations Bypass LLM Latent-Space Defenses](http://arxiv.org/abs/2412.09565v2)** | 2025-02-08 | <details><summary>Proje...</summary><p>Project page: https://obfuscated-activations.github.io/ Code: https://github.com/LukeBailey181/obfuscated-activations</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Auditing Prompt Caching in Language Model APIs](http://arxiv.org/abs/2502.07776v1)** | 2025-02-11 | 20 pages, 7 figures |
-| **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](http://arxiv.org/abs/2502.07644v1)** | 2025-02-11 | <details><summary>16 pa...</summary><p>16 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
-| **[JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](http://arxiv.org/abs/2502.07557v1)** | 2025-02-11 | <details><summary>To Ap...</summary><p>To Appear in the 34rd USENIX Security Symposium, August 13-15, 2025</p></details> |
-| **[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](http://arxiv.org/abs/2502.07225v1)** | 2025-02-11 |  |
-| **[Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks](http://arxiv.org/abs/2501.18727v2)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for presentation(Poster) at PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence</p></details> |
-| **[Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](http://arxiv.org/abs/2408.05212v2)** | 2025-02-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) https://openreview.net/forum?id=Ss9MTTN7OL</p></details> |
-| **[Membership Inference Risks in Quantized Models: A Theoretical and Empirical Study](http://arxiv.org/abs/2502.06567v1)** | 2025-02-10 |  |
-| **[Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](http://arxiv.org/abs/2501.18280v2)** | 2025-02-10 |  |
-| **[An Efficient Security Model for Industrial Internet of Things (IIoT) System Based on Machine Learning Principles](http://arxiv.org/abs/2502.06502v1)** | 2025-02-10 |  |
-| **[Detecting Backdoor Samples in Contrastive Language Image Pretraining](http://arxiv.org/abs/2502.01385v2)** | 2025-02-10 | ICLR2025 |
+| **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](http://arxiv.org/abs/2408.02416v2)** | 2025-02-12 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/liangzid/PromptExtractionEval</p></details> |
+| **[Compromising Honesty and Harmlessness in Language Models via Deception Attacks](http://arxiv.org/abs/2502.08301v1)** | 2025-02-12 |  |
+| **[The Nonlinear Filter Model of Stream Cipher Redivivus](http://arxiv.org/abs/2502.01110v4)** | 2025-02-12 |  |
+| **[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.16769v2)** | 2025-02-12 |  |
+| **[Safety at Scale: A Comprehensive Survey of Large Model Safety](http://arxiv.org/abs/2502.05206v2)** | 2025-02-12 | <details><summary>47 pa...</summary><p>47 pages, 3 figures, 11 tables GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
+| **[BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks](http://arxiv.org/abs/2410.20971v2)** | 2025-02-12 |  |
+| **[Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach](http://arxiv.org/abs/2502.06832v2)** | 2025-02-12 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, submitted to ICML 2025 (under review)</p></details> |
+| **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](http://arxiv.org/abs/2502.07644v2)** | 2025-02-12 | <details><summary>16 pa...</summary><p>16 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
+| **[MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models](http://arxiv.org/abs/2502.08079v1)** | 2025-02-12 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Auditing Prompt Caching in Language Model APIs](http://arxiv.org/abs/2502.07776v1)** | 2025-02-11 | 20 pages, 7 figures |
-| **[Causal Additive Models with Unobserved Causal Paths and Backdoor Paths](http://arxiv.org/abs/2502.07646v1)** | 2025-02-11 | 14 pages |
-| **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](http://arxiv.org/abs/2502.07644v1)** | 2025-02-11 | <details><summary>16 pa...</summary><p>16 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
-| **[JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](http://arxiv.org/abs/2502.07557v1)** | 2025-02-11 | <details><summary>To Ap...</summary><p>To Appear in the 34rd USENIX Security Symposium, August 13-15, 2025</p></details> |
-| **[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](http://arxiv.org/abs/2502.07225v1)** | 2025-02-11 |  |
-| **[Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks](http://arxiv.org/abs/2501.18727v2)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for presentation(Poster) at PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence</p></details> |
-| **[Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions](http://arxiv.org/abs/2408.05212v2)** | 2025-02-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) https://openreview.net/forum?id=Ss9MTTN7OL</p></details> |
-| **[Membership Inference Risks in Quantized Models: A Theoretical and Empirical Study](http://arxiv.org/abs/2502.06567v1)** | 2025-02-10 |  |
-| **[Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](http://arxiv.org/abs/2501.18280v2)** | 2025-02-10 |  |
-| **[An Efficient Security Model for Industrial Internet of Things (IIoT) System Based on Machine Learning Principles](http://arxiv.org/abs/2502.06502v1)** | 2025-02-10 |  |
+| **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](http://arxiv.org/abs/2408.02416v2)** | 2025-02-12 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/liangzid/PromptExtractionEval</p></details> |
+| **[Compromising Honesty and Harmlessness in Language Models via Deception Attacks](http://arxiv.org/abs/2502.08301v1)** | 2025-02-12 |  |
+| **[The Nonlinear Filter Model of Stream Cipher Redivivus](http://arxiv.org/abs/2502.01110v4)** | 2025-02-12 |  |
+| **[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.16769v2)** | 2025-02-12 |  |
+| **[Safety at Scale: A Comprehensive Survey of Large Model Safety](http://arxiv.org/abs/2502.05206v2)** | 2025-02-12 | <details><summary>47 pa...</summary><p>47 pages, 3 figures, 11 tables GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
+| **[BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks](http://arxiv.org/abs/2410.20971v2)** | 2025-02-12 |  |
+| **[Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach](http://arxiv.org/abs/2502.06832v2)** | 2025-02-12 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, submitted to ICML 2025 (under review)</p></details> |
+| **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](http://arxiv.org/abs/2502.07644v2)** | 2025-02-12 | <details><summary>16 pa...</summary><p>16 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
+| **[MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models](http://arxiv.org/abs/2502.08079v1)** | 2025-02-12 |  |
 
