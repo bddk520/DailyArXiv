@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs](http://arxiv.org/abs/2502.00735v2)** | 2025-02-13 |  |
 | **[FLAME: Flexible LLM-Assisted Moderation Engine](http://arxiv.org/abs/2502.09175v1)** | 2025-02-13 |  |
 | **[Universal Adversarial Attack on Aligned Multimodal LLMs](http://arxiv.org/abs/2502.07987v2)** | 2025-02-13 | Added an affiliation |
 | **[Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach](http://arxiv.org/abs/2410.02890v3)** | 2025-02-12 |  |
@@ -16,11 +17,11 @@ labels: documentation
 | **[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](http://arxiv.org/abs/2405.09113v2)** | 2025-02-12 |  |
 | **[AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation](http://arxiv.org/abs/2502.06348v2)** | 2025-02-11 |  |
 | **[LUNAR: LLM Unlearning via Neural Activation Redirection](http://arxiv.org/abs/2502.07218v1)** | 2025-02-11 |  |
-| **[LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild](http://arxiv.org/abs/2410.13919v2)** | 2025-02-10 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs](http://arxiv.org/abs/2502.00735v2)** | 2025-02-13 |  |
 | **[FLAME: Flexible LLM-Assisted Moderation Engine](http://arxiv.org/abs/2502.09175v1)** | 2025-02-13 |  |
 | **[Universal Adversarial Attack on Aligned Multimodal LLMs](http://arxiv.org/abs/2502.07987v2)** | 2025-02-13 | Added an affiliation |
 | **[Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach](http://arxiv.org/abs/2410.02890v3)** | 2025-02-12 |  |
@@ -30,31 +31,30 @@ labels: documentation
 | **[Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](http://arxiv.org/abs/2405.09113v2)** | 2025-02-12 |  |
 | **[AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation](http://arxiv.org/abs/2502.06348v2)** | 2025-02-11 |  |
 | **[LUNAR: LLM Unlearning via Neural Activation Redirection](http://arxiv.org/abs/2502.07218v1)** | 2025-02-11 |  |
-| **[LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild](http://arxiv.org/abs/2410.13919v2)** | 2025-02-10 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models](http://arxiv.org/abs/2502.08008v2)** | 2025-02-14 |  |
+| **[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](http://arxiv.org/abs/2411.06426v2)** | 2025-02-14 |  |
+| **[What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models](http://arxiv.org/abs/2412.08098v2)** | 2025-02-14 |  |
+| **[ChatIoT: Large Language Model-based Security Assistant for Internet of Things with Retrieval-Augmented Generation](http://arxiv.org/abs/2502.09896v1)** | 2025-02-14 | <details><summary>prepr...</summary><p>preprint, under revision, 19 pages, 13 figures, 8 tables</p></details> |
+| **[DomainLynx: Leveraging Large Language Models for Enhanced Domain Squatting Detection](http://arxiv.org/abs/2410.02095v3)** | 2025-02-14 | <details><summary>Origi...</summary><p>Originally presented at IEEE CCNC 2025. An extended version of this work has been published in IEEE Access: https://doi.org/10.1109/ACCESS.2025.3542036</p></details> |
+| **[Improving Acoustic Side-Channel Attacks on Keyboards Using Transformers and Large Language Models](http://arxiv.org/abs/2502.09782v1)** | 2025-02-13 |  |
+| **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](http://arxiv.org/abs/2502.09723v1)** | 2025-02-13 | 15 pages, 11 figures |
 | **[Balancing physical modeling and musical requirements: Algorithmically simulating the calls of Hyalessa maculaticollis for real-time instrumental control](http://arxiv.org/abs/2502.09459v1)** | 2025-02-13 | <details><summary>The 2...</summary><p>The 2024 International Sound and Music Computing Conference</p></details> |
 | **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v3)** | 2025-02-13 | ICLR 2025 |
-| **[A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack](http://arxiv.org/abs/2502.09396v1)** | 2025-02-13 |  |
-| **[APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models](http://arxiv.org/abs/2502.09385v1)** | 2025-02-13 |  |
-| **[RLSA-PFL: Robust Lightweight Secure Aggregation with Model Inconsistency Detection in Privacy-Preserving Federated Learning](http://arxiv.org/abs/2502.08989v1)** | 2025-02-13 | 16 pages, 10 Figures |
-| **[Dynamic watermarks in images generated by diffusion models](http://arxiv.org/abs/2502.08927v1)** | 2025-02-13 |  |
-| **[An Engorgio Prompt Makes Large Language Model Babble on](http://arxiv.org/abs/2412.19394v2)** | 2025-02-13 | ICLR 2025 |
-| **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](http://arxiv.org/abs/2408.02416v2)** | 2025-02-12 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/liangzid/PromptExtractionEval</p></details> |
-| **[Compromising Honesty and Harmlessness in Language Models via Deception Attacks](http://arxiv.org/abs/2502.08301v1)** | 2025-02-12 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models](http://arxiv.org/abs/2502.08008v2)** | 2025-02-14 |  |
+| **[SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains](http://arxiv.org/abs/2411.06426v2)** | 2025-02-14 |  |
+| **[What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models](http://arxiv.org/abs/2412.08098v2)** | 2025-02-14 |  |
+| **[ChatIoT: Large Language Model-based Security Assistant for Internet of Things with Retrieval-Augmented Generation](http://arxiv.org/abs/2502.09896v1)** | 2025-02-14 | <details><summary>prepr...</summary><p>preprint, under revision, 19 pages, 13 figures, 8 tables</p></details> |
+| **[DomainLynx: Leveraging Large Language Models for Enhanced Domain Squatting Detection](http://arxiv.org/abs/2410.02095v3)** | 2025-02-14 | <details><summary>Origi...</summary><p>Originally presented at IEEE CCNC 2025. An extended version of this work has been published in IEEE Access: https://doi.org/10.1109/ACCESS.2025.3542036</p></details> |
+| **[Improving Acoustic Side-Channel Attacks on Keyboards Using Transformers and Large Language Models](http://arxiv.org/abs/2502.09782v1)** | 2025-02-13 |  |
+| **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](http://arxiv.org/abs/2502.09723v1)** | 2025-02-13 | 15 pages, 11 figures |
 | **[Balancing physical modeling and musical requirements: Algorithmically simulating the calls of Hyalessa maculaticollis for real-time instrumental control](http://arxiv.org/abs/2502.09459v1)** | 2025-02-13 | <details><summary>The 2...</summary><p>The 2024 International Sound and Music Computing Conference</p></details> |
 | **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v3)** | 2025-02-13 | ICLR 2025 |
-| **[A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack](http://arxiv.org/abs/2502.09396v1)** | 2025-02-13 |  |
-| **[APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models](http://arxiv.org/abs/2502.09385v1)** | 2025-02-13 |  |
-| **[RLSA-PFL: Robust Lightweight Secure Aggregation with Model Inconsistency Detection in Privacy-Preserving Federated Learning](http://arxiv.org/abs/2502.08989v1)** | 2025-02-13 | 16 pages, 10 Figures |
-| **[Dynamic watermarks in images generated by diffusion models](http://arxiv.org/abs/2502.08927v1)** | 2025-02-13 |  |
-| **[An Engorgio Prompt Makes Large Language Model Babble on](http://arxiv.org/abs/2412.19394v2)** | 2025-02-13 | ICLR 2025 |
-| **[Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models](http://arxiv.org/abs/2408.02416v2)** | 2025-02-12 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/liangzid/PromptExtractionEval</p></details> |
-| **[Compromising Honesty and Harmlessness in Language Models via Deception Attacks](http://arxiv.org/abs/2502.08301v1)** | 2025-02-12 |  |
 
