@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 21, 2025
+title: Latest 15 Papers - February 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Red-Teaming LLM Multi-Agent Systems via Communication Attacks](http://arxiv.org/abs/2502.14847v1)** | 2025-02-20 |  |
+| **[Fundamental Limitations in Defending LLM Finetuning APIs](http://arxiv.org/abs/2502.14828v1)** | 2025-02-20 |  |
+| **[PEARL: Towards Permutation-Resilient LLMs](http://arxiv.org/abs/2502.14628v1)** | 2025-02-20 | ICLR 2025 |
+| **[BaxBench: Can LLMs Generate Correct and Secure Backends?](http://arxiv.org/abs/2502.11844v2)** | 2025-02-20 |  |
+| **[Towards Secure Program Partitioning for Smart Contracts with LLM's In-Context Learning](http://arxiv.org/abs/2502.14215v1)** | 2025-02-20 |  |
+| **[Multi-Faceted Studies on Data Poisoning can Advance LLM Development](http://arxiv.org/abs/2502.14182v1)** | 2025-02-20 |  |
 | **[Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach](http://arxiv.org/abs/2410.02890v4)** | 2025-02-19 |  |
 | **[Safety Layers in Aligned Large Language Models: The Key to LLM Security](http://arxiv.org/abs/2408.17003v4)** | 2025-02-19 |  |
 | **[Efficient Safety Retrofitting Against Jailbreaking for LLMs](http://arxiv.org/abs/2502.13603v1)** | 2025-02-19 |  |
 | **[RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis](http://arxiv.org/abs/2411.18948v2)** | 2025-02-19 |  |
-| **[Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection](http://arxiv.org/abs/2411.01077v2)** | 2025-02-18 |  |
-| **[LAMD: Context-driven Android Malware Detection and Classification with LLMs](http://arxiv.org/abs/2502.13055v1)** | 2025-02-18 |  |
-| **[LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks](http://arxiv.org/abs/2310.11409v5)** | 2025-02-18 |  |
-| **[R.R.: Unveiling LLM Training Privacy through Recollection and Ranking](http://arxiv.org/abs/2502.12658v1)** | 2025-02-18 | 13 pages, 9 figures |
-| **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](http://arxiv.org/abs/2502.12575v1)** | 2025-02-18 |  |
-| **[Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings](http://arxiv.org/abs/2412.13879v3)** | 2025-02-18 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Red-Teaming LLM Multi-Agent Systems via Communication Attacks](http://arxiv.org/abs/2502.14847v1)** | 2025-02-20 |  |
+| **[Fundamental Limitations in Defending LLM Finetuning APIs](http://arxiv.org/abs/2502.14828v1)** | 2025-02-20 |  |
+| **[PEARL: Towards Permutation-Resilient LLMs](http://arxiv.org/abs/2502.14628v1)** | 2025-02-20 | ICLR 2025 |
+| **[BaxBench: Can LLMs Generate Correct and Secure Backends?](http://arxiv.org/abs/2502.11844v2)** | 2025-02-20 |  |
+| **[Towards Secure Program Partitioning for Smart Contracts with LLM's In-Context Learning](http://arxiv.org/abs/2502.14215v1)** | 2025-02-20 |  |
+| **[Multi-Faceted Studies on Data Poisoning can Advance LLM Development](http://arxiv.org/abs/2502.14182v1)** | 2025-02-20 |  |
 | **[Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach](http://arxiv.org/abs/2410.02890v4)** | 2025-02-19 |  |
 | **[Safety Layers in Aligned Large Language Models: The Key to LLM Security](http://arxiv.org/abs/2408.17003v4)** | 2025-02-19 |  |
 | **[Efficient Safety Retrofitting Against Jailbreaking for LLMs](http://arxiv.org/abs/2502.13603v1)** | 2025-02-19 |  |
 | **[RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis](http://arxiv.org/abs/2411.18948v2)** | 2025-02-19 |  |
-| **[Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection](http://arxiv.org/abs/2411.01077v2)** | 2025-02-18 |  |
-| **[LAMD: Context-driven Android Malware Detection and Classification with LLMs](http://arxiv.org/abs/2502.13055v1)** | 2025-02-18 |  |
-| **[LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks](http://arxiv.org/abs/2310.11409v5)** | 2025-02-18 |  |
-| **[R.R.: Unveiling LLM Training Privacy through Recollection and Ranking](http://arxiv.org/abs/2502.12658v1)** | 2025-02-18 | 13 pages, 9 figures |
-| **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](http://arxiv.org/abs/2502.12575v1)** | 2025-02-18 |  |
-| **[Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings](http://arxiv.org/abs/2412.13879v3)** | 2025-02-18 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](http://arxiv.org/abs/2502.13946v1)** | 2025-02-19 |  |
-| **[FedCC: Robust Federated Learning against Model Poisoning Attacks](http://arxiv.org/abs/2212.01976v3)** | 2025-02-19 |  |
-| **[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](http://arxiv.org/abs/2502.11054v3)** | 2025-02-19 |  |
-| **[Safety Layers in Aligned Large Language Models: The Key to LLM Security](http://arxiv.org/abs/2408.17003v4)** | 2025-02-19 |  |
-| **[Na'vi or Knave: Jailbreaking Language Models via Metaphorical Avatars](http://arxiv.org/abs/2412.12145v3)** | 2025-02-19 | <details><summary>We st...</summary><p>We still need to polish our paper</p></details> |
-| **[Poisoned Source Code Detection in Code Models](http://arxiv.org/abs/2502.13459v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted for Publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v2)** | 2025-02-19 | <details><summary>Code,...</summary><p>Code, data and benchmarks are available at https://github.com/yuchenwen1/ImplicitBiasPsychometricEvaluation and https://github.com/yuchenwen1/BUMBLE</p></details> |
-| **[Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios](http://arxiv.org/abs/2502.13345v1)** | 2025-02-18 |  |
-| **[Improving Acoustic Side-Channel Attacks on Keyboards Using Transformers and Large Language Models](http://arxiv.org/abs/2502.09782v3)** | 2025-02-18 | <details><summary>We wo...</summary><p>We would like to withdraw our paper due to a significant error in the experimental methodology, which impacts the validity of our results. The error specifically affects the analysis presented in Section 4, where an incorrect dataset preprocessing step led to misleading conclusions</p></details> |
-| **[UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models](http://arxiv.org/abs/2502.13141v1)** | 2025-02-18 | <details><summary>18 Pa...</summary><p>18 Pages, 8 Figures, 5 Tables, Keywords: Attack Defending, Security, Prompt Injection, Backdoor Attacks, Adversarial Attacks, Prompt Trigger Attacks</p></details> |
+| **[Safety Evaluation of DeepSeek Models in Chinese Contexts](http://arxiv.org/abs/2502.11137v2)** | 2025-02-20 | <details><summary>12 pa...</summary><p>12 pages, 2 tables, 7 figures</p></details> |
+| **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](http://arxiv.org/abs/2502.14744v1)** | 2025-02-20 |  |
+| **[Moshi Moshi? A Model Selection Hijacking Adversarial Attack](http://arxiv.org/abs/2502.14586v1)** | 2025-02-20 |  |
+| **[FUIA: Model Inversion Attack against Federated Unlearning](http://arxiv.org/abs/2502.14558v1)** | 2025-02-20 | Initial manuscript |
+| **[CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models](http://arxiv.org/abs/2502.14529v1)** | 2025-02-20 |  |
+| **[PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy Optimization](http://arxiv.org/abs/2502.14370v1)** | 2025-02-20 | <details><summary>6 pag...</summary><p>6 pages, submitting to ICML 2025</p></details> |
+| **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](http://arxiv.org/abs/2502.09723v2)** | 2025-02-20 | 15 pages, 11 figures |
+| **[Eliminating Backdoors in Neural Code Models for Secure Code Understanding](http://arxiv.org/abs/2408.04683v2)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to the 33rd ACM International Conference on the Foundations of Software Engineering (FSE 2025)</p></details> |
+| **[Vulnerability of Text-to-Image Models to Prompt Template Stealing: A Differential Evolution Approach](http://arxiv.org/abs/2502.14285v1)** | 2025-02-20 | <details><summary>14 pa...</summary><p>14 pages,8 figures,4 tables</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](http://arxiv.org/abs/2502.13946v1)** | 2025-02-19 |  |
-| **[FedCC: Robust Federated Learning against Model Poisoning Attacks](http://arxiv.org/abs/2212.01976v3)** | 2025-02-19 |  |
-| **[Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](http://arxiv.org/abs/2502.11054v3)** | 2025-02-19 |  |
-| **[Safety Layers in Aligned Large Language Models: The Key to LLM Security](http://arxiv.org/abs/2408.17003v4)** | 2025-02-19 |  |
-| **[Na'vi or Knave: Jailbreaking Language Models via Metaphorical Avatars](http://arxiv.org/abs/2412.12145v3)** | 2025-02-19 | <details><summary>We st...</summary><p>We still need to polish our paper</p></details> |
-| **[Poisoned Source Code Detection in Code Models](http://arxiv.org/abs/2502.13459v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted for Publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v2)** | 2025-02-19 | <details><summary>Code,...</summary><p>Code, data and benchmarks are available at https://github.com/yuchenwen1/ImplicitBiasPsychometricEvaluation and https://github.com/yuchenwen1/BUMBLE</p></details> |
-| **[Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios](http://arxiv.org/abs/2502.13345v1)** | 2025-02-18 |  |
-| **[Improving Acoustic Side-Channel Attacks on Keyboards Using Transformers and Large Language Models](http://arxiv.org/abs/2502.09782v3)** | 2025-02-18 | <details><summary>We wo...</summary><p>We would like to withdraw our paper due to a significant error in the experimental methodology, which impacts the validity of our results. The error specifically affects the analysis presented in Section 4, where an incorrect dataset preprocessing step led to misleading conclusions</p></details> |
-| **[UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models](http://arxiv.org/abs/2502.13141v1)** | 2025-02-18 | <details><summary>18 Pa...</summary><p>18 Pages, 8 Figures, 5 Tables, Keywords: Attack Defending, Security, Prompt Injection, Backdoor Attacks, Adversarial Attacks, Prompt Trigger Attacks</p></details> |
+| **[Safety Evaluation of DeepSeek Models in Chinese Contexts](http://arxiv.org/abs/2502.11137v2)** | 2025-02-20 | <details><summary>12 pa...</summary><p>12 pages, 2 tables, 7 figures</p></details> |
+| **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](http://arxiv.org/abs/2502.14744v1)** | 2025-02-20 |  |
+| **[Moshi Moshi? A Model Selection Hijacking Adversarial Attack](http://arxiv.org/abs/2502.14586v1)** | 2025-02-20 |  |
+| **[FUIA: Model Inversion Attack against Federated Unlearning](http://arxiv.org/abs/2502.14558v1)** | 2025-02-20 | Initial manuscript |
+| **[CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models](http://arxiv.org/abs/2502.14529v1)** | 2025-02-20 |  |
+| **[PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy Optimization](http://arxiv.org/abs/2502.14370v1)** | 2025-02-20 | <details><summary>6 pag...</summary><p>6 pages, submitting to ICML 2025</p></details> |
+| **[Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](http://arxiv.org/abs/2502.09723v2)** | 2025-02-20 | 15 pages, 11 figures |
+| **[Eliminating Backdoors in Neural Code Models for Secure Code Understanding](http://arxiv.org/abs/2408.04683v2)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to the 33rd ACM International Conference on the Foundations of Software Engineering (FSE 2025)</p></details> |
+| **[Vulnerability of Text-to-Image Models to Prompt Template Stealing: A Differential Evolution Approach](http://arxiv.org/abs/2502.14285v1)** | 2025-02-20 | <details><summary>14 pa...</summary><p>14 pages,8 figures,4 tables</p></details> |
 
