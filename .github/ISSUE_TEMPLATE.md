@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 28, 2025
+title: Latest 15 Papers - March 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v1)** | 2025-02-27 | 19 pages, 8 figures |
+| **[Demystifying RCE Vulnerabilities in LLM-Integrated Apps](http://arxiv.org/abs/2309.02926v4)** | 2025-02-27 |  |
 | **[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](http://arxiv.org/abs/2404.01833v3)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted at USENIX Security 2025</p></details> |
 | **[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](http://arxiv.org/abs/2502.19041v1)** | 2025-02-26 | 15 pages, 12 figures |
 | **[Investigating Generalization of One-shot LLM Steering Vectors](http://arxiv.org/abs/2502.18862v1)** | 2025-02-26 | <details><summary>20 pa...</summary><p>20 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro</p></details> |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Design and implementation of a distributed security threat detection system integrating federated learning and multimodal LLM](http://arxiv.org/abs/2502.17763v1)** | 2025-02-25 |  |
 | **[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](http://arxiv.org/abs/2409.14866v4)** | 2025-02-24 |  |
 | **[RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents](http://arxiv.org/abs/2502.16730v1)** | 2025-02-23 |  |
-| **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v2)** | 2025-02-23 |  |
-| **[On Calibration of LLM-based Guard Models for Reliable Content Moderation](http://arxiv.org/abs/2410.10414v2)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v1)** | 2025-02-27 | 19 pages, 8 figures |
+| **[Demystifying RCE Vulnerabilities in LLM-Integrated Apps](http://arxiv.org/abs/2309.02926v4)** | 2025-02-27 |  |
 | **[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](http://arxiv.org/abs/2404.01833v3)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted at USENIX Security 2025</p></details> |
 | **[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](http://arxiv.org/abs/2502.19041v1)** | 2025-02-26 | 15 pages, 12 figures |
 | **[Investigating Generalization of One-shot LLM Steering Vectors](http://arxiv.org/abs/2502.18862v1)** | 2025-02-26 | <details><summary>20 pa...</summary><p>20 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro</p></details> |
@@ -29,25 +31,32 @@ labels: documentation
 | **[Towards Effective Evaluations and Comparisons for LLM Unlearning Methods](http://arxiv.org/abs/2406.09179v2)** | 2025-02-25 |  |
 | **[Design and implementation of a distributed security threat detection system integrating federated learning and multimodal LLM](http://arxiv.org/abs/2502.17763v1)** | 2025-02-25 |  |
 | **[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](http://arxiv.org/abs/2409.14866v4)** | 2025-02-24 |  |
-| **[RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents](http://arxiv.org/abs/2502.16730v1)** | 2025-02-23 |  |
-| **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v2)** | 2025-02-23 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models](http://arxiv.org/abs/2502.19269v1)** | 2025-02-26 |  |
-| **[A Sample-Level Evaluation and Generative Framework for Model Inversion Attacks](http://arxiv.org/abs/2502.19070v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted to be appeared in 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)</p></details> |
-| **[A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models](http://arxiv.org/abs/2502.19047v1)** | 2025-02-26 |  |
-| **[Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](http://arxiv.org/abs/2502.18943v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2025</p></details> |
-| **[JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models](http://arxiv.org/abs/2502.18935v1)** | 2025-02-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, accepted at PAKDD 2025</p></details> |
-| **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](http://arxiv.org/abs/2502.18290v1)** | 2025-02-25 |  |
-| **[Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models](http://arxiv.org/abs/2502.01386v2)** | 2025-02-25 |  |
-| **[CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense](http://arxiv.org/abs/2410.23091v7)** | 2025-02-25 | <details><summary>accep...</summary><p>accepted by NeurIPS 2024</p></details> |
-| **[Examining the Threat Landscape: Foundation Models and Model Stealing](http://arxiv.org/abs/2502.18077v1)** | 2025-02-25 | <details><summary>Accep...</summary><p>Accepted to BMVC 2024</p></details> |
-| **[Model-Free Adversarial Purification via Coarse-To-Fine Tensor Network Representation](http://arxiv.org/abs/2502.17972v1)** | 2025-02-25 |  |
+| **[Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace](http://arxiv.org/abs/2410.13910v2)** | 2025-02-27 | <details><summary>arxiv...</summary><p>arxiv version of ICLR2025</p></details> |
+| **[Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets](http://arxiv.org/abs/2502.20246v1)** | 2025-02-27 |  |
+| **[Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models](http://arxiv.org/abs/2502.19883v1)** | 2025-02-27 | 12 pages. 6 figures |
+| **[The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1](http://arxiv.org/abs/2502.12659v3)** | 2025-02-27 |  |
+| **[Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](http://arxiv.org/abs/2502.19726v1)** | 2025-02-27 |  |
+| **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](http://arxiv.org/abs/2502.18290v2)** | 2025-02-27 |  |
+| **[SAP-DIFF: Semantic Adversarial Patch Generation for Black-Box Face Recognition Models via Diffusion Models](http://arxiv.org/abs/2502.19710v1)** | 2025-02-27 |  |
+| **[MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models](http://arxiv.org/abs/2502.08079v2)** | 2025-02-27 |  |
+| **[Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack](http://arxiv.org/abs/2502.19672v1)** | 2025-02-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2403.09766</p></details> |
+| **[H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking](http://arxiv.org/abs/2502.12893v2)** | 2025-02-27 | <details><summary>Websi...</summary><p>Website: https://maliciouseducator.org/</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models](http://arxiv.org/abs/2502.19269v1)** | 2025-02-26 |  |
+| **[Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace](http://arxiv.org/abs/2410.13910v2)** | 2025-02-27 | <details><summary>arxiv...</summary><p>arxiv version of ICLR2025</p></details> |
+| **[Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets](http://arxiv.org/abs/2502.20246v1)** | 2025-02-27 |  |
+| **[Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models](http://arxiv.org/abs/2502.19883v1)** | 2025-02-27 | 12 pages. 6 figures |
+| **[The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1](http://arxiv.org/abs/2502.12659v3)** | 2025-02-27 |  |
+| **[Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](http://arxiv.org/abs/2502.19726v1)** | 2025-02-27 |  |
+| **[Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](http://arxiv.org/abs/2502.18290v2)** | 2025-02-27 |  |
+| **[SAP-DIFF: Semantic Adversarial Patch Generation for Black-Box Face Recognition Models via Diffusion Models](http://arxiv.org/abs/2502.19710v1)** | 2025-02-27 |  |
+| **[MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models](http://arxiv.org/abs/2502.08079v2)** | 2025-02-27 |  |
+| **[Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack](http://arxiv.org/abs/2502.19672v1)** | 2025-02-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2403.09766</p></details> |
+| **[H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking](http://arxiv.org/abs/2502.12893v2)** | 2025-02-27 | <details><summary>Websi...</summary><p>Website: https://maliciouseducator.org/</p></details> |
 
