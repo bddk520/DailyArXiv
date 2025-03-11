@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2025
+title: Latest 15 Papers - March 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stepwise Reasoning Error Disruption Attack of LLMs](http://arxiv.org/abs/2412.11934v3)** | 2025-03-10 |  |
+| **[Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions](http://arxiv.org/abs/2410.18966v2)** | 2025-03-09 | <details><summary>3 tab...</summary><p>3 tables and 1 figures in the main text. This paper is accepted by NAACL 2025 findings</p></details> |
+| **[MAD-MAX: Modular And Diverse Malicious Attack MiXtures for Automated LLM Red Teaming](http://arxiv.org/abs/2503.06253v1)** | 2025-03-08 |  |
+| **[Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](http://arxiv.org/abs/2410.02644v2)** | 2025-03-08 |  |
 | **[SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)](http://arxiv.org/abs/2406.17975v3)** | 2025-03-07 | <details><summary>IEEE ...</summary><p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2025)</p></details> |
 | **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v1)** | 2025-03-07 |  |
 | **[DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios](http://arxiv.org/abs/2410.23746v2)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024 Datasets and Benchmarks Track (Camera-Ready)</p></details> |
 | **[A Practical Memory Injection Attack against LLM Agents](http://arxiv.org/abs/2503.03704v2)** | 2025-03-07 |  |
 | **[Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](http://arxiv.org/abs/2503.05021v1)** | 2025-03-06 |  |
 | **[Get my drift? Catching LLM Task Drift with Activation Deltas](http://arxiv.org/abs/2406.00799v6)** | 2025-03-06 | SaTML 2025 |
-| **[Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges](http://arxiv.org/abs/2503.04474v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted to the ICBINB Workshop at ICLR'25</p></details> |
-| **[Exploring the Multilingual NLG Evaluation Abilities of LLM-Based Evaluators](http://arxiv.org/abs/2503.04360v1)** | 2025-03-06 |  |
-| **[Malware Detection at the Edge with Lightweight LLMs: A Performance Evaluation](http://arxiv.org/abs/2503.04302v1)** | 2025-03-06 |  |
-| **[One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs](http://arxiv.org/abs/2503.04856v1)** | 2025-03-06 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stepwise Reasoning Error Disruption Attack of LLMs](http://arxiv.org/abs/2412.11934v3)** | 2025-03-10 |  |
+| **[Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions](http://arxiv.org/abs/2410.18966v2)** | 2025-03-09 | <details><summary>3 tab...</summary><p>3 tables and 1 figures in the main text. This paper is accepted by NAACL 2025 findings</p></details> |
+| **[MAD-MAX: Modular And Diverse Malicious Attack MiXtures for Automated LLM Red Teaming](http://arxiv.org/abs/2503.06253v1)** | 2025-03-08 |  |
+| **[Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](http://arxiv.org/abs/2410.02644v2)** | 2025-03-08 |  |
 | **[SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)](http://arxiv.org/abs/2406.17975v3)** | 2025-03-07 | <details><summary>IEEE ...</summary><p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2025)</p></details> |
 | **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v1)** | 2025-03-07 |  |
 | **[DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios](http://arxiv.org/abs/2410.23746v2)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024 Datasets and Benchmarks Track (Camera-Ready)</p></details> |
 | **[A Practical Memory Injection Attack against LLM Agents](http://arxiv.org/abs/2503.03704v2)** | 2025-03-07 |  |
 | **[Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety](http://arxiv.org/abs/2503.05021v1)** | 2025-03-06 |  |
 | **[Get my drift? Catching LLM Task Drift with Activation Deltas](http://arxiv.org/abs/2406.00799v6)** | 2025-03-06 | SaTML 2025 |
-| **[Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking](http://arxiv.org/abs/2503.04636v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by the 1st Workshop on GenAI Watermarking, collocated with ICLR 2025</p></details> |
-| **[Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges](http://arxiv.org/abs/2503.04474v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted to the ICBINB Workshop at ICLR'25</p></details> |
-| **[Exploring the Multilingual NLG Evaluation Abilities of LLM-Based Evaluators](http://arxiv.org/abs/2503.04360v1)** | 2025-03-06 |  |
-| **[Malware Detection at the Edge with Lightweight LLMs: A Performance Evaluation](http://arxiv.org/abs/2503.04302v1)** | 2025-03-06 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](http://arxiv.org/abs/2411.03554v3)** | 2025-03-07 |  |
-| **[Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data](http://arxiv.org/abs/2409.19798v2)** | 2025-03-07 | <details><summary>posit...</summary><p>position paper at IEEE SaTML 2025</p></details> |
-| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v1)** | 2025-03-07 |  |
-| **[Double Backdoored: Converting Code Large Language Model Backdoors to Traditional Malware via Adversarial Instruction Tuning Attacks](http://arxiv.org/abs/2404.18567v2)** | 2025-03-07 |  |
-| **[Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring](http://arxiv.org/abs/2410.21083v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025</p></details> |
-| **[UniNet: A Unified Multi-granular Traffic Modeling Framework for Network Security](http://arxiv.org/abs/2503.04174v1)** | 2025-03-06 | <details><summary>21 pa...</summary><p>21 pages, 6 figures,15 tables</p></details> |
-| **[How Breakable Is Privacy: Probing and Resisting Model Inversion Attacks in Collaborative Inference](http://arxiv.org/abs/2501.00824v3)** | 2025-03-06 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 7 tables. The experiment is still being supplemented. V3 modified the writing and supplemented the experiment</p></details> |
-| **[Task-Agnostic Attacks Against Vision Foundation Models](http://arxiv.org/abs/2503.03842v1)** | 2025-03-05 |  |
-| **[LLMs can be Dangerous Reasoners: Analyzing-based Jailbreak Attack on Large Language Models](http://arxiv.org/abs/2407.16205v5)** | 2025-03-05 |  |
-| **[Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models](http://arxiv.org/abs/2503.01742v2)** | 2025-03-05 |  |
+| **[MIBench: A Comprehensive Framework for Benchmarking Model Inversion Attack and Defense](http://arxiv.org/abs/2410.05159v3)** | 2025-03-10 | 20 pages |
+| **[Stochastic Tube-based Model Predictive Control for Cyber-Physical Systems under False Data Injection Attacks with Bounded Probability](http://arxiv.org/abs/2503.07385v1)** | 2025-03-10 |  |
+| **[Extracting Training Data from Unconditional Diffusion Models](http://arxiv.org/abs/2410.02467v6)** | 2025-03-10 |  |
+| **[Privacy and Accuracy Implications of Model Complexity and Integration in Heterogeneous Federated Learning](http://arxiv.org/abs/2311.17750v3)** | 2025-03-10 | <details><summary>Code:...</summary><p>Code: https://github.com/ellisalicante/ma-fl-mia</p></details> |
+| **[Robust Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2403.16067v4)** | 2025-03-10 |  |
+| **[ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration](http://arxiv.org/abs/2503.06986v1)** | 2025-03-10 |  |
+| **[InferDPT: Privacy-Preserving Inference for Black-box Large Language Model](http://arxiv.org/abs/2310.12214v7)** | 2025-03-10 |  |
+| **[MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation](http://arxiv.org/abs/2503.06966v1)** | 2025-03-10 |  |
+| **[Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?](http://arxiv.org/abs/2407.17417v2)** | 2025-03-10 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Published at AAAI 2025. Code will be available at https://github.com/michael-panaitescu/watermark_copyright_aaai25</p></details> |
+| **[CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation](http://arxiv.org/abs/2503.06950v1)** | 2025-03-10 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](http://arxiv.org/abs/2411.03554v3)** | 2025-03-07 |  |
-| **[Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data](http://arxiv.org/abs/2409.19798v2)** | 2025-03-07 | <details><summary>posit...</summary><p>position paper at IEEE SaTML 2025</p></details> |
-| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v1)** | 2025-03-07 |  |
-| **[Double Backdoored: Converting Code Large Language Model Backdoors to Traditional Malware via Adversarial Instruction Tuning Attacks](http://arxiv.org/abs/2404.18567v2)** | 2025-03-07 |  |
-| **[Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking](http://arxiv.org/abs/2503.04636v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by the 1st Workshop on GenAI Watermarking, collocated with ICLR 2025</p></details> |
-| **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v1)** | 2025-03-06 | 68 pages |
-| **[Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring](http://arxiv.org/abs/2410.21083v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025</p></details> |
-| **[UniNet: A Unified Multi-granular Traffic Modeling Framework for Network Security](http://arxiv.org/abs/2503.04174v1)** | 2025-03-06 | <details><summary>21 pa...</summary><p>21 pages, 6 figures,15 tables</p></details> |
-| **[How Breakable Is Privacy: Probing and Resisting Model Inversion Attacks in Collaborative Inference](http://arxiv.org/abs/2501.00824v3)** | 2025-03-06 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 7 tables. The experiment is still being supplemented. V3 modified the writing and supplemented the experiment</p></details> |
-| **[Task-Agnostic Attacks Against Vision Foundation Models](http://arxiv.org/abs/2503.03842v1)** | 2025-03-05 |  |
+| **[MIBench: A Comprehensive Framework for Benchmarking Model Inversion Attack and Defense](http://arxiv.org/abs/2410.05159v3)** | 2025-03-10 | 20 pages |
+| **[Stochastic Tube-based Model Predictive Control for Cyber-Physical Systems under False Data Injection Attacks with Bounded Probability](http://arxiv.org/abs/2503.07385v1)** | 2025-03-10 |  |
+| **[Extracting Training Data from Unconditional Diffusion Models](http://arxiv.org/abs/2410.02467v6)** | 2025-03-10 |  |
+| **[Privacy and Accuracy Implications of Model Complexity and Integration in Heterogeneous Federated Learning](http://arxiv.org/abs/2311.17750v3)** | 2025-03-10 | <details><summary>Code:...</summary><p>Code: https://github.com/ellisalicante/ma-fl-mia</p></details> |
+| **[Robust Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2403.16067v4)** | 2025-03-10 |  |
+| **[ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration](http://arxiv.org/abs/2503.06986v1)** | 2025-03-10 |  |
+| **[InferDPT: Privacy-Preserving Inference for Black-box Large Language Model](http://arxiv.org/abs/2310.12214v7)** | 2025-03-10 |  |
+| **[MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation](http://arxiv.org/abs/2503.06966v1)** | 2025-03-10 |  |
+| **[Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?](http://arxiv.org/abs/2407.17417v2)** | 2025-03-10 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Published at AAAI 2025. Code will be available at https://github.com/michael-panaitescu/watermark_copyright_aaai25</p></details> |
+| **[CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation](http://arxiv.org/abs/2503.06950v1)** | 2025-03-10 |  |
 
