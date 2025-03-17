@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,26 +35,28 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Deep Speech Denoising Models Robust to Adversarial Noise?](http://arxiv.org/abs/2503.11627v1)** | 2025-03-14 | 13 pages, 5 figures |
+| **[Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](http://arxiv.org/abs/2503.11619v1)** | 2025-03-14 |  |
+| **[Towards Few-Call Model Stealing via Active Self-Paced Knowledge Distillation and Diffusion-Based Image Generation](http://arxiv.org/abs/2310.00096v2)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted in Artificial Intelligence Review</p></details> |
+| **[Auditing language models for hidden objectives](http://arxiv.org/abs/2503.10965v1)** | 2025-03-14 |  |
+| **[Towards a Systematic Evaluation of Hallucinations in Large-Vision Language Models](http://arxiv.org/abs/2412.20622v2)** | 2025-03-13 |  |
+| **[ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models](http://arxiv.org/abs/2503.10937v1)** | 2025-03-13 |  |
+| **[TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models](http://arxiv.org/abs/2503.10872v1)** | 2025-03-13 | <details><summary>Under...</summary><p>Under review of IJCAI-25</p></details> |
 | **[A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](http://arxiv.org/abs/2503.10635v1)** | 2025-03-13 | <details><summary>Code ...</summary><p>Code at: https://github.com/VILA-Lab/M-Attack</p></details> |
 | **[Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](http://arxiv.org/abs/2503.10629v1)** | 2025-03-13 |  |
 | **[ASIDE: Architectural Separation of Instructions and Data in Language Models](http://arxiv.org/abs/2503.10566v1)** | 2025-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Building Trust in Language Models and Applications</p></details> |
-| **[Jailbreaking Large Language Models in Infinitely Many Ways](http://arxiv.org/abs/2501.10800v2)** | 2025-03-13 |  |
-| **[Prompt Inversion Attack against Collaborative Inference of Large Language Models](http://arxiv.org/abs/2503.09022v2)** | 2025-03-13 | <details><summary>To ap...</summary><p>To appear at IEEE Symposium on Security and Privacy 2025</p></details> |
-| **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v4)** | 2025-03-12 | AISTATS 2025 |
-| **[Enhancing Adversarial Example Detection Through Model Explanation](http://arxiv.org/abs/2503.09735v1)** | 2025-03-12 | 5 pages, 1 figure |
-| **[Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09669v1)** | 2025-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://silent-branding.github.io/</p></details> |
-| **[Independence Tests for Language Models](http://arxiv.org/abs/2502.12292v2)** | 2025-03-12 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Deep Speech Denoising Models Robust to Adversarial Noise?](http://arxiv.org/abs/2503.11627v1)** | 2025-03-14 | 13 pages, 5 figures |
+| **[Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](http://arxiv.org/abs/2503.11619v1)** | 2025-03-14 |  |
+| **[Towards Few-Call Model Stealing via Active Self-Paced Knowledge Distillation and Diffusion-Based Image Generation](http://arxiv.org/abs/2310.00096v2)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted in Artificial Intelligence Review</p></details> |
+| **[Auditing language models for hidden objectives](http://arxiv.org/abs/2503.10965v1)** | 2025-03-14 |  |
+| **[Towards a Systematic Evaluation of Hallucinations in Large-Vision Language Models](http://arxiv.org/abs/2412.20622v2)** | 2025-03-13 |  |
+| **[ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models](http://arxiv.org/abs/2503.10937v1)** | 2025-03-13 |  |
+| **[TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models](http://arxiv.org/abs/2503.10872v1)** | 2025-03-13 | <details><summary>Under...</summary><p>Under review of IJCAI-25</p></details> |
 | **[A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](http://arxiv.org/abs/2503.10635v1)** | 2025-03-13 | <details><summary>Code ...</summary><p>Code at: https://github.com/VILA-Lab/M-Attack</p></details> |
 | **[Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](http://arxiv.org/abs/2503.10629v1)** | 2025-03-13 |  |
 | **[ASIDE: Architectural Separation of Instructions and Data in Language Models](http://arxiv.org/abs/2503.10566v1)** | 2025-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Building Trust in Language Models and Applications</p></details> |
-| **[Jailbreaking Large Language Models in Infinitely Many Ways](http://arxiv.org/abs/2501.10800v2)** | 2025-03-13 |  |
-| **[Prompt Inversion Attack against Collaborative Inference of Large Language Models](http://arxiv.org/abs/2503.09022v2)** | 2025-03-13 | <details><summary>To ap...</summary><p>To appear at IEEE Symposium on Security and Privacy 2025</p></details> |
-| **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v4)** | 2025-03-12 | AISTATS 2025 |
-| **[Enhancing Adversarial Example Detection Through Model Explanation](http://arxiv.org/abs/2503.09735v1)** | 2025-03-12 | 5 pages, 1 figure |
-| **[Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09669v1)** | 2025-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://silent-branding.github.io/</p></details> |
-| **[Independence Tests for Language Models](http://arxiv.org/abs/2502.12292v2)** | 2025-03-12 |  |
 
