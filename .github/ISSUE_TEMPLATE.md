@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 20, 2025
+title: Latest 15 Papers - March 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,28 +35,28 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety at Scale: A Comprehensive Survey of Large Model Safety](http://arxiv.org/abs/2502.05206v3)** | 2025-03-19 | <details><summary>47 pa...</summary><p>47 pages, 3 figures, 11 tables; GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
+| **[Test-Time Backdoor Detection for Object Detection Models](http://arxiv.org/abs/2503.15293v1)** | 2025-03-19 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Robustness bounds on the successful adversarial examples in probabilistic models: Implications from Gaussian processes](http://arxiv.org/abs/2403.01896v2)** | 2025-03-19 |  |
+| **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v4)** | 2025-03-19 | <details><summary>ICLR ...</summary><p>ICLR 2025, fix typos in the proof</p></details> |
 | **[Toward Resilient Airdrop Mechanisms: Empirical Measurement of Hunter Profits and Airdrop Game Theory Modeling](http://arxiv.org/abs/2503.14316v1)** | 2025-03-18 | <details><summary>accep...</summary><p>accepted at the 7th edition of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2025)</p></details> |
 | **[Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships](http://arxiv.org/abs/2405.18770v2)** | 2025-03-18 | Under review |
 | **[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](http://arxiv.org/abs/2503.04833v2)** | 2025-03-18 |  |
 | **[Survey of Adversarial Robustness in Multimodal Large Language Models](http://arxiv.org/abs/2503.13962v1)** | 2025-03-18 | 9 pages |
 | **[Empirical Calibration and Metric Differential Privacy in Language Models](http://arxiv.org/abs/2503.13872v1)** | 2025-03-18 | 16 pages |
 | **[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](http://arxiv.org/abs/2401.09002v6)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted by ACM SIGKDD Explorations 2025</p></details> |
-| **[Web Artifact Attacks Disrupt Vision Language Models](http://arxiv.org/abs/2503.13652v1)** | 2025-03-17 |  |
-| **[Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation](http://arxiv.org/abs/2409.01586v4)** | 2025-03-17 |  |
-| **[ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction](http://arxiv.org/abs/2503.13224v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted at the ICLR Workshop on Neural Network Weights as a New Data Modality 2025</p></details> |
-| **[How Good is my Histopathology Vision-Language Foundation Model? A Holistic Benchmark](http://arxiv.org/abs/2503.12990v1)** | 2025-03-17 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety at Scale: A Comprehensive Survey of Large Model Safety](http://arxiv.org/abs/2502.05206v3)** | 2025-03-19 | <details><summary>47 pa...</summary><p>47 pages, 3 figures, 11 tables; GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
+| **[Test-Time Backdoor Detection for Object Detection Models](http://arxiv.org/abs/2503.15293v1)** | 2025-03-19 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Robustness bounds on the successful adversarial examples in probabilistic models: Implications from Gaussian processes](http://arxiv.org/abs/2403.01896v2)** | 2025-03-19 |  |
+| **[ADBM: Adversarial diffusion bridge model for reliable adversarial purification](http://arxiv.org/abs/2408.00315v4)** | 2025-03-19 | <details><summary>ICLR ...</summary><p>ICLR 2025, fix typos in the proof</p></details> |
 | **[Toward Resilient Airdrop Mechanisms: Empirical Measurement of Hunter Profits and Airdrop Game Theory Modeling](http://arxiv.org/abs/2503.14316v1)** | 2025-03-18 | <details><summary>accep...</summary><p>accepted at the 7th edition of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2025)</p></details> |
 | **[Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships](http://arxiv.org/abs/2405.18770v2)** | 2025-03-18 | Under review |
 | **[Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](http://arxiv.org/abs/2503.04833v2)** | 2025-03-18 |  |
 | **[Survey of Adversarial Robustness in Multimodal Large Language Models](http://arxiv.org/abs/2503.13962v1)** | 2025-03-18 | 9 pages |
 | **[Empirical Calibration and Metric Differential Privacy in Language Models](http://arxiv.org/abs/2503.13872v1)** | 2025-03-18 | 16 pages |
 | **[AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](http://arxiv.org/abs/2401.09002v6)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted by ACM SIGKDD Explorations 2025</p></details> |
-| **[Web Artifact Attacks Disrupt Vision Language Models](http://arxiv.org/abs/2503.13652v1)** | 2025-03-17 |  |
-| **[Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation](http://arxiv.org/abs/2409.01586v4)** | 2025-03-17 |  |
-| **[ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction](http://arxiv.org/abs/2503.13224v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted at the ICLR Workshop on Neural Network Weights as a New Data Modality 2025</p></details> |
-| **[How Good is my Histopathology Vision-Language Foundation Model? A Holistic Benchmark](http://arxiv.org/abs/2503.12990v1)** | 2025-03-17 |  |
 
