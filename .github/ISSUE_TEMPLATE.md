@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2025
+title: Latest 15 Papers - April 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v3)** | 2025-03-28 | 19 pages, 8 figures |
+| **[Debate-Driven Multi-Agent LLMs for Phishing Email Detection](http://arxiv.org/abs/2503.22038v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to the 13th International Symposium on Digital Forensics and Security (ISDFS 2025)</p></details> |
+| **[Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs](http://arxiv.org/abs/2503.21983v1)** | 2025-03-27 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, accepted to ICLR 2025 Workshop on Human-AI Coevolution</p></details> |
 | **[TeleLoRA: Teleporting Model-Specific Alignment Across LLMs](http://arxiv.org/abs/2503.20228v1)** | 2025-03-26 |  |
 | **[Raising Awareness of Location Information Vulnerabilities in Social Media Photos using LLMs](http://arxiv.org/abs/2503.20226v1)** | 2025-03-26 | <details><summary>Publi...</summary><p>Published at ACM CHI 2025 Conference on Human Factors in Computing Systems</p></details> |
 | **[Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](http://arxiv.org/abs/2503.20823v1)** | 2025-03-26 | Accepted at CVPR2025 |
@@ -14,13 +17,13 @@ labels: documentation
 | **[Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?](http://arxiv.org/abs/2412.03235v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
 | **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v3)** | 2025-03-25 |  |
 | **[SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment](http://arxiv.org/abs/2503.18991v1)** | 2025-03-23 |  |
-| **[Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts](http://arxiv.org/abs/2503.17953v1)** | 2025-03-23 |  |
-| **[EXPLICATE: Enhancing Phishing Detection through Explainable AI and LLM-Powered Interpretability](http://arxiv.org/abs/2503.20796v1)** | 2025-03-22 |  |
-| **[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](http://arxiv.org/abs/2412.15289v2)** | 2025-03-21 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v3)** | 2025-03-28 | 19 pages, 8 figures |
+| **[Debate-Driven Multi-Agent LLMs for Phishing Email Detection](http://arxiv.org/abs/2503.22038v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to the 13th International Symposium on Digital Forensics and Security (ISDFS 2025)</p></details> |
+| **[Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs](http://arxiv.org/abs/2503.21983v1)** | 2025-03-27 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, accepted to ICLR 2025 Workshop on Human-AI Coevolution</p></details> |
 | **[TeleLoRA: Teleporting Model-Specific Alignment Across LLMs](http://arxiv.org/abs/2503.20228v1)** | 2025-03-26 |  |
 | **[Raising Awareness of Location Information Vulnerabilities in Social Media Photos using LLMs](http://arxiv.org/abs/2503.20226v1)** | 2025-03-26 | <details><summary>Publi...</summary><p>Published at ACM CHI 2025 Conference on Human Factors in Computing Systems</p></details> |
 | **[Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](http://arxiv.org/abs/2503.20823v1)** | 2025-03-26 | Accepted at CVPR2025 |
@@ -28,33 +31,32 @@ labels: documentation
 | **[Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?](http://arxiv.org/abs/2412.03235v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
 | **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v3)** | 2025-03-25 |  |
 | **[SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment](http://arxiv.org/abs/2503.18991v1)** | 2025-03-23 |  |
-| **[Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts](http://arxiv.org/abs/2503.17953v1)** | 2025-03-23 |  |
-| **[EXPLICATE: Enhancing Phishing Detection through Explainable AI and LLM-Powered Interpretability](http://arxiv.org/abs/2503.20796v1)** | 2025-03-22 |  |
-| **[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](http://arxiv.org/abs/2412.15289v2)** | 2025-03-21 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SoK: Towards Reproducibility for Software Packages in Scripting Language Ecosystems](http://arxiv.org/abs/2503.21705v1)** | 2025-03-27 | <details><summary>22 pa...</summary><p>22 pages, 1 figure, submitted to ARES 2025</p></details> |
-| **[CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](http://arxiv.org/abs/2406.12257v3)** | 2025-03-27 | <details><summary>This ...</summary><p>This paper is presented at EMNLP 2024</p></details> |
-| **[DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data](http://arxiv.org/abs/2503.21305v1)** | 2025-03-27 |  |
-| **[Cubature Kalman Filter as a Robust State Estimator Against Model Uncertainty and Cyber Attacks in Power Systems](http://arxiv.org/abs/2503.21070v1)** | 2025-03-27 |  |
-| **[SoK: How Robust is Audio Watermarking in Generative AI models?](http://arxiv.org/abs/2503.19176v2)** | 2025-03-27 |  |
-| **[TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models](http://arxiv.org/abs/2503.20952v1)** | 2025-03-26 |  |
-| **[Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](http://arxiv.org/abs/2412.03283v2)** | 2025-03-26 | <details><summary>28 pa...</summary><p>28 pages, 22 figures, 8 tables, to be published in The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)</p></details> |
-| **[The importance of the clustering model to detect new types of intrusion in data traffic](http://arxiv.org/abs/2411.14550v2)** | 2025-03-26 | 18 pages, 4 figures |
+| **[CoRPA: Adversarial Image Generation for Chest X-rays Using Concept Vector Perturbations and Generative Models](http://arxiv.org/abs/2502.05214v2)** | 2025-03-28 |  |
+| **[Large Engagement Networks for Classifying Coordinated Campaigns and Organic Twitter Trends](http://arxiv.org/abs/2503.00599v2)** | 2025-03-28 | 14 Pages |
+| **[Training Large Language Models for Advanced Typosquatting Detection](http://arxiv.org/abs/2503.22406v1)** | 2025-03-28 | 6 pages, 1 figure |
+| **[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](http://arxiv.org/abs/2503.22330v1)** | 2025-03-28 |  |
+| **[Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models](http://arxiv.org/abs/2503.22205v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted in AAAI 2025</p></details> |
+| **[Traffic Modeling for Network Security and Privacy: Challenges Ahead](http://arxiv.org/abs/2503.22161v1)** | 2025-03-28 |  |
+| **[LVMark: Robust Watermark for Latent Video Diffusion Models](http://arxiv.org/abs/2412.09122v3)** | 2025-03-28 |  |
+| **[Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](http://arxiv.org/abs/2405.12523v3)** | 2025-03-28 |  |
+| **[AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models](http://arxiv.org/abs/2410.05346v3)** | 2025-03-28 | CVPR 2025 |
+| **[Auditing language models for hidden objectives](http://arxiv.org/abs/2503.10965v2)** | 2025-03-28 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SoK: Towards Reproducibility for Software Packages in Scripting Language Ecosystems](http://arxiv.org/abs/2503.21705v1)** | 2025-03-27 | <details><summary>22 pa...</summary><p>22 pages, 1 figure, submitted to ARES 2025</p></details> |
-| **[CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](http://arxiv.org/abs/2406.12257v3)** | 2025-03-27 | <details><summary>This ...</summary><p>This paper is presented at EMNLP 2024</p></details> |
-| **[DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data](http://arxiv.org/abs/2503.21305v1)** | 2025-03-27 |  |
-| **[Cubature Kalman Filter as a Robust State Estimator Against Model Uncertainty and Cyber Attacks in Power Systems](http://arxiv.org/abs/2503.21070v1)** | 2025-03-27 |  |
-| **[SoK: How Robust is Audio Watermarking in Generative AI models?](http://arxiv.org/abs/2503.19176v2)** | 2025-03-27 |  |
-| **[TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models](http://arxiv.org/abs/2503.20952v1)** | 2025-03-26 |  |
-| **[Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](http://arxiv.org/abs/2412.03283v2)** | 2025-03-26 | <details><summary>28 pa...</summary><p>28 pages, 22 figures, 8 tables, to be published in The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)</p></details> |
-| **[The importance of the clustering model to detect new types of intrusion in data traffic](http://arxiv.org/abs/2411.14550v2)** | 2025-03-26 | 18 pages, 4 figures |
-| **[Aligning Visual Contrastive learning models via Preference Optimization](http://arxiv.org/abs/2411.08923v3)** | 2025-03-26 |  |
-| **[Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models](http://arxiv.org/abs/2503.20320v1)** | 2025-03-26 |  |
+| **[CoRPA: Adversarial Image Generation for Chest X-rays Using Concept Vector Perturbations and Generative Models](http://arxiv.org/abs/2502.05214v2)** | 2025-03-28 |  |
+| **[Large Engagement Networks for Classifying Coordinated Campaigns and Organic Twitter Trends](http://arxiv.org/abs/2503.00599v2)** | 2025-03-28 | 14 Pages |
+| **[Training Large Language Models for Advanced Typosquatting Detection](http://arxiv.org/abs/2503.22406v1)** | 2025-03-28 | 6 pages, 1 figure |
+| **[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](http://arxiv.org/abs/2503.22330v1)** | 2025-03-28 |  |
+| **[Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models](http://arxiv.org/abs/2503.22205v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted in AAAI 2025</p></details> |
+| **[Traffic Modeling for Network Security and Privacy: Challenges Ahead](http://arxiv.org/abs/2503.22161v1)** | 2025-03-28 |  |
+| **[LVMark: Robust Watermark for Latent Video Diffusion Models](http://arxiv.org/abs/2412.09122v3)** | 2025-03-28 |  |
+| **[Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](http://arxiv.org/abs/2405.12523v3)** | 2025-03-28 |  |
+| **[AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models](http://arxiv.org/abs/2410.05346v3)** | 2025-03-28 | CVPR 2025 |
+| **[Auditing language models for hidden objectives](http://arxiv.org/abs/2503.10965v2)** | 2025-03-28 |  |
 
