@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2025
+title: Latest 15 Papers - April 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks](http://arxiv.org/abs/2408.15207v3)** | 2025-04-01 |  |
 | **[Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation](http://arxiv.org/abs/2503.23869v1)** | 2025-03-31 |  |
 | **[FeedSign: Robust Full-parameter Federated Fine-tuning of Large Models with Extremely Low Communication Overhead of One Bit](http://arxiv.org/abs/2501.17610v2)** | 2025-03-31 |  |
 | **[THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models](http://arxiv.org/abs/2503.23748v1)** | 2025-03-31 | <details><summary>To Ap...</summary><p>To Appear in the 34th USENIX Security Symposium, August 13-15, 2025</p></details> |
@@ -44,11 +45,11 @@ labels: documentation
 | **[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](http://arxiv.org/abs/2503.23332v1)** | 2025-03-30 | 14 pages, 6 figures, |
 | **[Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks](http://arxiv.org/abs/2503.23288v1)** | 2025-03-30 |  |
 | **[CoRPA: Adversarial Image Generation for Chest X-rays Using Concept Vector Perturbations and Generative Models](http://arxiv.org/abs/2502.05214v2)** | 2025-03-28 |  |
-| **[Large Engagement Networks for Classifying Coordinated Campaigns and Organic Twitter Trends](http://arxiv.org/abs/2503.00599v2)** | 2025-03-28 | 14 Pages |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks](http://arxiv.org/abs/2408.15207v3)** | 2025-04-01 |  |
 | **[Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation](http://arxiv.org/abs/2503.23869v1)** | 2025-03-31 |  |
 | **[FeedSign: Robust Full-parameter Federated Fine-tuning of Large Models with Extremely Low Communication Overhead of One Bit](http://arxiv.org/abs/2501.17610v2)** | 2025-03-31 |  |
 | **[THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models](http://arxiv.org/abs/2503.23748v1)** | 2025-03-31 | <details><summary>To Ap...</summary><p>To Appear in the 34th USENIX Security Symposium, August 13-15, 2025</p></details> |
@@ -58,5 +59,4 @@ labels: documentation
 | **[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](http://arxiv.org/abs/2503.23332v1)** | 2025-03-30 | 14 pages, 6 figures, |
 | **[Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks](http://arxiv.org/abs/2503.23288v1)** | 2025-03-30 |  |
 | **[CoRPA: Adversarial Image Generation for Chest X-rays Using Concept Vector Perturbations and Generative Models](http://arxiv.org/abs/2502.05214v2)** | 2025-03-28 |  |
-| **[Large Engagement Networks for Classifying Coordinated Campaigns and Organic Twitter Trends](http://arxiv.org/abs/2503.00599v2)** | 2025-03-28 | 14 Pages |
 
