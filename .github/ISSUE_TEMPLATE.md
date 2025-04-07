@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2025
+title: Latest 15 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents](http://arxiv.org/abs/2504.03111v1)** | 2025-04-04 |  |
+| **[PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs](http://arxiv.org/abs/2409.14729v2)** | 2025-04-03 |  |
 | **[Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation](http://arxiv.org/abs/2504.02458v1)** | 2025-04-03 |  |
 | **[Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs](http://arxiv.org/abs/2503.21983v2)** | 2025-04-02 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, accepted to ICLR 2025 Workshop on Human-AI Coevolution</p></details> |
 | **[Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses](http://arxiv.org/abs/2504.02080v1)** | 2025-04-02 |  |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Integrated LLM-Based Intrusion Detection with Secure Slicing xApp for Securing O-RAN-Enabled Wireless Network Deployments](http://arxiv.org/abs/2504.00341v1)** | 2025-04-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in the IEEE 2025 International Conference on Communications (ICC2025)</p></details> |
 | **[$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks](http://arxiv.org/abs/2504.00218v1)** | 2025-03-31 |  |
 | **[Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms](http://arxiv.org/abs/2503.24191v1)** | 2025-03-31 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 4 tables Work In Progress</p></details> |
-| **[Encrypted Prompt: Securing LLM Applications Against Unauthorized Actions](http://arxiv.org/abs/2503.23250v1)** | 2025-03-29 |  |
-| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v3)** | 2025-03-28 | 19 pages, 8 figures |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents](http://arxiv.org/abs/2504.03111v1)** | 2025-04-04 |  |
+| **[PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs](http://arxiv.org/abs/2409.14729v2)** | 2025-04-03 |  |
 | **[Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation](http://arxiv.org/abs/2504.02458v1)** | 2025-04-03 |  |
 | **[Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs](http://arxiv.org/abs/2503.21983v2)** | 2025-04-02 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, accepted to ICLR 2025 Workshop on Human-AI Coevolution</p></details> |
 | **[Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses](http://arxiv.org/abs/2504.02080v1)** | 2025-04-02 |  |
@@ -29,8 +31,6 @@ labels: documentation
 | **[Integrated LLM-Based Intrusion Detection with Secure Slicing xApp for Securing O-RAN-Enabled Wireless Network Deployments](http://arxiv.org/abs/2504.00341v1)** | 2025-04-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in the IEEE 2025 International Conference on Communications (ICC2025)</p></details> |
 | **[$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks](http://arxiv.org/abs/2504.00218v1)** | 2025-03-31 |  |
 | **[Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms](http://arxiv.org/abs/2503.24191v1)** | 2025-03-31 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 4 tables Work In Progress</p></details> |
-| **[Encrypted Prompt: Securing LLM Applications Against Unauthorized Actions](http://arxiv.org/abs/2503.23250v1)** | 2025-03-29 |  |
-| **[Foot-In-The-Door: A Multi-turn Jailbreak for LLMs](http://arxiv.org/abs/2502.19820v3)** | 2025-03-28 | 19 pages, 8 figures |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
