@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inducing Vulnerable Code Generation in LLM Coding Assistants](http://arxiv.org/abs/2504.15867v1)** | 2025-04-22 |  |
+| **[LAMD: Context-driven Android Malware Detection and Classification with LLMs](http://arxiv.org/abs/2502.13055v2)** | 2025-04-21 | <details><summary>accep...</summary><p>accepted by 2025 46th IEEE Symposium on Security and Privacy Workshops (SPW)</p></details> |
 | **[aiXamine: LLM Safety and Security Simplified](http://arxiv.org/abs/2504.14985v1)** | 2025-04-21 |  |
 | **[MCGMark: An Encodable and Robust Online Watermark for Tracing LLM-Generated Malicious Code](http://arxiv.org/abs/2408.01354v2)** | 2025-04-21 |  |
 | **[Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents](http://arxiv.org/abs/2503.15547v2)** | 2025-04-21 |  |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?](http://arxiv.org/abs/2504.13769v1)** | 2025-04-18 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
 | **[AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](http://arxiv.org/abs/2410.09024v3)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
 | **[DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification](http://arxiv.org/abs/2504.13562v1)** | 2025-04-18 |  |
-| **[Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](http://arxiv.org/abs/2404.02151v4)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Updates in the v3: GPT-4o and Claude 3.5 Sonnet results, improved writing. Updates in the v2: more models (Llama3, Phi-3, Nemotron-4-340B), jailbreak artifacts for all attacks are available, evaluation with different judges (Llama-3-70B and Llama Guard 2), more experiments (convergence plots, ablation on the suffix length for random search), examples of jailbroken generation</p></details> |
-| **[Does Refusal Training in LLMs Generalize to the Past Tense?](http://arxiv.org/abs/2407.11969v4)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Updates in v2 and v3: added GPT-4o, Claude 3.5 Sonnet, o1-mini, and o1-preview results. Code and jailbreak artifacts: https://github.com/tml-epfl/llm-past-tense</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inducing Vulnerable Code Generation in LLM Coding Assistants](http://arxiv.org/abs/2504.15867v1)** | 2025-04-22 |  |
+| **[LAMD: Context-driven Android Malware Detection and Classification with LLMs](http://arxiv.org/abs/2502.13055v2)** | 2025-04-21 | <details><summary>accep...</summary><p>accepted by 2025 46th IEEE Symposium on Security and Privacy Workshops (SPW)</p></details> |
 | **[aiXamine: LLM Safety and Security Simplified](http://arxiv.org/abs/2504.14985v1)** | 2025-04-21 |  |
 | **[MCGMark: An Encodable and Robust Online Watermark for Tracing LLM-Generated Malicious Code](http://arxiv.org/abs/2408.01354v2)** | 2025-04-21 |  |
 | **[Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents](http://arxiv.org/abs/2503.15547v2)** | 2025-04-21 |  |
@@ -29,34 +31,32 @@ labels: documentation
 | **[Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?](http://arxiv.org/abs/2504.13769v1)** | 2025-04-18 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
 | **[AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](http://arxiv.org/abs/2410.09024v3)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
 | **[DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification](http://arxiv.org/abs/2504.13562v1)** | 2025-04-18 |  |
-| **[Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](http://arxiv.org/abs/2404.02151v4)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Updates in the v3: GPT-4o and Claude 3.5 Sonnet results, improved writing. Updates in the v2: more models (Llama3, Phi-3, Nemotron-4-340B), jailbreak artifacts for all attacks are available, evaluation with different judges (Llama-3-70B and Llama Guard 2), more experiments (convergence plots, ablation on the suffix length for random search), examples of jailbroken generation</p></details> |
-| **[Does Refusal Training in LLMs Generalize to the Past Tense?](http://arxiv.org/abs/2407.11969v4)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Updates in v2 and v3: added GPT-4o, Claude 3.5 Sonnet, o1-mini, and o1-preview results. Code and jailbreak artifacts: https://github.com/tml-epfl/llm-past-tense</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ASIDE: Architectural Separation of Instructions and Data in Language Models](http://arxiv.org/abs/2503.10566v2)** | 2025-04-21 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Building Trust in Language Models and Applications</p></details> |
-| **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](http://arxiv.org/abs/2502.14744v3)** | 2025-04-21 |  |
-| **[Scalable Discrete Event Simulation Tool for Large-Scale Cyber-Physical Energy Systems: Advancing System Efficiency and Scalability](http://arxiv.org/abs/2504.15198v1)** | 2025-04-21 |  |
-| **[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](http://arxiv.org/abs/2504.15026v1)** | 2025-04-21 | 18 pages, 8 figures |
-| **[Transferable Adversarial Attacks on SAM and Its Downstream Models](http://arxiv.org/abs/2410.20197v3)** | 2025-04-21 | update fig 1 |
-| **[Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation](http://arxiv.org/abs/2405.06237v3)** | 2025-04-21 |  |
-| **[BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models](http://arxiv.org/abs/2504.13775v2)** | 2025-04-21 | 16 pages, 6 figures |
-| **[Detecting Training Data of Large Language Models via Expectation Maximization](http://arxiv.org/abs/2410.07582v2)** | 2025-04-21 | 15 pages |
-| **[Verifying Robust Unlearning: Probing Residual Knowledge in Unlearned Models](http://arxiv.org/abs/2504.14798v1)** | 2025-04-21 |  |
-| **[The last Dance : Robust backdoor attack via diffusion models and bayesian approach](http://arxiv.org/abs/2402.05967v7)** | 2025-04-20 | <details><summary>Prepr...</summary><p>Preprint (Last update, will never be modified again( correction of a sketch)): audio backdoor attack on Hugging Face's Transformer pre-trained models. This attack incorporates state-of-the-art Bayesian techniques, a modified Fokker-Planck equation (via Yang-Mills), and a diffusion model approach</p></details> |
+| **[Benchmarking machine learning models for predicting aerofoil performance](http://arxiv.org/abs/2504.15993v1)** | 2025-04-22 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, submitted to EWTEC</p></details> |
+| **[Human-Imperceptible Physical Adversarial Attack for NIR Face Recognition Models](http://arxiv.org/abs/2504.15823v1)** | 2025-04-22 |  |
+| **[BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](http://arxiv.org/abs/2408.09093v3)** | 2025-04-22 |  |
+| **[Red Team Diffuser: Exposing Toxic Continuation Vulnerabilities in Vision-Language Models via Reinforcement Learning](http://arxiv.org/abs/2503.06223v2)** | 2025-04-22 |  |
+| **[TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data](http://arxiv.org/abs/2504.15674v1)** | 2025-04-22 |  |
+| **[Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey](http://arxiv.org/abs/2504.15622v1)** | 2025-04-22 | 20 pages, 3 figures |
+| **[Diversity Helps Jailbreak Large Language Models](http://arxiv.org/abs/2411.04223v2)** | 2025-04-22 |  |
+| **[Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models](http://arxiv.org/abs/2502.20650v2)** | 2025-04-22 |  |
+| **[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](http://arxiv.org/abs/2504.15512v1)** | 2025-04-22 | 25 pages, 5 figures |
+| **[An Undetectable Watermark for Generative Image Models](http://arxiv.org/abs/2410.07369v4)** | 2025-04-21 | ICLR 2025 |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ASIDE: Architectural Separation of Instructions and Data in Language Models](http://arxiv.org/abs/2503.10566v2)** | 2025-04-21 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Building Trust in Language Models and Applications</p></details> |
-| **[HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States](http://arxiv.org/abs/2502.14744v3)** | 2025-04-21 |  |
-| **[Scalable Discrete Event Simulation Tool for Large-Scale Cyber-Physical Energy Systems: Advancing System Efficiency and Scalability](http://arxiv.org/abs/2504.15198v1)** | 2025-04-21 |  |
-| **[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](http://arxiv.org/abs/2504.15026v1)** | 2025-04-21 | 18 pages, 8 figures |
-| **[Transferable Adversarial Attacks on SAM and Its Downstream Models](http://arxiv.org/abs/2410.20197v3)** | 2025-04-21 | update fig 1 |
-| **[Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation](http://arxiv.org/abs/2405.06237v3)** | 2025-04-21 |  |
-| **[BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models](http://arxiv.org/abs/2504.13775v2)** | 2025-04-21 | 16 pages, 6 figures |
-| **[Detecting Training Data of Large Language Models via Expectation Maximization](http://arxiv.org/abs/2410.07582v2)** | 2025-04-21 | 15 pages |
-| **[Verifying Robust Unlearning: Probing Residual Knowledge in Unlearned Models](http://arxiv.org/abs/2504.14798v1)** | 2025-04-21 |  |
-| **[The last Dance : Robust backdoor attack via diffusion models and bayesian approach](http://arxiv.org/abs/2402.05967v7)** | 2025-04-20 | <details><summary>Prepr...</summary><p>Preprint (Last update, will never be modified again( correction of a sketch)): audio backdoor attack on Hugging Face's Transformer pre-trained models. This attack incorporates state-of-the-art Bayesian techniques, a modified Fokker-Planck equation (via Yang-Mills), and a diffusion model approach</p></details> |
+| **[Benchmarking machine learning models for predicting aerofoil performance](http://arxiv.org/abs/2504.15993v1)** | 2025-04-22 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, submitted to EWTEC</p></details> |
+| **[Human-Imperceptible Physical Adversarial Attack for NIR Face Recognition Models](http://arxiv.org/abs/2504.15823v1)** | 2025-04-22 |  |
+| **[BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](http://arxiv.org/abs/2408.09093v3)** | 2025-04-22 |  |
+| **[Red Team Diffuser: Exposing Toxic Continuation Vulnerabilities in Vision-Language Models via Reinforcement Learning](http://arxiv.org/abs/2503.06223v2)** | 2025-04-22 |  |
+| **[TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data](http://arxiv.org/abs/2504.15674v1)** | 2025-04-22 |  |
+| **[Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey](http://arxiv.org/abs/2504.15622v1)** | 2025-04-22 | 20 pages, 3 figures |
+| **[Diversity Helps Jailbreak Large Language Models](http://arxiv.org/abs/2411.04223v2)** | 2025-04-22 |  |
+| **[Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models](http://arxiv.org/abs/2502.20650v2)** | 2025-04-22 |  |
+| **[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](http://arxiv.org/abs/2504.15512v1)** | 2025-04-22 | 25 pages, 5 figures |
+| **[An Undetectable Watermark for Generative Image Models](http://arxiv.org/abs/2410.07369v4)** | 2025-04-21 | ICLR 2025 |
 
