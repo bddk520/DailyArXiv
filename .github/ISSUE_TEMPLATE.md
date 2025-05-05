@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures](http://arxiv.org/abs/2505.01177v1)** | 2025-05-02 |  |
 | **[Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](http://arxiv.org/abs/2504.21036v2)** | 2025-05-01 | accepted by DBSec25 |
 | **[Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems](http://arxiv.org/abs/2405.20774v3)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025, 31 pages, including main paper, references, and appendix</p></details> |
 | **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](http://arxiv.org/abs/2504.21700v1)** | 2025-04-30 |  |
@@ -16,11 +17,11 @@ labels: documentation
 | **[Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression](http://arxiv.org/abs/2504.20493v1)** | 2025-04-29 |  |
 | **[Enhancing Leakage Attacks on Searchable Symmetric Encryption Using LLM-Based Synthetic Data Generation](http://arxiv.org/abs/2504.20414v1)** | 2025-04-29 |  |
 | **[BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts](http://arxiv.org/abs/2504.18598v2)** | 2025-04-29 |  |
-| **[ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems](http://arxiv.org/abs/2409.11690v3)** | 2025-04-28 | 10 pages |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures](http://arxiv.org/abs/2505.01177v1)** | 2025-05-02 |  |
 | **[Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?](http://arxiv.org/abs/2504.21036v2)** | 2025-05-01 | accepted by DBSec25 |
 | **[Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems](http://arxiv.org/abs/2405.20774v3)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025, 31 pages, including main paper, references, and appendix</p></details> |
 | **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](http://arxiv.org/abs/2504.21700v1)** | 2025-04-30 |  |
@@ -30,33 +31,30 @@ labels: documentation
 | **[Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression](http://arxiv.org/abs/2504.20493v1)** | 2025-04-29 |  |
 | **[Enhancing Leakage Attacks on Searchable Symmetric Encryption Using LLM-Based Synthetic Data Generation](http://arxiv.org/abs/2504.20414v1)** | 2025-04-29 |  |
 | **[BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts](http://arxiv.org/abs/2504.18598v2)** | 2025-04-29 |  |
-| **[ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems](http://arxiv.org/abs/2409.11690v3)** | 2025-04-28 | 10 pages |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fast and Low-Cost Genomic Foundation Models via Outlier Removal](http://arxiv.org/abs/2505.00598v1)** | 2025-05-01 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[Analysis of the vulnerability of machine learning regression models to adversarial attacks using data from 5G wireless networks](http://arxiv.org/abs/2505.00487v1)** | 2025-05-01 |  |
-| **[Optimizing Mouse Dynamics for User Authentication by Machine Learning: Addressing Data Sufficiency, Accuracy-Practicality Trade-off, and Model Performance Challenges](http://arxiv.org/abs/2504.21415v1)** | 2025-04-30 | 14pages, 10 figures |
-| **[Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey](http://arxiv.org/abs/2501.18934v2)** | 2025-04-30 | 2 figures, 56 pages |
-| **[Round Trip Translation Defence against Large Language Model Jailbreaking Attacks](http://arxiv.org/abs/2402.13517v2)** | 2025-04-30 | 6 pages, 6 figures |
-| **[The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning](http://arxiv.org/abs/2504.21307v1)** | 2025-04-30 |  |
-| **[Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models](http://arxiv.org/abs/2412.05538v2)** | 2025-04-29 | <details><summary>This ...</summary><p>This paper is accept by CVPR2025 (https://cvpr.thecvf.com/virtual/2025/poster/34964)</p></details> |
-| **[Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption](http://arxiv.org/abs/2504.20769v1)** | 2025-04-29 |  |
-| **[ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models](http://arxiv.org/abs/2504.20570v1)** | 2025-04-29 |  |
-| **[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.20518v1)** | 2025-04-29 |  |
+| **[A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories](http://arxiv.org/abs/2505.01067v1)** | 2025-05-02 |  |
+| **[Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation](http://arxiv.org/abs/2505.01065v1)** | 2025-05-02 |  |
+| **[Killing Two Birds with One Stone: Malicious Package Detection in NPM and PyPI using a Single Model of Malicious Behavior Sequence](http://arxiv.org/abs/2309.02637v2)** | 2025-05-02 | <details><summary>Paper...</summary><p>Paper accepted in TOSEM 2024</p></details> |
+| **[Transferable Adversarial Attacks on Black-Box Vision-Language Models](http://arxiv.org/abs/2505.01050v1)** | 2025-05-02 |  |
+| **[Prompt Inversion Attack against Collaborative Inference of Large Language Models](http://arxiv.org/abs/2503.09022v3)** | 2025-05-02 | <details><summary>To ap...</summary><p>To appear at IEEE Symposium on Security and Privacy 2025</p></details> |
+| **[Attack and defense techniques in large language models: A survey and new perspectives](http://arxiv.org/abs/2505.00976v1)** | 2025-05-02 |  |
+| **[MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery](http://arxiv.org/abs/2505.00924v1)** | 2025-05-02 |  |
+| **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](http://arxiv.org/abs/2411.16721v3)** | 2025-05-01 |  |
+| **[Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting](http://arxiv.org/abs/2505.00881v1)** | 2025-05-01 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, accepted by IEEE INFOCOM 2025</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fast and Low-Cost Genomic Foundation Models via Outlier Removal](http://arxiv.org/abs/2505.00598v1)** | 2025-05-01 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[Analysis of the vulnerability of machine learning regression models to adversarial attacks using data from 5G wireless networks](http://arxiv.org/abs/2505.00487v1)** | 2025-05-01 |  |
-| **[Optimizing Mouse Dynamics for User Authentication by Machine Learning: Addressing Data Sufficiency, Accuracy-Practicality Trade-off, and Model Performance Challenges](http://arxiv.org/abs/2504.21415v1)** | 2025-04-30 | 14pages, 10 figures |
-| **[Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey](http://arxiv.org/abs/2501.18934v2)** | 2025-04-30 | 2 figures, 56 pages |
-| **[Round Trip Translation Defence against Large Language Model Jailbreaking Attacks](http://arxiv.org/abs/2402.13517v2)** | 2025-04-30 | 6 pages, 6 figures |
-| **[The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning](http://arxiv.org/abs/2504.21307v1)** | 2025-04-30 |  |
-| **[Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models](http://arxiv.org/abs/2412.05538v2)** | 2025-04-29 | <details><summary>This ...</summary><p>This paper is accept by CVPR2025 (https://cvpr.thecvf.com/virtual/2025/poster/34964)</p></details> |
-| **[Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption](http://arxiv.org/abs/2504.20769v1)** | 2025-04-29 |  |
-| **[ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models](http://arxiv.org/abs/2504.20570v1)** | 2025-04-29 |  |
-| **[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.20518v1)** | 2025-04-29 |  |
+| **[A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories](http://arxiv.org/abs/2505.01067v1)** | 2025-05-02 |  |
+| **[Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation](http://arxiv.org/abs/2505.01065v1)** | 2025-05-02 |  |
+| **[Killing Two Birds with One Stone: Malicious Package Detection in NPM and PyPI using a Single Model of Malicious Behavior Sequence](http://arxiv.org/abs/2309.02637v2)** | 2025-05-02 | <details><summary>Paper...</summary><p>Paper accepted in TOSEM 2024</p></details> |
+| **[Transferable Adversarial Attacks on Black-Box Vision-Language Models](http://arxiv.org/abs/2505.01050v1)** | 2025-05-02 |  |
+| **[Prompt Inversion Attack against Collaborative Inference of Large Language Models](http://arxiv.org/abs/2503.09022v3)** | 2025-05-02 | <details><summary>To ap...</summary><p>To appear at IEEE Symposium on Security and Privacy 2025</p></details> |
+| **[Attack and defense techniques in large language models: A survey and new perspectives](http://arxiv.org/abs/2505.00976v1)** | 2025-05-02 |  |
+| **[MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery](http://arxiv.org/abs/2505.00924v1)** | 2025-05-02 |  |
+| **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](http://arxiv.org/abs/2411.16721v3)** | 2025-05-01 |  |
+| **[Protocol-agnostic and Data-free Backdoor Attacks on Pre-trained Models in RF Fingerprinting](http://arxiv.org/abs/2505.00881v1)** | 2025-05-01 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, accepted by IEEE INFOCOM 2025</p></details> |
 
