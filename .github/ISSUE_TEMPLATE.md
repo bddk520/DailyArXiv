@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2025
+title: Latest 15 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,26 +35,28 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation](http://arxiv.org/abs/2505.06134v1)** | 2025-05-09 | 20 pages, 3 figures |
+| **[From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning](http://arxiv.org/abs/2501.03119v2)** | 2025-05-09 |  |
+| **[Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation](http://arxiv.org/abs/2504.17480v3)** | 2025-05-09 |  |
+| **[LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities](http://arxiv.org/abs/2505.05619v1)** | 2025-05-08 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, and 4 tables</p></details> |
 | **[Towards the Worst-case Robustness of Large Language Models](http://arxiv.org/abs/2501.19040v2)** | 2025-05-08 |  |
 | **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
 | **[Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks](http://arxiv.org/abs/2505.03519v2)** | 2025-05-08 | <details><summary>Our d...</summary><p>Our dataset and code are available in the Supp</p></details> |
-| **[Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation](http://arxiv.org/abs/2504.17480v2)** | 2025-05-08 |  |
 | **[Safety Evaluation of DeepSeek Models in Chinese Contexts](http://arxiv.org/abs/2502.11137v3)** | 2025-05-08 | <details><summary>12 pa...</summary><p>12 pages, 2 tables, 7 figures</p></details> |
 | **[A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](http://arxiv.org/abs/2505.04784v1)** | 2025-05-07 | 21 pages |
 | **[OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models](http://arxiv.org/abs/2505.04416v1)** | 2025-05-07 | 18 pages, 2 figures |
-| **[ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](http://arxiv.org/abs/2412.21123v2)** | 2025-05-07 | 13 pages |
-| **[MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](http://arxiv.org/abs/2505.04015v1)** | 2025-05-06 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation](http://arxiv.org/abs/2505.06134v1)** | 2025-05-09 | 20 pages, 3 figures |
+| **[From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning](http://arxiv.org/abs/2501.03119v2)** | 2025-05-09 |  |
+| **[Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation](http://arxiv.org/abs/2504.17480v3)** | 2025-05-09 |  |
+| **[LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities](http://arxiv.org/abs/2505.05619v1)** | 2025-05-08 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, and 4 tables</p></details> |
 | **[Towards the Worst-case Robustness of Large Language Models](http://arxiv.org/abs/2501.19040v2)** | 2025-05-08 |  |
 | **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
 | **[Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks](http://arxiv.org/abs/2505.03519v2)** | 2025-05-08 | <details><summary>Our d...</summary><p>Our dataset and code are available in the Supp</p></details> |
-| **[Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation](http://arxiv.org/abs/2504.17480v2)** | 2025-05-08 |  |
 | **[Safety Evaluation of DeepSeek Models in Chinese Contexts](http://arxiv.org/abs/2502.11137v3)** | 2025-05-08 | <details><summary>12 pa...</summary><p>12 pages, 2 tables, 7 figures</p></details> |
 | **[A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](http://arxiv.org/abs/2505.04784v1)** | 2025-05-07 | 21 pages |
 | **[OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models](http://arxiv.org/abs/2505.04416v1)** | 2025-05-07 | 18 pages, 2 figures |
-| **[ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](http://arxiv.org/abs/2412.21123v2)** | 2025-05-07 | 13 pages |
-| **[MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](http://arxiv.org/abs/2505.04015v1)** | 2025-05-06 |  |
 
