@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs](http://arxiv.org/abs/2505.17598v1)** | 2025-05-23 |  |
+| **[Finetuning-Activated Backdoors in LLMs](http://arxiv.org/abs/2505.16567v2)** | 2025-05-23 |  |
+| **[Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training](http://arxiv.org/abs/2407.09121v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 main</p></details> |
+| **[How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?](http://arxiv.org/abs/2402.09546v2)** | 2025-05-23 |  |
+| **[LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework](http://arxiv.org/abs/2505.17416v1)** | 2025-05-23 | 10 pages, 8 figures |
+| **[StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization](http://arxiv.org/abs/2504.05804v2)** | 2025-05-23 |  |
 | **[MixAT: Combining Continuous and Discrete Adversarial Training for LLMs](http://arxiv.org/abs/2505.16947v1)** | 2025-05-22 |  |
 | **[CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework](http://arxiv.org/abs/2505.16888v1)** | 2025-05-22 |  |
 | **[When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques](http://arxiv.org/abs/2505.16765v1)** | 2025-05-22 |  |
 | **[Firewalls to Secure Dynamic LLM Agentic Networks](http://arxiv.org/abs/2502.01822v4)** | 2025-05-22 |  |
-| **[Finetuning-Activated Backdoors in LLMs](http://arxiv.org/abs/2505.16567v1)** | 2025-05-22 |  |
-| **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](http://arxiv.org/abs/2505.13862v2)** | 2025-05-22 |  |
-| **[Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses](http://arxiv.org/abs/2505.15738v1)** | 2025-05-21 |  |
-| **[A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability](http://arxiv.org/abs/2505.15683v1)** | 2025-05-21 |  |
-| **[Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen!](http://arxiv.org/abs/2505.15656v1)** | 2025-05-21 | 19 pages |
-| **[Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors](http://arxiv.org/abs/2505.15337v1)** | 2025-05-21 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs](http://arxiv.org/abs/2505.17598v1)** | 2025-05-23 |  |
+| **[Finetuning-Activated Backdoors in LLMs](http://arxiv.org/abs/2505.16567v2)** | 2025-05-23 |  |
+| **[Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training](http://arxiv.org/abs/2407.09121v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 main</p></details> |
+| **[How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?](http://arxiv.org/abs/2402.09546v2)** | 2025-05-23 |  |
+| **[LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework](http://arxiv.org/abs/2505.17416v1)** | 2025-05-23 | 10 pages, 8 figures |
+| **[StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization](http://arxiv.org/abs/2504.05804v2)** | 2025-05-23 |  |
 | **[MixAT: Combining Continuous and Discrete Adversarial Training for LLMs](http://arxiv.org/abs/2505.16947v1)** | 2025-05-22 |  |
 | **[CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework](http://arxiv.org/abs/2505.16888v1)** | 2025-05-22 |  |
 | **[When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques](http://arxiv.org/abs/2505.16765v1)** | 2025-05-22 |  |
 | **[Firewalls to Secure Dynamic LLM Agentic Networks](http://arxiv.org/abs/2502.01822v4)** | 2025-05-22 |  |
-| **[Finetuning-Activated Backdoors in LLMs](http://arxiv.org/abs/2505.16567v1)** | 2025-05-22 |  |
-| **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](http://arxiv.org/abs/2505.13862v2)** | 2025-05-22 |  |
-| **[Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses](http://arxiv.org/abs/2505.15738v1)** | 2025-05-21 |  |
-| **[A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability](http://arxiv.org/abs/2505.15683v1)** | 2025-05-21 |  |
-| **[Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen!](http://arxiv.org/abs/2505.15656v1)** | 2025-05-21 | 19 pages |
-| **[Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors](http://arxiv.org/abs/2505.15337v1)** | 2025-05-21 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Are Concepts Erased From Diffusion Models?](http://arxiv.org/abs/2505.17013v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project Page: https://nyu-dice-lab.github.io/when-are-concepts-erased/</p></details> |
-| **[Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models](http://arxiv.org/abs/2505.16957v1)** | 2025-05-22 |  |
-| **[Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability](http://arxiv.org/abs/2505.16789v1)** | 2025-05-22 |  |
-| **[BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models](http://arxiv.org/abs/2505.16670v1)** | 2025-05-22 |  |
-| **[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](http://arxiv.org/abs/2412.16555v2)** | 2025-05-22 |  |
-| **[From Evaluation to Defense: Advancing Safety in Video Large Language Models](http://arxiv.org/abs/2505.16643v1)** | 2025-05-22 | <details><summary>49 pa...</summary><p>49 pages, 12 figures, 17 tables</p></details> |
-| **[BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization](http://arxiv.org/abs/2505.16640v1)** | 2025-05-22 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, 6 tables</p></details> |
-| **[CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning](http://arxiv.org/abs/2505.16559v1)** | 2025-05-22 |  |
-| **[Language-based Security and Time-inserting Supervisor](http://arxiv.org/abs/2505.16503v1)** | 2025-05-22 |  |
-| **[Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models](http://arxiv.org/abs/2505.16446v1)** | 2025-05-22 |  |
+| **[Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](http://arxiv.org/abs/2502.10440v2)** | 2025-05-23 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work. 25 pages</p></details> |
+| **[SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention](http://arxiv.org/abs/2502.15594v2)** | 2025-05-23 |  |
+| **[Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models](http://arxiv.org/abs/2505.17601v1)** | 2025-05-23 |  |
+| **[One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs](http://arxiv.org/abs/2505.17598v1)** | 2025-05-23 |  |
+| **[Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation](http://arxiv.org/abs/2505.17579v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
+| **[Prompt Inference Attack on Distributed Large Language Model Inference Frameworks](http://arxiv.org/abs/2503.09291v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted for publication at CCS 2025</p></details> |
+| **[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](http://arxiv.org/abs/2505.17568v1)** | 2025-05-23 |  |
+| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v2)** | 2025-05-23 |  |
+| **[Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models](http://arxiv.org/abs/2505.17519v1)** | 2025-05-23 | 25 pages, 4 figures |
+| **[Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning](http://arxiv.org/abs/2505.17509v1)** | 2025-05-23 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Are Concepts Erased From Diffusion Models?](http://arxiv.org/abs/2505.17013v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project Page: https://nyu-dice-lab.github.io/when-are-concepts-erased/</p></details> |
-| **[Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models](http://arxiv.org/abs/2505.16957v1)** | 2025-05-22 |  |
-| **[Accidental Misalignment: Fine-Tuning Language Models Induces Unexpected Vulnerability](http://arxiv.org/abs/2505.16789v1)** | 2025-05-22 |  |
-| **[BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models](http://arxiv.org/abs/2505.16670v1)** | 2025-05-22 |  |
-| **[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](http://arxiv.org/abs/2412.16555v2)** | 2025-05-22 |  |
-| **[From Evaluation to Defense: Advancing Safety in Video Large Language Models](http://arxiv.org/abs/2505.16643v1)** | 2025-05-22 | <details><summary>49 pa...</summary><p>49 pages, 12 figures, 17 tables</p></details> |
-| **[BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization](http://arxiv.org/abs/2505.16640v1)** | 2025-05-22 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, 6 tables</p></details> |
-| **[CTRAP: Embedding Collapse Trap to Safeguard Large Language Models from Harmful Fine-Tuning](http://arxiv.org/abs/2505.16559v1)** | 2025-05-22 |  |
-| **[Language-based Security and Time-inserting Supervisor](http://arxiv.org/abs/2505.16503v1)** | 2025-05-22 |  |
-| **[Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models](http://arxiv.org/abs/2505.16446v1)** | 2025-05-22 |  |
+| **[Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Reasoning](http://arxiv.org/abs/2502.10440v2)** | 2025-05-23 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work. 25 pages</p></details> |
+| **[SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention](http://arxiv.org/abs/2502.15594v2)** | 2025-05-23 |  |
+| **[Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models](http://arxiv.org/abs/2505.17601v1)** | 2025-05-23 |  |
+| **[One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs](http://arxiv.org/abs/2505.17598v1)** | 2025-05-23 |  |
+| **[Large Language Models in the IoT Ecosystem -- A Survey on Security Challenges and Applications](http://arxiv.org/abs/2505.17586v1)** | 2025-05-23 |  |
+| **[Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation](http://arxiv.org/abs/2505.17579v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
+| **[Prompt Inference Attack on Distributed Large Language Model Inference Frameworks](http://arxiv.org/abs/2503.09291v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted for publication at CCS 2025</p></details> |
+| **[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](http://arxiv.org/abs/2505.17568v1)** | 2025-05-23 |  |
+| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v2)** | 2025-05-23 |  |
+| **[Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models](http://arxiv.org/abs/2505.17519v1)** | 2025-05-23 | 25 pages, 4 figures |
 
