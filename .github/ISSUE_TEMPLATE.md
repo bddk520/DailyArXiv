@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents](http://arxiv.org/abs/2505.23559v1)** | 2025-05-29 |  |
+| **[Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359v3)** | 2025-05-29 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.14644</p></details> |
+| **[Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates](http://arxiv.org/abs/2505.22943v1)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Main. Code is released at https://vision.snu.ac.kr/projects/mac</p></details> |
+| **[Permissioned LLMs: Enforcing Access Control in Large Language Models](http://arxiv.org/abs/2505.22860v1)** | 2025-05-28 |  |
+| **[Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment](http://arxiv.org/abs/2505.22852v1)** | 2025-05-28 |  |
+| **[The Aloe Family Recipe for Open and Specialized Healthcare LLMs](http://arxiv.org/abs/2505.04388v2)** | 2025-05-28 | <details><summary>Follo...</summary><p>Follow-up work from arXiv:2405.01886</p></details> |
 | **[Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing](http://arxiv.org/abs/2505.22298v1)** | 2025-05-28 | ACL 2025 Findings |
 | **[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](http://arxiv.org/abs/2502.19041v2)** | 2025-05-28 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, ACL 2025 findings</p></details> |
 | **[MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](http://arxiv.org/abs/2505.20824v1)** | 2025-05-27 |  |
 | **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v4)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Capability-Based Scaling Laws for LLM Red-Teaming](http://arxiv.org/abs/2505.20162v1)** | 2025-05-26 |  |
-| **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](http://arxiv.org/abs/2505.13862v3)** | 2025-05-26 |  |
-| **[Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings](http://arxiv.org/abs/2412.13879v4)** | 2025-05-26 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables</p></details> |
-| **[JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs](http://arxiv.org/abs/2402.05668v3)** | 2025-05-26 | <details><summary>Corre...</summary><p>Correct typos and update new experiment results. Accepted in ACL 2025. 25 pages, 12 figures</p></details> |
-| **[Firewalls to Secure Dynamic LLM Agentic Networks](http://arxiv.org/abs/2502.01822v5)** | 2025-05-26 |  |
-| **[What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs](http://arxiv.org/abs/2505.19773v1)** | 2025-05-26 | Accepted by ACL 2025 |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents](http://arxiv.org/abs/2505.23559v1)** | 2025-05-29 |  |
+| **[Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359v3)** | 2025-05-29 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.14644</p></details> |
+| **[Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates](http://arxiv.org/abs/2505.22943v1)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Main. Code is released at https://vision.snu.ac.kr/projects/mac</p></details> |
+| **[Permissioned LLMs: Enforcing Access Control in Large Language Models](http://arxiv.org/abs/2505.22860v1)** | 2025-05-28 |  |
+| **[Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment](http://arxiv.org/abs/2505.22852v1)** | 2025-05-28 |  |
+| **[The Aloe Family Recipe for Open and Specialized Healthcare LLMs](http://arxiv.org/abs/2505.04388v2)** | 2025-05-28 | <details><summary>Follo...</summary><p>Follow-up work from arXiv:2405.01886</p></details> |
 | **[Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing](http://arxiv.org/abs/2505.22298v1)** | 2025-05-28 | ACL 2025 Findings |
 | **[Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](http://arxiv.org/abs/2502.19041v2)** | 2025-05-28 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, ACL 2025 findings</p></details> |
 | **[MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](http://arxiv.org/abs/2505.20824v1)** | 2025-05-27 |  |
 | **[Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond](http://arxiv.org/abs/2502.05374v4)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Capability-Based Scaling Laws for LLM Red-Teaming](http://arxiv.org/abs/2505.20162v1)** | 2025-05-26 |  |
-| **[PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks](http://arxiv.org/abs/2505.13862v3)** | 2025-05-26 |  |
-| **[Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under Black-box Settings](http://arxiv.org/abs/2412.13879v4)** | 2025-05-26 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 11 tables</p></details> |
-| **[JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs](http://arxiv.org/abs/2402.05668v3)** | 2025-05-26 | <details><summary>Corre...</summary><p>Correct typos and update new experiment results. Accepted in ACL 2025. 25 pages, 12 figures</p></details> |
-| **[Firewalls to Secure Dynamic LLM Agentic Networks](http://arxiv.org/abs/2502.01822v5)** | 2025-05-26 |  |
-| **[What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs](http://arxiv.org/abs/2505.19773v1)** | 2025-05-26 | Accepted by ACL 2025 |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding Adversarial Training with Energy-based Models](http://arxiv.org/abs/2505.22486v1)** | 2025-05-28 | <details><summary>Under...</summary><p>Under review for TPAMI</p></details> |
-| **[VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models](http://arxiv.org/abs/2505.19684v2)** | 2025-05-28 |  |
-| **[Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models](http://arxiv.org/abs/2505.22447v1)** | 2025-05-28 | Under Review |
-| **[Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models](http://arxiv.org/abs/2505.22271v1)** | 2025-05-28 | Under Review |
-| **[PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning](http://arxiv.org/abs/2407.08954v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
-| **[Understanding Model Ensemble in Transferable Adversarial Attack](http://arxiv.org/abs/2410.06851v3)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v3)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v4)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
-| **[Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models](http://arxiv.org/abs/2505.17601v2)** | 2025-05-28 |  |
-| **[Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack](http://arxiv.org/abs/2505.21967v1)** | 2025-05-28 | Preprint |
+| **[Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](http://arxiv.org/abs/2505.23561v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper is accepted by ACL 2025 main conference</p></details> |
+| **[SGD Jittering: A Training Strategy for Robust and Accurate Model-Based Architectures](http://arxiv.org/abs/2410.14667v2)** | 2025-05-29 |  |
+| **[Hijacking Large Language Models via Adversarial In-Context Learning](http://arxiv.org/abs/2311.09948v3)** | 2025-05-29 |  |
+| **[Learning to Poison Large Language Models for Downstream Manipulation](http://arxiv.org/abs/2402.13459v3)** | 2025-05-29 |  |
+| **[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](http://arxiv.org/abs/2412.16555v3)** | 2025-05-29 |  |
+| **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v2)** | 2025-05-29 |  |
+| **[Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates](http://arxiv.org/abs/2402.17390v2)** | 2025-05-29 |  |
+| **[Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models](http://arxiv.org/abs/2505.23404v1)** | 2025-05-29 |  |
+| **[Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis](http://arxiv.org/abs/2505.23325v1)** | 2025-05-29 |  |
+| **[Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](http://arxiv.org/abs/2502.17541v2)** | 2025-05-29 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding Adversarial Training with Energy-based Models](http://arxiv.org/abs/2505.22486v1)** | 2025-05-28 | <details><summary>Under...</summary><p>Under review for TPAMI</p></details> |
-| **[VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models](http://arxiv.org/abs/2505.19684v2)** | 2025-05-28 |  |
-| **[Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models](http://arxiv.org/abs/2505.22447v1)** | 2025-05-28 | Under Review |
-| **[Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models](http://arxiv.org/abs/2505.22271v1)** | 2025-05-28 | Under Review |
-| **[PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning](http://arxiv.org/abs/2407.08954v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
-| **[Understanding Model Ensemble in Transferable Adversarial Attack](http://arxiv.org/abs/2410.06851v3)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v3)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v4)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
-| **[Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based Backdoor Attacks for Jailbreaking Large Language Models](http://arxiv.org/abs/2505.17601v2)** | 2025-05-28 |  |
-| **[Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack](http://arxiv.org/abs/2505.21967v1)** | 2025-05-28 | Preprint |
+| **[Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](http://arxiv.org/abs/2505.23561v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper is accepted by ACL 2025 main conference</p></details> |
+| **[SGD Jittering: A Training Strategy for Robust and Accurate Model-Based Architectures](http://arxiv.org/abs/2410.14667v2)** | 2025-05-29 |  |
+| **[Hijacking Large Language Models via Adversarial In-Context Learning](http://arxiv.org/abs/2311.09948v3)** | 2025-05-29 |  |
+| **[Learning to Poison Large Language Models for Downstream Manipulation](http://arxiv.org/abs/2402.13459v3)** | 2025-05-29 |  |
+| **[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](http://arxiv.org/abs/2412.16555v3)** | 2025-05-29 |  |
+| **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v2)** | 2025-05-29 |  |
+| **[Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates](http://arxiv.org/abs/2402.17390v2)** | 2025-05-29 |  |
+| **[Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models](http://arxiv.org/abs/2505.23404v1)** | 2025-05-29 |  |
+| **[Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis](http://arxiv.org/abs/2505.23325v1)** | 2025-05-29 |  |
+| **[Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction](http://arxiv.org/abs/2502.17541v2)** | 2025-05-29 |  |
 
