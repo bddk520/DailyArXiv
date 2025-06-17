@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2025
+title: Latest 15 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](http://arxiv.org/abs/2501.18638v2)** | 2025-06-13 | 14 pages, 5 figures |
-| **[Black-Box Adversarial Attacks on LLM-Based Code Completion](http://arxiv.org/abs/2408.02509v2)** | 2025-06-13 |  |
-| **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](http://arxiv.org/abs/2506.10949v1)** | 2025-06-12 |  |
-| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v2)** | 2025-06-12 | ICML 2025 |
-| **[SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks](http://arxiv.org/abs/2506.10424v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by the 34th USENIX Security Symposium 2025. Code is available at https://github.com/KaiyuanZh/SOFT</p></details> |
-| **[Can We Infer Confidential Properties of Training Data from LLMs?](http://arxiv.org/abs/2506.10364v1)** | 2025-06-12 |  |
-| **[RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards](http://arxiv.org/abs/2506.07736v2)** | 2025-06-11 |  |
-| **[Design Patterns for Securing LLM Agents against Prompt Injections](http://arxiv.org/abs/2506.08837v2)** | 2025-06-11 |  |
-| **[LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge](http://arxiv.org/abs/2506.09443v1)** | 2025-06-11 |  |
-| **[Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding](http://arxiv.org/abs/2406.15481v3)** | 2025-06-11 | <details><summary>To ap...</summary><p>To appear in ACL 2025</p></details> |
+| **[Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design](http://arxiv.org/abs/2504.10112v2)** | 2025-06-16 |  |
+| **[From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs](http://arxiv.org/abs/2506.13434v1)** | 2025-06-16 | 10 pages |
+| **[Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs](http://arxiv.org/abs/2506.13285v1)** | 2025-06-16 |  |
+| **[Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks](http://arxiv.org/abs/2506.13276v1)** | 2025-06-16 |  |
+| **[Detecting Hard-Coded Credentials in Software Repositories via LLMs](http://arxiv.org/abs/2506.13090v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to the ACM Digital Threats: Research and Practice (DTRAP)</p></details> |
+| **[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](http://arxiv.org/abs/2502.04322v2)** | 2025-06-16 |  |
+| **[Can We Infer Confidential Properties of Training Data from LLMs?](http://arxiv.org/abs/2506.10364v2)** | 2025-06-15 |  |
+| **[SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](http://arxiv.org/abs/2506.12707v1)** | 2025-06-15 |  |
+| **[Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity](http://arxiv.org/abs/2506.12685v1)** | 2025-06-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 3 tables</p></details> |
+| **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](http://arxiv.org/abs/2506.10949v2)** | 2025-06-14 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](http://arxiv.org/abs/2501.18638v2)** | 2025-06-13 | 14 pages, 5 figures |
-| **[Black-Box Adversarial Attacks on LLM-Based Code Completion](http://arxiv.org/abs/2408.02509v2)** | 2025-06-13 |  |
-| **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](http://arxiv.org/abs/2506.10949v1)** | 2025-06-12 |  |
-| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v2)** | 2025-06-12 | ICML 2025 |
-| **[SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks](http://arxiv.org/abs/2506.10424v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by the 34th USENIX Security Symposium 2025. Code is available at https://github.com/KaiyuanZh/SOFT</p></details> |
-| **[Can We Infer Confidential Properties of Training Data from LLMs?](http://arxiv.org/abs/2506.10364v1)** | 2025-06-12 |  |
-| **[RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards](http://arxiv.org/abs/2506.07736v2)** | 2025-06-11 |  |
-| **[Design Patterns for Securing LLM Agents against Prompt Injections](http://arxiv.org/abs/2506.08837v2)** | 2025-06-11 |  |
-| **[LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge](http://arxiv.org/abs/2506.09443v1)** | 2025-06-11 |  |
-| **[Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding](http://arxiv.org/abs/2406.15481v3)** | 2025-06-11 | <details><summary>To ap...</summary><p>To appear in ACL 2025</p></details> |
+| **[Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design](http://arxiv.org/abs/2504.10112v2)** | 2025-06-16 |  |
+| **[From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs](http://arxiv.org/abs/2506.13434v1)** | 2025-06-16 | 10 pages |
+| **[Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs](http://arxiv.org/abs/2506.13285v1)** | 2025-06-16 |  |
+| **[Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks](http://arxiv.org/abs/2506.13276v1)** | 2025-06-16 |  |
+| **[Detecting Hard-Coded Credentials in Software Repositories via LLMs](http://arxiv.org/abs/2506.13090v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to the ACM Digital Threats: Research and Practice (DTRAP)</p></details> |
+| **[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](http://arxiv.org/abs/2502.04322v2)** | 2025-06-16 |  |
+| **[Can We Infer Confidential Properties of Training Data from LLMs?](http://arxiv.org/abs/2506.10364v2)** | 2025-06-15 |  |
+| **[SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression](http://arxiv.org/abs/2506.12707v1)** | 2025-06-15 |  |
+| **[Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity](http://arxiv.org/abs/2506.12685v1)** | 2025-06-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 3 tables</p></details> |
+| **[Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](http://arxiv.org/abs/2506.10949v2)** | 2025-06-14 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Large Language Model Safety with Contrastive Representation Learning](http://arxiv.org/abs/2506.11938v1)** | 2025-06-13 |  |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v4)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](http://arxiv.org/abs/2506.11521v1)** | 2025-06-13 |  |
-| **[On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving](http://arxiv.org/abs/2506.11472v1)** | 2025-06-13 |  |
-| **[GaussMarker: Robust Dual-Domain Watermark for Diffusion Models](http://arxiv.org/abs/2506.11444v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[PLeak: Prompt Leaking Attacks against Large Language Model Applications](http://arxiv.org/abs/2405.06823v3)** | 2025-06-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of The ACM Conference on Computer and Communications Security (CCS), 2024</p></details> |
-| **[A Watermark for Auto-Regressive Image Generation Models](http://arxiv.org/abs/2506.11371v1)** | 2025-06-13 | Technical report |
-| **[Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v3)** | 2025-06-12 | ICML 2025 |
-| **[Breaking Distortion-free Watermarks in Large Language Models](http://arxiv.org/abs/2502.18608v2)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 4 tables, earlier version presented at AAAI'25 Workshop on Preventing and Detecting LLM Generated Misinformation</p></details> |
-| **[A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack](http://arxiv.org/abs/2502.09396v2)** | 2025-06-12 |  |
+| **[Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability](http://arxiv.org/abs/2506.13746v1)** | 2025-06-16 |  |
+| **[Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models](http://arxiv.org/abs/2506.13726v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to LLMSEC 2025</p></details> |
+| **[When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text](http://arxiv.org/abs/2506.09975v2)** | 2025-06-16 | <details><summary>to ap...</summary><p>to appear in ACL Findings</p></details> |
+| **[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](http://arxiv.org/abs/2502.07225v2)** | 2025-06-16 |  |
+| **[Jailbreak Strength and Model Similarity Predict Transferability](http://arxiv.org/abs/2506.12913v1)** | 2025-06-15 |  |
+| **[TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models](http://arxiv.org/abs/2506.12815v1)** | 2025-06-15 | 23 pages, 6 figures |
+| **[I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference](http://arxiv.org/abs/2505.06738v3)** | 2025-06-15 | <details><summary>Submi...</summary><p>Submitted for review in January 22, 2025, revised under shepherding</p></details> |
+| **[NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models](http://arxiv.org/abs/2506.12706v1)** | 2025-06-15 |  |
+| **[FAIR-TAT: Improving Model Fairness Using Targeted Adversarial Training](http://arxiv.org/abs/2410.23142v3)** | 2025-06-14 |  |
+| **[MEraser: An Effective Fingerprint Erasure Approach for Large Language Models](http://arxiv.org/abs/2506.12551v1)** | 2025-06-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2025, Main Conference, Long Paper</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Large Language Model Safety with Contrastive Representation Learning](http://arxiv.org/abs/2506.11938v1)** | 2025-06-13 |  |
-| **[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](http://arxiv.org/abs/2406.14023v4)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models](http://arxiv.org/abs/2506.11521v1)** | 2025-06-13 |  |
-| **[On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving](http://arxiv.org/abs/2506.11472v1)** | 2025-06-13 |  |
-| **[GaussMarker: Robust Dual-Domain Watermark for Diffusion Models](http://arxiv.org/abs/2506.11444v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[PLeak: Prompt Leaking Attacks against Large Language Model Applications](http://arxiv.org/abs/2405.06823v3)** | 2025-06-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of The ACM Conference on Computer and Communications Security (CCS), 2024</p></details> |
-| **[A Watermark for Auto-Regressive Image Generation Models](http://arxiv.org/abs/2506.11371v1)** | 2025-06-13 | Technical report |
-| **[Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v3)** | 2025-06-12 | ICML 2025 |
-| **[Breaking Distortion-free Watermarks in Large Language Models](http://arxiv.org/abs/2502.18608v2)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 4 tables, earlier version presented at AAAI'25 Workshop on Preventing and Detecting LLM Generated Misinformation</p></details> |
-| **[A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack](http://arxiv.org/abs/2502.09396v2)** | 2025-06-12 |  |
+| **[Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability](http://arxiv.org/abs/2506.13746v1)** | 2025-06-16 |  |
+| **[Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models](http://arxiv.org/abs/2506.13726v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to LLMSEC 2025</p></details> |
+| **[When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text](http://arxiv.org/abs/2506.09975v2)** | 2025-06-16 | <details><summary>to ap...</summary><p>to appear in ACL Findings</p></details> |
+| **[Thought Crime: Backdoors and Emergent Misalignment in Reasoning Models](http://arxiv.org/abs/2506.13206v1)** | 2025-06-16 |  |
+| **[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](http://arxiv.org/abs/2502.07225v2)** | 2025-06-16 |  |
+| **[Jailbreak Strength and Model Similarity Predict Transferability](http://arxiv.org/abs/2506.12913v1)** | 2025-06-15 |  |
+| **[TrojanTO: Action-Level Backdoor Attacks against Trajectory Optimization Models](http://arxiv.org/abs/2506.12815v1)** | 2025-06-15 | 23 pages, 6 figures |
+| **[I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference](http://arxiv.org/abs/2505.06738v3)** | 2025-06-15 | <details><summary>Submi...</summary><p>Submitted for review in January 22, 2025, revised under shepherding</p></details> |
+| **[NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models](http://arxiv.org/abs/2506.12706v1)** | 2025-06-15 |  |
+| **[FAIR-TAT: Improving Model Fairness Using Targeted Adversarial Training](http://arxiv.org/abs/2410.23142v3)** | 2025-06-14 |  |
 
