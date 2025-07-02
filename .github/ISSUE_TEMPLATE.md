@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)](http://arxiv.org/abs/2311.10248v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to ACISP 2025. This is the full version</p></details> |
 | **[Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models](http://arxiv.org/abs/2506.24056v1)** | 2025-06-30 |  |
 | **[Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures](http://arxiv.org/abs/2506.23622v1)** | 2025-06-30 |  |
 | **[SoK: Semantic Privacy in Large Language Models](http://arxiv.org/abs/2506.23603v1)** | 2025-06-30 |  |
@@ -44,11 +45,11 @@ labels: documentation
 | **[Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](http://arxiv.org/abs/2503.07661v2)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks](http://arxiv.org/abs/2501.06729v2)** | 2025-06-29 |  |
 | **[Efficient malicious information detection method based on set partitioning for large-scale Internet of Things](http://arxiv.org/abs/2502.11538v2)** | 2025-06-29 | 21 pages, 5 figures |
-| **[Learning Counterfactually Decoupled Attention for Open-World Model Attribution](http://arxiv.org/abs/2506.23074v1)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Code: \url{https://github.com/yzheng97/CDAL}</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)](http://arxiv.org/abs/2311.10248v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to ACISP 2025. This is the full version</p></details> |
 | **[Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models](http://arxiv.org/abs/2506.24056v1)** | 2025-06-30 |  |
 | **[Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures](http://arxiv.org/abs/2506.23622v1)** | 2025-06-30 |  |
 | **[SoK: Semantic Privacy in Large Language Models](http://arxiv.org/abs/2506.23603v1)** | 2025-06-30 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Towards Generalized and Stealthy Watermarking for Generative Code Models](http://arxiv.org/abs/2506.20926v2)** | 2025-06-29 | 13 pages |
 | **[Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](http://arxiv.org/abs/2503.07661v2)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks](http://arxiv.org/abs/2501.06729v2)** | 2025-06-29 |  |
-| **[Efficient malicious information detection method based on set partitioning for large-scale Internet of Things](http://arxiv.org/abs/2502.11538v2)** | 2025-06-29 | 21 pages, 5 figures |
 
