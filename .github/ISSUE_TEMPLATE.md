@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cascade: Token-Sharded Private LLM Inference](http://arxiv.org/abs/2507.05228v1)** | 2025-07-07 | <details><summary>To be...</summary><p>To be published in ICML 2025 Main Proceedings as "Hidden No More: Attacking and Defending Private Third-Party LLM Inference", together with arXiv:2505.18332</p></details> |
+| **[Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems](http://arxiv.org/abs/2507.04724v1)** | 2025-07-07 |  |
+| **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v1)** | 2025-07-06 |  |
+| **[Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs](http://arxiv.org/abs/2507.04365v1)** | 2025-07-06 |  |
+| **[Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States](http://arxiv.org/abs/2503.09066v2)** | 2025-07-04 | 4 figures |
+| **[Blackbox Dataset Inference for LLM](http://arxiv.org/abs/2507.03619v1)** | 2025-07-04 |  |
+| **[LIAR: Leveraging Inference Time Alignment (Best-of-N) to Jailbreak LLMs in Seconds](http://arxiv.org/abs/2412.05232v3)** | 2025-07-03 |  |
 | **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](http://arxiv.org/abs/2507.02735v1)** | 2025-07-03 |  |
 | **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](http://arxiv.org/abs/2507.02699v1)** | 2025-07-03 |  |
 | **[MGC: A Compiler Framework Exploiting Compositional Blindness in Aligned LLMs for Malware Generation](http://arxiv.org/abs/2507.02057v1)** | 2025-07-02 |  |
-| **[Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training](http://arxiv.org/abs/2507.01752v1)** | 2025-07-02 |  |
-| **[Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks](http://arxiv.org/abs/2507.01694v1)** | 2025-07-02 | 7 pages, 5 figures |
-| **[SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](http://arxiv.org/abs/2507.01513v1)** | 2025-07-02 |  |
-| **[Don't Say No: Jailbreaking LLM by Suppressing Refusal](http://arxiv.org/abs/2404.16369v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
-| **[GenBFA: An Evolutionary Optimization Approach to Bit-Flip Attacks on LLMs](http://arxiv.org/abs/2411.13757v4)** | 2025-07-01 |  |
-| **[Trust & Safety of LLMs and LLMs in Trust & Safety](http://arxiv.org/abs/2412.02113v2)** | 2025-06-30 | 11 pages |
-| **[TuCo: Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs](http://arxiv.org/abs/2506.23423v1)** | 2025-06-29 | ICML 2025 |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cascade: Token-Sharded Private LLM Inference](http://arxiv.org/abs/2507.05228v1)** | 2025-07-07 | <details><summary>To be...</summary><p>To be published in ICML 2025 Main Proceedings as "Hidden No More: Attacking and Defending Private Third-Party LLM Inference", together with arXiv:2505.18332</p></details> |
+| **[Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems](http://arxiv.org/abs/2507.04724v1)** | 2025-07-07 |  |
+| **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v1)** | 2025-07-06 |  |
+| **[Attention Slipping: A Mechanistic Understanding of Jailbreak Attacks and Defenses in LLMs](http://arxiv.org/abs/2507.04365v1)** | 2025-07-06 |  |
+| **[Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States](http://arxiv.org/abs/2503.09066v2)** | 2025-07-04 | 4 figures |
+| **[Blackbox Dataset Inference for LLM](http://arxiv.org/abs/2507.03619v1)** | 2025-07-04 |  |
+| **[LIAR: Leveraging Inference Time Alignment (Best-of-N) to Jailbreak LLMs in Seconds](http://arxiv.org/abs/2412.05232v3)** | 2025-07-03 |  |
 | **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](http://arxiv.org/abs/2507.02735v1)** | 2025-07-03 |  |
 | **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](http://arxiv.org/abs/2507.02699v1)** | 2025-07-03 |  |
 | **[MGC: A Compiler Framework Exploiting Compositional Blindness in Aligned LLMs for Malware Generation](http://arxiv.org/abs/2507.02057v1)** | 2025-07-02 |  |
-| **[Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training](http://arxiv.org/abs/2507.01752v1)** | 2025-07-02 |  |
-| **[Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks](http://arxiv.org/abs/2507.01694v1)** | 2025-07-02 | 7 pages, 5 figures |
-| **[SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](http://arxiv.org/abs/2507.01513v1)** | 2025-07-02 |  |
-| **[Don't Say No: Jailbreaking LLM by Suppressing Refusal](http://arxiv.org/abs/2404.16369v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
-| **[GenBFA: An Evolutionary Optimization Approach to Bit-Flip Attacks on LLMs](http://arxiv.org/abs/2411.13757v4)** | 2025-07-01 |  |
-| **[Trust & Safety of LLMs and LLMs in Trust & Safety](http://arxiv.org/abs/2412.02113v2)** | 2025-06-30 | 11 pages |
-| **[TuCo: Measuring the Contribution of Fine-Tuning to Individual Responses of LLMs](http://arxiv.org/abs/2506.23423v1)** | 2025-06-29 | ICML 2025 |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
-| **[StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](http://arxiv.org/abs/2502.11853v2)** | 2025-07-03 |  |
-| **[Evaluating Language Models For Threat Detection in IoT Security Logs](http://arxiv.org/abs/2507.02390v1)** | 2025-07-03 |  |
-| **[UniNet: A Unified Multi-granular Traffic Modeling Framework for Network Security](http://arxiv.org/abs/2503.04174v2)** | 2025-07-03 | <details><summary>16 pa...</summary><p>16 pages,6 figures, 12 tables; accepted for publication in IEEE Transactions on Cognitive Communications and Networking, 2025</p></details> |
-| **[Threat Modeling for AI: The Case for an Asset-Centric Approach](http://arxiv.org/abs/2505.06315v2)** | 2025-07-02 |  |
-| **[Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks](http://arxiv.org/abs/2507.01694v1)** | 2025-07-02 | 7 pages, 5 figures |
-| **[Backdooring Bias (B^2) into Stable Diffusion Models](http://arxiv.org/abs/2406.15213v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted to USENIX Security '25</p></details> |
-| **[CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs](http://arxiv.org/abs/2507.00817v1)** | 2025-07-01 |  |
-| **[Impact of Fine-Tuning Methods on Memorization in Large Language Models](http://arxiv.org/abs/2507.00258v1)** | 2025-06-30 |  |
-| **[Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)](http://arxiv.org/abs/2311.10248v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to ACISP 2025. This is the full version</p></details> |
+| **[Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models](http://arxiv.org/abs/2507.05248v1)** | 2025-07-07 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Code and data available at https://github.com/Dtc7w3PQ/Response-Attack</p></details> |
+| **[Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models](http://arxiv.org/abs/2405.20090v4)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems](http://arxiv.org/abs/2507.04724v1)** | 2025-07-07 |  |
+| **[Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](http://arxiv.org/abs/2507.04673v1)** | 2025-07-07 |  |
+| **[Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models](http://arxiv.org/abs/2507.04478v1)** | 2025-07-06 |  |
+| **[Arbiter PUF: Uniqueness and Reliability Analysis Using Hybrid CMOS-Stanford Memristor Model](http://arxiv.org/abs/2507.04461v1)** | 2025-07-06 |  |
+| **[Can Large Language Models Automate the Refinement of Cellular Network Specifications?](http://arxiv.org/abs/2507.04214v1)** | 2025-07-06 |  |
+| **[Backdooring Bias ($B^2$) into Stable Diffusion Models](http://arxiv.org/abs/2406.15213v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted to USENIX Security '25</p></details> |
+| **[Membership Inference Attacks on Large-Scale Models: A Survey](http://arxiv.org/abs/2503.19338v2)** | 2025-07-05 |  |
+| **[One-Bit Model Aggregation for Differentially Private and Byzantine-Robust Personalized Federated Learning](http://arxiv.org/abs/2507.03973v1)** | 2025-07-05 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
-| **[StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](http://arxiv.org/abs/2502.11853v2)** | 2025-07-03 |  |
-| **[Evaluating Language Models For Threat Detection in IoT Security Logs](http://arxiv.org/abs/2507.02390v1)** | 2025-07-03 |  |
-| **[UniNet: A Unified Multi-granular Traffic Modeling Framework for Network Security](http://arxiv.org/abs/2503.04174v2)** | 2025-07-03 | <details><summary>16 pa...</summary><p>16 pages,6 figures, 12 tables; accepted for publication in IEEE Transactions on Cognitive Communications and Networking, 2025</p></details> |
-| **[Threat Modeling for AI: The Case for an Asset-Centric Approach](http://arxiv.org/abs/2505.06315v2)** | 2025-07-02 |  |
-| **[Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks](http://arxiv.org/abs/2507.01694v1)** | 2025-07-02 | 7 pages, 5 figures |
-| **[Backdooring Bias (B^2) into Stable Diffusion Models](http://arxiv.org/abs/2406.15213v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted to USENIX Security '25</p></details> |
-| **[CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs](http://arxiv.org/abs/2507.00817v1)** | 2025-07-01 |  |
-| **[Impact of Fine-Tuning Methods on Memorization in Large Language Models](http://arxiv.org/abs/2507.00258v1)** | 2025-06-30 |  |
-| **[Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)](http://arxiv.org/abs/2311.10248v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to ACISP 2025. This is the full version</p></details> |
+| **[Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models](http://arxiv.org/abs/2507.05248v1)** | 2025-07-07 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Code and data available at https://github.com/Dtc7w3PQ/Response-Attack</p></details> |
+| **[Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models](http://arxiv.org/abs/2405.20090v4)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems](http://arxiv.org/abs/2507.04724v1)** | 2025-07-07 |  |
+| **[Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](http://arxiv.org/abs/2507.04673v1)** | 2025-07-07 |  |
+| **[Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models](http://arxiv.org/abs/2507.04478v1)** | 2025-07-06 |  |
+| **[Arbiter PUF: Uniqueness and Reliability Analysis Using Hybrid CMOS-Stanford Memristor Model](http://arxiv.org/abs/2507.04461v1)** | 2025-07-06 |  |
+| **[Can Large Language Models Automate the Refinement of Cellular Network Specifications?](http://arxiv.org/abs/2507.04214v1)** | 2025-07-06 |  |
+| **[Backdooring Bias ($B^2$) into Stable Diffusion Models](http://arxiv.org/abs/2406.15213v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted to USENIX Security '25</p></details> |
+| **[Membership Inference Attacks on Large-Scale Models: A Survey](http://arxiv.org/abs/2503.19338v2)** | 2025-07-05 |  |
+| **[One-Bit Model Aggregation for Differentially Private and Byzantine-Robust Personalized Federated Learning](http://arxiv.org/abs/2507.03973v1)** | 2025-07-05 |  |
 
