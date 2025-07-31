@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Differentially Private Fine-Tuning of LLMs via Reinforcement Learning](http://arxiv.org/abs/2507.22565v1)** | 2025-07-30 |  |
+| **[Exploiting Synergistic Cognitive Biases to Bypass Safety in LLMs](http://arxiv.org/abs/2507.22564v1)** | 2025-07-30 |  |
+| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
+| **[Strategic Deflection: Defending LLMs from Logit Manipulation](http://arxiv.org/abs/2507.22160v1)** | 2025-07-29 | 20 pages |
+| **[Prompt Optimization and Evaluation for LLM Automated Red Teaming](http://arxiv.org/abs/2507.22133v1)** | 2025-07-29 | <details><summary>9 pag...</summary><p>9 pages, 5 Figures, and 1 Appendix item</p></details> |
 | **[Anyone Can Jailbreak: Prompt-Based Attacks on LLMs and T2Is](http://arxiv.org/abs/2507.21820v1)** | 2025-07-29 |  |
 | **[Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](http://arxiv.org/abs/2407.15549v3)** | 2025-07-29 | <details><summary>Code ...</summary><p>Code at https://github.com/aengusl/latent-adversarial-training. Models at https://huggingface.co/LLM-LAT</p></details> |
 | **[Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms](http://arxiv.org/abs/2507.21538v1)** | 2025-07-29 |  |
+| **[Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v1)** | 2025-07-28 |  |
 | **[Interpretable Anomaly-Based DDoS Detection in AI-RAN with XAI and LLMs](http://arxiv.org/abs/2507.21193v1)** | 2025-07-27 |  |
-| **[Risks & Benefits of LLMs & GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy & AI Safety: A Comprehensive Survey, Roadmap & Implementation Blueprint](http://arxiv.org/abs/2506.12088v2)** | 2025-07-26 |  |
-| **[LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](http://arxiv.org/abs/2506.15606v3)** | 2025-07-25 |  |
-| **[Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities](http://arxiv.org/abs/2502.05209v4)** | 2025-07-24 | Accepted to TMLR |
-| **[A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1](http://arxiv.org/abs/2507.08621v2)** | 2025-07-24 |  |
-| **[Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries](http://arxiv.org/abs/2507.17636v1)** | 2025-07-23 |  |
-| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Differentially Private Fine-Tuning of LLMs via Reinforcement Learning](http://arxiv.org/abs/2507.22565v1)** | 2025-07-30 |  |
+| **[Exploiting Synergistic Cognitive Biases to Bypass Safety in LLMs](http://arxiv.org/abs/2507.22564v1)** | 2025-07-30 |  |
+| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
+| **[Strategic Deflection: Defending LLMs from Logit Manipulation](http://arxiv.org/abs/2507.22160v1)** | 2025-07-29 | 20 pages |
+| **[Prompt Optimization and Evaluation for LLM Automated Red Teaming](http://arxiv.org/abs/2507.22133v1)** | 2025-07-29 | <details><summary>9 pag...</summary><p>9 pages, 5 Figures, and 1 Appendix item</p></details> |
 | **[Anyone Can Jailbreak: Prompt-Based Attacks on LLMs and T2Is](http://arxiv.org/abs/2507.21820v1)** | 2025-07-29 |  |
 | **[Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](http://arxiv.org/abs/2407.15549v3)** | 2025-07-29 | <details><summary>Code ...</summary><p>Code at https://github.com/aengusl/latent-adversarial-training. Models at https://huggingface.co/LLM-LAT</p></details> |
 | **[Can We End the Cat-and-Mouse Game? Simulating Self-Evolving Phishing Attacks with LLMs and Genetic Algorithms](http://arxiv.org/abs/2507.21538v1)** | 2025-07-29 |  |
+| **[Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v1)** | 2025-07-28 |  |
 | **[Interpretable Anomaly-Based DDoS Detection in AI-RAN with XAI and LLMs](http://arxiv.org/abs/2507.21193v1)** | 2025-07-27 |  |
-| **[Risks & Benefits of LLMs & GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy & AI Safety: A Comprehensive Survey, Roadmap & Implementation Blueprint](http://arxiv.org/abs/2506.12088v2)** | 2025-07-26 |  |
-| **[LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](http://arxiv.org/abs/2506.15606v3)** | 2025-07-25 |  |
-| **[Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities](http://arxiv.org/abs/2502.05209v4)** | 2025-07-24 | Accepted to TMLR |
-| **[A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1](http://arxiv.org/abs/2507.08621v2)** | 2025-07-24 |  |
-| **[Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries](http://arxiv.org/abs/2507.17636v1)** | 2025-07-23 |  |
-| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision Language Models](http://arxiv.org/abs/2507.22828v1)** | 2025-07-30 | <details><summary>9 pag...</summary><p>9 pages, accepted by the 2025 ACM Multimedia Conference</p></details> |
+| **[Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures](http://arxiv.org/abs/2506.23622v2)** | 2025-07-30 |  |
+| **[Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation](http://arxiv.org/abs/2505.17579v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
+| **[SHoM: A Mental-Synthesis Trust Management Model for Mitigating Botnet-Driven DDoS Attacks in the Internet of Things](http://arxiv.org/abs/2507.21178v2)** | 2025-07-30 | <details><summary>22 Pa...</summary><p>22 Pages, 15 figure, 9 tables</p></details> |
+| **[RCR-AF: Enhancing Model Generalization via Rademacher Complexity Reduction Activation Function](http://arxiv.org/abs/2507.22446v1)** | 2025-07-30 |  |
+| **[Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding](http://arxiv.org/abs/2507.22304v1)** | 2025-07-30 | 14 Pages |
+| **[Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems](http://arxiv.org/abs/2507.22239v1)** | 2025-07-29 | Accepted Publication |
+| **[Can adversarial attacks by large language models be attributed?](http://arxiv.org/abs/2411.08003v3)** | 2025-07-29 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 2 tables</p></details> |
 | **[Voting by mail: a Markov chain model for managing the security risks of election systems](http://arxiv.org/abs/2410.13900v2)** | 2025-07-29 |  |
 | **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
-| **[ZIUM: Zero-Shot Intent-Aware Adversarial Attack on Unlearned Models](http://arxiv.org/abs/2507.21985v1)** | 2025-07-29 | Accepted to ICCV2025 |
-| **[Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal](http://arxiv.org/abs/2507.21750v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This paper was accepted with an A-decision to Transactions of the Association for Computational Linguistics. This version is the pre-publication version prior to MIT Press production</p></details> |
-| **[Modelling Arbitrary Computations in the Symbolic Model using an Equational Theory for Bounded Binary Circuits](http://arxiv.org/abs/2507.21731v1)** | 2025-07-29 |  |
-| **[Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing](http://arxiv.org/abs/2502.03086v2)** | 2025-07-29 | <details><summary>S. Si...</summary><p>S. Sinno, M. Bertl, A. Sahoo, B. Bhalgamiya, T. Gro{\ss} and N. Chancellor, "Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing," 2025 International Conference on Next Generation Information System Engineering (NGISE), Ghaziabad, Delhi (NCR), India, 2025, pp. 1-8, doi: 10.1109/NGISE64126.2025.11085158</p></details> |
-| **[Memorization in Fine-Tuned Large Language Models](http://arxiv.org/abs/2507.21009v1)** | 2025-07-28 |  |
-| **[A Large Language Model-Supported Threat Modeling Framework for Transportation Cyber-Physical Systems](http://arxiv.org/abs/2506.00831v2)** | 2025-07-28 |  |
-| **[Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models](http://arxiv.org/abs/2507.20704v1)** | 2025-07-28 | <details><summary>9 pag...</summary><p>9 pages, 9 figures. Jake Thomas served as Editor for this manuscript</p></details> |
-| **[InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing](http://arxiv.org/abs/2507.12060v2)** | 2025-07-28 | Accepted by MM'25 |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision Language Models](http://arxiv.org/abs/2507.22828v1)** | 2025-07-30 | <details><summary>9 pag...</summary><p>9 pages, accepted by the 2025 ACM Multimedia Conference</p></details> |
+| **[Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures](http://arxiv.org/abs/2506.23622v2)** | 2025-07-30 |  |
+| **[Ownership Verification of DNN Models Using White-Box Adversarial Attacks with Specified Probability Manipulation](http://arxiv.org/abs/2505.17579v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
+| **[SHoM: A Mental-Synthesis Trust Management Model for Mitigating Botnet-Driven DDoS Attacks in the Internet of Things](http://arxiv.org/abs/2507.21178v2)** | 2025-07-30 | <details><summary>22 Pa...</summary><p>22 Pages, 15 figure, 9 tables</p></details> |
+| **[RCR-AF: Enhancing Model Generalization via Rademacher Complexity Reduction Activation Function](http://arxiv.org/abs/2507.22446v1)** | 2025-07-30 |  |
+| **[Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding](http://arxiv.org/abs/2507.22304v1)** | 2025-07-30 | 14 Pages |
+| **[Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems](http://arxiv.org/abs/2507.22239v1)** | 2025-07-29 | Accepted Publication |
+| **[Can adversarial attacks by large language models be attributed?](http://arxiv.org/abs/2411.08003v3)** | 2025-07-29 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 2 tables</p></details> |
 | **[Voting by mail: a Markov chain model for managing the security risks of election systems](http://arxiv.org/abs/2410.13900v2)** | 2025-07-29 |  |
 | **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
-| **[ZIUM: Zero-Shot Intent-Aware Adversarial Attack on Unlearned Models](http://arxiv.org/abs/2507.21985v1)** | 2025-07-29 | Accepted to ICCV2025 |
-| **[Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal](http://arxiv.org/abs/2507.21750v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This paper was accepted with an A-decision to Transactions of the Association for Computational Linguistics. This version is the pre-publication version prior to MIT Press production</p></details> |
-| **[Modelling Arbitrary Computations in the Symbolic Model using an Equational Theory for Bounded Binary Circuits](http://arxiv.org/abs/2507.21731v1)** | 2025-07-29 |  |
-| **[Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing](http://arxiv.org/abs/2502.03086v2)** | 2025-07-29 | <details><summary>S. Si...</summary><p>S. Sinno, M. Bertl, A. Sahoo, B. Bhalgamiya, T. Gro{\ss} and N. Chancellor, "Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing," 2025 International Conference on Next Generation Information System Engineering (NGISE), Ghaziabad, Delhi (NCR), India, 2025, pp. 1-8, doi: 10.1109/NGISE64126.2025.11085158</p></details> |
-| **[Memorization in Fine-Tuned Large Language Models](http://arxiv.org/abs/2507.21009v1)** | 2025-07-28 |  |
-| **[A Large Language Model-Supported Threat Modeling Framework for Transportation Cyber-Physical Systems](http://arxiv.org/abs/2506.00831v2)** | 2025-07-28 |  |
-| **[Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models](http://arxiv.org/abs/2507.20704v1)** | 2025-07-28 | <details><summary>9 pag...</summary><p>9 pages, 9 figures. Jake Thomas served as Editor for this manuscript</p></details> |
-| **[Hot-Swap MarkBoard: An Efficient Black-box Watermarking Approach for Large-scale Model Distribution](http://arxiv.org/abs/2507.20650v1)** | 2025-07-28 |  |
 
