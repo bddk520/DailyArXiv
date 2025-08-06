@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M2S: Multi-turn to Single-turn jailbreak in Red Teaming for LLMs](http://arxiv.org/abs/2503.04856v3)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Track). Camera-ready version</p></details> |
+| **[Attack the Messages, Not the Agents: A Multi-round Adaptive Stealthy Tampering Framework for LLM-MAS](http://arxiv.org/abs/2508.03125v1)** | 2025-08-05 |  |
+| **[VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs](http://arxiv.org/abs/2508.03097v1)** | 2025-08-05 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, published in KDD2025</p></details> |
+| **[Defend LLMs Through Self-Consciousness](http://arxiv.org/abs/2508.02961v1)** | 2025-08-04 | <details><summary>Prese...</summary><p>Presented at KDD Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI) 2025</p></details> |
 | **[Gandalf the Red: Adaptive Security for LLMs](http://arxiv.org/abs/2501.07927v3)** | 2025-08-04 | <details><summary>Nikla...</summary><p>Niklas Pfister, V\'aclav Volhejn and Manuel Knott contributed equally</p></details> |
 | **[Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](http://arxiv.org/abs/2508.02110v1)** | 2025-08-04 |  |
 | **[PhishParrot: LLM-Driven Adaptive Crawling to Unveil Cloaked Phishing Sites](http://arxiv.org/abs/2508.02035v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE GLOBECOM 2025</p></details> |
 | **[NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM](http://arxiv.org/abs/2508.01351v1)** | 2025-08-02 |  |
 | **[PUZZLED: Jailbreaking LLMs through Word-Based Puzzles](http://arxiv.org/abs/2508.01306v1)** | 2025-08-02 | 15 pages |
 | **[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](http://arxiv.org/abs/2502.04322v3)** | 2025-08-02 | ICML 2025 |
-| **[Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs](http://arxiv.org/abs/2508.01054v1)** | 2025-08-01 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
-| **[LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks](http://arxiv.org/abs/2508.00602v1)** | 2025-08-01 | 22 pages, preprint |
-| **[From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](http://arxiv.org/abs/2506.15170v3)** | 2025-08-01 |  |
-| **[LLMs Encode Harmfulness and Refusal Separately](http://arxiv.org/abs/2507.11878v2)** | 2025-07-31 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M2S: Multi-turn to Single-turn jailbreak in Red Teaming for LLMs](http://arxiv.org/abs/2503.04856v3)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Track). Camera-ready version</p></details> |
+| **[Attack the Messages, Not the Agents: A Multi-round Adaptive Stealthy Tampering Framework for LLM-MAS](http://arxiv.org/abs/2508.03125v1)** | 2025-08-05 |  |
+| **[VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs](http://arxiv.org/abs/2508.03097v1)** | 2025-08-05 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, published in KDD2025</p></details> |
+| **[Defend LLMs Through Self-Consciousness](http://arxiv.org/abs/2508.02961v1)** | 2025-08-04 | <details><summary>Prese...</summary><p>Presented at KDD Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI) 2025</p></details> |
 | **[Gandalf the Red: Adaptive Security for LLMs](http://arxiv.org/abs/2501.07927v3)** | 2025-08-04 | <details><summary>Nikla...</summary><p>Niklas Pfister, V\'aclav Volhejn and Manuel Knott contributed equally</p></details> |
 | **[Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](http://arxiv.org/abs/2508.02110v1)** | 2025-08-04 |  |
 | **[PhishParrot: LLM-Driven Adaptive Crawling to Unveil Cloaked Phishing Sites](http://arxiv.org/abs/2508.02035v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE GLOBECOM 2025</p></details> |
 | **[NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM](http://arxiv.org/abs/2508.01351v1)** | 2025-08-02 |  |
 | **[PUZZLED: Jailbreaking LLMs through Word-Based Puzzles](http://arxiv.org/abs/2508.01306v1)** | 2025-08-02 | 15 pages |
 | **[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](http://arxiv.org/abs/2502.04322v3)** | 2025-08-02 | ICML 2025 |
-| **[Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs](http://arxiv.org/abs/2508.01054v1)** | 2025-08-01 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
-| **[LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks](http://arxiv.org/abs/2508.00602v1)** | 2025-08-01 | 22 pages, preprint |
-| **[From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](http://arxiv.org/abs/2506.15170v3)** | 2025-08-01 |  |
-| **[LLMs Encode Harmfulness and Refusal Separately](http://arxiv.org/abs/2507.11878v2)** | 2025-07-31 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v4)** | 2025-08-05 |  |
+| **[When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs](http://arxiv.org/abs/2508.03365v1)** | 2025-08-05 |  |
+| **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.03221v1)** | 2025-08-05 |  |
+| **[ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models](http://arxiv.org/abs/2508.01365v2)** | 2025-08-05 | Under review |
+| **[Memorization in Fine-Tuned Large Language Models](http://arxiv.org/abs/2507.21009v2)** | 2025-08-05 |  |
+| **[Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](http://arxiv.org/abs/2508.03098v1)** | 2025-08-05 |  |
+| **[CoCoTen: Detecting Adversarial Inputs to Large Language Models through Latent Space Features of Contextual Co-occurrence Tensors](http://arxiv.org/abs/2508.02997v1)** | 2025-08-05 |  |
+| **[Adversarial Attention Perturbations for Large Object Detection Transformers](http://arxiv.org/abs/2508.02987v1)** | 2025-08-05 | ICCV 2025 |
+| **[Online Robust Multi-Agent Reinforcement Learning under Model Uncertainties](http://arxiv.org/abs/2508.02948v1)** | 2025-08-04 |  |
 | **[Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework](http://arxiv.org/abs/2508.02521v1)** | 2025-08-04 |  |
-| **[MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning](http://arxiv.org/abs/2506.16792v2)** | 2025-08-04 | 14 pages, 7 figures |
-| **[Rec-AD: An Efficient Computation Framework for FDIA Detection Based on Tensor Train Decomposition and Deep Learning Recommendation Model](http://arxiv.org/abs/2507.14668v2)** | 2025-08-04 | 15 pages, 14 figures |
-| **[One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models](http://arxiv.org/abs/2505.07167v2)** | 2025-08-04 |  |
-| **[Supervisory Control of Discrete Event Systems for Small Language Under Cyber Attacks](http://arxiv.org/abs/2508.02083v1)** | 2025-08-04 | <details><summary>It is...</summary><p>It is submitted to IEEE Transactions on Automatic Control. The status is under review</p></details> |
-| **[PRIME: Plasticity-Robust Incremental Model for Encrypted Traffic Classification in Dynamic Network Environments](http://arxiv.org/abs/2508.02031v1)** | 2025-08-04 |  |
-| **[Proactive Disentangled Modeling of Trigger-Object Pairings for Backdoor Defense](http://arxiv.org/abs/2508.01932v1)** | 2025-08-03 |  |
-| **[Simulated Ensemble Attack: Transferring Jailbreaks Across Fine-tuned Vision-Language Models](http://arxiv.org/abs/2508.01741v1)** | 2025-08-03 |  |
-| **[RedDiffuser: Red Teaming Vision-Language Models for Toxic Continuation via Reinforced Stable Diffusion](http://arxiv.org/abs/2503.06223v3)** | 2025-08-03 |  |
-| **[DUP: Detection-guided Unlearning for Backdoor Purification in Language Models](http://arxiv.org/abs/2508.01647v1)** | 2025-08-03 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves](http://arxiv.org/abs/2411.00827v4)** | 2025-08-05 |  |
+| **[When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs](http://arxiv.org/abs/2508.03365v1)** | 2025-08-05 |  |
+| **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.03221v1)** | 2025-08-05 |  |
+| **[ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models](http://arxiv.org/abs/2508.01365v2)** | 2025-08-05 | Under review |
+| **[Memorization in Fine-Tuned Large Language Models](http://arxiv.org/abs/2507.21009v2)** | 2025-08-05 |  |
+| **[Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](http://arxiv.org/abs/2508.03098v1)** | 2025-08-05 |  |
+| **[CoCoTen: Detecting Adversarial Inputs to Large Language Models through Latent Space Features of Contextual Co-occurrence Tensors](http://arxiv.org/abs/2508.02997v1)** | 2025-08-05 |  |
+| **[Adversarial Attention Perturbations for Large Object Detection Transformers](http://arxiv.org/abs/2508.02987v1)** | 2025-08-05 | ICCV 2025 |
+| **[Online Robust Multi-Agent Reinforcement Learning under Model Uncertainties](http://arxiv.org/abs/2508.02948v1)** | 2025-08-04 |  |
 | **[Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework](http://arxiv.org/abs/2508.02521v1)** | 2025-08-04 |  |
-| **[MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning](http://arxiv.org/abs/2506.16792v2)** | 2025-08-04 | 14 pages, 7 figures |
-| **[Rec-AD: An Efficient Computation Framework for FDIA Detection Based on Tensor Train Decomposition and Deep Learning Recommendation Model](http://arxiv.org/abs/2507.14668v2)** | 2025-08-04 | 15 pages, 14 figures |
-| **[One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models](http://arxiv.org/abs/2505.07167v2)** | 2025-08-04 |  |
-| **[Supervisory Control of Discrete Event Systems for Small Language Under Cyber Attacks](http://arxiv.org/abs/2508.02083v1)** | 2025-08-04 | <details><summary>It is...</summary><p>It is submitted to IEEE Transactions on Automatic Control. The status is under review</p></details> |
-| **[PRIME: Plasticity-Robust Incremental Model for Encrypted Traffic Classification in Dynamic Network Environments](http://arxiv.org/abs/2508.02031v1)** | 2025-08-04 |  |
-| **[Proactive Disentangled Modeling of Trigger-Object Pairings for Backdoor Defense](http://arxiv.org/abs/2508.01932v1)** | 2025-08-03 |  |
-| **[Simulated Ensemble Attack: Transferring Jailbreaks Across Fine-tuned Vision-Language Models](http://arxiv.org/abs/2508.01741v1)** | 2025-08-03 |  |
-| **[RedDiffuser: Red Teaming Vision-Language Models for Toxic Continuation via Reinforced Stable Diffusion](http://arxiv.org/abs/2503.06223v3)** | 2025-08-03 |  |
-| **[DUP: Detection-guided Unlearning for Backdoor Purification in Language Models](http://arxiv.org/abs/2508.01647v1)** | 2025-08-03 |  |
 
