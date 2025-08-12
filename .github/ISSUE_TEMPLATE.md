@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2025
+title: Latest 15 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks](http://arxiv.org/abs/2508.08127v1)** | 2025-08-11 |  |
+| **[Assessing LLM Text Detection in Educational Contexts: Does Human Contribution Affect Detection?](http://arxiv.org/abs/2508.08096v1)** | 2025-08-11 | <details><summary>Prepr...</summary><p>Preprint as provided by the authors (19 pages, 12 figures, 9 tables)</p></details> |
+| **[Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks](http://arxiv.org/abs/2508.08029v1)** | 2025-08-11 |  |
+| **[Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration](http://arxiv.org/abs/2505.17066v3)** | 2025-08-11 |  |
+| **[Can You Trick the Grader? Adversarial Persuasion of LLM Judges](http://arxiv.org/abs/2508.07805v1)** | 2025-08-11 | 19 pages, 8 figures |
+| **[POEX: Towards Policy Executable Jailbreak Attacks Against the LLM-based Robots](http://arxiv.org/abs/2412.16633v3)** | 2025-08-11 | <details><summary>Homep...</summary><p>Homepage: https://poex-jailbreak.github.io/</p></details> |
+| **[Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation](http://arxiv.org/abs/2508.07745v1)** | 2025-08-11 | 23 pages |
+| **[Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection](http://arxiv.org/abs/2508.06913v1)** | 2025-08-09 |  |
+| **[Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](http://arxiv.org/abs/2508.06601v1)** | 2025-08-08 | <details><summary>https...</summary><p>https://deepignorance.ai/</p></details> |
 | **[When AIOps Become "AI Oops": Subverting LLM-driven IT Operations via Telemetry Manipulation](http://arxiv.org/abs/2508.06394v1)** | 2025-08-08 | v0.1 |
-| **[LLM Robustness Leaderboard v1 --Technical report](http://arxiv.org/abs/2508.06296v1)** | 2025-08-08 |  |
-| **[Feedback-Guided Extraction of Knowledge Base from Retrieval-Augmented LLM Applications](http://arxiv.org/abs/2411.14110v2)** | 2025-08-08 |  |
-| **[LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage](http://arxiv.org/abs/2412.05734v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by COLM 2025</p></details> |
-| **[Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)](http://arxiv.org/abs/2508.04894v1)** | 2025-08-06 |  |
-| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v4)** | 2025-08-06 |  |
-| **[Automatic LLM Red Teaming](http://arxiv.org/abs/2508.04451v1)** | 2025-08-06 |  |
-| **[CAIN: Hijacking LLM-Humans Conversations via Malicious System Prompts](http://arxiv.org/abs/2505.16888v2)** | 2025-08-06 |  |
-| **[CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations](http://arxiv.org/abs/2507.06043v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings), camera-ready version</p></details> |
-| **[Tool Unlearning for Tool-Augmented LLMs](http://arxiv.org/abs/2502.01083v2)** | 2025-08-06 | <details><summary>ICML ...</summary><p>ICML 2025 https://clu-uml.github.io/MU-Bench-Project-Page/</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks](http://arxiv.org/abs/2508.08127v1)** | 2025-08-11 |  |
+| **[Assessing LLM Text Detection in Educational Contexts: Does Human Contribution Affect Detection?](http://arxiv.org/abs/2508.08096v1)** | 2025-08-11 | <details><summary>Prepr...</summary><p>Preprint as provided by the authors (19 pages, 12 figures, 9 tables)</p></details> |
+| **[Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks](http://arxiv.org/abs/2508.08029v1)** | 2025-08-11 |  |
+| **[Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration](http://arxiv.org/abs/2505.17066v3)** | 2025-08-11 |  |
+| **[Can You Trick the Grader? Adversarial Persuasion of LLM Judges](http://arxiv.org/abs/2508.07805v1)** | 2025-08-11 | 19 pages, 8 figures |
+| **[POEX: Towards Policy Executable Jailbreak Attacks Against the LLM-based Robots](http://arxiv.org/abs/2412.16633v3)** | 2025-08-11 | <details><summary>Homep...</summary><p>Homepage: https://poex-jailbreak.github.io/</p></details> |
+| **[Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation](http://arxiv.org/abs/2508.07745v1)** | 2025-08-11 | 23 pages |
+| **[Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection](http://arxiv.org/abs/2508.06913v1)** | 2025-08-09 |  |
+| **[Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](http://arxiv.org/abs/2508.06601v1)** | 2025-08-08 | <details><summary>https...</summary><p>https://deepignorance.ai/</p></details> |
 | **[When AIOps Become "AI Oops": Subverting LLM-driven IT Operations via Telemetry Manipulation](http://arxiv.org/abs/2508.06394v1)** | 2025-08-08 | v0.1 |
-| **[LLM Robustness Leaderboard v1 --Technical report](http://arxiv.org/abs/2508.06296v1)** | 2025-08-08 |  |
-| **[Feedback-Guided Extraction of Knowledge Base from Retrieval-Augmented LLM Applications](http://arxiv.org/abs/2411.14110v2)** | 2025-08-08 |  |
-| **[LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage](http://arxiv.org/abs/2412.05734v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by COLM 2025</p></details> |
-| **[Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)](http://arxiv.org/abs/2508.04894v1)** | 2025-08-06 |  |
-| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v4)** | 2025-08-06 |  |
-| **[Automatic LLM Red Teaming](http://arxiv.org/abs/2508.04451v1)** | 2025-08-06 |  |
-| **[CAIN: Hijacking LLM-Humans Conversations via Malicious System Prompts](http://arxiv.org/abs/2505.16888v2)** | 2025-08-06 |  |
-| **[CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations](http://arxiv.org/abs/2507.06043v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings), camera-ready version</p></details> |
-| **[Tool Unlearning for Tool-Augmented LLMs](http://arxiv.org/abs/2502.01083v2)** | 2025-08-06 | <details><summary>ICML ...</summary><p>ICML 2025 https://clu-uml.github.io/MU-Bench-Project-Page/</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](http://arxiv.org/abs/2501.01872v3)** | 2025-08-08 | <details><summary>Our c...</summary><p>Our code is publicly available at https://github.com/UKPLab/arxiv2025-poate-attack</p></details> |
-| **[In-Training Defenses against Emergent Misalignment in Language Models](http://arxiv.org/abs/2508.06249v1)** | 2025-08-08 | Under review |
-| **[SoK: The Security-Safety Continuum of Multimodal Foundation Models through Information Flow and Game-Theoretic Defenses](http://arxiv.org/abs/2411.11195v3)** | 2025-08-08 |  |
-| **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
-| **[Adaptive Backtracking for Privacy Protection in Large Language Models](http://arxiv.org/abs/2508.06087v1)** | 2025-08-08 |  |
-| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v3)** | 2025-08-08 |  |
-| **[Bayesian weighted discrete-time dynamic models for association football prediction](http://arxiv.org/abs/2508.05891v1)** | 2025-08-07 |  |
-| **[Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights](http://arxiv.org/abs/2508.00649v2)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[JULI: Jailbreak Large Language Models by Self-Introspection](http://arxiv.org/abs/2505.11790v3)** | 2025-08-07 |  |
-| **[From Detection to Correction: Backdoor-Resilient Face Recognition via Vision-Language Trigger Detection and Noise-Based Neutralization](http://arxiv.org/abs/2508.05409v1)** | 2025-08-07 | 19 Pages, 24 Figures |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v1)** | 2025-08-11 |  |
+| **[Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense](http://arxiv.org/abs/2412.21051v3)** | 2025-08-11 | <details><summary>7 pag...</summary><p>7 pages; Major Revision for IEEE Communications Magazine</p></details> |
+| **[Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration](http://arxiv.org/abs/2505.17066v3)** | 2025-08-11 |  |
+| **[Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards](http://arxiv.org/abs/2508.05658v2)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
+| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v4)** | 2025-08-11 |  |
+| **[Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017](http://arxiv.org/abs/2506.19877v2)** | 2025-08-11 | <details><summary>submi...</summary><p>submitted to IEEE CNS 2025</p></details> |
+| **[Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models](http://arxiv.org/abs/2410.04823v2)** | 2025-08-10 |  |
+| **[Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models](http://arxiv.org/abs/2508.07173v1)** | 2025-08-10 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 12 tables</p></details> |
+| **[Sensory robustness through top-down feedback and neural stochasticity in recurrent vision models](http://arxiv.org/abs/2508.07115v1)** | 2025-08-09 |  |
+| **[Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection](http://arxiv.org/abs/2508.06913v1)** | 2025-08-09 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](http://arxiv.org/abs/2501.01872v3)** | 2025-08-08 | <details><summary>Our c...</summary><p>Our code is publicly available at https://github.com/UKPLab/arxiv2025-poate-attack</p></details> |
-| **[In-Training Defenses against Emergent Misalignment in Language Models](http://arxiv.org/abs/2508.06249v1)** | 2025-08-08 | Under review |
-| **[SoK: The Security-Safety Continuum of Multimodal Foundation Models through Information Flow and Game-Theoretic Defenses](http://arxiv.org/abs/2411.11195v3)** | 2025-08-08 |  |
-| **[Rethinking the Bias of Foundation Model under Long-tailed Distribution](http://arxiv.org/abs/2501.15955v3)** | 2025-08-08 | <details><summary>Publi...</summary><p>Published as a conference paper in ICML 2025</p></details> |
-| **[SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures](http://arxiv.org/abs/2508.06127v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages,recived by ICCV2025</p></details> |
-| **[Adaptive Backtracking for Privacy Protection in Large Language Models](http://arxiv.org/abs/2508.06087v1)** | 2025-08-08 |  |
-| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v3)** | 2025-08-08 |  |
-| **[Bayesian weighted discrete-time dynamic models for association football prediction](http://arxiv.org/abs/2508.05891v1)** | 2025-08-07 |  |
-| **[Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights](http://arxiv.org/abs/2508.00649v2)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[JULI: Jailbreak Large Language Models by Self-Introspection](http://arxiv.org/abs/2505.11790v3)** | 2025-08-07 |  |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v1)** | 2025-08-11 |  |
+| **[Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense](http://arxiv.org/abs/2412.21051v3)** | 2025-08-11 | <details><summary>7 pag...</summary><p>7 pages; Major Revision for IEEE Communications Magazine</p></details> |
+| **[Improving LLM Outputs Against Jailbreak Attacks with Expert Model Integration](http://arxiv.org/abs/2505.17066v3)** | 2025-08-11 |  |
+| **[Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards](http://arxiv.org/abs/2508.05658v2)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
+| **[FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](http://arxiv.org/abs/2501.15509v4)** | 2025-08-11 |  |
+| **[Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017](http://arxiv.org/abs/2506.19877v2)** | 2025-08-11 | <details><summary>submi...</summary><p>submitted to IEEE CNS 2025</p></details> |
+| **[Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models](http://arxiv.org/abs/2410.04823v2)** | 2025-08-10 |  |
+| **[Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models](http://arxiv.org/abs/2508.07173v1)** | 2025-08-10 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 12 tables</p></details> |
+| **[Sensory robustness through top-down feedback and neural stochasticity in recurrent vision models](http://arxiv.org/abs/2508.07115v1)** | 2025-08-09 |  |
+| **[Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection](http://arxiv.org/abs/2508.06913v1)** | 2025-08-09 |  |
 
