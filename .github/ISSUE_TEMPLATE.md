@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,28 +35,24 @@ labels: documentation
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](http://arxiv.org/abs/2506.07468v2)** | 2025-08-15 |  |
+| **[Semantically Guided Adversarial Testing of Vision Models Using Language Models](http://arxiv.org/abs/2508.11341v1)** | 2025-08-15 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables. Submitted for peer review</p></details> |
+| **[MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications](http://arxiv.org/abs/2508.10991v1)** | 2025-08-14 |  |
 | **[Leveraging large language models for SQL behavior-based database intrusion detection](http://arxiv.org/abs/2508.05690v2)** | 2025-08-14 |  |
+| **[Failures to Surface Harmful Contents in Video Large Language Models](http://arxiv.org/abs/2508.10974v1)** | 2025-08-14 | 11 pages, 8 figures |
 | **[An Explainable Transformer-based Model for Phishing Email Detection: A Large Language Model Approach](http://arxiv.org/abs/2402.13871v2)** | 2025-08-14 |  |
 | **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.03221v2)** | 2025-08-14 |  |
 | **[A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2508.10315v1)** | 2025-08-14 |  |
-| **[Pruning and Malicious Injection: A Retraining-Free Backdoor Attack on Transformer Models](http://arxiv.org/abs/2508.10243v1)** | 2025-08-14 |  |
-| **[Empowering Morphing Attack Detection using Interpretable Image-Text Foundation Model](http://arxiv.org/abs/2508.10110v1)** | 2025-08-13 |  |
-| **[Security Concerns for Large Language Models: A Survey](http://arxiv.org/abs/2505.18889v3)** | 2025-08-13 |  |
-| **[Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research](http://arxiv.org/abs/2508.09815v1)** | 2025-08-13 |  |
-| **[Model Poisoning Attacks to Federated Learning via Multi-Round Consistency](http://arxiv.org/abs/2404.15611v3)** | 2025-08-13 | CVPR 2025 |
-| **[Towards Black-Box Membership Inference Attack for Diffusion Models](http://arxiv.org/abs/2405.20771v5)** | 2025-08-13 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](http://arxiv.org/abs/2506.07468v2)** | 2025-08-15 |  |
+| **[Semantically Guided Adversarial Testing of Vision Models Using Language Models](http://arxiv.org/abs/2508.11341v1)** | 2025-08-15 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables. Submitted for peer review</p></details> |
+| **[MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications](http://arxiv.org/abs/2508.10991v1)** | 2025-08-14 |  |
 | **[Leveraging large language models for SQL behavior-based database intrusion detection](http://arxiv.org/abs/2508.05690v2)** | 2025-08-14 |  |
+| **[Failures to Surface Harmful Contents in Video Large Language Models](http://arxiv.org/abs/2508.10974v1)** | 2025-08-14 | 11 pages, 8 figures |
 | **[An Explainable Transformer-based Model for Phishing Email Detection: A Large Language Model Approach](http://arxiv.org/abs/2402.13871v2)** | 2025-08-14 |  |
 | **[BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models](http://arxiv.org/abs/2508.03221v2)** | 2025-08-14 |  |
 | **[A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2508.10315v1)** | 2025-08-14 |  |
-| **[Pruning and Malicious Injection: A Retraining-Free Backdoor Attack on Transformer Models](http://arxiv.org/abs/2508.10243v1)** | 2025-08-14 |  |
-| **[Empowering Morphing Attack Detection using Interpretable Image-Text Foundation Model](http://arxiv.org/abs/2508.10110v1)** | 2025-08-13 |  |
-| **[Security Concerns for Large Language Models: A Survey](http://arxiv.org/abs/2505.18889v3)** | 2025-08-13 |  |
-| **[Extending the OWASP Multi-Agentic System Threat Modeling Guide: Insights from Multi-Agent Security Research](http://arxiv.org/abs/2508.09815v1)** | 2025-08-13 |  |
-| **[Model Poisoning Attacks to Federated Learning via Multi-Round Consistency](http://arxiv.org/abs/2404.15611v3)** | 2025-08-13 | CVPR 2025 |
-| **[Towards Black-Box Membership Inference Attack for Diffusion Models](http://arxiv.org/abs/2405.20771v5)** | 2025-08-13 |  |
 
