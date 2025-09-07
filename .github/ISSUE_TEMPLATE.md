@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis](http://arxiv.org/abs/2509.04191v1)** | 2025-09-04 |  |
+| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
 | **[PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](http://arxiv.org/abs/2509.03117v1)** | 2025-09-03 |  |
 | **[Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety](http://arxiv.org/abs/2509.02163v1)** | 2025-09-02 |  |
 | **[ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation](http://arxiv.org/abs/2507.14201v2)** | 2025-09-01 | Add code link |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](http://arxiv.org/abs/2509.01211v1)** | 2025-09-01 |  |
 | **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](http://arxiv.org/abs/2509.00973v1)** | 2025-08-31 | <details><summary>8 pag...</summary><p>8 pages. Accepted for publication in the proceedings of 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2025)</p></details> |
 | **[Progent: Programmable Privilege Control for LLM Agents](http://arxiv.org/abs/2504.11703v2)** | 2025-08-30 |  |
-| **[QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety](http://arxiv.org/abs/2506.12299v2)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accept to ACLW 2025 (WOAH)</p></details> |
-| **[Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](http://arxiv.org/abs/2508.20863v2)** | 2025-08-29 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis](http://arxiv.org/abs/2509.04191v1)** | 2025-09-04 |  |
+| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
 | **[PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](http://arxiv.org/abs/2509.03117v1)** | 2025-09-03 |  |
 | **[Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety](http://arxiv.org/abs/2509.02163v1)** | 2025-09-02 |  |
 | **[ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation](http://arxiv.org/abs/2507.14201v2)** | 2025-09-01 | Add code link |
@@ -29,34 +31,32 @@ labels: documentation
 | **[Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](http://arxiv.org/abs/2509.01211v1)** | 2025-09-01 |  |
 | **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](http://arxiv.org/abs/2509.00973v1)** | 2025-08-31 | <details><summary>8 pag...</summary><p>8 pages. Accepted for publication in the proceedings of 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2025)</p></details> |
 | **[Progent: Programmable Privilege Control for LLM Agents](http://arxiv.org/abs/2504.11703v2)** | 2025-08-30 |  |
-| **[QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety](http://arxiv.org/abs/2506.12299v2)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accept to ACLW 2025 (WOAH)</p></details> |
-| **[Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](http://arxiv.org/abs/2508.20863v2)** | 2025-08-29 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](http://arxiv.org/abs/2509.04245v1)** | 2025-09-04 |  |
+| **[An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](http://arxiv.org/abs/2509.04214v1)** | 2025-09-04 |  |
+| **[NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](http://arxiv.org/abs/2509.03985v1)** | 2025-09-04 | 12 pages, 9 figures |
+| **[Learning an Adversarial World Model for Automated Curriculum Generation in MARL](http://arxiv.org/abs/2509.03771v1)** | 2025-09-03 |  |
 | **[SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models](http://arxiv.org/abs/2509.03487v1)** | 2025-09-03 |  |
 | **[On the MIA Vulnerability Gap Between Private GANs and Diffusion Models](http://arxiv.org/abs/2509.03341v1)** | 2025-09-03 |  |
 | **[Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models](http://arxiv.org/abs/2410.20940v2)** | 2025-09-03 | <details><summary>Prese...</summary><p>Presented at EMNLP 2025</p></details> |
 | **[Gradients: When Markets Meet Fine-tuning -- A Distributed Approach to Model Optimisation](http://arxiv.org/abs/2506.07940v2)** | 2025-09-03 |  |
 | **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v2)** | 2025-09-03 |  |
 | **[Similarity between Units of Natural Language: The Transition from Coarse to Fine Estimation](http://arxiv.org/abs/2210.14275v3)** | 2025-09-03 | PhD thesis |
-| **[EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint](http://arxiv.org/abs/2509.03058v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Main</p></details> |
-| **[ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality](http://arxiv.org/abs/2501.12553v2)** | 2025-09-03 | <details><summary>The p...</summary><p>The paper has been accepted to the 2025 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), and selected for publication in the 2025 IEEE Transactions on Visualization and Computer Graphics (TVCG) special issue</p></details> |
-| **[Efficient State Estimation of a Networked FlipIt Model](http://arxiv.org/abs/2504.01096v2)** | 2025-09-02 |  |
-| **[A Survey: Towards Privacy and Security in Mobile Large Language Models](http://arxiv.org/abs/2509.02411v1)** | 2025-09-02 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](http://arxiv.org/abs/2509.04245v1)** | 2025-09-04 |  |
+| **[An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](http://arxiv.org/abs/2509.04214v1)** | 2025-09-04 |  |
+| **[NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](http://arxiv.org/abs/2509.03985v1)** | 2025-09-04 | 12 pages, 9 figures |
+| **[Learning an Adversarial World Model for Automated Curriculum Generation in MARL](http://arxiv.org/abs/2509.03771v1)** | 2025-09-03 |  |
 | **[SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models](http://arxiv.org/abs/2509.03487v1)** | 2025-09-03 |  |
 | **[On the MIA Vulnerability Gap Between Private GANs and Diffusion Models](http://arxiv.org/abs/2509.03341v1)** | 2025-09-03 |  |
 | **[Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models](http://arxiv.org/abs/2410.20940v2)** | 2025-09-03 | <details><summary>Prese...</summary><p>Presented at EMNLP 2025</p></details> |
 | **[Gradients: When Markets Meet Fine-tuning -- A Distributed Approach to Model Optimisation](http://arxiv.org/abs/2506.07940v2)** | 2025-09-03 |  |
 | **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v2)** | 2025-09-03 |  |
 | **[Similarity between Units of Natural Language: The Transition from Coarse to Fine Estimation](http://arxiv.org/abs/2210.14275v3)** | 2025-09-03 | PhD thesis |
-| **[EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint](http://arxiv.org/abs/2509.03058v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Main</p></details> |
-| **[ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality](http://arxiv.org/abs/2501.12553v2)** | 2025-09-03 | <details><summary>The p...</summary><p>The paper has been accepted to the 2025 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), and selected for publication in the 2025 IEEE Transactions on Visualization and Computer Graphics (TVCG) special issue</p></details> |
-| **[Efficient State Estimation of a Networked FlipIt Model](http://arxiv.org/abs/2504.01096v2)** | 2025-09-02 |  |
-| **[A Survey: Towards Privacy and Security in Mobile Large Language Models](http://arxiv.org/abs/2509.02411v1)** | 2025-09-02 |  |
 
