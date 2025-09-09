@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
+| **[AttestLLM: Efficient Attestation Framework for Billion-scale On-device LLMs](http://arxiv.org/abs/2509.06326v1)** | 2025-09-08 |  |
+| **[Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs](http://arxiv.org/abs/2509.05883v1)** | 2025-09-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization](http://arxiv.org/abs/2509.05831v1)** | 2025-09-06 |  |
+| **[Membership Inference Attacks on LLM-based Recommender Systems](http://arxiv.org/abs/2508.18665v2)** | 2025-09-06 |  |
+| **[Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System](http://arxiv.org/abs/2509.05755v1)** | 2025-09-06 |  |
+| **[Cross-Service Threat Intelligence in LLM Services using Privacy-Preserving Fingerprints](http://arxiv.org/abs/2509.05608v1)** | 2025-09-06 |  |
+| **[Neural Breadcrumbs: Membership Inference Attacks on LLMs Through Hidden State and Attention Pattern Analysis](http://arxiv.org/abs/2509.05449v1)** | 2025-09-05 |  |
 | **[Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](http://arxiv.org/abs/2509.04615v1)** | 2025-09-04 |  |
 | **[KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis](http://arxiv.org/abs/2509.04191v1)** | 2025-09-04 |  |
-| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
-| **[PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](http://arxiv.org/abs/2509.03117v1)** | 2025-09-03 |  |
-| **[Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety](http://arxiv.org/abs/2509.02163v1)** | 2025-09-02 |  |
-| **[ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation](http://arxiv.org/abs/2507.14201v2)** | 2025-09-01 | Add code link |
-| **[Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](http://arxiv.org/abs/2509.01631v1)** | 2025-09-01 | 10 pages, 6 figures |
-| **[Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions](http://arxiv.org/abs/2509.01444v1)** | 2025-09-01 |  |
-| **[Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](http://arxiv.org/abs/2509.01211v1)** | 2025-09-01 |  |
-| **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](http://arxiv.org/abs/2509.00973v1)** | 2025-08-31 | <details><summary>8 pag...</summary><p>8 pages. Accepted for publication in the proceedings of 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2025)</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
+| **[AttestLLM: Efficient Attestation Framework for Billion-scale On-device LLMs](http://arxiv.org/abs/2509.06326v1)** | 2025-09-08 |  |
+| **[Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs](http://arxiv.org/abs/2509.05883v1)** | 2025-09-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization](http://arxiv.org/abs/2509.05831v1)** | 2025-09-06 |  |
+| **[Membership Inference Attacks on LLM-based Recommender Systems](http://arxiv.org/abs/2508.18665v2)** | 2025-09-06 |  |
+| **[Exploit Tool Invocation Prompt for Tool Behavior Hijacking in LLM-Based Agentic System](http://arxiv.org/abs/2509.05755v1)** | 2025-09-06 |  |
+| **[Cross-Service Threat Intelligence in LLM Services using Privacy-Preserving Fingerprints](http://arxiv.org/abs/2509.05608v1)** | 2025-09-06 |  |
+| **[Neural Breadcrumbs: Membership Inference Attacks on LLMs Through Hidden State and Attention Pattern Analysis](http://arxiv.org/abs/2509.05449v1)** | 2025-09-05 |  |
 | **[Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](http://arxiv.org/abs/2509.04615v1)** | 2025-09-04 |  |
 | **[KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis](http://arxiv.org/abs/2509.04191v1)** | 2025-09-04 |  |
-| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
-| **[PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity](http://arxiv.org/abs/2509.03117v1)** | 2025-09-03 |  |
-| **[Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety](http://arxiv.org/abs/2509.02163v1)** | 2025-09-02 |  |
-| **[ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation](http://arxiv.org/abs/2507.14201v2)** | 2025-09-01 | Add code link |
-| **[Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](http://arxiv.org/abs/2509.01631v1)** | 2025-09-01 | 10 pages, 6 figures |
-| **[Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions](http://arxiv.org/abs/2509.01444v1)** | 2025-09-01 |  |
-| **[Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](http://arxiv.org/abs/2509.01211v1)** | 2025-09-01 |  |
-| **[Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation](http://arxiv.org/abs/2509.00973v1)** | 2025-08-31 | <details><summary>8 pag...</summary><p>8 pages. Accepted for publication in the proceedings of 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2025)</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training a Perceptual Model for Evaluating Auditory Similarity in Music Adversarial Attack](http://arxiv.org/abs/2509.04985v1)** | 2025-09-05 |  |
-| **[RINSER: Accurate API Prediction Using Masked Language Models](http://arxiv.org/abs/2509.04887v1)** | 2025-09-05 | 16 pages, 8 figures |
-| **[Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](http://arxiv.org/abs/2408.09600v3)** | 2025-09-05 | <details><summary>Rejec...</summary><p>Rejected by AAAI25-AIA. Accepted by ICML25. Authors are thankful to the anonymous reviewers from both AAAI25-AIA and ICML25</p></details> |
-| **[Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](http://arxiv.org/abs/2509.04615v1)** | 2025-09-04 |  |
-| **[Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing](http://arxiv.org/abs/2412.13341v2)** | 2025-09-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
-| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](http://arxiv.org/abs/2509.04597v1)** | 2025-09-04 |  |
-| **[Manipulating Transformer-Based Models: Controllability, Steerability, and Robust Interventions](http://arxiv.org/abs/2509.04549v1)** | 2025-09-04 | 13 pages |
-| **[Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](http://arxiv.org/abs/2509.04245v1)** | 2025-09-04 |  |
-| **[An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](http://arxiv.org/abs/2509.04214v1)** | 2025-09-04 |  |
-| **[NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](http://arxiv.org/abs/2509.03985v1)** | 2025-09-04 | 12 pages, 9 figures |
+| **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](http://arxiv.org/abs/2501.01872v4)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main)</p></details> |
+| **[Learning Optimal Defender Strategies for CAGE-2 using a POMDP Model](http://arxiv.org/abs/2509.06539v1)** | 2025-09-08 | <details><summary>The p...</summary><p>The paper is has been accepted for the 21st International Conference on Network and Service Management (CNSM-2025). The final version will be published in the conference proceedings</p></details> |
+| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](http://arxiv.org/abs/2508.17304v2)** | 2025-09-08 | References added |
+| **[Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models](http://arxiv.org/abs/2502.15836v2)** | 2025-09-08 | EMNLP 2025 Findings |
+| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
+| **[Regeneration Based Training-free Attribution of Fake Images Generated by Text-to-Image Generative Models](http://arxiv.org/abs/2403.01489v2)** | 2025-09-08 | <details><summary>The p...</summary><p>The paper has been withdrawn by the authors because the proposed approach is currently undergoing optimization and improvement. We are refining the methodology to achieve more robust and convincing results, and a revised version will be submitted once the enhancements are completed</p></details> |
+| **[Lightweight Intrusion Detection System Using a Hybrid CNN and ConvNeXt-Tiny Model for Internet of Things Networks](http://arxiv.org/abs/2509.06202v1)** | 2025-09-07 |  |
+| **[ComplicitSplat: Downstream Models are Vulnerable to Blackbox Attacks by 3D Gaussian Splat Camouflages](http://arxiv.org/abs/2508.11854v2)** | 2025-09-07 | 7 pages, 6 figures |
+| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v6)** | 2025-09-06 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v3)** | 2025-09-06 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training a Perceptual Model for Evaluating Auditory Similarity in Music Adversarial Attack](http://arxiv.org/abs/2509.04985v1)** | 2025-09-05 |  |
-| **[RINSER: Accurate API Prediction Using Masked Language Models](http://arxiv.org/abs/2509.04887v1)** | 2025-09-05 | 16 pages, 8 figures |
-| **[Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](http://arxiv.org/abs/2408.09600v3)** | 2025-09-05 | <details><summary>Rejec...</summary><p>Rejected by AAAI25-AIA. Accepted by ICML25. Authors are thankful to the anonymous reviewers from both AAAI25-AIA and ICML25</p></details> |
-| **[Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs](http://arxiv.org/abs/2509.04615v1)** | 2025-09-04 |  |
-| **[Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing](http://arxiv.org/abs/2412.13341v2)** | 2025-09-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
-| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](http://arxiv.org/abs/2509.04597v1)** | 2025-09-04 |  |
-| **[Manipulating Transformer-Based Models: Controllability, Steerability, and Robust Interventions](http://arxiv.org/abs/2509.04549v1)** | 2025-09-04 | 13 pages |
-| **[Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models](http://arxiv.org/abs/2509.04245v1)** | 2025-09-04 |  |
-| **[An Automated, Scalable Machine Learning Model Inversion Assessment Pipeline](http://arxiv.org/abs/2509.04214v1)** | 2025-09-04 |  |
-| **[NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models](http://arxiv.org/abs/2509.03985v1)** | 2025-09-04 | 12 pages, 9 figures |
+| **[Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](http://arxiv.org/abs/2501.01872v4)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main)</p></details> |
+| **[Learning Optimal Defender Strategies for CAGE-2 using a POMDP Model](http://arxiv.org/abs/2509.06539v1)** | 2025-09-08 | <details><summary>The p...</summary><p>The paper is has been accepted for the 21st International Conference on Network and Service Management (CNSM-2025). The final version will be published in the conference proceedings</p></details> |
+| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](http://arxiv.org/abs/2508.17304v2)** | 2025-09-08 | References added |
+| **[Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models](http://arxiv.org/abs/2502.15836v2)** | 2025-09-08 | EMNLP 2025 Findings |
+| **[Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](http://arxiv.org/abs/2503.05445v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
+| **[Regeneration Based Training-free Attribution of Fake Images Generated by Text-to-Image Generative Models](http://arxiv.org/abs/2403.01489v2)** | 2025-09-08 | <details><summary>The p...</summary><p>The paper has been withdrawn by the authors because the proposed approach is currently undergoing optimization and improvement. We are refining the methodology to achieve more robust and convincing results, and a revised version will be submitted once the enhancements are completed</p></details> |
+| **[Lightweight Intrusion Detection System Using a Hybrid CNN and ConvNeXt-Tiny Model for Internet of Things Networks](http://arxiv.org/abs/2509.06202v1)** | 2025-09-07 |  |
+| **[ComplicitSplat: Downstream Models are Vulnerable to Blackbox Attacks by 3D Gaussian Splat Camouflages](http://arxiv.org/abs/2508.11854v2)** | 2025-09-07 | 7 pages, 6 figures |
+| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v6)** | 2025-09-06 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v3)** | 2025-09-06 |  |
 
