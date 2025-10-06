@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Permissioned LLMs: Enforcing Access Control in Large Language Models](http://arxiv.org/abs/2505.22860v2)** | 2025-10-03 |  |
+| **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](http://arxiv.org/abs/2510.02833v1)** | 2025-10-03 |  |
+| **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](http://arxiv.org/abs/2504.21700v2)** | 2025-10-03 |  |
+| **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
+| **[ToolTweak: An Attack on Tool Selection in LLM-based Agents](http://arxiv.org/abs/2510.02554v1)** | 2025-10-02 |  |
 | **[Detecting Post-generation Edits to Watermarked LLM Outputs via Combinatorial Watermarking](http://arxiv.org/abs/2510.01637v1)** | 2025-10-02 |  |
 | **[Defend LLMs Through Self-Consciousness](http://arxiv.org/abs/2508.02961v2)** | 2025-10-01 | <details><summary>compa...</summary><p>company requests to withdraw</p></details> |
 | **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](http://arxiv.org/abs/2509.14285v2)** | 2025-10-01 | <details><summary>IEEE ...</summary><p>IEEE Conference standard paper</p></details> |
 | **[Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense](http://arxiv.org/abs/2510.01088v1)** | 2025-10-01 |  |
 | **[LLM Watermark Evasion via Bias Inversion](http://arxiv.org/abs/2509.23019v2)** | 2025-10-01 |  |
-| **[Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours](http://arxiv.org/abs/2510.01288v1)** | 2025-10-01 | <details><summary>9 mai...</summary><p>9 main pages, 13 appendix pages</p></details> |
-| **[CORTEX: Collaborative LLM Agents for High-Stakes Alert Triage](http://arxiv.org/abs/2510.00311v1)** | 2025-09-30 |  |
-| **[Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization](http://arxiv.org/abs/2509.20230v3)** | 2025-09-30 |  |
-| **[QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety](http://arxiv.org/abs/2506.12299v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accept to ACLW 2025 (WOAH); fix typo</p></details> |
-| **[Dagger Behind Smile: Fool LLMs with a Happy Ending Story](http://arxiv.org/abs/2501.13115v3)** | 2025-09-30 | EMNLP 2025 Findings |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Permissioned LLMs: Enforcing Access Control in Large Language Models](http://arxiv.org/abs/2505.22860v2)** | 2025-10-03 |  |
+| **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](http://arxiv.org/abs/2510.02833v1)** | 2025-10-03 |  |
+| **[XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs](http://arxiv.org/abs/2504.21700v2)** | 2025-10-03 |  |
+| **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
+| **[ToolTweak: An Attack on Tool Selection in LLM-based Agents](http://arxiv.org/abs/2510.02554v1)** | 2025-10-02 |  |
 | **[Detecting Post-generation Edits to Watermarked LLM Outputs via Combinatorial Watermarking](http://arxiv.org/abs/2510.01637v1)** | 2025-10-02 |  |
 | **[Defend LLMs Through Self-Consciousness](http://arxiv.org/abs/2508.02961v2)** | 2025-10-01 | <details><summary>compa...</summary><p>company requests to withdraw</p></details> |
 | **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](http://arxiv.org/abs/2509.14285v2)** | 2025-10-01 | <details><summary>IEEE ...</summary><p>IEEE Conference standard paper</p></details> |
 | **[Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense](http://arxiv.org/abs/2510.01088v1)** | 2025-10-01 |  |
 | **[LLM Watermark Evasion via Bias Inversion](http://arxiv.org/abs/2509.23019v2)** | 2025-10-01 |  |
-| **[Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours](http://arxiv.org/abs/2510.01288v1)** | 2025-10-01 | <details><summary>9 mai...</summary><p>9 main pages, 13 appendix pages</p></details> |
-| **[CORTEX: Collaborative LLM Agents for High-Stakes Alert Triage](http://arxiv.org/abs/2510.00311v1)** | 2025-09-30 |  |
-| **[Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization](http://arxiv.org/abs/2509.20230v3)** | 2025-09-30 |  |
-| **[QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety](http://arxiv.org/abs/2506.12299v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accept to ACLW 2025 (WOAH); fix typo</p></details> |
-| **[Dagger Behind Smile: Fool LLMs with a Happy Ending Story](http://arxiv.org/abs/2501.13115v3)** | 2025-09-30 | EMNLP 2025 Findings |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](http://arxiv.org/abs/2510.02194v1)** | 2025-10-02 |  |
-| **[OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models](http://arxiv.org/abs/2510.01409v1)** | 2025-10-01 | <details><summary>20 pa...</summary><p>20 pages, 6 tables, 7 figures</p></details> |
-| **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** | 2025-10-01 |  |
-| **[Eliciting Secret Knowledge from Language Models](http://arxiv.org/abs/2510.01070v1)** | 2025-10-01 |  |
-| **[A Framework for Double-Blind Federated Adaptation of Foundation Models](http://arxiv.org/abs/2502.01289v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Large Reasoning Models Learn Better Alignment from Flawed Thinking](http://arxiv.org/abs/2510.00938v1)** | 2025-10-01 |  |
-| **[DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models](http://arxiv.org/abs/2510.00778v1)** | 2025-10-01 | ICCV2025 |
-| **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](http://arxiv.org/abs/2506.15674v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main)</p></details> |
-| **[MLAAD: The Multi-Language Audio Anti-Spoofing Dataset](http://arxiv.org/abs/2401.09512v8)** | 2025-10-01 | IJCNN 2024 |
-| **[Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability](http://arxiv.org/abs/2510.00565v1)** | 2025-10-01 |  |
+| **[FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](http://arxiv.org/abs/2510.03204v1)** | 2025-10-03 |  |
+| **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2510.02964v1)** | 2025-10-03 |  |
+| **[Leave No TRACE: Black-box Detection of Copyrighted Dataset Usage in Large Language Models via Watermarking](http://arxiv.org/abs/2510.02962v1)** | 2025-10-03 |  |
+| **[Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting](http://arxiv.org/abs/2510.02913v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2025 Workshop on Reliable ML from Unreliable Data</p></details> |
+| **[Diffusion-aided Task-oriented Semantic Communications with Model Inversion Attack](http://arxiv.org/abs/2506.19886v2)** | 2025-10-03 |  |
+| **[Time-To-Inconsistency: A Survival Analysis of Large Language Model Robustness to Adversarial Attacks](http://arxiv.org/abs/2510.02712v1)** | 2025-10-03 |  |
+| **[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](http://arxiv.org/abs/2505.17568v2)** | 2025-10-03 |  |
+| **[ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks](http://arxiv.org/abs/2510.02677v1)** | 2025-10-03 | 60 pages, 16 figures |
+| **[PrisonBreak: Jailbreaking Large Language Models with at Most Twenty-Five Targeted Bit-flips](http://arxiv.org/abs/2412.07192v3)** | 2025-10-02 | Pre-print |
+| **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](http://arxiv.org/abs/2510.02194v1)** | 2025-10-02 |  |
-| **[OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models](http://arxiv.org/abs/2510.01409v1)** | 2025-10-01 | <details><summary>20 pa...</summary><p>20 pages, 6 tables, 7 figures</p></details> |
-| **[Backdoor Attacks Against Speech Language Models](http://arxiv.org/abs/2510.01157v1)** | 2025-10-01 |  |
-| **[Eliciting Secret Knowledge from Language Models](http://arxiv.org/abs/2510.01070v1)** | 2025-10-01 |  |
-| **[A Framework for Double-Blind Federated Adaptation of Foundation Models](http://arxiv.org/abs/2502.01289v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Large Reasoning Models Learn Better Alignment from Flawed Thinking](http://arxiv.org/abs/2510.00938v1)** | 2025-10-01 |  |
-| **[DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models](http://arxiv.org/abs/2510.00778v1)** | 2025-10-01 | ICCV2025 |
-| **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers](http://arxiv.org/abs/2506.15674v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main)</p></details> |
-| **[MLAAD: The Multi-Language Audio Anti-Spoofing Dataset](http://arxiv.org/abs/2401.09512v8)** | 2025-10-01 | IJCNN 2024 |
-| **[Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability](http://arxiv.org/abs/2510.00565v1)** | 2025-10-01 |  |
+| **[FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](http://arxiv.org/abs/2510.03204v1)** | 2025-10-03 |  |
+| **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2510.02964v1)** | 2025-10-03 |  |
+| **[Leave No TRACE: Black-box Detection of Copyrighted Dataset Usage in Large Language Models via Watermarking](http://arxiv.org/abs/2510.02962v1)** | 2025-10-03 |  |
+| **[Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting](http://arxiv.org/abs/2510.02913v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2025 Workshop on Reliable ML from Unreliable Data</p></details> |
+| **[Diffusion-aided Task-oriented Semantic Communications with Model Inversion Attack](http://arxiv.org/abs/2506.19886v2)** | 2025-10-03 |  |
+| **[Time-To-Inconsistency: A Survival Analysis of Large Language Model Robustness to Adversarial Attacks](http://arxiv.org/abs/2510.02712v1)** | 2025-10-03 |  |
+| **[JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](http://arxiv.org/abs/2505.17568v2)** | 2025-10-03 |  |
+| **[ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks](http://arxiv.org/abs/2510.02677v1)** | 2025-10-03 | 60 pages, 16 figures |
+| **[PrisonBreak: Jailbreaking Large Language Models with at Most Twenty-Five Targeted Bit-flips](http://arxiv.org/abs/2412.07192v3)** | 2025-10-02 | Pre-print |
+| **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
 
