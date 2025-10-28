@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast-MIA: Efficient and Scalable Membership Inference for LLMs](http://arxiv.org/abs/2510.23074v1)** | 2025-10-27 |  |
+| **[CompressionAttack: Exploiting Prompt Compression as a New Attack Surface in LLM-Powered Agents](http://arxiv.org/abs/2510.22963v1)** | 2025-10-27 |  |
+| **[Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks](http://arxiv.org/abs/2510.22628v1)** | 2025-10-26 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Preprint version under review in the area of Artificial Intelligence (cs.AI)</p></details> |
+| **[Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](http://arxiv.org/abs/2510.22620v1)** | 2025-10-26 | <details><summary>Julia...</summary><p>Julia Bazinska and Max Mathys contributed equally</p></details> |
+| **[AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices](http://arxiv.org/abs/2510.19462v2)** | 2025-10-25 |  |
+| **[Memory Injection Attacks on LLM Agents via Query-Only Interaction](http://arxiv.org/abs/2503.03704v3)** | 2025-10-24 |  |
+| **[Uncovering the Persuasive Fingerprint of LLMs in Jailbreaking Attacks](http://arxiv.org/abs/2510.21983v1)** | 2025-10-24 |  |
+| **[$δ$-STEAL: LLM Stealing Attack with Local Differential Privacy](http://arxiv.org/abs/2510.21946v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at ACML 2025 (PMLR W&CP). Code: https://github.com/kirudang/LDP_Stealing_Attack</p></details> |
+| **[Detecting Various DeFi Price Manipulations with LLM Reasoning](http://arxiv.org/abs/2502.11521v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by ASE 2025. Please cite the conference version of this paper, e.g., "Juantao Zhong, Daoyuan Wu, Ye Liu, Maoyi Xie, Yang Liu, Yi Li, Ning Liu. Detecting Various DeFi Price Manipulations with LLM Reasoning. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)"</p></details> |
 | **[SBASH: a Framework for Designing and Evaluating RAG vs. Prompt-Tuned LLM Honeypots](http://arxiv.org/abs/2510.21459v1)** | 2025-10-24 | <details><summary>to be...</summary><p>to be published in: The 3rd International Conference on Foundation and Large Language Models (FLLM2025), IEEE, 2025</p></details> |
-| **[Fundamental Limitations in Pointwise Defences of LLM Finetuning APIs](http://arxiv.org/abs/2502.14828v2)** | 2025-10-24 |  |
-| **[FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security](http://arxiv.org/abs/2510.21401v1)** | 2025-10-24 |  |
-| **[LLM-Powered Detection of Price Manipulation in DeFi](http://arxiv.org/abs/2510.21272v1)** | 2025-10-24 |  |
-| **[Virus Infection Attack on LLMs: Your Poisoning Can Spread "VIA" Synthetic Data](http://arxiv.org/abs/2509.23041v2)** | 2025-10-24 | <details><summary>Camer...</summary><p>Camera Ready of NeurIPS 2025 Spotlight. Source code: https://github.com/liangzid/VirusInfectionAttack</p></details> |
-| **[The Trojan Example: Jailbreaking LLMs through Template Filling and Unsafety Reasoning](http://arxiv.org/abs/2510.21190v1)** | 2025-10-24 | under review |
-| **[RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards](http://arxiv.org/abs/2506.07736v3)** | 2025-10-24 |  |
-| **[NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge](http://arxiv.org/abs/2510.21144v1)** | 2025-10-24 |  |
-| **[DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents](http://arxiv.org/abs/2506.12104v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[A Reinforcement Learning Framework for Robust and Secure LLM Watermarking](http://arxiv.org/abs/2510.21053v1)** | 2025-10-23 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast-MIA: Efficient and Scalable Membership Inference for LLMs](http://arxiv.org/abs/2510.23074v1)** | 2025-10-27 |  |
+| **[CompressionAttack: Exploiting Prompt Compression as a New Attack Surface in LLM-Powered Agents](http://arxiv.org/abs/2510.22963v1)** | 2025-10-27 |  |
+| **[Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks](http://arxiv.org/abs/2510.22628v1)** | 2025-10-26 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Preprint version under review in the area of Artificial Intelligence (cs.AI)</p></details> |
+| **[Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](http://arxiv.org/abs/2510.22620v1)** | 2025-10-26 | <details><summary>Julia...</summary><p>Julia Bazinska and Max Mathys contributed equally</p></details> |
+| **[AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices](http://arxiv.org/abs/2510.19462v2)** | 2025-10-25 |  |
+| **[Memory Injection Attacks on LLM Agents via Query-Only Interaction](http://arxiv.org/abs/2503.03704v3)** | 2025-10-24 |  |
+| **[Uncovering the Persuasive Fingerprint of LLMs in Jailbreaking Attacks](http://arxiv.org/abs/2510.21983v1)** | 2025-10-24 |  |
+| **[$δ$-STEAL: LLM Stealing Attack with Local Differential Privacy](http://arxiv.org/abs/2510.21946v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at ACML 2025 (PMLR W&CP). Code: https://github.com/kirudang/LDP_Stealing_Attack</p></details> |
+| **[Detecting Various DeFi Price Manipulations with LLM Reasoning](http://arxiv.org/abs/2502.11521v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by ASE 2025. Please cite the conference version of this paper, e.g., "Juantao Zhong, Daoyuan Wu, Ye Liu, Maoyi Xie, Yang Liu, Yi Li, Ning Liu. Detecting Various DeFi Price Manipulations with LLM Reasoning. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)"</p></details> |
 | **[SBASH: a Framework for Designing and Evaluating RAG vs. Prompt-Tuned LLM Honeypots](http://arxiv.org/abs/2510.21459v1)** | 2025-10-24 | <details><summary>to be...</summary><p>to be published in: The 3rd International Conference on Foundation and Large Language Models (FLLM2025), IEEE, 2025</p></details> |
-| **[Fundamental Limitations in Pointwise Defences of LLM Finetuning APIs](http://arxiv.org/abs/2502.14828v2)** | 2025-10-24 |  |
-| **[FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security](http://arxiv.org/abs/2510.21401v1)** | 2025-10-24 |  |
-| **[LLM-Powered Detection of Price Manipulation in DeFi](http://arxiv.org/abs/2510.21272v1)** | 2025-10-24 |  |
-| **[Virus Infection Attack on LLMs: Your Poisoning Can Spread "VIA" Synthetic Data](http://arxiv.org/abs/2509.23041v2)** | 2025-10-24 | <details><summary>Camer...</summary><p>Camera Ready of NeurIPS 2025 Spotlight. Source code: https://github.com/liangzid/VirusInfectionAttack</p></details> |
-| **[The Trojan Example: Jailbreaking LLMs through Template Filling and Unsafety Reasoning](http://arxiv.org/abs/2510.21190v1)** | 2025-10-24 | under review |
-| **[RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards](http://arxiv.org/abs/2506.07736v3)** | 2025-10-24 |  |
-| **[NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge](http://arxiv.org/abs/2510.21144v1)** | 2025-10-24 |  |
-| **[DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents](http://arxiv.org/abs/2506.12104v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[A Reinforcement Learning Framework for Robust and Secure LLM Watermarking](http://arxiv.org/abs/2510.21053v1)** | 2025-10-23 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Models Outthink Their Safety: Mitigating Self-Jailbreak in Large Reasoning Models with Chain-of-Guardrails](http://arxiv.org/abs/2510.21285v1)** | 2025-10-24 | <details><summary>First...</summary><p>First two authors contributed equally. The main text is 10 pages, with an appendix of 19 pages. The paper contains 18 figures and 16 tables</p></details> |
-| **[How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models](http://arxiv.org/abs/2501.01741v2)** | 2025-10-24 |  |
-| **[Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](http://arxiv.org/abs/2510.21189v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[Quantifying CBRN Risk in Frontier Models](http://arxiv.org/abs/2510.21133v1)** | 2025-10-24 |  |
-| **[Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations](http://arxiv.org/abs/2505.13763v2)** | 2025-10-24 |  |
-| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v1)** | 2025-10-23 |  |
-| **[From Counterfactuals to Trees: Competitive Analysis of Model Extraction Attacks](http://arxiv.org/abs/2502.05325v3)** | 2025-10-23 |  |
-| **[Transferable Black-Box One-Shot Forging of Watermarks via Image Preference Models](http://arxiv.org/abs/2510.20468v1)** | 2025-10-23 | NeurIPS 2025 |
-| **[GUIDE: Enhancing Gradient Inversion Attacks in Federated Learning with Denoising Models](http://arxiv.org/abs/2510.17621v2)** | 2025-10-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations](http://arxiv.org/abs/2510.20223v1)** | 2025-10-23 |  |
+| **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v2)** | 2025-10-27 | NeurIPS 2025 |
+| **[HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](http://arxiv.org/abs/2506.04704v3)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
+| **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v3)** | 2025-10-27 | <details><summary>This ...</summary><p>This paper is accepted to IEEE S&P 2026, the code is available at https://github.com/SeekingDream/DLCompilerAttack</p></details> |
+| **[Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](http://arxiv.org/abs/2510.22785v1)** | 2025-10-26 |  |
+| **[Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](http://arxiv.org/abs/2504.05657v2)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Information Forensics and Security</p></details> |
+| **[OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](http://arxiv.org/abs/2510.22535v1)** | 2025-10-26 |  |
+| **[CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision Language Models](http://arxiv.org/abs/2507.22828v3)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages, accepted by the 2025 ACM Multimedia Conference. Code is available at https://jus1mple.github.io/Image2CaptionAttack</p></details> |
+| **[T2I-RiskyPrompt: A Benchmark for Safety Evaluation, Attack, and Defense on Text-to-Image Model](http://arxiv.org/abs/2510.22300v1)** | 2025-10-25 | AAAI under review |
+| **[A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](http://arxiv.org/abs/2503.10635v2)** | 2025-10-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code at: https://github.com/VILA-Lab/M-Attack</p></details> |
+| **[Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models](http://arxiv.org/abs/2510.22085v1)** | 2025-10-24 | 18 pages, 5 figures |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Models Outthink Their Safety: Mitigating Self-Jailbreak in Large Reasoning Models with Chain-of-Guardrails](http://arxiv.org/abs/2510.21285v1)** | 2025-10-24 | <details><summary>First...</summary><p>First two authors contributed equally. The main text is 10 pages, with an appendix of 19 pages. The paper contains 18 figures and 16 tables</p></details> |
-| **[How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models](http://arxiv.org/abs/2501.01741v2)** | 2025-10-24 |  |
-| **[Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency](http://arxiv.org/abs/2510.21189v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[Quantifying CBRN Risk in Frontier Models](http://arxiv.org/abs/2510.21133v1)** | 2025-10-24 |  |
-| **[Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations](http://arxiv.org/abs/2505.13763v2)** | 2025-10-24 |  |
-| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v1)** | 2025-10-23 |  |
-| **[From Counterfactuals to Trees: Competitive Analysis of Model Extraction Attacks](http://arxiv.org/abs/2502.05325v3)** | 2025-10-23 |  |
-| **[Transferable Black-Box One-Shot Forging of Watermarks via Image Preference Models](http://arxiv.org/abs/2510.20468v1)** | 2025-10-23 | NeurIPS 2025 |
-| **[GUIDE: Enhancing Gradient Inversion Attacks in Federated Learning with Denoising Models](http://arxiv.org/abs/2510.17621v2)** | 2025-10-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations](http://arxiv.org/abs/2510.20223v1)** | 2025-10-23 |  |
+| **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](http://arxiv.org/abs/2505.19911v2)** | 2025-10-27 | NeurIPS 2025 |
+| **[HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](http://arxiv.org/abs/2506.04704v3)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
+| **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v3)** | 2025-10-27 | <details><summary>This ...</summary><p>This paper is accepted to IEEE S&P 2026, the code is available at https://github.com/SeekingDream/DLCompilerAttack</p></details> |
+| **[Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](http://arxiv.org/abs/2510.22785v1)** | 2025-10-26 |  |
+| **[Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](http://arxiv.org/abs/2504.05657v2)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Information Forensics and Security</p></details> |
+| **[OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](http://arxiv.org/abs/2510.22535v1)** | 2025-10-26 |  |
+| **[CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision Language Models](http://arxiv.org/abs/2507.22828v3)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages, accepted by the 2025 ACM Multimedia Conference. Code is available at https://jus1mple.github.io/Image2CaptionAttack</p></details> |
+| **[T2I-RiskyPrompt: A Benchmark for Safety Evaluation, Attack, and Defense on Text-to-Image Model](http://arxiv.org/abs/2510.22300v1)** | 2025-10-25 | AAAI under review |
+| **[A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](http://arxiv.org/abs/2503.10635v2)** | 2025-10-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code at: https://github.com/VILA-Lab/M-Attack</p></details> |
+| **[Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models](http://arxiv.org/abs/2510.22085v1)** | 2025-10-24 | 18 pages, 5 figures |
 
