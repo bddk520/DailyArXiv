@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,52 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](http://arxiv.org/abs/2511.00689v2)** | 2025-11-04 |  |
+| **[On The Dangers of Poisoned LLMs In Security Automation](http://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
+| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v5)** | 2025-11-04 |  |
+| **[An Automated Framework for Strategy Discovery, Retrieval, and Evolution in LLM Jailbreak Attacks](http://arxiv.org/abs/2511.02356v1)** | 2025-11-04 |  |
+| **[Scam Shield: Multi-Model Voting and Fine-Tuned LLMs Against Adversarial Attacks](http://arxiv.org/abs/2511.01746v1)** | 2025-11-03 | 8 pages |
+| **[Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](http://arxiv.org/abs/2511.01375v1)** | 2025-11-03 | <details><summary>under...</summary><p>under review, 28 pages</p></details> |
 | **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](http://arxiv.org/abs/2510.10987v2)** | 2025-11-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, preprint</p></details> |
+| **[ShadowLogic: Backdoors in Any Whitebox LLM](http://arxiv.org/abs/2511.00664v1)** | 2025-11-01 |  |
 | **[SLIP: Securing LLMs IP Using Weights Decomposition](http://arxiv.org/abs/2407.10886v3)** | 2025-11-01 |  |
 | **[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](http://arxiv.org/abs/2411.03343v3)** | 2025-11-01 |  |
-| **[Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization](http://arxiv.org/abs/2509.05831v2)** | 2025-10-31 |  |
-| **[Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](http://arxiv.org/abs/2510.27140v1)** | 2025-10-31 |  |
-| **[LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks](http://arxiv.org/abs/2510.26941v1)** | 2025-10-30 |  |
-| **[PVMark: Enabling Public Verifiability for LLM Watermarking Schemes](http://arxiv.org/abs/2510.26274v1)** | 2025-10-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v3)** | 2025-10-30 | ICML 2025 |
-| **[SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning](http://arxiv.org/abs/2510.26037v1)** | 2025-10-30 |  |
-| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](http://arxiv.org/abs/2510.25939v1)** | 2025-10-29 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](http://arxiv.org/abs/2511.00689v2)** | 2025-11-04 |  |
+| **[On The Dangers of Poisoned LLMs In Security Automation](http://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
+| **[The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover](http://arxiv.org/abs/2507.06850v5)** | 2025-11-04 |  |
+| **[An Automated Framework for Strategy Discovery, Retrieval, and Evolution in LLM Jailbreak Attacks](http://arxiv.org/abs/2511.02356v1)** | 2025-11-04 |  |
+| **[Scam Shield: Multi-Model Voting and Fine-Tuned LLMs Against Adversarial Attacks](http://arxiv.org/abs/2511.01746v1)** | 2025-11-03 | 8 pages |
+| **[Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](http://arxiv.org/abs/2511.01375v1)** | 2025-11-03 | <details><summary>under...</summary><p>under review, 28 pages</p></details> |
 | **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](http://arxiv.org/abs/2510.10987v2)** | 2025-11-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, preprint</p></details> |
+| **[ShadowLogic: Backdoors in Any Whitebox LLM](http://arxiv.org/abs/2511.00664v1)** | 2025-11-01 |  |
 | **[SLIP: Securing LLMs IP Using Weights Decomposition](http://arxiv.org/abs/2407.10886v3)** | 2025-11-01 |  |
 | **[What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks](http://arxiv.org/abs/2411.03343v3)** | 2025-11-01 |  |
-| **[Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization](http://arxiv.org/abs/2509.05831v2)** | 2025-10-31 |  |
-| **[Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](http://arxiv.org/abs/2510.27140v1)** | 2025-10-31 |  |
-| **[LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks](http://arxiv.org/abs/2510.26941v1)** | 2025-10-30 |  |
-| **[PVMark: Enabling Public Verifiability for LLM Watermarking Schemes](http://arxiv.org/abs/2510.26274v1)** | 2025-10-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v3)** | 2025-10-30 | ICML 2025 |
-| **[SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning](http://arxiv.org/abs/2510.26037v1)** | 2025-10-30 |  |
-| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](http://arxiv.org/abs/2510.25939v1)** | 2025-10-29 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast, Private, and Protected: Safeguarding Data Privacy and Defending Against Model Poisoning Attacks in Federated Learning](http://arxiv.org/abs/2511.02797v1)** | 2025-11-04 |  |
+| **[Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](http://arxiv.org/abs/2511.00689v2)** | 2025-11-04 |  |
+| **[Verifying LLM Inference to Prevent Model Weight Exfiltration](http://arxiv.org/abs/2511.02620v1)** | 2025-11-04 |  |
+| **[AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](http://arxiv.org/abs/2511.02376v1)** | 2025-11-04 |  |
+| **[Scam Shield: Multi-Model Voting and Fine-Tuned LLMs Against Adversarial Attacks](http://arxiv.org/abs/2511.01746v1)** | 2025-11-03 | 8 pages |
 | **[Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models](http://arxiv.org/abs/2508.16406v2)** | 2025-11-03 |  |
-| **[Risk-adaptive Activation Steering for Safe Multimodal Large Language Models](http://arxiv.org/abs/2510.13698v2)** | 2025-11-03 |  |
-| **[Exploring the limits of strong membership inference attacks on large language models](http://arxiv.org/abs/2505.18773v2)** | 2025-11-02 | NeurIPS 2025 |
-| **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](http://arxiv.org/abs/2502.11090v3)** | 2025-11-02 |  |
-| **[CoP: Agentic Red-teaming for Large Language Models using Composition of Principles](http://arxiv.org/abs/2506.00781v2)** | 2025-11-01 |  |
-| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v2)** | 2025-10-31 |  |
-| **[Eliciting Secret Knowledge from Language Models](http://arxiv.org/abs/2510.01070v2)** | 2025-10-31 |  |
-| **[Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler](http://arxiv.org/abs/2510.27172v1)** | 2025-10-31 |  |
-| **[Characterizing Selective Refusal Bias in Large Language Models](http://arxiv.org/abs/2510.27087v1)** | 2025-10-31 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 14 tables</p></details> |
-| **[Adapting Large Language Models to Emerging Cybersecurity using Retrieval Augmented Generation](http://arxiv.org/abs/2510.27080v1)** | 2025-10-31 |  |
+| **[Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models](http://arxiv.org/abs/2511.01634v1)** | 2025-11-03 | 10 pages, 6 figures |
+| **[A Generative Adversarial Approach to Adversarial Attacks Guided by Contrastive Language-Image Pre-trained Model](http://arxiv.org/abs/2511.01317v1)** | 2025-11-03 | 18 pages, 3 figures |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast, Private, and Protected: Safeguarding Data Privacy and Defending Against Model Poisoning Attacks in Federated Learning](http://arxiv.org/abs/2511.02797v1)** | 2025-11-04 |  |
+| **[Tokens, the oft-overlooked appetizer: Large language models, the distributional hypothesis, and meaning](http://arxiv.org/abs/2412.10924v8)** | 2025-11-04 |  |
+| **[Do Methods to Jailbreak and Defend LLMs Generalize Across Languages?](http://arxiv.org/abs/2511.00689v2)** | 2025-11-04 |  |
+| **[Verifying LLM Inference to Prevent Model Weight Exfiltration](http://arxiv.org/abs/2511.02620v1)** | 2025-11-04 |  |
+| **[AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](http://arxiv.org/abs/2511.02376v1)** | 2025-11-04 |  |
+| **[Scam Shield: Multi-Model Voting and Fine-Tuned LLMs Against Adversarial Attacks](http://arxiv.org/abs/2511.01746v1)** | 2025-11-03 | 8 pages |
 | **[Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models](http://arxiv.org/abs/2508.16406v2)** | 2025-11-03 |  |
-| **[Risk-adaptive Activation Steering for Safe Multimodal Large Language Models](http://arxiv.org/abs/2510.13698v2)** | 2025-11-03 |  |
-| **[Exploring the limits of strong membership inference attacks on large language models](http://arxiv.org/abs/2505.18773v2)** | 2025-11-02 | NeurIPS 2025 |
-| **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](http://arxiv.org/abs/2502.11090v3)** | 2025-11-02 |  |
-| **[CoP: Agentic Red-teaming for Large Language Models using Composition of Principles](http://arxiv.org/abs/2506.00781v2)** | 2025-11-01 |  |
-| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v2)** | 2025-10-31 |  |
-| **[Eliciting Secret Knowledge from Language Models](http://arxiv.org/abs/2510.01070v2)** | 2025-10-31 |  |
-| **[Adaptive Defense against Harmful Fine-Tuning for Large Language Models via Bayesian Data Scheduler](http://arxiv.org/abs/2510.27172v1)** | 2025-10-31 |  |
-| **[Characterizing Selective Refusal Bias in Large Language Models](http://arxiv.org/abs/2510.27087v1)** | 2025-10-31 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 14 tables</p></details> |
-| **[Adapting Large Language Models to Emerging Cybersecurity using Retrieval Augmented Generation](http://arxiv.org/abs/2510.27080v1)** | 2025-10-31 |  |
+| **[Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models](http://arxiv.org/abs/2511.01634v1)** | 2025-11-03 | 10 pages, 6 figures |
 
