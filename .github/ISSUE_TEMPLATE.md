@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v1)** | 2025-11-24 |  |
+| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v2)** | 2025-11-26 |  |
+| **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833v4)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published as a conference paper at NeurIPS 2025</p></details> |
+| **[TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://arxiv.org/abs/2511.18581v2)** | 2025-11-26 |  |
 | **[Differentiated Directional Intervention A Framework for Evading LLM Safety Alignment](https://arxiv.org/abs/2511.06852v4)** | 2025-11-24 | AAAI-26-AIA |
 | **[AttackPilot: Autonomous Inference Attacks Against ML Services With LLM-Based Agents](https://arxiv.org/abs/2511.19536v1)** | 2025-11-24 |  |
 | **[EAGER: Edge-Aligned LLM Defense for Robust, Efficient, and Accurate Cybersecurity Question Answering](https://arxiv.org/abs/2511.19523v1)** | 2025-11-24 |  |
@@ -15,48 +17,44 @@ labels: documentation
 | **[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](https://arxiv.org/abs/2412.15289v5)** | 2025-11-24 | <details><summary>ACL F...</summary><p>ACL Findings 2025. Welcome to employ SATA as a baseline</p></details> |
 | **[Automating Deception: Scalable Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2511.19517v1)** | 2025-11-24 |  |
 | **[DarkMind: Latent Chain-of-Thought Backdoor in Customized LLMs](https://arxiv.org/abs/2501.18617v2)** | 2025-11-23 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 12 tables</p></details> |
-| **[TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://arxiv.org/abs/2511.18581v1)** | 2025-11-23 |  |
-| **[Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems](https://arxiv.org/abs/2511.18467v1)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Alignment Track</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v2)** | 2025-11-26 |  |
+| **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833v4)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published as a conference paper at NeurIPS 2025</p></details> |
+| **[TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://arxiv.org/abs/2511.18581v2)** | 2025-11-26 |  |
 | **[Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains](https://arxiv.org/abs/2511.19874v1)** | 2025-11-25 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 8 tables. Evaluation across 6 production LLMs with 1,198 traces</p></details> |
-| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v1)** | 2025-11-24 |  |
 | **[Differentiated Directional Intervention A Framework for Evading LLM Safety Alignment](https://arxiv.org/abs/2511.06852v4)** | 2025-11-24 | AAAI-26-AIA |
 | **[AttackPilot: Autonomous Inference Attacks Against ML Services With LLM-Based Agents](https://arxiv.org/abs/2511.19536v1)** | 2025-11-24 |  |
 | **[EAGER: Edge-Aligned LLM Defense for Robust, Efficient, and Accurate Cybersecurity Question Answering](https://arxiv.org/abs/2511.19523v1)** | 2025-11-24 |  |
 | **[RoguePrompt: Dual-Layer Ciphering for Self-Reconstruction to Circumvent LLM Moderation](https://arxiv.org/abs/2511.18790v1)** | 2025-11-24 |  |
 | **[SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](https://arxiv.org/abs/2412.15289v5)** | 2025-11-24 | <details><summary>ACL F...</summary><p>ACL Findings 2025. Welcome to employ SATA as a baseline</p></details> |
 | **[Automating Deception: Scalable Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2511.19517v1)** | 2025-11-24 |  |
-| **[DarkMind: Latent Chain-of-Thought Backdoor in Customized LLMs](https://arxiv.org/abs/2501.18617v2)** | 2025-11-23 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 12 tables</p></details> |
-| **[TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization](https://arxiv.org/abs/2511.18581v1)** | 2025-11-23 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.21663v1)** | 2025-11-26 |  |
+| **[Multimodal Robust Prompt Distillation for 3D Point Cloud Models](https://arxiv.org/abs/2511.21574v1)** | 2025-11-26 |  |
+| **[A Gray-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse](https://arxiv.org/abs/2408.10901v4)** | 2025-11-26 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 9 tables</p></details> |
+| **[When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.21192v1)** | 2025-11-26 |  |
+| **[TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models](https://arxiv.org/abs/2511.21145v1)** | 2025-11-26 |  |
+| **[Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for oral presentation at AAAI 2026</p></details> |
+| **[Special-Character Adversarial Attacks on Open-Source Language Model](https://arxiv.org/abs/2508.14070v2)** | 2025-11-25 |  |
+| **[Securing the Model Context Protocol (MCP): Risks, Controls, and Governance](https://arxiv.org/abs/2511.20920v1)** | 2025-11-25 |  |
 | **[CGCE: Classifier-Guided Concept Erasure in Generative Models](https://arxiv.org/abs/2511.05865v2)** | 2025-11-25 | 26 pages, 17 figures |
-| **[Adversarial Confusion Attack: Disrupting Multimodal Large Language Models](https://arxiv.org/abs/2511.20494v1)** | 2025-11-25 |  |
-| **[Towards Trustworthy Wi-Fi Sensing: Systematic Evaluation of Deep Learning Model Robustness to Adversarial Attacks](https://arxiv.org/abs/2511.20456v1)** | 2025-11-25 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 7 tables</p></details> |
-| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236v3)** | 2025-11-25 |  |
-| **[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087v3)** | 2025-11-25 | 17 pages, 1 figure |
-| **[HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](https://arxiv.org/abs/2506.04704v5)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
-| **[APT-CGLP: Advanced Persistent Threat Hunting via Contrastive Graph-Language Pre-Training](https://arxiv.org/abs/2511.20290v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026 Research Track</p></details> |
-| **[ARBoids: Adaptive Residual Reinforcement Learning With Boids Model for Cooperative Multi-USV Target Defense](https://arxiv.org/abs/2502.18549v3)** | 2025-11-25 |  |
-| **[Memory Self-Regeneration: Uncovering Hidden Knowledge in Unlearned Models](https://arxiv.org/abs/2510.03263v2)** | 2025-11-24 |  |
-| **[Prompt Fencing: A Cryptographic Approach to Establishing Security Boundaries in Large Language Model Prompts](https://arxiv.org/abs/2511.19727v1)** | 2025-11-24 | 44 pages, 1 figure |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.21663v1)** | 2025-11-26 |  |
+| **[Multimodal Robust Prompt Distillation for 3D Point Cloud Models](https://arxiv.org/abs/2511.21574v1)** | 2025-11-26 |  |
+| **[A Gray-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse](https://arxiv.org/abs/2408.10901v4)** | 2025-11-26 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 9 tables</p></details> |
+| **[When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.21192v1)** | 2025-11-26 |  |
+| **[TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models](https://arxiv.org/abs/2511.21145v1)** | 2025-11-26 |  |
+| **[Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for oral presentation at AAAI 2026</p></details> |
+| **[Special-Character Adversarial Attacks on Open-Source Language Model](https://arxiv.org/abs/2508.14070v2)** | 2025-11-25 |  |
+| **[Securing the Model Context Protocol (MCP): Risks, Controls, and Governance](https://arxiv.org/abs/2511.20920v1)** | 2025-11-25 |  |
 | **[CGCE: Classifier-Guided Concept Erasure in Generative Models](https://arxiv.org/abs/2511.05865v2)** | 2025-11-25 | 26 pages, 17 figures |
-| **[Adversarial Confusion Attack: Disrupting Multimodal Large Language Models](https://arxiv.org/abs/2511.20494v1)** | 2025-11-25 |  |
-| **[Towards Trustworthy Wi-Fi Sensing: Systematic Evaluation of Deep Learning Model Robustness to Adversarial Attacks](https://arxiv.org/abs/2511.20456v1)** | 2025-11-25 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 7 tables</p></details> |
-| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236v3)** | 2025-11-25 |  |
-| **[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087v3)** | 2025-11-25 | 17 pages, 1 figure |
-| **[HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](https://arxiv.org/abs/2506.04704v5)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://youngwanlee.github.io/holisafe</p></details> |
-| **[APT-CGLP: Advanced Persistent Threat Hunting via Contrastive Graph-Language Pre-Training](https://arxiv.org/abs/2511.20290v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026 Research Track</p></details> |
-| **[ARBoids: Adaptive Residual Reinforcement Learning With Boids Model for Cooperative Multi-USV Target Defense](https://arxiv.org/abs/2502.18549v3)** | 2025-11-25 |  |
-| **[Memory Self-Regeneration: Uncovering Hidden Knowledge in Unlearned Models](https://arxiv.org/abs/2510.03263v2)** | 2025-11-24 |  |
-| **[Prompt Fencing: A Cryptographic Approach to Establishing Security Boundaries in Large Language Model Prompts](https://arxiv.org/abs/2511.19727v1)** | 2025-11-24 | 44 pages, 1 figure |
 
