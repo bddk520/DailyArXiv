@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear in NDSS 2026. For slides, see https://people.duke.edu/~zg70/code/PromptInjection.pdf</p></details> |
-| **[When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449v1)** | 2025-12-11 |  |
-| **[How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415v1)** | 2025-12-11 | Under Review |
-| **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
-| **[Verifying LLM Inference to Detect Model Weight Exfiltration](https://arxiv.org/abs/2511.02620v2)** | 2025-12-10 |  |
-| **[LLM-PEA: Leveraging Large Language Models Against Phishing Email Attacks](https://arxiv.org/abs/2512.10104v1)** | 2025-12-10 | 7 pages |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks](https://arxiv.org/abs/2512.09485v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted by IEEE JSAC. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
-| **[Memory Injection Attacks on LLM Agents via Query-Only Interaction](https://arxiv.org/abs/2503.03704v4)** | 2025-12-10 |  |
+| **[Async Control: Stress-testing Asynchronous Control Measures for LLM Agents](https://arxiv.org/abs/2512.13526v1)** | 2025-12-15 |  |
+| **[When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449v2)** | 2025-12-15 |  |
+| **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321v3)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear in NDSS 2026. For slides, see https://people.duke.edu/~zg70/code/PromptInjection.pdf</p></details> |
+| **[CTIGuardian: A Few-Shot Framework for Mitigating Privacy Leakage in Fine-Tuned LLMs](https://arxiv.org/abs/2512.12914v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at the 18th Cybersecurity Experimentation and Test Workshop (CSET), in conjunction with ACSAC 2025</p></details> |
+| **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260v2)** | 2025-12-14 | <details><summary>The p...</summary><p>The paper is published in ICT Express (Elsevier)</p></details> |
+| **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v4)** | 2025-12-14 |  |
+| **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](https://arxiv.org/abs/2509.14285v3)** | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE WIECON-ECE 2025</p></details> |
+| **[BreakFun: Jailbreaking LLMs via Schema Exploitation](https://arxiv.org/abs/2510.17904v2)** | 2025-12-13 |  |
+| **[Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection](https://arxiv.org/abs/2512.12313v1)** | 2025-12-13 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables</p></details> |
+| **[Keep the Lights On, Keep the Lengths in Check: Plug-In Adversarial Detection for Time-Series LLMs in Energy Forecasting](https://arxiv.org/abs/2512.12154v1)** | 2025-12-13 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear in NDSS 2026. For slides, see https://people.duke.edu/~zg70/code/PromptInjection.pdf</p></details> |
-| **[When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449v1)** | 2025-12-11 |  |
-| **[How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415v1)** | 2025-12-11 | Under Review |
-| **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
-| **[Verifying LLM Inference to Detect Model Weight Exfiltration](https://arxiv.org/abs/2511.02620v2)** | 2025-12-10 |  |
-| **[LLM-PEA: Leveraging Large Language Models Against Phishing Email Attacks](https://arxiv.org/abs/2512.10104v1)** | 2025-12-10 | 7 pages |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742v1)** | 2025-12-10 | 70 pages, 47 figures |
-| **[Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks](https://arxiv.org/abs/2512.09485v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted by IEEE JSAC. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
+| **[Async Control: Stress-testing Asynchronous Control Measures for LLM Agents](https://arxiv.org/abs/2512.13526v1)** | 2025-12-15 |  |
+| **[When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection](https://arxiv.org/abs/2512.10449v2)** | 2025-12-15 |  |
+| **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321v3)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear in NDSS 2026. For slides, see https://people.duke.edu/~zg70/code/PromptInjection.pdf</p></details> |
+| **[CTIGuardian: A Few-Shot Framework for Mitigating Privacy Leakage in Fine-Tuned LLMs](https://arxiv.org/abs/2512.12914v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at the 18th Cybersecurity Experimentation and Test Workshop (CSET), in conjunction with ACSAC 2025</p></details> |
+| **[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows](https://arxiv.org/abs/2506.23260v2)** | 2025-12-14 | <details><summary>The p...</summary><p>The paper is published in ICT Express (Elsevier)</p></details> |
+| **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v4)** | 2025-12-14 |  |
+| **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](https://arxiv.org/abs/2509.14285v3)** | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE WIECON-ECE 2025</p></details> |
+| **[BreakFun: Jailbreaking LLMs via Schema Exploitation](https://arxiv.org/abs/2510.17904v2)** | 2025-12-13 |  |
+| **[Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection](https://arxiv.org/abs/2512.12313v1)** | 2025-12-13 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables</p></details> |
+| **[Keep the Lights On, Keep the Lengths in Check: Plug-In Adversarial Detection for Time-Series LLMs in Energy Forecasting](https://arxiv.org/abs/2512.12154v1)** | 2025-12-13 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Effectiveness of Membership Inference in Targeted Data Extraction from Large Language Models](https://arxiv.org/abs/2512.13352v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted to IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) 2026</p></details> |
+| **[FlippedRAG: Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models](https://arxiv.org/abs/2501.02968v5)** | 2025-12-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.13757</p></details> |
+| **[Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2509.22082v2)** | 2025-12-15 |  |
+| **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v2)** | 2025-12-15 |  |
+| **[A Flat Minima Perspective on Understanding Augmentations and Model Robustness](https://arxiv.org/abs/2505.24592v3)** | 2025-12-14 | <details><summary>In Pr...</summary><p>In Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) 2026, Singapore</p></details> |
+| **[Phishing Email Detection Using Large Language Models](https://arxiv.org/abs/2512.10104v2)** | 2025-12-14 | 7 pages |
+| **[Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks](https://arxiv.org/abs/2512.10637v2)** | 2025-12-13 | <details><summary>7 pag...</summary><p>7 pages,3 figures, 2 Table. Neha and T. Bhatia "Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks" (2025) 103-107</p></details> |
+| **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v1)** | 2025-12-12 | 40 pages, 13 figures |
 | **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
 | **[Defense That Attacks: How Robust Models Become Better Attackers](https://arxiv.org/abs/2512.02830v3)** | 2025-12-12 |  |
-| **[CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://arxiv.org/abs/2512.11437v1)** | 2025-12-12 | 49 pages, 31 figures |
-| **[Towards Backdoor Stealthiness in Model Parameter Space](https://arxiv.org/abs/2501.05928v3)** | 2025-12-12 | accepted by CCS 2025 |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks](https://arxiv.org/abs/2512.10637v1)** | 2025-12-11 | <details><summary>6 pag...</summary><p>6 pages,2 figures, 1 Table</p></details> |
-| **[Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse](https://arxiv.org/abs/2512.08864v2)** | 2025-12-11 |  |
-| **[Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense](https://arxiv.org/abs/2412.21051v4)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages; Accepted by IEEE Communications Magazine</p></details> |
-| **[When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.16203v3)** | 2025-12-11 |  |
-| **[Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization](https://arxiv.org/abs/2411.03752v3)** | 2025-12-11 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Effectiveness of Membership Inference in Targeted Data Extraction from Large Language Models](https://arxiv.org/abs/2512.13352v1)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted to IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) 2026</p></details> |
+| **[FlippedRAG: Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models](https://arxiv.org/abs/2501.02968v5)** | 2025-12-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.13757</p></details> |
+| **[Non-Linear Trajectory Modeling for Multi-Step Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2509.22082v2)** | 2025-12-15 |  |
+| **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v2)** | 2025-12-15 |  |
+| **[A Flat Minima Perspective on Understanding Augmentations and Model Robustness](https://arxiv.org/abs/2505.24592v3)** | 2025-12-14 | <details><summary>In Pr...</summary><p>In Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) 2026, Singapore</p></details> |
+| **[Phishing Email Detection Using Large Language Models](https://arxiv.org/abs/2512.10104v2)** | 2025-12-14 | 7 pages |
+| **[Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks](https://arxiv.org/abs/2512.10637v2)** | 2025-12-13 | <details><summary>7 pag...</summary><p>7 pages,3 figures, 2 Table. Neha and T. Bhatia "Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks" (2025) 103-107</p></details> |
+| **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v1)** | 2025-12-12 | 40 pages, 13 figures |
 | **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
 | **[Defense That Attacks: How Robust Models Become Better Attackers](https://arxiv.org/abs/2512.02830v3)** | 2025-12-12 |  |
-| **[CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://arxiv.org/abs/2512.11437v1)** | 2025-12-12 | 49 pages, 31 figures |
-| **[Towards Backdoor Stealthiness in Model Parameter Space](https://arxiv.org/abs/2501.05928v3)** | 2025-12-12 | accepted by CCS 2025 |
-| **[Better Language Model Inversion by Compactly Representing Next-Token Distributions](https://arxiv.org/abs/2506.17090v3)** | 2025-12-11 |  |
-| **[Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks](https://arxiv.org/abs/2512.10637v1)** | 2025-12-11 | <details><summary>6 pag...</summary><p>6 pages,2 figures, 1 Table</p></details> |
-| **[Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse](https://arxiv.org/abs/2512.08864v2)** | 2025-12-11 |  |
-| **[Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense](https://arxiv.org/abs/2412.21051v4)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages; Accepted by IEEE Communications Magazine</p></details> |
-| **[When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.16203v3)** | 2025-12-11 |  |
-| **[Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization](https://arxiv.org/abs/2411.03752v3)** | 2025-12-11 |  |
 
