@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
+| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
+| **[INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2601.14667v1)** | 2026-01-21 |  |
+| **[NeuroFilter: Privacy Guardrails for Conversational LLM Agents](https://arxiv.org/abs/2601.14660v1)** | 2026-01-21 |  |
+| **[Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](https://arxiv.org/abs/2509.01631v2)** | 2026-01-21 | EACL 2026 |
+| **[An LLM Agent-based Framework for Whaling Countermeasures](https://arxiv.org/abs/2601.14606v1)** | 2026-01-21 |  |
+| **[Holmes: An Evidence-Grounded LLM Agent for Auditable DDoS Investigation in Cloud Networks](https://arxiv.org/abs/2601.14601v1)** | 2026-01-21 |  |
+| **[Rethinking On-Device LLM Reasoning: Why Analogical Mapping Outperforms Abstract Thinking for IoT DDoS Detection](https://arxiv.org/abs/2601.14343v1)** | 2026-01-20 |  |
+| **[Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340v1)** | 2026-01-20 |  |
 | **[Sockpuppetting: Jailbreaking LLMs Without Optimization Through Output Prefix Injection](https://arxiv.org/abs/2601.13359v1)** | 2026-01-19 |  |
-| **[OI-Bench: An Option Injection Benchmark for Evaluating LLM Susceptibility to Directive Interference](https://arxiv.org/abs/2601.13300v1)** | 2026-01-19 |  |
-| **[FDLLM: A Dedicated Detector for Black-Box LLMs Fingerprinting](https://arxiv.org/abs/2501.16029v4)** | 2026-01-19 |  |
-| **[Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading](https://arxiv.org/abs/2601.13082v1)** | 2026-01-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore</p></details> |
-| **[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968v2)** | 2026-01-19 |  |
-| **[TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning](https://arxiv.org/abs/2601.12460v1)** | 2026-01-18 |  |
-| **[Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs](https://arxiv.org/abs/2601.12359v1)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Lock-LLM Workshop</p></details> |
-| **[Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework](https://arxiv.org/abs/2601.11893v1)** | 2026-01-17 |  |
-| **[Membership Inference on LLMs in the Wild](https://arxiv.org/abs/2601.11314v1)** | 2026-01-16 |  |
-| **[Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents](https://arxiv.org/abs/2601.10955v1)** | 2026-01-16 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
+| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
+| **[INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2601.14667v1)** | 2026-01-21 |  |
+| **[NeuroFilter: Privacy Guardrails for Conversational LLM Agents](https://arxiv.org/abs/2601.14660v1)** | 2026-01-21 |  |
+| **[Unraveling LLM Jailbreaks Through Safety Knowledge Neurons](https://arxiv.org/abs/2509.01631v2)** | 2026-01-21 | EACL 2026 |
+| **[An LLM Agent-based Framework for Whaling Countermeasures](https://arxiv.org/abs/2601.14606v1)** | 2026-01-21 |  |
+| **[Holmes: An Evidence-Grounded LLM Agent for Auditable DDoS Investigation in Cloud Networks](https://arxiv.org/abs/2601.14601v1)** | 2026-01-21 |  |
+| **[Rethinking On-Device LLM Reasoning: Why Analogical Mapping Outperforms Abstract Thinking for IoT DDoS Detection](https://arxiv.org/abs/2601.14343v1)** | 2026-01-20 |  |
+| **[Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340v1)** | 2026-01-20 |  |
 | **[Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424v7)** | 2026-01-20 | <details><summary>41 pa...</summary><p>41 pages, 38 figures An earlier revision of this paper was accepted at ICML 2025. Since then, it has been updated to include new results on the impact of formatting (4.4), new dataset (4.6), training dynamics (4.7) and base models (4.8) Extended version of the paper was published in Nature 2026/1</p></details> |
-| **[Sockpuppetting: Jailbreaking LLMs Without Optimization Through Output Prefix Injection](https://arxiv.org/abs/2601.13359v1)** | 2026-01-19 |  |
-| **[OI-Bench: An Option Injection Benchmark for Evaluating LLM Susceptibility to Directive Interference](https://arxiv.org/abs/2601.13300v1)** | 2026-01-19 |  |
-| **[FDLLM: A Dedicated Detector for Black-Box LLMs Fingerprinting](https://arxiv.org/abs/2501.16029v4)** | 2026-01-19 |  |
-| **[Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading](https://arxiv.org/abs/2601.13082v1)** | 2026-01-19 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore</p></details> |
-| **[From Defender to Devil? Unintended Risk Interactions Induced by LLM Defenses](https://arxiv.org/abs/2510.07968v2)** | 2026-01-19 |  |
-| **[TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning](https://arxiv.org/abs/2601.12460v1)** | 2026-01-18 |  |
-| **[Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs](https://arxiv.org/abs/2601.12359v1)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Lock-LLM Workshop</p></details> |
-| **[Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework](https://arxiv.org/abs/2601.11893v1)** | 2026-01-17 |  |
-| **[Membership Inference on LLMs in the Wild](https://arxiv.org/abs/2601.11314v1)** | 2026-01-16 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
+| **[Auditing Language Model Unlearning via Information Decomposition](https://arxiv.org/abs/2601.15111v1)** | 2026-01-21 | EACL 2026 Main |
+| **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026 (full version). Update the cited references</p></details> |
+| **[STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778v1)** | 2026-01-21 | NeurIPS 2025 poster |
+| **[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](https://arxiv.org/abs/2501.09328v4)** | 2026-01-21 |  |
+| **[DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection](https://arxiv.org/abs/2601.08223v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.06837v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper proposes an effective training-free, proxy-in-the-loop, and search-based prompt-stealing scheme against T2I models</p></details> |
+| **[Constructing Multi-label Hierarchical Classification Models for MITRE ATT&CK Text Tagging](https://arxiv.org/abs/2601.14556v1)** | 2026-01-21 |  |
 | **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v1)** | 2026-01-20 |  |
-| **[Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models](https://arxiv.org/abs/2601.13948v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[Large AI Model-Enabled Secure Communications in Low-Altitude Wireless Networks: Concepts, Perspectives and Case Study](https://arxiv.org/abs/2508.00256v2)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to IEEE Communications Magazine</p></details> |
-| **[Activation-Space Anchored Access Control for Multi-Class Permission Reasoning in Large Language Models](https://arxiv.org/abs/2601.13630v1)** | 2026-01-20 |  |
-| **[When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models](https://arxiv.org/abs/2601.13607v1)** | 2026-01-20 |  |
-| **[Modeling Perpetrators' Fate-to-Fate Contagion in Public Mass Shootings In The United States Using Bivariate Hawkes Processes](https://arxiv.org/abs/2601.13501v1)** | 2026-01-20 |  |
-| **[Towards Simple and Useful One-Time Programs in the Quantum Random Oracle Model](https://arxiv.org/abs/2601.13258v1)** | 2026-01-19 |  |
-| **[A Semantic Decoupling-Based Two-Stage Rainy-Day Attack for Revealing Weather Robustness Deficiencies in Vision-Language Models](https://arxiv.org/abs/2601.13238v1)** | 2026-01-19 |  |
-| **[Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650v3)** | 2026-01-19 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
+| **[Auditing Language Model Unlearning via Information Decomposition](https://arxiv.org/abs/2601.15111v1)** | 2026-01-21 | EACL 2026 Main |
+| **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026 (full version). Update the cited references</p></details> |
+| **[STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778v1)** | 2026-01-21 | NeurIPS 2025 poster |
+| **[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](https://arxiv.org/abs/2501.09328v4)** | 2026-01-21 |  |
+| **[DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection](https://arxiv.org/abs/2601.08223v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.06837v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper proposes an effective training-free, proxy-in-the-loop, and search-based prompt-stealing scheme against T2I models</p></details> |
+| **[Constructing Multi-label Hierarchical Classification Models for MITRE ATT&CK Text Tagging](https://arxiv.org/abs/2601.14556v1)** | 2026-01-21 |  |
 | **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v1)** | 2026-01-20 |  |
-| **[Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models](https://arxiv.org/abs/2601.13948v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[Large AI Model-Enabled Secure Communications in Low-Altitude Wireless Networks: Concepts, Perspectives and Case Study](https://arxiv.org/abs/2508.00256v2)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to IEEE Communications Magazine</p></details> |
-| **[ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning in Language Models](https://arxiv.org/abs/2601.08189v2)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[Activation-Space Anchored Access Control for Multi-Class Permission Reasoning in Large Language Models](https://arxiv.org/abs/2601.13630v1)** | 2026-01-20 |  |
-| **[When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models](https://arxiv.org/abs/2601.13607v1)** | 2026-01-20 |  |
-| **[Modeling Perpetrators' Fate-to-Fate Contagion in Public Mass Shootings In The United States Using Bivariate Hawkes Processes](https://arxiv.org/abs/2601.13501v1)** | 2026-01-20 |  |
-| **[Towards Simple and Useful One-Time Programs in the Quantum Random Oracle Model](https://arxiv.org/abs/2601.13258v1)** | 2026-01-19 |  |
-| **[A Semantic Decoupling-Based Two-Stage Rainy-Day Attack for Revealing Weather Robustness Deficiencies in Vision-Language Models](https://arxiv.org/abs/2601.13238v1)** | 2026-01-19 |  |
 
