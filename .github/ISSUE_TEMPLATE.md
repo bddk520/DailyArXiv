@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering](https://arxiv.org/abs/2602.06911v1)** | 2026-02-06 | 28 pages, 13 figures |
+| **[Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations](https://arxiv.org/abs/2602.06887v1)** | 2026-02-06 |  |
+| **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735v3)** | 2026-02-06 |  |
+| **[Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444v2)** | 2026-02-06 |  |
+| **[TrailBlazer: History-Guided Reinforcement Learning for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2602.06440v1)** | 2026-02-06 |  |
+| **[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2602.06409v1)** | 2026-02-06 |  |
+| **[MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/abs/2602.01539v2)** | 2026-02-06 |  |
+| **[MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs](https://arxiv.org/abs/2602.06268v1)** | 2026-02-06 | 13 pages, 7 figures |
 | **[Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](https://arxiv.org/abs/2602.05877v1)** | 2026-02-05 |  |
 | **[Inference-Time Backdoors via Hidden Instructions in LLM Chat Templates](https://arxiv.org/abs/2602.04653v2)** | 2026-02-05 |  |
-| **[Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection](https://arxiv.org/abs/2602.05484v1)** | 2026-02-05 |  |
-| **[Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444v1)** | 2026-02-05 |  |
-| **[How Catastrophic is Your LLM? Certifying Risk in Conversation](https://arxiv.org/abs/2510.03969v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[STACK: Adversarial Attacks on LLM Safeguard Pipelines](https://arxiv.org/abs/2506.24068v3)** | 2026-02-05 | <details><summary>Add r...</summary><p>Add results on other models and datasets</p></details> |
-| **[OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542v4)** | 2026-02-04 |  |
-| **[Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases](https://arxiv.org/abs/2602.04739v1)** | 2026-02-04 | under peer-review |
-| **[GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering](https://arxiv.org/abs/2512.06655v2)** | 2026-02-04 |  |
-| **[PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](https://arxiv.org/abs/2602.04927v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at the NDSS LAST-X Workshop 2026</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering](https://arxiv.org/abs/2602.06911v1)** | 2026-02-06 | 28 pages, 13 figures |
+| **[Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations](https://arxiv.org/abs/2602.06887v1)** | 2026-02-06 |  |
+| **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735v3)** | 2026-02-06 |  |
+| **[Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444v2)** | 2026-02-06 |  |
+| **[TrailBlazer: History-Guided Reinforcement Learning for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2602.06440v1)** | 2026-02-06 |  |
+| **[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2602.06409v1)** | 2026-02-06 |  |
+| **[MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/abs/2602.01539v2)** | 2026-02-06 |  |
+| **[MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs](https://arxiv.org/abs/2602.06268v1)** | 2026-02-06 | 13 pages, 7 figures |
 | **[Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](https://arxiv.org/abs/2602.05877v1)** | 2026-02-05 |  |
 | **[Inference-Time Backdoors via Hidden Instructions in LLM Chat Templates](https://arxiv.org/abs/2602.04653v2)** | 2026-02-05 |  |
-| **[Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection](https://arxiv.org/abs/2602.05484v1)** | 2026-02-05 |  |
-| **[Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444v1)** | 2026-02-05 |  |
-| **[How Catastrophic is Your LLM? Certifying Risk in Conversation](https://arxiv.org/abs/2510.03969v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[STACK: Adversarial Attacks on LLM Safeguard Pipelines](https://arxiv.org/abs/2506.24068v3)** | 2026-02-05 | <details><summary>Add r...</summary><p>Add results on other models and datasets</p></details> |
-| **[OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542v4)** | 2026-02-04 |  |
-| **[Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases](https://arxiv.org/abs/2602.04739v1)** | 2026-02-04 | under peer-review |
-| **[GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering](https://arxiv.org/abs/2512.06655v2)** | 2026-02-04 |  |
-| **[PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](https://arxiv.org/abs/2602.04927v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at the NDSS LAST-X Workshop 2026</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs](https://arxiv.org/abs/2602.06777v1)** | 2026-02-06 |  |
+| **[AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models](https://arxiv.org/abs/2602.06771v1)** | 2026-02-06 | 30 pages,12 figures |
+| **[Adversarial generalization of unfolding (model-based) networks](https://arxiv.org/abs/2509.15370v4)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS2025</p></details> |
+| **[Temperature Scaling Attack Disrupting Model Confidence in Federated Learning](https://arxiv.org/abs/2602.06638v1)** | 2026-02-06 | 20 pages, 20 figures |
+| **[Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547v1)** | 2026-02-06 |  |
+| **[Private and interpretable clinical prediction with quantum-inspired tensor train models](https://arxiv.org/abs/2602.06110v1)** | 2026-02-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 9 tables. The code for the experiments is publicly available at https://github.com/joserapa98/tns4loris</p></details> |
 | **[Verification of the Implicit World Model in a Generative Model via Adversarial Sequences](https://arxiv.org/abs/2602.05903v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code, datasets, and models are available at https://github.com/szegedai/world-model-verification</p></details> |
 | **[Alignment-Aware Model Adaptation via Feedback-Guided Optimization](https://arxiv.org/abs/2602.02258v2)** | 2026-02-05 |  |
 | **[BadTemplate: A Training-Free Backdoor Attack via Chat Template Against Large Language Models](https://arxiv.org/abs/2602.05401v1)** | 2026-02-05 | <details><summary>This ...</summary><p>This paper includes biased content that may be disturbing or offensive to certain readers</p></details> |
-| **[Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.08859v2)** | 2026-02-05 |  |
-| **[Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models](https://arxiv.org/abs/2601.13948v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026. Demo/code: https://paniquex.github.io/Stream-Voice-Anon/</p></details> |
-| **[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/abs/2407.16928v4)** | 2026-02-05 | <details><summary>This ...</summary><p>This is the author-accepted version of a paper accepted at the Applied Cryptography and Network Security (ACNS 2026)</p></details> |
-| **[Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?](https://arxiv.org/abs/2602.05023v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases](https://arxiv.org/abs/2602.04739v1)** | 2026-02-04 | under peer-review |
-| **[RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v1)** | 2026-02-04 | 9 pages |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs](https://arxiv.org/abs/2602.06777v1)** | 2026-02-06 |  |
+| **[AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models](https://arxiv.org/abs/2602.06771v1)** | 2026-02-06 | 30 pages,12 figures |
+| **[Adversarial generalization of unfolding (model-based) networks](https://arxiv.org/abs/2509.15370v4)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS2025</p></details> |
+| **[Temperature Scaling Attack Disrupting Model Confidence in Federated Learning](https://arxiv.org/abs/2602.06638v1)** | 2026-02-06 | 20 pages, 20 figures |
+| **[Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547v1)** | 2026-02-06 |  |
+| **[Private and interpretable clinical prediction with quantum-inspired tensor train models](https://arxiv.org/abs/2602.06110v1)** | 2026-02-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 9 tables. The code for the experiments is publicly available at https://github.com/joserapa98/tns4loris</p></details> |
 | **[Verification of the Implicit World Model in a Generative Model via Adversarial Sequences](https://arxiv.org/abs/2602.05903v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code, datasets, and models are available at https://github.com/szegedai/world-model-verification</p></details> |
 | **[Alignment-Aware Model Adaptation via Feedback-Guided Optimization](https://arxiv.org/abs/2602.02258v2)** | 2026-02-05 |  |
 | **[The Double Life of Code World Models: Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821v2)** | 2026-02-05 | 13 Pages, A Preprint |
-| **[BadTemplate: A Training-Free Backdoor Attack via Chat Template Against Large Language Models](https://arxiv.org/abs/2602.05401v1)** | 2026-02-05 | <details><summary>This ...</summary><p>This paper includes biased content that may be disturbing or offensive to certain readers</p></details> |
-| **[Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.08859v2)** | 2026-02-05 |  |
-| **[Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models](https://arxiv.org/abs/2601.13948v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026. Demo/code: https://paniquex.github.io/Stream-Voice-Anon/</p></details> |
-| **[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/abs/2407.16928v4)** | 2026-02-05 | <details><summary>This ...</summary><p>This is the author-accepted version of a paper accepted at the Applied Cryptography and Network Security (ACNS 2026)</p></details> |
-| **[Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions](https://arxiv.org/abs/2602.05234v1)** | 2026-02-05 | <details><summary>55 pa...</summary><p>55 pages, 25 figures; accepted for ICLR 2026</p></details> |
-| **[Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?](https://arxiv.org/abs/2602.05023v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 
