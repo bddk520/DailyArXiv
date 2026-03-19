@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396v3)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 10 tables. Updated abstract to fix an incconsistency issue with the main paper: HAJailBench size (12,000 -> 11,100)</p></details> |
+| **[Network- and Device-Level Cyber Deception for Contested Environments Using RL and LLMs](https://arxiv.org/abs/2603.17272v1)** | 2026-03-18 | 10 pages, 5 figures |
+| **[Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning](https://arxiv.org/abs/2603.17174v1)** | 2026-03-17 | Preprint |
+| **[Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience](https://arxiv.org/abs/2603.17173v1)** | 2026-03-17 |  |
 | **[From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security](https://arxiv.org/abs/2412.15004v4)** | 2026-03-17 |  |
-| **[Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396v2)** | 2026-03-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 10 tables. Updated NeurIPS-style preprint. HAJailBench is aligned to the audited 11,100-instance release; the reduction from 12,000 reflects removal of a small batch with inconsistent prompt/model settings and annotator pool. Figures, experimental framing, and appendix materials were revised</p></details> |
 | **[SIA: A Synthesize-Inject-Align Framework for Knowledge-Grounded and Secure E-commerce Search LLMs with Industrial Deployment](https://arxiv.org/abs/2603.16137v1)** | 2026-03-17 |  |
 | **[Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185v2)** | 2026-03-17 | 9 pages,4figures |
 | **[NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](https://arxiv.org/abs/2509.23252v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint version 3; Updated References</p></details> |
 | **[Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification](https://arxiv.org/abs/2506.04450v4)** | 2026-03-16 |  |
 | **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v1)** | 2026-03-16 |  |
-| **[From Storage to Steering: Memory Control Flow Attacks on LLM Agents](https://arxiv.org/abs/2603.15125v1)** | 2026-03-16 |  |
-| **[Rethinking LLM Watermark Detection in Black-Box Settings: A Non-Intrusive Third-Party Framework](https://arxiv.org/abs/2603.14968v1)** | 2026-03-16 |  |
-| **[BadLLM-TG: A Backdoor Defender powered by LLM Trigger Generator](https://arxiv.org/abs/2603.15692v1)** | 2026-03-16 | 5pages, 2 figures |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396v3)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 10 tables. Updated abstract to fix an incconsistency issue with the main paper: HAJailBench size (12,000 -> 11,100)</p></details> |
+| **[Network- and Device-Level Cyber Deception for Contested Environments Using RL and LLMs](https://arxiv.org/abs/2603.17272v1)** | 2026-03-18 | 10 pages, 5 figures |
+| **[Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning](https://arxiv.org/abs/2603.17174v1)** | 2026-03-17 | Preprint |
+| **[Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience](https://arxiv.org/abs/2603.17173v1)** | 2026-03-17 |  |
 | **[From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security](https://arxiv.org/abs/2412.15004v4)** | 2026-03-17 |  |
-| **[Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396v2)** | 2026-03-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 10 tables. Updated NeurIPS-style preprint. HAJailBench is aligned to the audited 11,100-instance release; the reduction from 12,000 reflects removal of a small batch with inconsistent prompt/model settings and annotator pool. Figures, experimental framing, and appendix materials were revised</p></details> |
 | **[SIA: A Synthesize-Inject-Align Framework for Knowledge-Grounded and Secure E-commerce Search LLMs with Industrial Deployment](https://arxiv.org/abs/2603.16137v1)** | 2026-03-17 |  |
 | **[Relationship-Aware Safety Unlearning for Multimodal LLMs](https://arxiv.org/abs/2603.14185v2)** | 2026-03-17 | 9 pages,4figures |
 | **[NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](https://arxiv.org/abs/2509.23252v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint version 3; Updated References</p></details> |
 | **[Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification](https://arxiv.org/abs/2506.04450v4)** | 2026-03-16 |  |
 | **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v1)** | 2026-03-16 |  |
-| **[From Storage to Steering: Memory Control Flow Attacks on LLM Agents](https://arxiv.org/abs/2603.15125v1)** | 2026-03-16 |  |
-| **[Rethinking LLM Watermark Detection in Black-Box Settings: A Non-Intrusive Third-Party Framework](https://arxiv.org/abs/2603.14968v1)** | 2026-03-16 |  |
-| **[BadLLM-TG: A Backdoor Defender powered by LLM Trigger Generator](https://arxiv.org/abs/2603.15692v1)** | 2026-03-16 | 5pages, 2 figures |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SOMP: Scalable Gradient Inversion for Large Language Models via Subspace-Guided Orthogonal Matching Pursuit](https://arxiv.org/abs/2603.16761v1)** | 2026-03-17 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 13 tables</p></details> |
-| **[REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models](https://arxiv.org/abs/2603.16576v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted by ICME 2026</p></details> |
-| **[Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models](https://arxiv.org/abs/2601.22770v2)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ACISP 2026</p></details> |
-| **[Rotated Robustness: A Training-Free Defense against Bit-Flip Attacks on Large Language Models](https://arxiv.org/abs/2603.16382v1)** | 2026-03-17 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Preprint. Under review at IEEE Transactions on Information Forensics and Security</p></details> |
-| **[Detecting Sentiment Steering Attacks on RAG-enabled Large Language Models](https://arxiv.org/abs/2603.16342v1)** | 2026-03-17 | 6 pages, 7 figures |
-| **[Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models](https://arxiv.org/abs/2603.10080v2)** | 2026-03-17 |  |
-| **[Structured Semantic Cloaking for Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2603.16192v1)** | 2026-03-17 | 15 pages |
-| **[Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability](https://arxiv.org/abs/2603.16017v1)** | 2026-03-16 |  |
-| **[Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models](https://arxiv.org/abs/2603.15940v1)** | 2026-03-16 |  |
-| **[HAMLOCK: HArdware-Model LOgically Combined attacK](https://arxiv.org/abs/2510.19145v4)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to usenix security 2026</p></details> |
+| **[AVIATOR: Towards AI-Agentic Vulnerability Injection Workflow for High-Fidelity, Large-Scale Code Security Dataset](https://arxiv.org/abs/2508.20866v6)** | 2026-03-18 |  |
+| **[TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.17828v1)** | 2026-03-18 | <details><summary>16 pa...</summary><p>16 pages, accepted by CVPR 2026</p></details> |
+| **[Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models](https://arxiv.org/abs/2504.00638v3)** | 2026-03-18 |  |
+| **[InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model](https://arxiv.org/abs/2310.12214v8)** | 2026-03-18 |  |
+| **[A spatio-temporal graph-based model for team sports analysis](https://arxiv.org/abs/2603.17471v1)** | 2026-03-18 |  |
+| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](https://arxiv.org/abs/2504.04893v7)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
+| **[NutVLM: A Self-Adaptive Defense Framework against Full-Dimension Attacks for Vision Language Models in Autonomous Driving](https://arxiv.org/abs/2602.13293v2)** | 2026-03-18 | 12 pages, 6 figures |
+| **[LAAF: Logic-layer Automated Attack Framework A Systematic Red-Teaming Methodology for LPCI Vulnerabilities in Agentic Large Language Model Systems](https://arxiv.org/abs/2603.17239v1)** | 2026-03-18 |  |
+| **[Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework](https://arxiv.org/abs/2603.17123v1)** | 2026-03-17 |  |
+| **[PEPPER: Perception-Guided Perturbation for Robust Backdoor Defense in Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.16830v3)** | 2026-03-17 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SOMP: Scalable Gradient Inversion for Large Language Models via Subspace-Guided Orthogonal Matching Pursuit](https://arxiv.org/abs/2603.16761v1)** | 2026-03-17 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 13 tables</p></details> |
-| **[REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models](https://arxiv.org/abs/2603.16576v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted by ICME 2026</p></details> |
-| **[Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models](https://arxiv.org/abs/2601.22770v2)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to ACISP 2026</p></details> |
-| **[Rotated Robustness: A Training-Free Defense against Bit-Flip Attacks on Large Language Models](https://arxiv.org/abs/2603.16382v1)** | 2026-03-17 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Preprint. Under review at IEEE Transactions on Information Forensics and Security</p></details> |
-| **[Detecting Sentiment Steering Attacks on RAG-enabled Large Language Models](https://arxiv.org/abs/2603.16342v1)** | 2026-03-17 | 6 pages, 7 figures |
-| **[Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models](https://arxiv.org/abs/2603.10080v2)** | 2026-03-17 |  |
-| **[Structured Semantic Cloaking for Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2603.16192v1)** | 2026-03-17 | 15 pages |
-| **[Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability](https://arxiv.org/abs/2603.16017v1)** | 2026-03-16 |  |
-| **[Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models](https://arxiv.org/abs/2603.15940v1)** | 2026-03-16 |  |
-| **[HAMLOCK: HArdware-Model LOgically Combined attacK](https://arxiv.org/abs/2510.19145v4)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to usenix security 2026</p></details> |
+| **[AVIATOR: Towards AI-Agentic Vulnerability Injection Workflow for High-Fidelity, Large-Scale Code Security Dataset](https://arxiv.org/abs/2508.20866v6)** | 2026-03-18 |  |
+| **[TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.17828v1)** | 2026-03-18 | <details><summary>16 pa...</summary><p>16 pages, accepted by CVPR 2026</p></details> |
+| **[Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models](https://arxiv.org/abs/2504.00638v3)** | 2026-03-18 |  |
+| **[InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model](https://arxiv.org/abs/2310.12214v8)** | 2026-03-18 |  |
+| **[A spatio-temporal graph-based model for team sports analysis](https://arxiv.org/abs/2603.17471v1)** | 2026-03-18 |  |
+| **[SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](https://arxiv.org/abs/2504.04893v7)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop EVAL-FoMo-2</p></details> |
+| **[NutVLM: A Self-Adaptive Defense Framework against Full-Dimension Attacks for Vision Language Models in Autonomous Driving](https://arxiv.org/abs/2602.13293v2)** | 2026-03-18 | 12 pages, 6 figures |
+| **[LAAF: Logic-layer Automated Attack Framework A Systematic Red-Teaming Methodology for LPCI Vulnerabilities in Agentic Large Language Model Systems](https://arxiv.org/abs/2603.17239v1)** | 2026-03-18 |  |
+| **[Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework](https://arxiv.org/abs/2603.17123v1)** | 2026-03-17 |  |
+| **[PEPPER: Perception-Guided Perturbation for Robust Backdoor Defense in Text-to-Image Diffusion Models](https://arxiv.org/abs/2511.16830v3)** | 2026-03-17 |  |
 
