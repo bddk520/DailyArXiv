@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spilling the Beans: Teaching LLMs to Self-Report Their Hidden Objectives](https://arxiv.org/abs/2511.06626v5)** | 2026-03-22 |  |
+| **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
+| **[Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104v2)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[When Minor Edits Matter: LLM-Driven Prompt Attack for Medical VLM Robustness in Ultrasound](https://arxiv.org/abs/2603.21047v1)** | 2026-03-22 |  |
+| **[Detection of adversarial intent in Human-AI teams using LLMs](https://arxiv.org/abs/2603.20976v1)** | 2026-03-21 |  |
 | **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v2)** | 2026-03-20 |  |
 | **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v2)** | 2026-03-20 |  |
 | **[The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs](https://arxiv.org/abs/2511.21448v5)** | 2026-03-20 |  |
 | **[A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469v1)** | 2026-03-19 |  |
 | **[Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas](https://arxiv.org/abs/2603.19453v1)** | 2026-03-19 |  |
-| **[The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423v1)** | 2026-03-19 |  |
-| **[Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375v1)** | 2026-03-19 |  |
-| **[iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905v3)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference](https://arxiv.org/abs/2603.11132v2)** | 2026-03-19 |  |
-| **[Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v1)** | 2026-03-19 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spilling the Beans: Teaching LLMs to Self-Report Their Hidden Objectives](https://arxiv.org/abs/2511.06626v5)** | 2026-03-22 |  |
+| **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
+| **[Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104v2)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[When Minor Edits Matter: LLM-Driven Prompt Attack for Medical VLM Robustness in Ultrasound](https://arxiv.org/abs/2603.21047v1)** | 2026-03-22 |  |
+| **[Detection of adversarial intent in Human-AI teams using LLMs](https://arxiv.org/abs/2603.20976v1)** | 2026-03-21 |  |
 | **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v2)** | 2026-03-20 |  |
 | **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v2)** | 2026-03-20 |  |
 | **[The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs](https://arxiv.org/abs/2511.21448v5)** | 2026-03-20 |  |
 | **[A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469v1)** | 2026-03-19 |  |
 | **[Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas](https://arxiv.org/abs/2603.19453v1)** | 2026-03-19 |  |
-| **[The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423v1)** | 2026-03-19 |  |
-| **[Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents](https://arxiv.org/abs/2603.19375v1)** | 2026-03-19 |  |
-| **[iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification](https://arxiv.org/abs/2511.08905v3)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference](https://arxiv.org/abs/2603.11132v2)** | 2026-03-19 |  |
-| **[Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v1)** | 2026-03-19 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models](https://arxiv.org/abs/2603.20122v1)** | 2026-03-20 |  |
-| **[Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108v1)** | 2026-03-20 | 43 pages, 18 figures |
-| **[ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization](https://arxiv.org/abs/2603.19594v1)** | 2026-03-20 |  |
-| **[MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data](https://arxiv.org/abs/2603.19185v1)** | 2026-03-19 | 4 page, 1 table |
-| **[On Optimizing Multimodal Jailbreaks for Spoken Language Models](https://arxiv.org/abs/2603.19127v1)** | 2026-03-19 | <details><summary>Under...</summary><p>Under Review at INTERSPEECH 2026</p></details> |
-| **[Functional Subspace Watermarking for Large Language Models](https://arxiv.org/abs/2603.18793v1)** | 2026-03-19 |  |
-| **[A Concept is More Than a Word: Diversified Unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.18767v1)** | 2026-03-19 |  |
-| **[A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models](https://arxiv.org/abs/2507.13313v2)** | 2026-03-19 |  |
-| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v1)** | 2026-03-19 |  |
-| **[Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm](https://arxiv.org/abs/2511.14763v3)** | 2026-03-19 |  |
+| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
+| **[SecureBreak -- A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975v1)** | 2026-03-23 |  |
+| **[Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834v2)** | 2026-03-23 |  |
+| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v1)** | 2026-03-23 | 31 pages |
+| **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v3)** | 2026-03-23 | Accepted by CVPR2026 |
+| **[Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models](https://arxiv.org/abs/2603.04846v3)** | 2026-03-23 | Accepted by CVPR2026 |
+| **[Adversarial attacks against Modern Vision-Language Models](https://arxiv.org/abs/2603.16960v2)** | 2026-03-22 |  |
+| **[JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization](https://arxiv.org/abs/2603.21208v1)** | 2026-03-22 | 18 pages, 8 figures |
+| **[Deep learning based intelligent IDS for Large-scale IoT networks](https://arxiv.org/abs/2603.16342v2)** | 2026-03-21 | 6 pages, 7 figures |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models](https://arxiv.org/abs/2603.20122v1)** | 2026-03-20 |  |
-| **[Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108v1)** | 2026-03-20 | 43 pages, 18 figures |
-| **[ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization](https://arxiv.org/abs/2603.19594v1)** | 2026-03-20 |  |
-| **[MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data](https://arxiv.org/abs/2603.19185v1)** | 2026-03-19 | 4 page, 1 table |
-| **[On Optimizing Multimodal Jailbreaks for Spoken Language Models](https://arxiv.org/abs/2603.19127v1)** | 2026-03-19 | <details><summary>Under...</summary><p>Under Review at INTERSPEECH 2026</p></details> |
-| **[Functional Subspace Watermarking for Large Language Models](https://arxiv.org/abs/2603.18793v1)** | 2026-03-19 |  |
-| **[A Concept is More Than a Word: Diversified Unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.18767v1)** | 2026-03-19 |  |
-| **[A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models](https://arxiv.org/abs/2507.13313v2)** | 2026-03-19 |  |
-| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v1)** | 2026-03-19 |  |
-| **[Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm](https://arxiv.org/abs/2511.14763v3)** | 2026-03-19 |  |
+| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
+| **[SecureBreak -- A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975v1)** | 2026-03-23 |  |
+| **[Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834v2)** | 2026-03-23 |  |
+| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v1)** | 2026-03-23 | 31 pages |
+| **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v3)** | 2026-03-23 | Accepted by CVPR2026 |
+| **[Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models](https://arxiv.org/abs/2603.04846v3)** | 2026-03-23 | Accepted by CVPR2026 |
+| **[Adversarial attacks against Modern Vision-Language Models](https://arxiv.org/abs/2603.16960v2)** | 2026-03-22 |  |
+| **[JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization](https://arxiv.org/abs/2603.21208v1)** | 2026-03-22 | 18 pages, 8 figures |
+| **[Deep learning based intelligent IDS for Large-scale IoT networks](https://arxiv.org/abs/2603.16342v2)** | 2026-03-21 | 6 pages, 7 figures |
 
