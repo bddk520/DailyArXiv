@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Emergence of Fragility in LLM-based Social Networks: the Case of Moltbook](https://arxiv.org/abs/2603.23279v1)** | 2026-03-24 |  |
+| **[Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs](https://arxiv.org/abs/2603.23269v1)** | 2026-03-24 |  |
+| **[Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs](https://arxiv.org/abs/2511.05919v3)** | 2026-03-24 |  |
+| **[Agent-Sentry: Bounding LLM Agents via Execution Provenance](https://arxiv.org/abs/2603.22868v1)** | 2026-03-24 |  |
+| **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
+| **[BioShield: A Context-Aware Firewall for Securing Bio-LLMs](https://arxiv.org/abs/2603.22612v1)** | 2026-03-23 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v1)** | 2026-03-23 | 28 pages |
+| **[OrgForge-IT: A Verifiable Synthetic Benchmark for LLM-Based Insider Threat Detection](https://arxiv.org/abs/2603.22499v1)** | 2026-03-23 |  |
 | **[Spilling the Beans: Teaching LLMs to Self-Report Their Hidden Objectives](https://arxiv.org/abs/2511.06626v5)** | 2026-03-22 |  |
-| **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
-| **[Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104v2)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[When Minor Edits Matter: LLM-Driven Prompt Attack for Medical VLM Robustness in Ultrasound](https://arxiv.org/abs/2603.21047v1)** | 2026-03-22 |  |
-| **[Detection of adversarial intent in Human-AI teams using LLMs](https://arxiv.org/abs/2603.20976v1)** | 2026-03-21 |  |
-| **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v2)** | 2026-03-20 |  |
-| **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v2)** | 2026-03-20 |  |
-| **[The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs](https://arxiv.org/abs/2511.21448v5)** | 2026-03-20 |  |
-| **[A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469v1)** | 2026-03-19 |  |
-| **[Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas](https://arxiv.org/abs/2603.19453v1)** | 2026-03-19 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Emergence of Fragility in LLM-based Social Networks: the Case of Moltbook](https://arxiv.org/abs/2603.23279v1)** | 2026-03-24 |  |
+| **[Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs](https://arxiv.org/abs/2603.23269v1)** | 2026-03-24 |  |
+| **[Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs](https://arxiv.org/abs/2511.05919v3)** | 2026-03-24 |  |
+| **[Agent-Sentry: Bounding LLM Agents via Execution Provenance](https://arxiv.org/abs/2603.22868v1)** | 2026-03-24 |  |
+| **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
+| **[BioShield: A Context-Aware Firewall for Securing Bio-LLMs](https://arxiv.org/abs/2603.22612v1)** | 2026-03-23 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v1)** | 2026-03-23 | 28 pages |
+| **[OrgForge-IT: A Verifiable Synthetic Benchmark for LLM-Based Insider Threat Detection](https://arxiv.org/abs/2603.22499v1)** | 2026-03-23 |  |
 | **[Spilling the Beans: Teaching LLMs to Self-Report Their Hidden Objectives](https://arxiv.org/abs/2511.06626v5)** | 2026-03-22 |  |
-| **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
-| **[Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104v2)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[When Minor Edits Matter: LLM-Driven Prompt Attack for Medical VLM Robustness in Ultrasound](https://arxiv.org/abs/2603.21047v1)** | 2026-03-22 |  |
-| **[Detection of adversarial intent in Human-AI teams using LLMs](https://arxiv.org/abs/2603.20976v1)** | 2026-03-21 |  |
-| **[ClawWorm: Self-Propagating Attacks Across LLM Agent Ecosystems](https://arxiv.org/abs/2603.15727v2)** | 2026-03-20 |  |
-| **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v2)** | 2026-03-20 |  |
-| **[The Phish, The Spam, and The Valid: Generating Feature-Rich Emails for Benchmarking LLMs](https://arxiv.org/abs/2511.21448v5)** | 2026-03-20 |  |
-| **[A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469v1)** | 2026-03-19 |  |
-| **[Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas](https://arxiv.org/abs/2603.19453v1)** | 2026-03-19 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
-| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
-| **[SecureBreak -- A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975v1)** | 2026-03-23 |  |
-| **[Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834v2)** | 2026-03-23 |  |
-| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v1)** | 2026-03-23 | 31 pages |
-| **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v3)** | 2026-03-23 | Accepted by CVPR2026 |
-| **[Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models](https://arxiv.org/abs/2603.04846v3)** | 2026-03-23 | Accepted by CVPR2026 |
-| **[Adversarial attacks against Modern Vision-Language Models](https://arxiv.org/abs/2603.16960v2)** | 2026-03-22 |  |
-| **[JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization](https://arxiv.org/abs/2603.21208v1)** | 2026-03-22 | 18 pages, 8 figures |
-| **[Deep learning based intelligent IDS for Large-scale IoT networks](https://arxiv.org/abs/2603.16342v2)** | 2026-03-21 | 6 pages, 7 figures |
+| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
+| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[SafeSeek: Universal Attribution of Safety Circuits in Language Models](https://arxiv.org/abs/2603.23268v1)** | 2026-03-24 |  |
+| **[Robust Safety Monitoring of Language Models via Activation Watermarking](https://arxiv.org/abs/2603.23171v1)** | 2026-03-24 | 20 pages, 17 figures |
+| **[TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration](https://arxiv.org/abs/2603.22882v1)** | 2026-03-24 | CVPR2026 |
+| **[Metaphor-based Jailbreak Attacks on Text-to-Image Models](https://arxiv.org/abs/2512.10766v2)** | 2026-03-24 | <details><summary>Code ...</summary><p>Code is available in \url{https://github.com/datar001/metaphor-based-jailbreaking-attack}</p></details> |
+| **[Explainable Threat Attribution for IoT Networks Using Conditional SHAP and Flow Behavior Modelling](https://arxiv.org/abs/2603.22771v1)** | 2026-03-24 |  |
+| **[Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdropping Attacks](https://arxiv.org/abs/2603.22753v1)** | 2026-03-24 |  |
+| **[Semi-Automated Threat Modeling of Cloud-Based Systems Through Extracting Software Architecture from Configuration and Network Flow](https://arxiv.org/abs/2603.22603v1)** | 2026-03-23 | 12 pages, 3 figures |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v1)** | 2026-03-23 | 28 pages |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
-| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
-| **[SecureBreak -- A dataset towards safe and secure models](https://arxiv.org/abs/2603.21975v1)** | 2026-03-23 |  |
-| **[Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834v2)** | 2026-03-23 |  |
-| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v1)** | 2026-03-23 | 31 pages |
-| **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v3)** | 2026-03-23 | Accepted by CVPR2026 |
-| **[Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models](https://arxiv.org/abs/2603.04846v3)** | 2026-03-23 | Accepted by CVPR2026 |
-| **[Adversarial attacks against Modern Vision-Language Models](https://arxiv.org/abs/2603.16960v2)** | 2026-03-22 |  |
-| **[JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization](https://arxiv.org/abs/2603.21208v1)** | 2026-03-22 | 18 pages, 8 figures |
-| **[Deep learning based intelligent IDS for Large-scale IoT networks](https://arxiv.org/abs/2603.16342v2)** | 2026-03-21 | 6 pages, 7 figures |
+| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
+| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[SafeSeek: Universal Attribution of Safety Circuits in Language Models](https://arxiv.org/abs/2603.23268v1)** | 2026-03-24 |  |
+| **[Robust Safety Monitoring of Language Models via Activation Watermarking](https://arxiv.org/abs/2603.23171v1)** | 2026-03-24 | 20 pages, 17 figures |
+| **[TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration](https://arxiv.org/abs/2603.22882v1)** | 2026-03-24 | CVPR2026 |
+| **[Metaphor-based Jailbreak Attacks on Text-to-Image Models](https://arxiv.org/abs/2512.10766v2)** | 2026-03-24 | <details><summary>Code ...</summary><p>Code is available in \url{https://github.com/datar001/metaphor-based-jailbreaking-attack}</p></details> |
+| **[Explainable Threat Attribution for IoT Networks Using Conditional SHAP and Flow Behavior Modelling](https://arxiv.org/abs/2603.22771v1)** | 2026-03-24 |  |
+| **[Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdropping Attacks](https://arxiv.org/abs/2603.22753v1)** | 2026-03-24 |  |
+| **[Semi-Automated Threat Modeling of Cloud-Based Systems Through Extracting Software Architecture from Configuration and Network Flow](https://arxiv.org/abs/2603.22603v1)** | 2026-03-23 | 12 pages, 3 figures |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v1)** | 2026-03-23 | 28 pages |
 
