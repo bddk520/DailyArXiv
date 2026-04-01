@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v4)** | 2026-03-30 | <details><summary>51 pa...</summary><p>51 pages, 31 tables, 18 figures. Under review at COLM 2026</p></details> |
+| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v5)** | 2026-03-31 | <details><summary>There...</summary><p>There are some experimental error we are looking into to resolve</p></details> |
+| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v1)** | 2026-03-31 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v2)** | 2026-03-30 | 28 pages |
 | **[Observable Channels, Not Just Storage: Evaluating Privacy Leakage in LLM Agent Pipelines](https://arxiv.org/abs/2603.22751v2)** | 2026-03-30 |  |
 | **[Colluding LoRA: A Compositional Vulnerability in LLM Safety Alignment](https://arxiv.org/abs/2603.12681v2)** | 2026-03-30 | <details><summary>Updat...</summary><p>Updated manuscript to better reflect the core contribution</p></details> |
 | **[Towards Privacy-Preserving LLM Inference via Covariant Obfuscation (Technical Report)](https://arxiv.org/abs/2603.01499v2)** | 2026-03-30 |  |
@@ -15,46 +17,44 @@ labels: documentation
 | **[Dual-Space Smoothness for Robust and Balanced LLM Unlearning](https://arxiv.org/abs/2509.23362v2)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction](https://arxiv.org/abs/2603.27127v1)** | 2026-03-28 | 26 pages |
 | **[AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems](https://arxiv.org/abs/2602.11510v2)** | 2026-03-27 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 13 tables. Code and dataset available at https://github.com/Privatris/AgentLeak</p></details> |
-| **[Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/abs/2603.26105v1)** | 2026-03-27 | <details><summary>To ap...</summary><p>To appear at 2026 IEEE Symposium on Security and Privacy (SP)</p></details> |
-| **[Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation](https://arxiv.org/abs/2603.25500v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW 2026)</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v4)** | 2026-03-30 | <details><summary>51 pa...</summary><p>51 pages, 31 tables, 18 figures. Under review at COLM 2026</p></details> |
+| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v5)** | 2026-03-31 | <details><summary>There...</summary><p>There are some experimental error we are looking into to resolve</p></details> |
+| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v1)** | 2026-03-31 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v2)** | 2026-03-30 | 28 pages |
+| **[Attesting LLM Pipelines: Enforcing Verifiable Training and Release Claims](https://arxiv.org/abs/2603.28988v1)** | 2026-03-30 | <details><summary>This ...</summary><p>This paper has been accepted at The 2nd International Workshop on Large Language Model Supply Chain Analysis (LLMSC 2026)</p></details> |
 | **[Observable Channels, Not Just Storage: Evaluating Privacy Leakage in LLM Agent Pipelines](https://arxiv.org/abs/2603.22751v2)** | 2026-03-30 |  |
 | **[Colluding LoRA: A Compositional Vulnerability in LLM Safety Alignment](https://arxiv.org/abs/2603.12681v2)** | 2026-03-30 | <details><summary>Updat...</summary><p>Updated manuscript to better reflect the core contribution</p></details> |
 | **[Towards Privacy-Preserving LLM Inference via Covariant Obfuscation (Technical Report)](https://arxiv.org/abs/2603.01499v2)** | 2026-03-30 |  |
 | **[Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification](https://arxiv.org/abs/2506.04450v5)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted in IEEE ACCESS, 2026</p></details> |
 | **[Dual-Space Smoothness for Robust and Balanced LLM Unlearning](https://arxiv.org/abs/2509.23362v2)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction](https://arxiv.org/abs/2603.27127v1)** | 2026-03-28 | 26 pages |
-| **[AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems](https://arxiv.org/abs/2602.11510v2)** | 2026-03-27 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 13 tables. Code and dataset available at https://github.com/Privatris/AgentLeak</p></details> |
-| **[Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?](https://arxiv.org/abs/2603.26105v1)** | 2026-03-27 | <details><summary>To ap...</summary><p>To appear at 2026 IEEE Symposium on Security and Privacy (SP)</p></details> |
-| **[Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation](https://arxiv.org/abs/2603.25500v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW 2026)</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks](https://arxiv.org/abs/2508.20863v3)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to ACM TAISAP</p></details> |
-| **[Membership Inference Attacks against Large Audio Language Models](https://arxiv.org/abs/2603.28378v1)** | 2026-03-30 | <details><summary>submi...</summary><p>submitted to Interspeech 2026</p></details> |
-| **[Privacy as Commodity: MFG-RegretNet for Large-Scale Privacy Trading in Federated Learning](https://arxiv.org/abs/2603.28329v1)** | 2026-03-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures; Submitted to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v1)** | 2026-03-30 |  |
-| **[Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2603.27918v1)** | 2026-03-30 | <details><summary>Surve...</summary><p>Survey paper, 37 pages, 10 figures, accepted at TMLR</p></details> |
-| **[AutoStan: Autonomous Bayesian Model Improvement via Predictive Feedback](https://arxiv.org/abs/2603.27766v1)** | 2026-03-29 |  |
-| **[When Surfaces Lie: Exploiting Wrinkle-Induced Attention Shift to Attack Vision-Language Models](https://arxiv.org/abs/2603.27759v1)** | 2026-03-29 |  |
-| **[Secure Reinforcement Learning: On Model-Free Detection of Man in the Middle Attacks](https://arxiv.org/abs/2603.27592v1)** | 2026-03-29 |  |
-| **[Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models](https://arxiv.org/abs/2603.27522v1)** | 2026-03-29 |  |
+| **[Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/abs/2601.04448v2)** | 2026-03-31 | 17 pages |
+| **[A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2603.26984v2)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, Main Conference</p></details> |
+| **[A Hybrid NUTS-Gibbs Sampler with State Space Marginalization for Estimation of Dynamic Structural Equation Models with Binomial Outcomes](https://arxiv.org/abs/2603.29647v1)** | 2026-03-31 |  |
+| **[Multimodal Models Meet Presentation Attack Detection on ID Documents](https://arxiv.org/abs/2603.29422v1)** | 2026-03-31 |  |
+| **[Adversarial Prompt Injection Attack on Multimodal Large Language Models](https://arxiv.org/abs/2603.29418v1)** | 2026-03-31 |  |
+| **[GazeCLIP: Gaze-Guided CLIP with Adaptive-Enhanced Fine-Grained Language Prompt for Deepfake Attribution and Detection](https://arxiv.org/abs/2603.29295v1)** | 2026-03-31 |  |
+| **[Audio Hallucination Attacks: Probing the Reliability of Large Audio Language Models](https://arxiv.org/abs/2603.29263v1)** | 2026-03-31 |  |
+| **[Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://arxiv.org/abs/2505.03519v5)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
+| **[Robust Safety Monitoring of Language Models via Activation Watermarking](https://arxiv.org/abs/2603.23171v2)** | 2026-03-30 | 23 pages, 19 figures |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks](https://arxiv.org/abs/2508.20863v3)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to ACM TAISAP</p></details> |
-| **[Membership Inference Attacks against Large Audio Language Models](https://arxiv.org/abs/2603.28378v1)** | 2026-03-30 | <details><summary>submi...</summary><p>submitted to Interspeech 2026</p></details> |
-| **[Privacy as Commodity: MFG-RegretNet for Large-Scale Privacy Trading in Federated Learning](https://arxiv.org/abs/2603.28329v1)** | 2026-03-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures; Submitted to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v1)** | 2026-03-30 |  |
-| **[Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2603.27918v1)** | 2026-03-30 | <details><summary>Surve...</summary><p>Survey paper, 37 pages, 10 figures, accepted at TMLR</p></details> |
-| **[AutoStan: Autonomous Bayesian Model Improvement via Predictive Feedback](https://arxiv.org/abs/2603.27766v1)** | 2026-03-29 |  |
-| **[When Surfaces Lie: Exploiting Wrinkle-Induced Attention Shift to Attack Vision-Language Models](https://arxiv.org/abs/2603.27759v1)** | 2026-03-29 |  |
-| **[Secure Reinforcement Learning: On Model-Free Detection of Man in the Middle Attacks](https://arxiv.org/abs/2603.27592v1)** | 2026-03-29 |  |
-| **[Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models](https://arxiv.org/abs/2603.27522v1)** | 2026-03-29 |  |
+| **[Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/abs/2601.04448v2)** | 2026-03-31 | 17 pages |
+| **[A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2603.26984v2)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, Main Conference</p></details> |
+| **[A Hybrid NUTS-Gibbs Sampler with State Space Marginalization for Estimation of Dynamic Structural Equation Models with Binomial Outcomes](https://arxiv.org/abs/2603.29647v1)** | 2026-03-31 |  |
+| **[Multimodal Models Meet Presentation Attack Detection on ID Documents](https://arxiv.org/abs/2603.29422v1)** | 2026-03-31 |  |
+| **[Adversarial Prompt Injection Attack on Multimodal Large Language Models](https://arxiv.org/abs/2603.29418v1)** | 2026-03-31 |  |
+| **[GazeCLIP: Gaze-Guided CLIP with Adaptive-Enhanced Fine-Grained Language Prompt for Deepfake Attribution and Detection](https://arxiv.org/abs/2603.29295v1)** | 2026-03-31 |  |
+| **[Audio Hallucination Attacks: Probing the Reliability of Large Audio Language Models](https://arxiv.org/abs/2603.29263v1)** | 2026-03-31 |  |
+| **[Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://arxiv.org/abs/2505.03519v5)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
+| **[Robust Safety Monitoring of Language Models via Activation Watermarking](https://arxiv.org/abs/2603.23171v2)** | 2026-03-30 | 23 pages, 19 figures |
 
