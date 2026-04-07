@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems](https://arxiv.org/abs/2604.03081v1)** | 2026-04-03 |  |
-| **[Improving LLM First-Token Predictions in Multiple-Choice Question Answering via Output Prefilling](https://arxiv.org/abs/2505.15323v2)** | 2026-04-03 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 6 tables</p></details> |
-| **[Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen!](https://arxiv.org/abs/2505.15656v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks](https://arxiv.org/abs/2604.02548v1)** | 2026-04-02 |  |
-| **[Safer by Diffusion, Broken by Context: Diffusion LLM's Safety Blessing and Its Failure Mode](https://arxiv.org/abs/2602.00388v2)** | 2026-04-02 |  |
-| **[Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](https://arxiv.org/abs/2511.01375v2)** | 2026-04-02 | ICLR 2026 |
-| **[ClawSafety: "Safe" LLMs, Unsafe Agents](https://arxiv.org/abs/2604.01438v1)** | 2026-04-01 |  |
-| **[No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents](https://arxiv.org/abs/2604.01350v1)** | 2026-04-01 |  |
-| **[Multi-Agent LLM Governance for Safe Two-Timescale Reinforcement Learning in SDN-IoT Defense](https://arxiv.org/abs/2604.01127v1)** | 2026-04-01 |  |
-| **[Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming](https://arxiv.org/abs/2510.18314v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted by ICME 2026</p></details> |
+| **[Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework](https://arxiv.org/abs/2604.04852v1)** | 2026-04-06 | <details><summary>This ...</summary><p>This paper has been accepted at the 12th Intelligent Systems Conference (IntelliSys 2026)</p></details> |
+| **[Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling](https://arxiv.org/abs/2604.04842v1)** | 2026-04-06 |  |
+| **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985v3)** | 2026-04-06 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/eth-sri/llm-pruning-attack</p></details> |
+| **[Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities](https://arxiv.org/abs/2604.04561v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 8 tables, code and data at https://github.com/Cmouzouni/exploitation-surface</p></details> |
+| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v2)** | 2026-04-06 |  |
+| **[CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks](https://arxiv.org/abs/2604.04060v1)** | 2026-04-05 |  |
+| **[Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents](https://arxiv.org/abs/2604.04035v1)** | 2026-04-05 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 2 tables, 1 algorithm, preprint</p></details> |
+| **[From Prompt to Physical Action: Structured Backdoor Attacks on LLM-Mediated Robotic Control Systems](https://arxiv.org/abs/2604.03890v1)** | 2026-04-04 |  |
+| **[Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870v1)** | 2026-04-04 |  |
+| **[Systematic Integration of Digital Twins and Constrained LLMs for Interpretable Cyber-Physical Anomaly Detection](https://arxiv.org/abs/2604.03790v1)** | 2026-04-04 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems](https://arxiv.org/abs/2604.03081v1)** | 2026-04-03 |  |
-| **[Improving LLM First-Token Predictions in Multiple-Choice Question Answering via Output Prefilling](https://arxiv.org/abs/2505.15323v2)** | 2026-04-03 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 6 tables</p></details> |
-| **[Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen!](https://arxiv.org/abs/2505.15656v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks](https://arxiv.org/abs/2604.02548v1)** | 2026-04-02 |  |
-| **[Safer by Diffusion, Broken by Context: Diffusion LLM's Safety Blessing and Its Failure Mode](https://arxiv.org/abs/2602.00388v2)** | 2026-04-02 |  |
-| **[Align to Misalign: Automatic LLM Jailbreak with Meta-Optimized LLM Judges](https://arxiv.org/abs/2511.01375v2)** | 2026-04-02 | ICLR 2026 |
-| **[ClawSafety: "Safe" LLMs, Unsafe Agents](https://arxiv.org/abs/2604.01438v1)** | 2026-04-01 |  |
-| **[No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents](https://arxiv.org/abs/2604.01350v1)** | 2026-04-01 |  |
-| **[Multi-Agent LLM Governance for Safe Two-Timescale Reinforcement Learning in SDN-IoT Defense](https://arxiv.org/abs/2604.01127v1)** | 2026-04-01 |  |
-| **[Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming](https://arxiv.org/abs/2510.18314v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted by ICME 2026</p></details> |
+| **[Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework](https://arxiv.org/abs/2604.04852v1)** | 2026-04-06 | <details><summary>This ...</summary><p>This paper has been accepted at the 12th Intelligent Systems Conference (IntelliSys 2026)</p></details> |
+| **[Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling](https://arxiv.org/abs/2604.04842v1)** | 2026-04-06 |  |
+| **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985v3)** | 2026-04-06 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/eth-sri/llm-pruning-attack</p></details> |
+| **[Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities](https://arxiv.org/abs/2604.04561v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 8 tables, code and data at https://github.com/Cmouzouni/exploitation-surface</p></details> |
+| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v2)** | 2026-04-06 |  |
+| **[CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks](https://arxiv.org/abs/2604.04060v1)** | 2026-04-05 |  |
+| **[Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents](https://arxiv.org/abs/2604.04035v1)** | 2026-04-05 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 2 tables, 1 algorithm, preprint</p></details> |
+| **[From Prompt to Physical Action: Structured Backdoor Attacks on LLM-Mediated Robotic Control Systems](https://arxiv.org/abs/2604.03890v1)** | 2026-04-04 |  |
+| **[Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870v1)** | 2026-04-04 |  |
+| **[Systematic Integration of Digital Twins and Constrained LLMs for Interpretable Cyber-Physical Anomaly Detection](https://arxiv.org/abs/2604.03790v1)** | 2026-04-04 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Learning the Signature of Memorization in Autoregressive Language Models](https://arxiv.org/abs/2604.03199v1)** | 2026-04-03 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures, 12 tables</p></details> |
-| **[Voting by mail: a Markov chain model for managing the security risks of election systems](https://arxiv.org/abs/2410.13900v3)** | 2026-04-03 |  |
-| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v2)** | 2026-04-03 |  |
-| **[Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models](https://arxiv.org/abs/2604.01444v2)** | 2026-04-03 |  |
-| **[Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models](https://arxiv.org/abs/2604.03117v1)** | 2026-04-03 |  |
-| **[Analyzing Healthcare Interoperability Vulnerabilities: Formal Modeling and Graph-Theoretic Approach](https://arxiv.org/abs/2604.03043v1)** | 2026-04-03 |  |
-| **[Chain-of-Authorization: Embedding authorization into large language models](https://arxiv.org/abs/2603.22869v2)** | 2026-04-03 | 23 pages, 7 figures |
-| **[A Unified Perspective on Adversarial Membership Manipulation in Vision Models](https://arxiv.org/abs/2604.02780v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Beyond Semantic Manipulation: Token-Space Attacks on Reward Models](https://arxiv.org/abs/2604.02686v1)** | 2026-04-03 |  |
+| **[Economic Security of VDF-Based Randomness Beacons: Models, Thresholds, and Design Guidelines](https://arxiv.org/abs/2604.04744v1)** | 2026-04-06 | 13 pages, 3 figures |
+| **[Bridging Safety and Security in Complex Systems: A Model-Based Approach with SAFT-GT Toolchain](https://arxiv.org/abs/2604.04705v1)** | 2026-04-06 |  |
+| **[A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models](https://arxiv.org/abs/2604.04488v1)** | 2026-04-06 | <details><summary>26 pa...</summary><p>26 pages, 3 figures. Subjects: Machine Learning (cs.LG)</p></details> |
+| **[Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks](https://arxiv.org/abs/2604.04473v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
+| **[Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255v1)** | 2026-04-05 |  |
+| **[Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org/abs/2504.00446v2)** | 2026-04-05 |  |
+| **[Model Privacy: A Unified Framework for Understanding Model Stealing Attacks and Defenses](https://arxiv.org/abs/2502.15567v3)** | 2026-04-05 | <details><summary>Journ...</summary><p>Journal of the Royal Statistical Society Series B: Statistical Methodology, 2026</p></details> |
+| **[RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v2)** | 2026-04-04 | 9 pages |
+| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v2)** | 2026-04-04 |  |
+| **[AttackEval: A Systematic Empirical Study of Prompt Injection Attack Effectiveness Against Large Language Models](https://arxiv.org/abs/2604.03598v1)** | 2026-04-04 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v2)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
-| **[Learning the Signature of Memorization in Autoregressive Language Models](https://arxiv.org/abs/2604.03199v1)** | 2026-04-03 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures, 12 tables</p></details> |
-| **[Voting by mail: a Markov chain model for managing the security risks of election systems](https://arxiv.org/abs/2410.13900v3)** | 2026-04-03 |  |
-| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v2)** | 2026-04-03 |  |
-| **[Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models](https://arxiv.org/abs/2604.01444v2)** | 2026-04-03 |  |
-| **[Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models](https://arxiv.org/abs/2604.03117v1)** | 2026-04-03 |  |
-| **[Analyzing Healthcare Interoperability Vulnerabilities: Formal Modeling and Graph-Theoretic Approach](https://arxiv.org/abs/2604.03043v1)** | 2026-04-03 |  |
-| **[Chain-of-Authorization: Embedding authorization into large language models](https://arxiv.org/abs/2603.22869v2)** | 2026-04-03 | 23 pages, 7 figures |
-| **[A Unified Perspective on Adversarial Membership Manipulation in Vision Models](https://arxiv.org/abs/2604.02780v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Beyond Semantic Manipulation: Token-Space Attacks on Reward Models](https://arxiv.org/abs/2604.02686v1)** | 2026-04-03 |  |
+| **[Economic Security of VDF-Based Randomness Beacons: Models, Thresholds, and Design Guidelines](https://arxiv.org/abs/2604.04744v1)** | 2026-04-06 | 13 pages, 3 figures |
+| **[Bridging Safety and Security in Complex Systems: A Model-Based Approach with SAFT-GT Toolchain](https://arxiv.org/abs/2604.04705v1)** | 2026-04-06 |  |
+| **[A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models](https://arxiv.org/abs/2604.04488v1)** | 2026-04-06 | <details><summary>26 pa...</summary><p>26 pages, 3 figures. Subjects: Machine Learning (cs.LG)</p></details> |
+| **[Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks](https://arxiv.org/abs/2604.04473v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
+| **[Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255v1)** | 2026-04-05 |  |
+| **[Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org/abs/2504.00446v2)** | 2026-04-05 |  |
+| **[Model Privacy: A Unified Framework for Understanding Model Stealing Attacks and Defenses](https://arxiv.org/abs/2502.15567v3)** | 2026-04-05 | <details><summary>Journ...</summary><p>Journal of the Royal Statistical Society Series B: Statistical Methodology, 2026</p></details> |
+| **[RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v2)** | 2026-04-04 | 9 pages |
+| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v2)** | 2026-04-04 |  |
+| **[Partially Functional Dynamic Backdoor Diffusion-based Causal Model](https://arxiv.org/abs/2509.00472v3)** | 2026-04-04 | 16 pages, 2 figures |
 
