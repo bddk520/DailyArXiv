@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291v4)** | 2026-04-07 | <details><summary>USENI...</summary><p>USENIX Security Symposium 2025</p></details> |
+| **[Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719v1)** | 2026-04-07 |  |
+| **[From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/abs/2604.05674v1)** | 2026-04-07 | Under submission |
+| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939v4)** | 2026-04-07 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
+| **[Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use](https://arxiv.org/abs/2604.05432v1)** | 2026-04-07 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics</p></details> |
+| **[Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering](https://arxiv.org/abs/2604.05179v1)** | 2026-04-06 | Accepted at LREC2026 |
 | **[Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework](https://arxiv.org/abs/2604.04852v1)** | 2026-04-06 | <details><summary>This ...</summary><p>This paper has been accepted at the 12th Intelligent Systems Conference (IntelliSys 2026)</p></details> |
 | **[Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling](https://arxiv.org/abs/2604.04842v1)** | 2026-04-06 |  |
 | **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985v3)** | 2026-04-06 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/eth-sri/llm-pruning-attack</p></details> |
 | **[Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities](https://arxiv.org/abs/2604.04561v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 8 tables, code and data at https://github.com/Cmouzouni/exploitation-surface</p></details> |
-| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v2)** | 2026-04-06 |  |
-| **[CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks](https://arxiv.org/abs/2604.04060v1)** | 2026-04-05 |  |
-| **[Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents](https://arxiv.org/abs/2604.04035v1)** | 2026-04-05 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 2 tables, 1 algorithm, preprint</p></details> |
-| **[From Prompt to Physical Action: Structured Backdoor Attacks on LLM-Mediated Robotic Control Systems](https://arxiv.org/abs/2604.03890v1)** | 2026-04-04 |  |
-| **[Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870v1)** | 2026-04-04 |  |
-| **[Systematic Integration of Digital Twins and Constrained LLMs for Interpretable Cyber-Physical Anomaly Detection](https://arxiv.org/abs/2604.03790v1)** | 2026-04-04 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291v4)** | 2026-04-07 | <details><summary>USENI...</summary><p>USENIX Security Symposium 2025</p></details> |
+| **[Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719v1)** | 2026-04-07 |  |
+| **[From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/abs/2604.05674v1)** | 2026-04-07 | Under submission |
+| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939v4)** | 2026-04-07 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
+| **[Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use](https://arxiv.org/abs/2604.05432v1)** | 2026-04-07 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics</p></details> |
+| **[Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering](https://arxiv.org/abs/2604.05179v1)** | 2026-04-06 | Accepted at LREC2026 |
 | **[Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework](https://arxiv.org/abs/2604.04852v1)** | 2026-04-06 | <details><summary>This ...</summary><p>This paper has been accepted at the 12th Intelligent Systems Conference (IntelliSys 2026)</p></details> |
 | **[Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling](https://arxiv.org/abs/2604.04842v1)** | 2026-04-06 |  |
 | **[Fewer Weights, More Problems: A Practical Attack on LLM Pruning](https://arxiv.org/abs/2510.07985v3)** | 2026-04-06 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code: https://github.com/eth-sri/llm-pruning-attack</p></details> |
 | **[Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities](https://arxiv.org/abs/2604.04561v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 8 tables, code and data at https://github.com/Cmouzouni/exploitation-surface</p></details> |
-| **[Security in LLM-as-a-Judge: A Comprehensive SoK](https://arxiv.org/abs/2603.29403v2)** | 2026-04-06 |  |
-| **[CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks](https://arxiv.org/abs/2604.04060v1)** | 2026-04-05 |  |
-| **[Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents](https://arxiv.org/abs/2604.04035v1)** | 2026-04-05 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 2 tables, 1 algorithm, preprint</p></details> |
-| **[From Prompt to Physical Action: Structured Backdoor Attacks on LLM-Mediated Robotic Control Systems](https://arxiv.org/abs/2604.03890v1)** | 2026-04-04 |  |
-| **[Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs](https://arxiv.org/abs/2604.03870v1)** | 2026-04-04 |  |
-| **[Systematic Integration of Digital Twins and Constrained LLMs for Interpretable Cyber-Physical Anomaly Detection](https://arxiv.org/abs/2604.03790v1)** | 2026-04-04 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Economic Security of VDF-Based Randomness Beacons: Models, Thresholds, and Design Guidelines](https://arxiv.org/abs/2604.04744v1)** | 2026-04-06 | 13 pages, 3 figures |
-| **[Bridging Safety and Security in Complex Systems: A Model-Based Approach with SAFT-GT Toolchain](https://arxiv.org/abs/2604.04705v1)** | 2026-04-06 |  |
-| **[A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models](https://arxiv.org/abs/2604.04488v1)** | 2026-04-06 | <details><summary>26 pa...</summary><p>26 pages, 3 figures. Subjects: Machine Learning (cs.LG)</p></details> |
-| **[Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks](https://arxiv.org/abs/2604.04473v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255v1)** | 2026-04-05 |  |
-| **[Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org/abs/2504.00446v2)** | 2026-04-05 |  |
-| **[Model Privacy: A Unified Framework for Understanding Model Stealing Attacks and Defenses](https://arxiv.org/abs/2502.15567v3)** | 2026-04-05 | <details><summary>Journ...</summary><p>Journal of the Royal Statistical Society Series B: Statistical Methodology, 2026</p></details> |
-| **[RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v2)** | 2026-04-04 | 9 pages |
-| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v2)** | 2026-04-04 |  |
-| **[AttackEval: A Systematic Empirical Study of Prompt Injection Attack Effectiveness Against Large Language Models](https://arxiv.org/abs/2604.03598v1)** | 2026-04-04 |  |
+| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** | 2026-04-07 |  |
+| **[A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms](https://arxiv.org/abs/2604.05969v1)** | 2026-04-07 |  |
+| **[Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models](https://arxiv.org/abs/2604.05853v1)** | 2026-04-07 |  |
+| **[Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v1)** | 2026-04-07 |  |
+| **[SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models](https://arxiv.org/abs/2603.24935v2)** | 2026-04-07 |  |
+| **[Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](https://arxiv.org/abs/2604.05595v1)** | 2026-04-07 |  |
+| **[Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality](https://arxiv.org/abs/2604.05510v1)** | 2026-04-07 | CVPR 2026 Findings |
+| **[JailWAM: Jailbreaking World Action Models in Robot Control](https://arxiv.org/abs/2604.05498v1)** | 2026-04-07 |  |
+| **[Safety, Security, and Cognitive Risks in World Models](https://arxiv.org/abs/2604.01346v2)** | 2026-04-06 | <details><summary>versi...</summary><p>version 2, 29 pages, 1 figure (6 panels), 3 tables. Empirical proof-of-concept on GRU/RSSM/DreamerV3 architectures</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Economic Security of VDF-Based Randomness Beacons: Models, Thresholds, and Design Guidelines](https://arxiv.org/abs/2604.04744v1)** | 2026-04-06 | 13 pages, 3 figures |
-| **[Bridging Safety and Security in Complex Systems: A Model-Based Approach with SAFT-GT Toolchain](https://arxiv.org/abs/2604.04705v1)** | 2026-04-06 |  |
-| **[A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models](https://arxiv.org/abs/2604.04488v1)** | 2026-04-06 | <details><summary>26 pa...</summary><p>26 pages, 3 figures. Subjects: Machine Learning (cs.LG)</p></details> |
-| **[Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks](https://arxiv.org/abs/2604.04473v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning](https://arxiv.org/abs/2604.04255v1)** | 2026-04-05 |  |
-| **[Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org/abs/2504.00446v2)** | 2026-04-05 |  |
-| **[Model Privacy: A Unified Framework for Understanding Model Stealing Attacks and Defenses](https://arxiv.org/abs/2502.15567v3)** | 2026-04-05 | <details><summary>Journ...</summary><p>Journal of the Royal Statistical Society Series B: Statistical Methodology, 2026</p></details> |
-| **[RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v2)** | 2026-04-04 | 9 pages |
-| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v2)** | 2026-04-04 |  |
-| **[Partially Functional Dynamic Backdoor Diffusion-based Causal Model](https://arxiv.org/abs/2509.00472v3)** | 2026-04-04 | 16 pages, 2 figures |
+| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v3)** | 2026-04-07 |  |
+| **[A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms](https://arxiv.org/abs/2604.05969v1)** | 2026-04-07 |  |
+| **[Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models](https://arxiv.org/abs/2604.05853v1)** | 2026-04-07 |  |
+| **[Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v1)** | 2026-04-07 |  |
+| **[SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models](https://arxiv.org/abs/2603.24935v2)** | 2026-04-07 |  |
+| **[Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](https://arxiv.org/abs/2604.05595v1)** | 2026-04-07 |  |
+| **[Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality](https://arxiv.org/abs/2604.05510v1)** | 2026-04-07 | CVPR 2026 Findings |
+| **[JailWAM: Jailbreaking World Action Models in Robot Control](https://arxiv.org/abs/2604.05498v1)** | 2026-04-07 |  |
+| **[Safety, Security, and Cognitive Risks in World Models](https://arxiv.org/abs/2604.01346v2)** | 2026-04-06 | <details><summary>versi...</summary><p>version 2, 29 pages, 1 figure (6 panels), 3 tables. Empirical proof-of-concept on GRU/RSSM/DreamerV3 architectures</p></details> |
 
