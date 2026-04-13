@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GRM: Utility-Aware Jailbreak Attacks on Audio LLMs via Gradient-Ratio Masking](https://arxiv.org/abs/2604.09222v1)** | 2026-04-10 | Under Review |
+| **[Hierarchical Alignment: Enforcing Hierarchical Instruction-Following in LLMs through Logical Consistency](https://arxiv.org/abs/2604.09075v1)** | 2026-04-10 |  |
+| **[Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294v3)** | 2026-04-09 | accepted by ACL 2026 |
 | **[Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407v1)** | 2026-04-09 |  |
 | **[The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training](https://arxiv.org/abs/2604.07754v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by ACL Findings 2026</p></details> |
 | **[Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning](https://arxiv.org/abs/2601.04666v2)** | 2026-04-09 | <details><summary>19 pa...</summary><p>19 pages, 6 figures; accepted by ACL 2026 Findings</p></details> |
@@ -14,13 +17,13 @@ labels: documentation
 | **[Break Me If You Can: Self-Jailbreaking of Aligned LLMs via Lexical Insertion Prompting](https://arxiv.org/abs/2601.02670v2)** | 2026-04-08 |  |
 | **[FedSpy-LLM: Towards Scalable and Generalizable Data Reconstruction Attacks from Gradients on LLMs](https://arxiv.org/abs/2604.06297v1)** | 2026-04-07 |  |
 | **[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291v4)** | 2026-04-07 | <details><summary>USENI...</summary><p>USENIX Security Symposium 2025</p></details> |
-| **[Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719v1)** | 2026-04-07 |  |
-| **[From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/abs/2604.05674v1)** | 2026-04-07 | Under submission |
-| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939v4)** | 2026-04-07 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GRM: Utility-Aware Jailbreak Attacks on Audio LLMs via Gradient-Ratio Masking](https://arxiv.org/abs/2604.09222v1)** | 2026-04-10 | Under Review |
+| **[Hierarchical Alignment: Enforcing Hierarchical Instruction-Following in LLMs through Logical Consistency](https://arxiv.org/abs/2604.09075v1)** | 2026-04-10 |  |
+| **[Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294v3)** | 2026-04-09 | accepted by ACL 2026 |
 | **[Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407v1)** | 2026-04-09 |  |
 | **[The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training](https://arxiv.org/abs/2604.07754v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by ACL Findings 2026</p></details> |
 | **[Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning](https://arxiv.org/abs/2601.04666v2)** | 2026-04-09 | <details><summary>19 pa...</summary><p>19 pages, 6 figures; accepted by ACL 2026 Findings</p></details> |
@@ -28,35 +31,28 @@ labels: documentation
 | **[Break Me If You Can: Self-Jailbreaking of Aligned LLMs via Lexical Insertion Prompting](https://arxiv.org/abs/2601.02670v2)** | 2026-04-08 |  |
 | **[FedSpy-LLM: Towards Scalable and Generalizable Data Reconstruction Attacks from Gradients on LLMs](https://arxiv.org/abs/2604.06297v1)** | 2026-04-07 |  |
 | **[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291v4)** | 2026-04-07 | <details><summary>USENI...</summary><p>USENIX Security Symposium 2025</p></details> |
-| **[Hackers or Hallucinators? A Comprehensive Analysis of LLM-Based Automated Penetration Testing](https://arxiv.org/abs/2604.05719v1)** | 2026-04-07 |  |
-| **[From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems](https://arxiv.org/abs/2604.05674v1)** | 2026-04-07 | Under submission |
-| **[SoK: Honeypots & LLMs, More Than the Sum of Their Parts?](https://arxiv.org/abs/2510.25939v4)** | 2026-04-07 | <details><summary>Syste...</summary><p>Systemization of Knowledge</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Privacy Attacks on Image AutoRegressive Models](https://arxiv.org/abs/2502.02514v5)** | 2026-04-09 | Accepted at ICML2025 |
-| **[DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks](https://arxiv.org/abs/2506.08514v4)** | 2026-04-09 |  |
-| **[Phantasia: Context-Adaptive Backdoors in Vision Language Models](https://arxiv.org/abs/2604.08395v1)** | 2026-04-09 | CVPR 2026 Findings |
-| **[Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models](https://arxiv.org/abs/2604.08297v1)** | 2026-04-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 8 tables</p></details> |
-| **[On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](https://arxiv.org/abs/2506.02978v2)** | 2026-04-09 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore. To IEEE SaTML 2026</p></details> |
-| **[Beyond Social Pressure: Benchmarking Epistemic Attack in Large Language Models](https://arxiv.org/abs/2604.07749v1)** | 2026-04-09 |  |
-| **[Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents](https://arxiv.org/abs/2510.07809v4)** | 2026-04-09 |  |
-| **[MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](https://arxiv.org/abs/2604.07551v1)** | 2026-04-08 |  |
-| **[Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176v3)** | 2026-04-08 | <details><summary>This ...</summary><p>This paper has been accepted by the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026, Shanghai, China)</p></details> |
-| **[BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling](https://arxiv.org/abs/2604.07071v1)** | 2026-04-08 | 13 pages |
+| **[XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489v1)** | 2026-04-10 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables</p></details> |
+| **[BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning](https://arxiv.org/abs/2604.09378v1)** | 2026-04-10 | 4 pages, 4 fIGURES |
+| **[Cross-Paradigm Models of Restricted Syndrome Decoding with Application to CROSS](https://arxiv.org/abs/2604.09292v1)** | 2026-04-10 | <details><summary>35 pa...</summary><p>35 pages, 0 figures, PQ Crypto 2026</p></details> |
+| **[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD 2026)</p></details> |
+| **[CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion](https://arxiv.org/abs/2604.09101v1)** | 2026-04-10 | <details><summary>17 pa...</summary><p>17 pages (8 main + 2 references + 7 supplementary), Accepted to CVPR Findings 2026</p></details> |
+| **[Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection](https://arxiv.org/abs/2604.09024v1)** | 2026-04-10 | <details><summary>Appea...</summary><p>Appeared in ACL 2026 main conference</p></details> |
+| **[Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations](https://arxiv.org/abs/2506.09067v2)** | 2026-04-09 |  |
+| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v3)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Privacy Attacks on Image AutoRegressive Models](https://arxiv.org/abs/2502.02514v5)** | 2026-04-09 | Accepted at ICML2025 |
-| **[DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks](https://arxiv.org/abs/2506.08514v4)** | 2026-04-09 |  |
-| **[Phantasia: Context-Adaptive Backdoors in Vision Language Models](https://arxiv.org/abs/2604.08395v1)** | 2026-04-09 | CVPR 2026 Findings |
-| **[Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models](https://arxiv.org/abs/2604.08297v1)** | 2026-04-09 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 8 tables</p></details> |
-| **[On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](https://arxiv.org/abs/2506.02978v2)** | 2026-04-09 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore. To IEEE SaTML 2026</p></details> |
-| **[Beyond Social Pressure: Benchmarking Epistemic Attack in Large Language Models](https://arxiv.org/abs/2604.07749v1)** | 2026-04-09 |  |
-| **[Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents](https://arxiv.org/abs/2510.07809v4)** | 2026-04-09 |  |
-| **[MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](https://arxiv.org/abs/2604.07551v1)** | 2026-04-08 |  |
-| **[Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176v3)** | 2026-04-08 | <details><summary>This ...</summary><p>This paper has been accepted by the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026, Shanghai, China)</p></details> |
-| **[BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling](https://arxiv.org/abs/2604.07071v1)** | 2026-04-08 | 13 pages |
+| **[XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489v1)** | 2026-04-10 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 7 tables</p></details> |
+| **[BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning](https://arxiv.org/abs/2604.09378v1)** | 2026-04-10 | 4 pages, 4 fIGURES |
+| **[Cross-Paradigm Models of Restricted Syndrome Decoding with Application to CROSS](https://arxiv.org/abs/2604.09292v1)** | 2026-04-10 | <details><summary>35 pa...</summary><p>35 pages, 0 figures, PQ Crypto 2026</p></details> |
+| **[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD 2026)</p></details> |
+| **[CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion](https://arxiv.org/abs/2604.09101v1)** | 2026-04-10 | <details><summary>17 pa...</summary><p>17 pages (8 main + 2 references + 7 supplementary), Accepted to CVPR Findings 2026</p></details> |
+| **[Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection](https://arxiv.org/abs/2604.09024v1)** | 2026-04-10 | <details><summary>Appea...</summary><p>Appeared in ACL 2026 main conference</p></details> |
+| **[Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations](https://arxiv.org/abs/2506.09067v2)** | 2026-04-09 |  |
+| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v3)** | 2026-04-09 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Benchmark code and run logs released</p></details> |
 
