@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pruning Unsafe Tickets: A Resource-Efficient Framework for Safer and More Robust LLMs](https://arxiv.org/abs/2604.15780v1)** | 2026-04-17 |  |
+| **[Into the Gray Zone: Domain Contexts Can Blur LLM Safety Boundaries](https://arxiv.org/abs/2604.15717v1)** | 2026-04-17 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294v4)** | 2026-04-17 | accepted by ACL 2026 |
+| **[Harmonizing Multi-Objective LLM Unlearning via Unified Domain Representation and Bidirectional Logit Distillation](https://arxiv.org/abs/2604.15482v1)** | 2026-04-16 |  |
 | **[Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization](https://arxiv.org/abs/2604.15022v1)** | 2026-04-16 |  |
 | **[Segment-Level Coherence for Robust Harmful Intent Probing in LLMs](https://arxiv.org/abs/2604.14865v1)** | 2026-04-16 | preprint |
 | **[SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs](https://arxiv.org/abs/2602.13529v2)** | 2026-04-15 |  |
 | **[SafeHarness: Lifecycle-Integrated Security Architecture for LLM-based Agent Deployment](https://arxiv.org/abs/2604.13630v1)** | 2026-04-15 | 26 pages, 6 figures |
 | **[Between a Rock and a Hard Place: The Tension Between Ethical Reasoning and Safety Alignment in LLMs](https://arxiv.org/abs/2509.05367v4)** | 2026-04-15 |  |
-| **[Can Agents Secure Hardware? Evaluating Agentic LLM-Driven Obfuscation for IP Protection](https://arxiv.org/abs/2604.13298v1)** | 2026-04-14 | 5 pages, 3 figures, |
-| **[BitFlipScope: Scalable Fault Localization and Recovery for Bit-Flip Corruptions in LLMs](https://arxiv.org/abs/2512.22174v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2026</p></details> |
-| **[Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory](https://arxiv.org/abs/2604.12817v1)** | 2026-04-14 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[LLM-Guided Prompt Evolution for Password Guessing](https://arxiv.org/abs/2604.12601v1)** | 2026-04-14 | 11 pages, 5 figures |
-| **[CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems](https://arxiv.org/abs/2604.12461v1)** | 2026-04-14 | ACL 2026, Main |
+| **[LogJack: Indirect Prompt Injection Through Cloud Logs Against LLM Debugging Agents](https://arxiv.org/abs/2604.15368v1)** | 2026-04-15 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pruning Unsafe Tickets: A Resource-Efficient Framework for Safer and More Robust LLMs](https://arxiv.org/abs/2604.15780v1)** | 2026-04-17 |  |
+| **[Into the Gray Zone: Domain Contexts Can Blur LLM Safety Boundaries](https://arxiv.org/abs/2604.15717v1)** | 2026-04-17 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection](https://arxiv.org/abs/2601.10294v4)** | 2026-04-17 | accepted by ACL 2026 |
+| **[Harmonizing Multi-Objective LLM Unlearning via Unified Domain Representation and Bidirectional Logit Distillation](https://arxiv.org/abs/2604.15482v1)** | 2026-04-16 |  |
 | **[Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization](https://arxiv.org/abs/2604.15022v1)** | 2026-04-16 |  |
 | **[Segment-Level Coherence for Robust Harmful Intent Probing in LLMs](https://arxiv.org/abs/2604.14865v1)** | 2026-04-16 | preprint |
 | **[SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs](https://arxiv.org/abs/2602.13529v2)** | 2026-04-15 |  |
 | **[SafeHarness: Lifecycle-Integrated Security Architecture for LLM-based Agent Deployment](https://arxiv.org/abs/2604.13630v1)** | 2026-04-15 | 26 pages, 6 figures |
 | **[Between a Rock and a Hard Place: The Tension Between Ethical Reasoning and Safety Alignment in LLMs](https://arxiv.org/abs/2509.05367v4)** | 2026-04-15 |  |
-| **[Can Agents Secure Hardware? Evaluating Agentic LLM-Driven Obfuscation for IP Protection](https://arxiv.org/abs/2604.13298v1)** | 2026-04-14 | 5 pages, 3 figures, |
-| **[BitFlipScope: Scalable Fault Localization and Recovery for Bit-Flip Corruptions in LLMs](https://arxiv.org/abs/2512.22174v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2026</p></details> |
-| **[Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory](https://arxiv.org/abs/2604.12817v1)** | 2026-04-14 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[LLM-Guided Prompt Evolution for Password Guessing](https://arxiv.org/abs/2604.12601v1)** | 2026-04-14 | 11 pages, 5 figures |
-| **[CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems](https://arxiv.org/abs/2604.12461v1)** | 2026-04-14 | ACL 2026, Main |
+| **[LogJack: Indirect Prompt Injection Through Cloud Logs Against LLM Debugging Agents](https://arxiv.org/abs/2604.15368v1)** | 2026-04-15 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis](https://arxiv.org/abs/2505.24672v2)** | 2026-04-17 |  |
+| **[Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models](https://arxiv.org/abs/2510.21783v2)** | 2026-04-17 |  |
+| **[When Surfaces Lie: Exploiting Wrinkle-Induced Attention Shift to Attack Vision-Language Models](https://arxiv.org/abs/2603.27759v3)** | 2026-04-17 |  |
+| **[RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models](https://arxiv.org/abs/2601.03699v2)** | 2026-04-17 |  |
+| **[A Systematic Study of Training-Free Methods for Trustworthy Large Language Models](https://arxiv.org/abs/2604.15789v1)** | 2026-04-17 |  |
+| **[Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing](https://arxiv.org/abs/2604.15725v1)** | 2026-04-17 |  |
+| **[When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](https://arxiv.org/abs/2510.09689v3)** | 2026-04-17 |  |
+| **[Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover](https://arxiv.org/abs/2603.11331v2)** | 2026-04-17 |  |
 | **[Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models](https://arxiv.org/abs/2604.10681v2)** | 2026-04-16 |  |
-| **[AutoRAN: Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/abs/2505.10846v3)** | 2026-04-16 | <details><summary>10 pa...</summary><p>10 pages, ACL 2026 Main</p></details> |
-| **[Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization](https://arxiv.org/abs/2604.15022v1)** | 2026-04-16 |  |
-| **[GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models](https://arxiv.org/abs/2601.03416v3)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Main Conference</p></details> |
-| **[Pay Less Attention to Function Words for Free Robustness of Vision-Language Models](https://arxiv.org/abs/2512.07222v4)** | 2026-04-16 | <details><summary>The p...</summary><p>The paper has been accepted by ICLR26</p></details> |
-| **[Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://arxiv.org/abs/2604.14604v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by IEEE S&P 2026</p></details> |
-| **[Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks](https://arxiv.org/abs/2604.14444v1)** | 2026-04-15 |  |
-| **[Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model](https://arxiv.org/abs/2604.09665v2)** | 2026-04-15 |  |
-| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v3)** | 2026-04-15 | <details><summary>This ...</summary><p>This version was posted without enough prior discussion with my collaborator. Thus, it is being withdrawn pending further internal review. The authors do not wish this version to be considered part of the active scientific record in its current form</p></details> |
-| **[MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems](https://arxiv.org/abs/2604.13849v1)** | 2026-04-15 | <details><summary>A whi...</summary><p>A white paper of our presentation at DEFCON SG 2026 (Demo Labs) https://defcon.org/html/defcon-singapore/dc-singapore-demolabs.html</p></details> |
+| **[Graded Symbolic Verification with a Fuzzy Dolev-Yao Attacker Model](https://arxiv.org/abs/2604.15402v1)** | 2026-04-16 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis](https://arxiv.org/abs/2505.24672v2)** | 2026-04-17 |  |
+| **[Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation](https://arxiv.org/abs/2604.16197v1)** | 2026-04-17 | 54 pages |
+| **[Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models](https://arxiv.org/abs/2510.21783v2)** | 2026-04-17 |  |
+| **[When Surfaces Lie: Exploiting Wrinkle-Induced Attention Shift to Attack Vision-Language Models](https://arxiv.org/abs/2603.27759v3)** | 2026-04-17 |  |
+| **[RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models](https://arxiv.org/abs/2601.03699v2)** | 2026-04-17 |  |
+| **[A Systematic Study of Training-Free Methods for Trustworthy Large Language Models](https://arxiv.org/abs/2604.15789v1)** | 2026-04-17 |  |
+| **[Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing](https://arxiv.org/abs/2604.15725v1)** | 2026-04-17 |  |
+| **[When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](https://arxiv.org/abs/2510.09689v3)** | 2026-04-17 |  |
+| **[Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover](https://arxiv.org/abs/2603.11331v2)** | 2026-04-17 |  |
 | **[Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models](https://arxiv.org/abs/2604.10681v2)** | 2026-04-16 |  |
-| **[AutoRAN: Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/abs/2505.10846v3)** | 2026-04-16 | <details><summary>10 pa...</summary><p>10 pages, ACL 2026 Main</p></details> |
-| **[Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization](https://arxiv.org/abs/2604.15022v1)** | 2026-04-16 |  |
-| **[GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models](https://arxiv.org/abs/2601.03416v3)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Main Conference</p></details> |
-| **[Pay Less Attention to Function Words for Free Robustness of Vision-Language Models](https://arxiv.org/abs/2512.07222v4)** | 2026-04-16 | <details><summary>The p...</summary><p>The paper has been accepted by ICLR26</p></details> |
-| **[Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://arxiv.org/abs/2604.14604v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by IEEE S&P 2026</p></details> |
-| **[Robustness Analysis of Machine Learning Models for IoT Intrusion Detection Under Data Poisoning Attacks](https://arxiv.org/abs/2604.14444v1)** | 2026-04-15 |  |
-| **[Deliberative Alignment is Deep, but Uncertainty Remains: Inference time safety improvement in reasoning via attribution of unsafe behavior to base model](https://arxiv.org/abs/2604.09665v2)** | 2026-04-15 |  |
-| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v3)** | 2026-04-15 | <details><summary>This ...</summary><p>This version was posted without enough prior discussion with my collaborator. Thus, it is being withdrawn pending further internal review. The authors do not wish this version to be considered part of the active scientific record in its current form</p></details> |
-| **[MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems](https://arxiv.org/abs/2604.13849v1)** | 2026-04-15 | <details><summary>A whi...</summary><p>A white paper of our presentation at DEFCON SG 2026 (Demo Labs) https://defcon.org/html/defcon-singapore/dc-singapore-demolabs.html</p></details> |
 
