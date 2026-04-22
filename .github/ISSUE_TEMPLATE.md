@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[False Security Confidence in Benign LLM Code Generation](https://arxiv.org/abs/2604.17014v2)** | 2026-04-21 | <details><summary>6 pag...</summary><p>6 pages; technical report</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v1)** | 2026-04-21 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges](https://arxiv.org/abs/2604.19354v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to AIWare'26 Benchmark and Dataset Track</p></details> |
+| **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v1)** | 2026-04-21 |  |
+| **[STAR-Teaming: A Strategy-Response Multiplex Network Approach to Automated LLM Red Teaming](https://arxiv.org/abs/2604.18976v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
+| **[Watch the Weights: Unsupervised monitoring and control of fine-tuned LLMs](https://arxiv.org/abs/2508.00161v3)** | 2026-04-21 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697v1)** | 2026-04-20 | Accepted by S&P 2026 |
 | **[LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users](https://arxiv.org/abs/2507.02850v3)** | 2026-04-20 |  |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v1)** | 2026-04-20 |  |
-| **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v1)** | 2026-04-20 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, 16 tables</p></details> |
-| **[ASTRA: An Automated Framework for Strategy Discovery, Retrieval, and Evolution for Jailbreaking LLMs](https://arxiv.org/abs/2511.02356v2)** | 2026-04-20 | <details><summary>Accce...</summary><p>Acccepted by ACL 2026, 20 pages, 7 figures, 13 tables</p></details> |
-| **[CLASP: Training-Free LLM-Assisted Source Code Watermarking via Semantic-Preserving Transformations](https://arxiv.org/abs/2510.11251v2)** | 2026-04-20 |  |
-| **[Improving LLM Unlearning Robustness via Random Perturbations](https://arxiv.org/abs/2501.19202v6)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research</p></details> |
-| **[Towards a Data-Parameter Correspondence for LLMs: A Preliminary Discussion](https://arxiv.org/abs/2604.17384v1)** | 2026-04-19 | 25 pages |
-| **[GuardPhish: Securing Open-Source LLMs from Phishing Abuse](https://arxiv.org/abs/2604.17313v1)** | 2026-04-19 |  |
-| **[HarmChip: Evaluating Hardware Security Centric LLM Safety via Jailbreak Benchmarking](https://arxiv.org/abs/2604.17093v1)** | 2026-04-18 |  |
-| **[False Security Confidence in Benign LLM Code Generation](https://arxiv.org/abs/2604.17014v1)** | 2026-04-18 | <details><summary>6 pag...</summary><p>6 pages; technical report</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[False Security Confidence in Benign LLM Code Generation](https://arxiv.org/abs/2604.17014v2)** | 2026-04-21 | <details><summary>6 pag...</summary><p>6 pages; technical report</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v1)** | 2026-04-21 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges](https://arxiv.org/abs/2604.19354v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to AIWare'26 Benchmark and Dataset Track</p></details> |
+| **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v1)** | 2026-04-21 |  |
+| **[STAR-Teaming: A Strategy-Response Multiplex Network Approach to Automated LLM Red Teaming](https://arxiv.org/abs/2604.18976v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
+| **[Watch the Weights: Unsupervised monitoring and control of fine-tuned LLMs](https://arxiv.org/abs/2508.00161v3)** | 2026-04-21 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697v1)** | 2026-04-20 | Accepted by S&P 2026 |
 | **[LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users](https://arxiv.org/abs/2507.02850v3)** | 2026-04-20 |  |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v1)** | 2026-04-20 |  |
-| **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v1)** | 2026-04-20 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, 16 tables</p></details> |
-| **[ASTRA: An Automated Framework for Strategy Discovery, Retrieval, and Evolution for Jailbreaking LLMs](https://arxiv.org/abs/2511.02356v2)** | 2026-04-20 | <details><summary>Accce...</summary><p>Acccepted by ACL 2026, 20 pages, 7 figures, 13 tables</p></details> |
-| **[CLASP: Training-Free LLM-Assisted Source Code Watermarking via Semantic-Preserving Transformations](https://arxiv.org/abs/2510.11251v2)** | 2026-04-20 |  |
-| **[Improving LLM Unlearning Robustness via Random Perturbations](https://arxiv.org/abs/2501.19202v6)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research</p></details> |
-| **[Towards a Data-Parameter Correspondence for LLMs: A Preliminary Discussion](https://arxiv.org/abs/2604.17384v1)** | 2026-04-19 | 25 pages |
-| **[GuardPhish: Securing Open-Source LLMs from Phishing Abuse](https://arxiv.org/abs/2604.17313v1)** | 2026-04-19 |  |
-| **[HarmChip: Evaluating Hardware Security Centric LLM Safety via Jailbreak Benchmarking](https://arxiv.org/abs/2604.17093v1)** | 2026-04-18 |  |
-| **[False Security Confidence in Benign LLM Code Generation](https://arxiv.org/abs/2604.17014v1)** | 2026-04-18 | <details><summary>6 pag...</summary><p>6 pages; technical report</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Data Contamination in Large Language Models](https://arxiv.org/abs/2604.19561v1)** | 2026-04-21 |  |
+| **[Malicious ML Model Detection by Learning Dynamic Behaviors](https://arxiv.org/abs/2604.19438v1)** | 2026-04-21 | <details><summary>Curre...</summary><p>Currently under review at the International Symposium on Research in Attacks, Intrusions and Defenses 2026</p></details> |
+| **[Visual Adversarial Attack on Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2411.18275v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
+| **[TROJail: Trajectory-Level Optimization for Multi-Turn Large Language Model Jailbreaks with Process Rewards](https://arxiv.org/abs/2512.07761v3)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
+| **[RepIt: Steering Language Models with Concept-Specific Refusal Vectors](https://arxiv.org/abs/2509.13281v5)** | 2026-04-21 | ICLR 2026 |
+| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v4)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
+| **[ProjLens: Unveiling the Role of Projectors in Multimodal Model Safety](https://arxiv.org/abs/2604.19083v1)** | 2026-04-21 | 18 pages ,15 figures |
+| **[ORCA: An Agentic Reasoning Framework for Hallucination and Adversarial Robustness in Vision-Language Models](https://arxiv.org/abs/2509.15435v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on Cloud and Big Data Computing (ICCBDC 2026)</p></details> |
+| **[Hierarchically Robust Zero-shot Vision-language Models](https://arxiv.org/abs/2604.18867v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This paper is accepted by CVPR'26</p></details> |
 | **[Adversarial Humanities Benchmark: Results on Stylistic Robustness in Frontier Model Safety](https://arxiv.org/abs/2604.18487v1)** | 2026-04-20 |  |
-| **[Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/abs/2601.04448v4)** | 2026-04-20 | 18 pages |
-| **[Reasoning Hijacking: The Fragility of Reasoning Alignment in Large Language Models](https://arxiv.org/abs/2601.10294v5)** | 2026-04-20 | accepted by ACL 2026 |
-| **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v1)** | 2026-04-20 |  |
-| **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v3)** | 2026-04-20 | <details><summary>To ap...</summary><p>To appear at ACL 2026 main</p></details> |
-| **[Privacy-Preserving Product-Quantized Approximate Nearest Neighbor Search Framework for Large-scale Datasets via A Hybrid of Fully Homomorphic Encryption and Trusted Execution Environment](https://arxiv.org/abs/2604.17816v1)** | 2026-04-20 | 15 pages, 4 figures |
-| **[When Background Matters: Breaking Medical Vision Language Models by Transferable Attack](https://arxiv.org/abs/2604.17318v1)** | 2026-04-19 | ACL Main 2026 |
-| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v3)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
-| **[Jailbreaking Large Language Models with Morality Attacks](https://arxiv.org/abs/2604.17053v1)** | 2026-04-18 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 18 tables. Accepted by ACL 2026 Findings</p></details> |
-| **[SIF: Semantically In-Distribution Fingerprints for Large Vision-Language Models](https://arxiv.org/abs/2604.17041v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Data Contamination in Large Language Models](https://arxiv.org/abs/2604.19561v1)** | 2026-04-21 |  |
+| **[Malicious ML Model Detection by Learning Dynamic Behaviors](https://arxiv.org/abs/2604.19438v1)** | 2026-04-21 | <details><summary>Curre...</summary><p>Currently under review at the International Symposium on Research in Attacks, Intrusions and Defenses 2026</p></details> |
+| **[Visual Adversarial Attack on Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2411.18275v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
+| **[TROJail: Trajectory-Level Optimization for Multi-Turn Large Language Model Jailbreaks with Process Rewards](https://arxiv.org/abs/2512.07761v3)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
+| **[RepIt: Steering Language Models with Concept-Specific Refusal Vectors](https://arxiv.org/abs/2509.13281v5)** | 2026-04-21 | ICLR 2026 |
+| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v4)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
+| **[ProjLens: Unveiling the Role of Projectors in Multimodal Model Safety](https://arxiv.org/abs/2604.19083v1)** | 2026-04-21 | 18 pages ,15 figures |
+| **[ORCA: An Agentic Reasoning Framework for Hallucination and Adversarial Robustness in Vision-Language Models](https://arxiv.org/abs/2509.15435v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on Cloud and Big Data Computing (ICCBDC 2026)</p></details> |
+| **[Hierarchically Robust Zero-shot Vision-language Models](https://arxiv.org/abs/2604.18867v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This paper is accepted by CVPR'26</p></details> |
 | **[Adversarial Humanities Benchmark: Results on Stylistic Robustness in Frontier Model Safety](https://arxiv.org/abs/2604.18487v1)** | 2026-04-20 |  |
-| **[Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/abs/2601.04448v4)** | 2026-04-20 | 18 pages |
-| **[Reasoning Hijacking: The Fragility of Reasoning Alignment in Large Language Models](https://arxiv.org/abs/2601.10294v5)** | 2026-04-20 | accepted by ACL 2026 |
-| **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v1)** | 2026-04-20 |  |
-| **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069v3)** | 2026-04-20 | <details><summary>To ap...</summary><p>To appear at ACL 2026 main</p></details> |
-| **[Privacy-Preserving Product-Quantized Approximate Nearest Neighbor Search Framework for Large-scale Datasets via A Hybrid of Fully Homomorphic Encryption and Trusted Execution Environment](https://arxiv.org/abs/2604.17816v1)** | 2026-04-20 | 15 pages, 4 figures |
-| **[When Background Matters: Breaking Medical Vision Language Models by Transferable Attack](https://arxiv.org/abs/2604.17318v1)** | 2026-04-19 | ACL Main 2026 |
-| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v3)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
-| **[Jailbreaking Large Language Models with Morality Attacks](https://arxiv.org/abs/2604.17053v1)** | 2026-04-18 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 18 tables. Accepted by ACL 2026 Findings</p></details> |
-| **[SIF: Semantically In-Distribution Fingerprints for Large Vision-Language Models](https://arxiv.org/abs/2604.17041v1)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 
