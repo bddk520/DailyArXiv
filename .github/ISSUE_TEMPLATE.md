@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sentra-Guard: A Real-Time Multilingual Defense Against Adversarial LLM Prompts](https://arxiv.org/abs/2510.22628v2)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Preprint version under review in the area of Artificial Intelligence (cs.AI)</p></details> |
-| **[Self-Adaptive Multi-Agent LLM-Based Security Pattern Selection for IoT Systems](https://arxiv.org/abs/2605.00741v1)** | 2026-05-01 |  |
-| **[SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367v2)** | 2026-05-01 |  |
-| **[FinSafetyBench: Evaluating LLM Safety in Real-World Financial Scenarios](https://arxiv.org/abs/2605.00706v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by Findings of ACL2026</p></details> |
-| **[Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance](https://arxiv.org/abs/2605.00553v1)** | 2026-05-01 | ICML 2026 Spotlight |
-| **[The Power of Order: Fooling LLMs with Adversarial Table Permutations](https://arxiv.org/abs/2605.00445v1)** | 2026-05-01 |  |
-| **[Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection](https://arxiv.org/abs/2604.28129v1)** | 2026-04-30 |  |
-| **[Measuring Opinion Bias and Sycophancy via LLM-based Persuasion](https://arxiv.org/abs/2604.21564v2)** | 2026-04-30 |  |
-| **[Dr. Jekyll and Mr. Hyde: Two Faces of LLMs](https://arxiv.org/abs/2312.03853v7)** | 2026-04-30 | <details><summary>Prese...</summary><p>Presented at the Joint National Conference on Cybersecurity (ITASEC & SERICS 2026), Cagliari, Italy, February 09-13, 2026. Published as Paper 35 in CEUR Workshop Proceedings, Vol-4198. Available at: https://ceur-ws.org/Vol-4198/</p></details> |
-| **[Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors](https://arxiv.org/abs/2604.27426v1)** | 2026-04-30 |  |
+| **[Don't Trust Your Upstream: Exploiting LLM Multi-Agent System via Topology-Guided Adversarial Propagation](https://arxiv.org/abs/2512.04129v2)** | 2026-05-04 |  |
+| **[Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense](https://arxiv.org/abs/2605.02812v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 6 tables</p></details> |
+| **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v3)** | 2026-05-04 | <details><summary>In AC...</summary><p>In ACM Conference on AI and Agentic Systems, CAIS 2026, San Jose, CA, USA</p></details> |
+| **[On the Privacy of LLMs: An Ablation Study](https://arxiv.org/abs/2605.02255v1)** | 2026-05-04 |  |
+| **[From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](https://arxiv.org/abs/2604.27267v2)** | 2026-05-04 | <details><summary>Submi...</summary><p>Submitted to 23rd Annual International Conference on Privacy, Security, and Trust (PST2026)</p></details> |
+| **[When Alignment Isn't Enough: Response-Path Attacks on LLM Agents](https://arxiv.org/abs/2605.02187v1)** | 2026-05-04 |  |
+| **[RefusalGuard: Geometry-Preserving Fine-Tuning for Safety in LLMs](https://arxiv.org/abs/2605.01913v1)** | 2026-05-03 |  |
+| **[MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety](https://arxiv.org/abs/2605.01687v1)** | 2026-05-03 | <details><summary>ICML ...</summary><p>ICML 2026, 25 pages, 11 figures, 13 tables</p></details> |
+| **[LLM Output Detectability and Task Performance Can be Jointly Optimized](https://arxiv.org/abs/2605.01350v1)** | 2026-05-02 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Lost in the Tower of Babel: The Adverse Effects of Incidental Multilingualism in LLMs](https://arxiv.org/abs/2605.01224v1)** | 2026-05-02 | under review |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sentra-Guard: A Real-Time Multilingual Defense Against Adversarial LLM Prompts](https://arxiv.org/abs/2510.22628v2)** | 2026-05-01 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Preprint version under review in the area of Artificial Intelligence (cs.AI)</p></details> |
-| **[Self-Adaptive Multi-Agent LLM-Based Security Pattern Selection for IoT Systems](https://arxiv.org/abs/2605.00741v1)** | 2026-05-01 |  |
-| **[SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367v2)** | 2026-05-01 |  |
-| **[FinSafetyBench: Evaluating LLM Safety in Real-World Financial Scenarios](https://arxiv.org/abs/2605.00706v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by Findings of ACL2026</p></details> |
-| **[Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance](https://arxiv.org/abs/2605.00553v1)** | 2026-05-01 | ICML 2026 Spotlight |
-| **[The Power of Order: Fooling LLMs with Adversarial Table Permutations](https://arxiv.org/abs/2605.00445v1)** | 2026-05-01 |  |
-| **[Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection](https://arxiv.org/abs/2604.28129v1)** | 2026-04-30 |  |
-| **[Measuring Opinion Bias and Sycophancy via LLM-based Persuasion](https://arxiv.org/abs/2604.21564v2)** | 2026-04-30 |  |
-| **[Dr. Jekyll and Mr. Hyde: Two Faces of LLMs](https://arxiv.org/abs/2312.03853v7)** | 2026-04-30 | <details><summary>Prese...</summary><p>Presented at the Joint National Conference on Cybersecurity (ITASEC & SERICS 2026), Cagliari, Italy, February 09-13, 2026. Published as Paper 35 in CEUR Workshop Proceedings, Vol-4198. Available at: https://ceur-ws.org/Vol-4198/</p></details> |
-| **[Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors](https://arxiv.org/abs/2604.27426v1)** | 2026-04-30 |  |
+| **[Don't Trust Your Upstream: Exploiting LLM Multi-Agent System via Topology-Guided Adversarial Propagation](https://arxiv.org/abs/2512.04129v2)** | 2026-05-04 |  |
+| **[Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense](https://arxiv.org/abs/2605.02812v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 6 tables</p></details> |
+| **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v3)** | 2026-05-04 | <details><summary>In AC...</summary><p>In ACM Conference on AI and Agentic Systems, CAIS 2026, San Jose, CA, USA</p></details> |
+| **[On the Privacy of LLMs: An Ablation Study](https://arxiv.org/abs/2605.02255v1)** | 2026-05-04 |  |
+| **[From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](https://arxiv.org/abs/2604.27267v2)** | 2026-05-04 | <details><summary>Submi...</summary><p>Submitted to 23rd Annual International Conference on Privacy, Security, and Trust (PST2026)</p></details> |
+| **[When Alignment Isn't Enough: Response-Path Attacks on LLM Agents](https://arxiv.org/abs/2605.02187v1)** | 2026-05-04 |  |
+| **[RefusalGuard: Geometry-Preserving Fine-Tuning for Safety in LLMs](https://arxiv.org/abs/2605.01913v1)** | 2026-05-03 |  |
+| **[MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety](https://arxiv.org/abs/2605.01687v1)** | 2026-05-03 | <details><summary>ICML ...</summary><p>ICML 2026, 25 pages, 11 figures, 13 tables</p></details> |
+| **[LLM Output Detectability and Task Performance Can be Jointly Optimized](https://arxiv.org/abs/2605.01350v1)** | 2026-05-02 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Lost in the Tower of Babel: The Adverse Effects of Incidental Multilingualism in LLMs](https://arxiv.org/abs/2605.01224v1)** | 2026-05-02 | under review |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift](https://arxiv.org/abs/2605.00788v1)** | 2026-05-01 | 2 figures |
-| **[Jailbreaking Vision-Language Models Through the Visual Modality](https://arxiv.org/abs/2605.00583v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v5)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
-| **[DiffMI: Breaking Face Recognition Privacy via Diffusion-Driven Training-Free Model Inversion](https://arxiv.org/abs/2504.18015v4)** | 2026-05-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Information Forensics and Security</p></details> |
-| **[Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2602.03265v2)** | 2026-04-30 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, presented at the "I Can't Believe It's Not Better" workshop at ICLR 2026</p></details> |
-| **[Jailbroken Frontier Models Retain Their Capabilities](https://arxiv.org/abs/2605.00267v1)** | 2026-04-30 |  |
-| **[Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models](https://arxiv.org/abs/2605.00123v1)** | 2026-04-30 | Pre-print |
-| **[MalGEN: A Testbed for Modeling and Evaluating Malware Behaviors](https://arxiv.org/abs/2506.07586v2)** | 2026-04-30 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v2)** | 2026-04-30 |  |
-| **[PuzzleMark: Implicit Jigsaw Learning for Robust Code Dataset Watermarking in Neural Code Completion Models](https://arxiv.org/abs/2604.27677v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted to the ACM International Conference on the Foundations of Software Engineering (FSE 2026)</p></details> |
+| **[VertMark: A Unified Training-Free Robust Watermarking Framework for Vertical Domain Pre-trained Language Models](https://arxiv.org/abs/2605.02557v1)** | 2026-05-04 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 12 tables</p></details> |
+| **[From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](https://arxiv.org/abs/2604.27267v2)** | 2026-05-04 | <details><summary>Submi...</summary><p>Submitted to 23rd Annual International Conference on Privacy, Security, and Trust (PST2026)</p></details> |
+| **[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://arxiv.org/abs/2605.02202v1)** | 2026-05-04 |  |
+| **[Adversarial Update-Based Federated Unlearning for Poisoned Model Recovery](https://arxiv.org/abs/2605.02110v1)** | 2026-05-04 |  |
+| **[Tenability and Weak Semantics: Modeling Non-uniform Defense -- Extended Version](https://arxiv.org/abs/2605.02024v1)** | 2026-05-03 | <details><summary>This ...</summary><p>This is the extended version of a paper accepted to KR (Knowledge Representation) 2026</p></details> |
+| **[TRAP: Tail-aware Ranking Attack for World-Model Planning](https://arxiv.org/abs/2605.01950v1)** | 2026-05-03 |  |
+| **[TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks](https://arxiv.org/abs/2605.01761v1)** | 2026-05-03 |  |
+| **[Led to Mislead: Adversarial Content Injection for Attacks on Neural Ranking Models](https://arxiv.org/abs/2605.01591v1)** | 2026-05-02 |  |
+| **[CSGuard: Toward Forgery-Resistant Watermarking in Diffusion Models via Compressed Sensing Constraint](https://arxiv.org/abs/2605.01479v1)** | 2026-05-02 |  |
+| **[VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models](https://arxiv.org/abs/2605.01449v1)** | 2026-05-02 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift](https://arxiv.org/abs/2605.00788v1)** | 2026-05-01 | 2 figures |
-| **[Jailbreaking Vision-Language Models Through the Visual Modality](https://arxiv.org/abs/2605.00583v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v5)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy, 2026</p></details> |
-| **[DiffMI: Breaking Face Recognition Privacy via Diffusion-Driven Training-Free Model Inversion](https://arxiv.org/abs/2504.18015v4)** | 2026-05-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Information Forensics and Security</p></details> |
-| **[Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2602.03265v2)** | 2026-04-30 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, presented at the "I Can't Believe It's Not Better" workshop at ICLR 2026</p></details> |
-| **[Jailbroken Frontier Models Retain Their Capabilities](https://arxiv.org/abs/2605.00267v1)** | 2026-04-30 |  |
-| **[Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models](https://arxiv.org/abs/2605.00123v1)** | 2026-04-30 | Pre-print |
-| **[MalGEN: A Testbed for Modeling and Evaluating Malware Behaviors](https://arxiv.org/abs/2506.07586v2)** | 2026-04-30 |  |
-| **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](https://arxiv.org/abs/2512.22046v2)** | 2026-04-30 |  |
-| **[PuzzleMark: Implicit Jigsaw Learning for Robust Code Dataset Watermarking in Neural Code Completion Models](https://arxiv.org/abs/2604.27677v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted to the ACM International Conference on the Foundations of Software Engineering (FSE 2026)</p></details> |
+| **[VertMark: A Unified Training-Free Robust Watermarking Framework for Vertical Domain Pre-trained Language Models](https://arxiv.org/abs/2605.02557v1)** | 2026-05-04 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 12 tables</p></details> |
+| **[From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](https://arxiv.org/abs/2604.27267v2)** | 2026-05-04 | <details><summary>Submi...</summary><p>Submitted to 23rd Annual International Conference on Privacy, Security, and Trust (PST2026)</p></details> |
+| **[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://arxiv.org/abs/2605.02202v1)** | 2026-05-04 |  |
+| **[Adversarial Update-Based Federated Unlearning for Poisoned Model Recovery](https://arxiv.org/abs/2605.02110v1)** | 2026-05-04 |  |
+| **[Tenability and Weak Semantics: Modeling Non-uniform Defense -- Extended Version](https://arxiv.org/abs/2605.02024v1)** | 2026-05-03 | <details><summary>This ...</summary><p>This is the extended version of a paper accepted to KR (Knowledge Representation) 2026</p></details> |
+| **[TRAP: Tail-aware Ranking Attack for World-Model Planning](https://arxiv.org/abs/2605.01950v1)** | 2026-05-03 |  |
+| **[TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks](https://arxiv.org/abs/2605.01761v1)** | 2026-05-03 |  |
+| **[Led to Mislead: Adversarial Content Injection for Attacks on Neural Ranking Models](https://arxiv.org/abs/2605.01591v1)** | 2026-05-02 |  |
+| **[CSGuard: Toward Forgery-Resistant Watermarking in Diffusion Models via Compressed Sensing Constraint](https://arxiv.org/abs/2605.01479v1)** | 2026-05-02 |  |
+| **[VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models](https://arxiv.org/abs/2605.01449v1)** | 2026-05-02 |  |
 
