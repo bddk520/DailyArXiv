@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Multi-Layer Cloud-IDS Pipeline with LLM and Adaptive Q-Learning Calibration](https://arxiv.org/abs/2605.15889v1)** | 2026-05-15 |  |
-| **[Graph-Regularized Sparse Autoencoders for LLM Safety Steering](https://arxiv.org/abs/2512.06655v3)** | 2026-05-15 |  |
-| **[FlipAttack: Jailbreak LLMs via Flipping](https://arxiv.org/abs/2410.02832v2)** | 2026-05-15 | 43 pages, 31 figures |
-| **["Someone Hid It": Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](https://arxiv.org/abs/2602.00364v4)** | 2026-05-15 |  |
-| **[Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise](https://arxiv.org/abs/2605.15641v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026). 9 pages, 4 figures, 3 tables</p></details> |
-| **[Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs](https://arxiv.org/abs/2605.15598v1)** | 2026-05-15 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 3 tables</p></details> |
-| **[DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection](https://arxiv.org/abs/2605.15518v1)** | 2026-05-15 | ACL 2026 Main |
-| **[Hidden in Memory: Sleeper Memory Poisoning in LLM Agents](https://arxiv.org/abs/2605.15338v1)** | 2026-05-14 | 86 pages, 60 tables |
-| **[Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks](https://arxiv.org/abs/2603.04459v3)** | 2026-05-14 | 24 pages. 19 figures |
-| **[MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs](https://arxiv.org/abs/2605.15172v1)** | 2026-05-14 |  |
+| **[An LLM-Based System for Argument Mining](https://arxiv.org/abs/2605.13793v2)** | 2026-05-19 |  |
+| **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640v2)** | 2026-05-19 |  |
+| **[DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection](https://arxiv.org/abs/2605.15518v2)** | 2026-05-19 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code and data are available at https://github.com/AIDC-AI/Marco-LLM/tree/main/DetectRL-X</p></details> |
+| **[CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring](https://arxiv.org/abs/2605.19240v1)** | 2026-05-19 | <details><summary>https...</summary><p>https://github.com/caspian-detector/caspian</p></details> |
+| **[Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks](https://arxiv.org/abs/2605.19147v1)** | 2026-05-18 | <details><summary>15 pa...</summary><p>15 pages, 2 Figures, 5 Tables</p></details> |
+| **[POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents](https://arxiv.org/abs/2605.19127v1)** | 2026-05-18 | Preprint |
+| **[LLM-Safety Evaluations Lack Robustness](https://arxiv.org/abs/2503.02574v2)** | 2026-05-18 |  |
+| **[OEP: Poisoning Self-Evolving LLM Agents via Locally Correct but Non-Transferable Experiences](https://arxiv.org/abs/2605.18930v1)** | 2026-05-18 |  |
+| **[Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control](https://arxiv.org/abs/2605.18414v1)** | 2026-05-18 | <details><summary>8 pag...</summary><p>8 pages, 3 tables, 1 figure. Planning to submit to EMNLP 2026 Industry Track</p></details> |
+| **[Multilingual jailbreaking of LLMs using low-resource languages](https://arxiv.org/abs/2605.18239v1)** | 2026-05-18 | 12 pages, 5 figures |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Multi-Layer Cloud-IDS Pipeline with LLM and Adaptive Q-Learning Calibration](https://arxiv.org/abs/2605.15889v1)** | 2026-05-15 |  |
-| **[Graph-Regularized Sparse Autoencoders for LLM Safety Steering](https://arxiv.org/abs/2512.06655v3)** | 2026-05-15 |  |
-| **[FlipAttack: Jailbreak LLMs via Flipping](https://arxiv.org/abs/2410.02832v2)** | 2026-05-15 | 43 pages, 31 figures |
-| **["Someone Hid It": Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](https://arxiv.org/abs/2602.00364v4)** | 2026-05-15 |  |
-| **[Propagating Unsafe Actions in LLM Controlled Multi-Robot Collaboration via Single Robot Compromise](https://arxiv.org/abs/2605.15641v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026). 9 pages, 4 figures, 3 tables</p></details> |
-| **[Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs](https://arxiv.org/abs/2605.15598v1)** | 2026-05-15 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 3 tables</p></details> |
-| **[DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection](https://arxiv.org/abs/2605.15518v1)** | 2026-05-15 | ACL 2026 Main |
-| **[Hidden in Memory: Sleeper Memory Poisoning in LLM Agents](https://arxiv.org/abs/2605.15338v1)** | 2026-05-14 | 86 pages, 60 tables |
-| **[Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks](https://arxiv.org/abs/2603.04459v3)** | 2026-05-14 | 24 pages. 19 figures |
-| **[MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs](https://arxiv.org/abs/2605.15172v1)** | 2026-05-14 |  |
+| **[An LLM-Based System for Argument Mining](https://arxiv.org/abs/2605.13793v2)** | 2026-05-19 |  |
+| **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640v2)** | 2026-05-19 |  |
+| **[DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection](https://arxiv.org/abs/2605.15518v2)** | 2026-05-19 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code and data are available at https://github.com/AIDC-AI/Marco-LLM/tree/main/DetectRL-X</p></details> |
+| **[CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring](https://arxiv.org/abs/2605.19240v1)** | 2026-05-19 | <details><summary>https...</summary><p>https://github.com/caspian-detector/caspian</p></details> |
+| **[Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks](https://arxiv.org/abs/2605.19147v1)** | 2026-05-18 | <details><summary>15 pa...</summary><p>15 pages, 2 Figures, 5 Tables</p></details> |
+| **[POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents](https://arxiv.org/abs/2605.19127v1)** | 2026-05-18 | Preprint |
+| **[LLM-Safety Evaluations Lack Robustness](https://arxiv.org/abs/2503.02574v2)** | 2026-05-18 |  |
+| **[OEP: Poisoning Self-Evolving LLM Agents via Locally Correct but Non-Transferable Experiences](https://arxiv.org/abs/2605.18930v1)** | 2026-05-18 |  |
+| **[Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control](https://arxiv.org/abs/2605.18414v1)** | 2026-05-18 | <details><summary>8 pag...</summary><p>8 pages, 3 tables, 1 figure. Planning to submit to EMNLP 2026 Industry Track</p></details> |
+| **[Multilingual jailbreaking of LLMs using low-resource languages](https://arxiv.org/abs/2605.18239v1)** | 2026-05-18 | 12 pages, 5 figures |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation](https://arxiv.org/abs/2605.16090v1)** | 2026-05-15 |  |
-| **[Statistical Effort Modelling of Game Resource Localisation Attacks](https://arxiv.org/abs/2603.04261v2)** | 2026-05-15 |  |
-| **[EntropyScan: Towards Model-level Backdoor Detection in LVLMs via Visual Attention Entropy](https://arxiv.org/abs/2605.15711v1)** | 2026-05-15 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 8tables</p></details> |
-| **[Autonomous Intelligent Agents for Natural-Language-Driven Web Execution with Integrated Security Assurance](https://arxiv.org/abs/2605.15281v1)** | 2026-05-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables, IEEE conference format</p></details> |
-| **[Inducing Overthink: Hierarchical Genetic Algorithm-based DoS Attack on Black-Box Large Language Reasoning Models](https://arxiv.org/abs/2605.13338v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code available at: https://github.com/EndlessCao/Overthink-HGA</p></details> |
-| **[Enabling Adversarial Robustness in AI Models through Kubeflow MLOps](https://arxiv.org/abs/2605.15249v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the 1st Workshop on Secure and Intelligent Data Spaces (SIDS 2026), co-located with the 27th IEEE International Conference on Mobile Data Management (MDM 2026)</p></details> |
-| **[Privacy Evaluation of Generative Models for Trajectory Generation](https://arxiv.org/abs/2605.15246v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the 1st Workshop on Multi-Sensor Trajectory Knowledge Discovery and Extraction (MuseKDE 2026), co-located with the 27th IEEE International Conference on Mobile Data Management (IEEE MDM 2026)</p></details> |
-| **[Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://arxiv.org/abs/2505.03519v7)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
-| **[Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases](https://arxiv.org/abs/2601.03630v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Workshop EvalEval</p></details> |
-| **[Day-to-Day Traffic Network Modeling under Route-Guidance Misinformation: Endogenous Trust and Resilience in CAV Environments](https://arxiv.org/abs/2605.14204v1)** | 2026-05-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures. Under review at IEEE Transactions on Intelligent Transportation Systems</p></details> |
+| **[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2605.19956v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Project Page: this https, URL Code URL: this https URL</p></details> |
+| **[ORCA: An Agentic Reasoning Framework for Hallucination and Adversarial Robustness in Vision-Language Models](https://arxiv.org/abs/2509.15435v3)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on Cloud and Big Data Computing (ICCBDC 2026)</p></details> |
+| **[FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models](https://arxiv.org/abs/2605.19739v1)** | 2026-05-19 |  |
+| **[Awakening the Hydra: Stabilizing Multi-Concept Backdoor Injection in Text-to-Image Diffusion Models](https://arxiv.org/abs/2605.19698v1)** | 2026-05-19 | Preprint. 18 pages |
+| **[Membership Inference Attacks on Discrete Diffusion Language Models](https://arxiv.org/abs/2605.16445v2)** | 2026-05-19 | <details><summary>Citat...</summary><p>Citations and Co Authors need to be verified and updated. Will submit a new version soon</p></details> |
+| **[Jailbreaking on Text-to-Video Models via Scene Splitting Strategy](https://arxiv.org/abs/2509.22292v2)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page at https://velpegor.github.io/SceneSplit/</p></details> |
+| **[Attention-Guided Reward for Reinforcement Learning-based Jailbreak against Large Reasoning Models](https://arxiv.org/abs/2605.19485v1)** | 2026-05-19 |  |
+| **[A Hybrid Cluster-Based Classification Model for Anomaly Detection in Unbalanced IoT Networks](https://arxiv.org/abs/2605.19451v1)** | 2026-05-19 |  |
+| **[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](https://arxiv.org/abs/2410.15362v2)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, new version</p></details> |
+| **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v3)** | 2026-05-19 | <details><summary>This ...</summary><p>This manuscript is withdrawn by the authors due to a substantial revision. An updated version will be made available once revisions are complete</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation](https://arxiv.org/abs/2605.16090v1)** | 2026-05-15 |  |
-| **[Statistical Effort Modelling of Game Resource Localisation Attacks](https://arxiv.org/abs/2603.04261v2)** | 2026-05-15 |  |
-| **[EntropyScan: Towards Model-level Backdoor Detection in LVLMs via Visual Attention Entropy](https://arxiv.org/abs/2605.15711v1)** | 2026-05-15 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 8tables</p></details> |
-| **[Autonomous Intelligent Agents for Natural-Language-Driven Web Execution with Integrated Security Assurance](https://arxiv.org/abs/2605.15281v1)** | 2026-05-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables, IEEE conference format</p></details> |
-| **[Inducing Overthink: Hierarchical Genetic Algorithm-based DoS Attack on Black-Box Large Language Reasoning Models](https://arxiv.org/abs/2605.13338v2)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code available at: https://github.com/EndlessCao/Overthink-HGA</p></details> |
-| **[Enabling Adversarial Robustness in AI Models through Kubeflow MLOps](https://arxiv.org/abs/2605.15249v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the 1st Workshop on Secure and Intelligent Data Spaces (SIDS 2026), co-located with the 27th IEEE International Conference on Mobile Data Management (MDM 2026)</p></details> |
-| **[Privacy Evaluation of Generative Models for Trajectory Generation](https://arxiv.org/abs/2605.15246v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the 1st Workshop on Multi-Sensor Trajectory Knowledge Discovery and Extraction (MuseKDE 2026), co-located with the 27th IEEE International Conference on Mobile Data Management (IEEE MDM 2026)</p></details> |
-| **[Causal Time Series Generation via Diffusion Models](https://arxiv.org/abs/2509.20846v3)** | 2026-05-14 |  |
-| **[Model Forensics in AI-Native Wireless Networks: Taxonomy, Applications, and Case Study](https://arxiv.org/abs/2605.14387v1)** | 2026-05-14 |  |
-| **[Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://arxiv.org/abs/2505.03519v7)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
+| **[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2605.19956v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Project Page: this https, URL Code URL: this https URL</p></details> |
+| **[ORCA: An Agentic Reasoning Framework for Hallucination and Adversarial Robustness in Vision-Language Models](https://arxiv.org/abs/2509.15435v3)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on Cloud and Big Data Computing (ICCBDC 2026)</p></details> |
+| **[FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models](https://arxiv.org/abs/2605.19739v1)** | 2026-05-19 |  |
+| **[Awakening the Hydra: Stabilizing Multi-Concept Backdoor Injection in Text-to-Image Diffusion Models](https://arxiv.org/abs/2605.19698v1)** | 2026-05-19 | Preprint. 18 pages |
+| **[Membership Inference Attacks on Discrete Diffusion Language Models](https://arxiv.org/abs/2605.16445v2)** | 2026-05-19 | <details><summary>Citat...</summary><p>Citations and Co Authors need to be verified and updated. Will submit a new version soon</p></details> |
+| **[Jailbreaking on Text-to-Video Models via Scene Splitting Strategy](https://arxiv.org/abs/2509.22292v2)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page at https://velpegor.github.io/SceneSplit/</p></details> |
+| **[Attention-Guided Reward for Reinforcement Learning-based Jailbreak against Large Reasoning Models](https://arxiv.org/abs/2605.19485v1)** | 2026-05-19 |  |
+| **[A Hybrid Cluster-Based Classification Model for Anomaly Detection in Unbalanced IoT Networks](https://arxiv.org/abs/2605.19451v1)** | 2026-05-19 |  |
+| **[Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models](https://arxiv.org/abs/2410.15362v2)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, new version</p></details> |
+| **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v3)** | 2026-05-19 | <details><summary>This ...</summary><p>This manuscript is withdrawn by the authors due to a substantial revision. An updated version will be made available once revisions are complete</p></details> |
 
