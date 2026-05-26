@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/abs/2509.03117v3)** | 2026-05-22 | <details><summary>This ...</summary><p>This paper is accepted by IEEE S&P 2026</p></details> |
-| **[ArcMark: Distortion-Free Multi-Byte LLM Watermark via Optimal Transport](https://arxiv.org/abs/2602.07235v2)** | 2026-05-22 |  |
-| **[Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols](https://arxiv.org/abs/2605.11053v3)** | 2026-05-22 | <details><summary>v2: r...</summary><p>v2: renamed manuscript (brand removed; descriptive title). No changes to methodology, results, tables, or figures</p></details> |
-| **[SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](https://arxiv.org/abs/2605.05704v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v1)** | 2026-05-22 |  |
-| **[GradingAttack: Exposing Security Vulnerabilities in LLM Based Educational Grading Agents](https://arxiv.org/abs/2602.00979v2)** | 2026-05-22 |  |
-| **[Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection](https://arxiv.org/abs/2605.23175v1)** | 2026-05-22 |  |
-| **[PoisonForge: Task-Level Targeted Poisoning Benchmark for Instruction-Tuned LLMs](https://arxiv.org/abs/2605.23168v1)** | 2026-05-22 |  |
-| **[BarrierSteer: LLM Safety via Learning Barrier Steering](https://arxiv.org/abs/2602.20102v2)** | 2026-05-21 | <details><summary>This ...</summary><p>This paper introduces SafeBarrier, a framework that enforces safety in large language models by steering their latent representations with control barrier functions during inference, reducing adversarial and unsafe outputs</p></details> |
-| **[Codec-Robust Attacks on Audio LLMs](https://arxiv.org/abs/2605.20519v2)** | 2026-05-21 |  |
+| **[LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers](https://arxiv.org/abs/2605.25415v1)** | 2026-05-25 |  |
+| **[Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS](https://arxiv.org/abs/2605.25389v1)** | 2026-05-25 | ACL 2026 main |
+| **[Inference-Time Backdoors via Chat Templates: From LLM Supply Chains to Agentic System Compromise](https://arxiv.org/abs/2602.04653v4)** | 2026-05-24 | <details><summary>V3: A...</summary><p>V3: Accepted to ICLR 2026 Trustworthy AI Workshop, V4: Submitted to CCS 2026</p></details> |
+| **[Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340v2)** | 2026-05-24 |  |
+| **[Reflect-Guard: Enhancing LLM Safeguards against Adversarial Prompts via Logical Self-Reflection](https://arxiv.org/abs/2605.24834v1)** | 2026-05-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, and 4 tables</p></details> |
+| **[IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization](https://arxiv.org/abs/2605.24659v1)** | 2026-05-23 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
+| **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v2)** | 2026-05-23 | <details><summary>This ...</summary><p>This version was submitted prematurely before completing all necessary institutional approvals and clearances</p></details> |
+| **[Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](https://arxiv.org/abs/2605.24497v1)** | 2026-05-23 |  |
+| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v2)** | 2026-05-23 |  |
+| **[Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content](https://arxiv.org/abs/2605.24421v1)** | 2026-05-23 | 10 pages |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs](https://arxiv.org/abs/2509.03117v3)** | 2026-05-22 | <details><summary>This ...</summary><p>This paper is accepted by IEEE S&P 2026</p></details> |
-| **[ArcMark: Distortion-Free Multi-Byte LLM Watermark via Optimal Transport](https://arxiv.org/abs/2602.07235v2)** | 2026-05-22 |  |
-| **[Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols](https://arxiv.org/abs/2605.11053v3)** | 2026-05-22 | <details><summary>v2: r...</summary><p>v2: renamed manuscript (brand removed; descriptive title). No changes to methodology, results, tables, or figures</p></details> |
-| **[SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](https://arxiv.org/abs/2605.05704v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v1)** | 2026-05-22 |  |
-| **[GradingAttack: Exposing Security Vulnerabilities in LLM Based Educational Grading Agents](https://arxiv.org/abs/2602.00979v2)** | 2026-05-22 |  |
-| **[Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection](https://arxiv.org/abs/2605.23175v1)** | 2026-05-22 |  |
-| **[PoisonForge: Task-Level Targeted Poisoning Benchmark for Instruction-Tuned LLMs](https://arxiv.org/abs/2605.23168v1)** | 2026-05-22 |  |
-| **[BarrierSteer: LLM Safety via Learning Barrier Steering](https://arxiv.org/abs/2602.20102v2)** | 2026-05-21 | <details><summary>This ...</summary><p>This paper introduces SafeBarrier, a framework that enforces safety in large language models by steering their latent representations with control barrier functions during inference, reducing adversarial and unsafe outputs</p></details> |
-| **[Codec-Robust Attacks on Audio LLMs](https://arxiv.org/abs/2605.20519v2)** | 2026-05-21 |  |
+| **[LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers](https://arxiv.org/abs/2605.25415v1)** | 2026-05-25 |  |
+| **[Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS](https://arxiv.org/abs/2605.25389v1)** | 2026-05-25 | ACL 2026 main |
+| **[Inference-Time Backdoors via Chat Templates: From LLM Supply Chains to Agentic System Compromise](https://arxiv.org/abs/2602.04653v4)** | 2026-05-24 | <details><summary>V3: A...</summary><p>V3: Accepted to ICLR 2026 Trustworthy AI Workshop, V4: Submitted to CCS 2026</p></details> |
+| **[Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs](https://arxiv.org/abs/2601.14340v2)** | 2026-05-24 |  |
+| **[Reflect-Guard: Enhancing LLM Safeguards against Adversarial Prompts via Logical Self-Reflection](https://arxiv.org/abs/2605.24834v1)** | 2026-05-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, and 4 tables</p></details> |
+| **[IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization](https://arxiv.org/abs/2605.24659v1)** | 2026-05-23 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
+| **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v2)** | 2026-05-23 | <details><summary>This ...</summary><p>This version was submitted prematurely before completing all necessary institutional approvals and clearances</p></details> |
+| **[Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](https://arxiv.org/abs/2605.24497v1)** | 2026-05-23 |  |
+| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v2)** | 2026-05-23 |  |
+| **[Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content](https://arxiv.org/abs/2605.24421v1)** | 2026-05-23 | 10 pages |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Commitment-based Authentication model for Key Exchange protocols](https://arxiv.org/abs/2307.15465v4)** | 2026-05-22 |  |
-| **[Benchmarking Gaslighting Attacks Against Speech Large Language Models](https://arxiv.org/abs/2509.19858v2)** | 2026-05-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Multi-Factor Trust-Driven Secure Communication Model for Cloud-Based Digital Twins](https://arxiv.org/abs/2605.23566v1)** | 2026-05-22 | 10 pages, 5 figures |
-| **[Unextractable Protocol Models: Collaborative Training and Inference without Weight Materialization](https://arxiv.org/abs/2605.23464v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. 34 pages, 6 figures (5 in main body, 1 in appendix). Alexander Long and Chamin Hewa Koneputugodage contributed equally</p></details> |
-| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v1)** | 2026-05-22 |  |
-| **[WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents](https://arxiv.org/abs/2605.23220v1)** | 2026-05-22 |  |
-| **[Prompt Overflow: What the Guardrail Inspects Is Not What the Model Infers](https://arxiv.org/abs/2605.23196v1)** | 2026-05-22 | 18 pages, 8 figures |
-| **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250v3)** | 2026-05-22 |  |
-| **[Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs](https://arxiv.org/abs/2605.23157v1)** | 2026-05-22 |  |
-| **[Dithering Defense: Adversarial Robustness of Vision Foundation Models via Multi-Level Floyd-Steinberg Dithering](https://arxiv.org/abs/2605.23065v1)** | 2026-05-21 | <details><summary>Paper...</summary><p>Paper accepted at the IEEE International Conference on Image Processing (ICIP 2026)</p></details> |
+| **[Language-Switching Triggers Take a Latent Detour Through Language Models](https://arxiv.org/abs/2605.18646v2)** | 2026-05-25 | <details><summary>15 pa...</summary><p>15 pages, 16 figures. Under review</p></details> |
+| **[Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models](https://arxiv.org/abs/2605.25889v1)** | 2026-05-25 |  |
+| **[Attacks on Approximate Caches in Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.20424v4)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by Usenix Security 2026</p></details> |
+| **[SoK: A Comprehensive Security Analysis of Jailbreak Resilience in GPT and DeepSeek Models](https://arxiv.org/abs/2506.18543v2)** | 2026-05-25 |  |
+| **[When Agents Control Robots: A Zero Trust Policy Model for Agentic Cyber-Physical Systems](https://arxiv.org/abs/2605.25653v1)** | 2026-05-25 | 12 pages, 4 figures |
+| **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250v4)** | 2026-05-25 |  |
+| **[FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models](https://arxiv.org/abs/2605.19739v2)** | 2026-05-25 |  |
+| **[MCPXKIT: The Unified Toolkit for Analyzing Model Context Protocol Security](https://arxiv.org/abs/2508.12538v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC). $\href{https://ieeexplore.ieee.org/abstract/document/11531012}{Official \ version}$</p></details> |
+| **[Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://arxiv.org/abs/2605.04700v2)** | 2026-05-25 | <details><summary>To ap...</summary><p>To appear in the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Membership Inference Attacks on Tokenizers of Large Language Models](https://arxiv.org/abs/2510.05699v4)** | 2026-05-25 | <details><summary>To ap...</summary><p>To appear at USENIX Security Symposium 2026</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Commitment-based Authentication model for Key Exchange protocols](https://arxiv.org/abs/2307.15465v4)** | 2026-05-22 |  |
-| **[Benchmarking Gaslighting Attacks Against Speech Large Language Models](https://arxiv.org/abs/2509.19858v2)** | 2026-05-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables</p></details> |
-| **[Multi-Factor Trust-Driven Secure Communication Model for Cloud-Based Digital Twins](https://arxiv.org/abs/2605.23566v1)** | 2026-05-22 | 10 pages, 5 figures |
-| **[Unextractable Protocol Models: Collaborative Training and Inference without Weight Materialization](https://arxiv.org/abs/2605.23464v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. 34 pages, 6 figures (5 in main body, 1 in appendix). Alexander Long and Chamin Hewa Koneputugodage contributed equally</p></details> |
-| **[Causal Additive Models with Unobserved Causal Paths and Backdoor Paths](https://arxiv.org/abs/2502.07646v3)** | 2026-05-22 | 23 pages |
-| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v1)** | 2026-05-22 |  |
-| **[WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents](https://arxiv.org/abs/2605.23220v1)** | 2026-05-22 |  |
-| **[Prompt Overflow: What the Guardrail Inspects Is Not What the Model Infers](https://arxiv.org/abs/2605.23196v1)** | 2026-05-22 | 18 pages, 8 figures |
-| **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250v3)** | 2026-05-22 |  |
-| **[Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs](https://arxiv.org/abs/2605.23157v1)** | 2026-05-22 |  |
+| **[Language-Switching Triggers Take a Latent Detour Through Language Models](https://arxiv.org/abs/2605.18646v2)** | 2026-05-25 | <details><summary>15 pa...</summary><p>15 pages, 16 figures. Under review</p></details> |
+| **[Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models](https://arxiv.org/abs/2605.25889v1)** | 2026-05-25 |  |
+| **[Attacks on Approximate Caches in Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.20424v4)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by Usenix Security 2026</p></details> |
+| **[SoK: A Comprehensive Security Analysis of Jailbreak Resilience in GPT and DeepSeek Models](https://arxiv.org/abs/2506.18543v2)** | 2026-05-25 |  |
+| **[When Agents Control Robots: A Zero Trust Policy Model for Agentic Cyber-Physical Systems](https://arxiv.org/abs/2605.25653v1)** | 2026-05-25 | 12 pages, 4 figures |
+| **[MirrorCheck: Efficient Adversarial Defense for Vision-Language Models](https://arxiv.org/abs/2406.09250v4)** | 2026-05-25 |  |
+| **[FlowErase-RL: Rethinking Concept Erasure as Reward Optimization in Flow Matching Models](https://arxiv.org/abs/2605.19739v2)** | 2026-05-25 |  |
+| **[MCPXKIT: The Unified Toolkit for Analyzing Model Context Protocol Security](https://arxiv.org/abs/2508.12538v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Dependable and Secure Computing (TDSC). $\href{https://ieeexplore.ieee.org/abstract/document/11531012}{Official \ version}$</p></details> |
+| **[Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://arxiv.org/abs/2605.04700v2)** | 2026-05-25 | <details><summary>To ap...</summary><p>To appear in the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Membership Inference Attacks on Tokenizers of Large Language Models](https://arxiv.org/abs/2510.05699v4)** | 2026-05-25 | <details><summary>To ap...</summary><p>To appear at USENIX Security Symposium 2026</p></details> |
 
