@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v1)** | 2026-06-10 |  |
+| **[Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](https://arxiv.org/abs/2606.11817v1)** | 2026-06-10 |  |
+| **[Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis](https://arxiv.org/abs/2606.11755v1)** | 2026-06-10 |  |
+| **[AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations](https://arxiv.org/abs/2603.10749v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2026</p></details> |
+| **[Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs](https://arxiv.org/abs/2606.11648v1)** | 2026-06-10 |  |
+| **[Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference](https://arxiv.org/abs/2606.11592v1)** | 2026-06-10 | <details><summary>Prepr...</summary><p>Preprint. 33 pages, 5 figures</p></details> |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v2)** | 2026-06-09 |  |
 | **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v1)** | 2026-06-09 |  |
 | **[BadRobot: Jailbreaking Embodied LLM Agents in the Physical World](https://arxiv.org/abs/2407.20242v5)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Please cite the conference version. Project page: https://Embodied-LLMs-Safety.github.io</p></details> |
 | **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v2)** | 2026-06-09 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Camera-Ready</p></details> |
-| **[Game-Theoretic Multi-Agent Control for Robust Contextual Reasoning in LLMs](https://arxiv.org/abs/2606.10322v1)** | 2026-06-09 |  |
-| **[MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents](https://arxiv.org/abs/2606.10304v1)** | 2026-06-09 |  |
-| **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
-| **[Alignment Defends LLMs from Property Inference Attacks](https://arxiv.org/abs/2606.10217v1)** | 2026-06-08 |  |
-| **[RadKey: An LLM-Guided RF Backscatter System for Through-Wall Keystroke Inference](https://arxiv.org/abs/2606.10148v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to the 47th IEEE Symposium on Security and Privacy (IEEE S&P), 2026</p></details> |
-| **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
-| **[Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs](https://arxiv.org/abs/2506.17231v3)** | 2026-06-08 | 24 pages, 3 figures |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v1)** | 2026-06-10 |  |
+| **[Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](https://arxiv.org/abs/2606.11817v1)** | 2026-06-10 |  |
+| **[Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis](https://arxiv.org/abs/2606.11755v1)** | 2026-06-10 |  |
+| **[AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations](https://arxiv.org/abs/2603.10749v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2026</p></details> |
+| **[Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs](https://arxiv.org/abs/2606.11648v1)** | 2026-06-10 |  |
+| **[Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference](https://arxiv.org/abs/2606.11592v1)** | 2026-06-10 | <details><summary>Prepr...</summary><p>Preprint. 33 pages, 5 figures</p></details> |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v2)** | 2026-06-09 |  |
 | **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v1)** | 2026-06-09 |  |
 | **[BadRobot: Jailbreaking Embodied LLM Agents in the Physical World](https://arxiv.org/abs/2407.20242v5)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Please cite the conference version. Project page: https://Embodied-LLMs-Safety.github.io</p></details> |
 | **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v2)** | 2026-06-09 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Camera-Ready</p></details> |
-| **[Game-Theoretic Multi-Agent Control for Robust Contextual Reasoning in LLMs](https://arxiv.org/abs/2606.10322v1)** | 2026-06-09 |  |
-| **[MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents](https://arxiv.org/abs/2606.10304v1)** | 2026-06-09 |  |
-| **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
-| **[Alignment Defends LLMs from Property Inference Attacks](https://arxiv.org/abs/2606.10217v1)** | 2026-06-08 |  |
-| **[RadKey: An LLM-Guided RF Backscatter System for Through-Wall Keystroke Inference](https://arxiv.org/abs/2606.10148v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to the 47th IEEE Symposium on Security and Privacy (IEEE S&P), 2026</p></details> |
-| **[What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks](https://arxiv.org/abs/2606.09700v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This work has been accepted for publication at USENIX Security 2026. This paper includes examples of harmful, hateful, or abusive language for research purposes. Reader discretion is advised</p></details> |
-| **[Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs](https://arxiv.org/abs/2506.17231v3)** | 2026-06-08 | 24 pages, 3 figures |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
+| **[VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models](https://arxiv.org/abs/2606.12263v1)** | 2026-06-10 | <details><summary>To ap...</summary><p>To appear in the 35th USENIX Security Symposium (USENIX Security 2026)</p></details> |
+| **[InjectV: Modeling Fault Injection Attacks in RISC-V Simulation Environment](https://arxiv.org/abs/2606.12011v1)** | 2026-06-10 |  |
+| **[Diffusion-based Cumulative Adversarial Purification for Vision Language Models](https://arxiv.org/abs/2506.03933v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR 2026)</p></details> |
+| **[T2S: A Rehearsal-Based Approach for Extraction-Resistant Model Watermarking](https://arxiv.org/abs/2606.11698v1)** | 2026-06-10 |  |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v2)** | 2026-06-09 |  |
+| **[Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations](https://arxiv.org/abs/2605.16651v2)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Trustworthy AI for Good (AI4GOOD), Seoul, South Korea</p></details> |
+| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v4)** | 2026-06-09 | <details><summary>Inter...</summary><p>Interspeech 2026 (long paper)</p></details> |
+| **[Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](https://arxiv.org/abs/2606.11409v1)** | 2026-06-09 |  |
 | **[Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v1)** | 2026-06-09 |  |
-| **[Securing Code Understanding: Detecting Natural Backdoor Vulnerability in Code Language Models](https://arxiv.org/abs/2606.10846v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Software Engineering (TSE)</p></details> |
-| **[When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 FAGEN Workshop</p></details> |
-| **[Improving Adversarial Transferability on Vision-Language Pre-training Models via Surrogate-Specific Bias Correction](https://arxiv.org/abs/2606.10571v1)** | 2026-06-09 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 10 tables</p></details> |
-| **[Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines](https://arxiv.org/abs/2501.00745v3)** | 2026-06-09 | <details><summary>New F...</summary><p>New Frontiers in Game-Theoretic Learning Workshop, International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO](https://arxiv.org/abs/2606.09701v1)** | 2026-06-08 |  |
-| **[Model Poisoning Against Federated Model Adaptation with Chain of Bit-Flips](https://arxiv.org/abs/2606.09548v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at ACNS/AIHWS 2026</p></details> |
-| **[Securing Self-supervised Data Curation for Foundation Models Robustness](https://arxiv.org/abs/2606.09511v1)** | 2026-06-08 | 22 pages |
-| **[Targeting World Models to Compromise Robot Learning Pipelines](https://arxiv.org/abs/2606.09499v1)** | 2026-06-08 | <details><summary>8 Pag...</summary><p>8 Pages, CoRL Preprint</p></details> |
-| **[Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors](https://arxiv.org/abs/2606.09402v1)** | 2026-06-08 | <details><summary>Full ...</summary><p>Full version of the paper accepted at USENIX Security 2026</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MARCIM-WG: A cyber wargame proposal based on math modeling applied in a naval scenario](https://arxiv.org/abs/2606.12395v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, paper in proceedings of the XI National Cybersecurity Research Conference (JNIC) in Barcelona, Spain, May, 2026</p></details> |
+| **[VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models](https://arxiv.org/abs/2606.12263v1)** | 2026-06-10 | <details><summary>To ap...</summary><p>To appear in the 35th USENIX Security Symposium (USENIX Security 2026)</p></details> |
+| **[InjectV: Modeling Fault Injection Attacks in RISC-V Simulation Environment](https://arxiv.org/abs/2606.12011v1)** | 2026-06-10 |  |
+| **[Diffusion-based Cumulative Adversarial Purification for Vision Language Models](https://arxiv.org/abs/2506.03933v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR 2026)</p></details> |
+| **[T2S: A Rehearsal-Based Approach for Extraction-Resistant Model Watermarking](https://arxiv.org/abs/2606.11698v1)** | 2026-06-10 |  |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v2)** | 2026-06-09 |  |
+| **[Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations](https://arxiv.org/abs/2605.16651v2)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Trustworthy AI for Good (AI4GOOD), Seoul, South Korea</p></details> |
+| **[Where Do Backdoors Live? A Component-Level Analysis of Backdoor Propagation in Speech Language Models](https://arxiv.org/abs/2510.01157v4)** | 2026-06-09 | <details><summary>Inter...</summary><p>Interspeech 2026 (long paper)</p></details> |
+| **[Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](https://arxiv.org/abs/2606.11409v1)** | 2026-06-09 |  |
 | **[Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v1)** | 2026-06-09 |  |
-| **[Securing Code Understanding: Detecting Natural Backdoor Vulnerability in Code Language Models](https://arxiv.org/abs/2606.10846v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Software Engineering (TSE)</p></details> |
-| **[When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models](https://arxiv.org/abs/2606.10740v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 FAGEN Workshop</p></details> |
-| **[Improving Adversarial Transferability on Vision-Language Pre-training Models via Surrogate-Specific Bias Correction](https://arxiv.org/abs/2606.10571v1)** | 2026-06-09 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 10 tables</p></details> |
-| **[Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines](https://arxiv.org/abs/2501.00745v3)** | 2026-06-09 | <details><summary>New F...</summary><p>New Frontiers in Game-Theoretic Learning Workshop, International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO](https://arxiv.org/abs/2606.09701v1)** | 2026-06-08 |  |
-| **[Model Poisoning Against Federated Model Adaptation with Chain of Bit-Flips](https://arxiv.org/abs/2606.09548v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at ACNS/AIHWS 2026</p></details> |
-| **[Securing Self-supervised Data Curation for Foundation Models Robustness](https://arxiv.org/abs/2606.09511v1)** | 2026-06-08 | 22 pages |
-| **[Targeting World Models to Compromise Robot Learning Pipelines](https://arxiv.org/abs/2606.09499v1)** | 2026-06-08 | <details><summary>8 Pag...</summary><p>8 Pages, CoRL Preprint</p></details> |
-| **[Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors](https://arxiv.org/abs/2606.09402v1)** | 2026-06-08 | <details><summary>Full ...</summary><p>Full version of the paper accepted at USENIX Security 2026</p></details> |
 
