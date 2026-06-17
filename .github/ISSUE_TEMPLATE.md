@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166v1)** | 2026-06-16 |  |
+| **[Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping](https://arxiv.org/abs/2606.18120v1)** | 2026-06-16 | 7 pages, 6 figures |
+| **[Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond](https://arxiv.org/abs/2606.18062v1)** | 2026-06-16 |  |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v3)** | 2026-06-16 |  |
+| **[From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails](https://arxiv.org/abs/2606.14517v2)** | 2026-06-16 |  |
+| **[PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents](https://arxiv.org/abs/2606.17467v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables. Under submission at EMNLP 2026 Industry Track</p></details> |
+| **[RepSelect: Robust LLM Unlearning via Representation Selectivity](https://arxiv.org/abs/2606.17168v1)** | 2026-06-15 |  |
 | **[How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation](https://arxiv.org/abs/2606.16821v1)** | 2026-06-15 | 23 pages, 3 figures |
 | **[The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs](https://arxiv.org/abs/2606.16358v1)** | 2026-06-15 |  |
-| **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v2)** | 2026-06-15 |  |
-| **[Cordyceps: Covert Control Attacks on LLMs via Data Poisoning](https://arxiv.org/abs/2605.26595v2)** | 2026-06-15 | USENIX Security '26 |
-| **[Your "Pro" LLM Subscription May Actually Be "Free": Exposing Fingerprint Spoofing Risks in LLM Inference Services](https://arxiv.org/abs/2606.16100v1)** | 2026-06-15 |  |
-| **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
-| **[From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs](https://arxiv.org/abs/2505.14368v2)** | 2026-06-14 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EMNLP 2026 under review</p></details> |
-| **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499v2)** | 2026-06-14 |  |
-| **[On the Adversarial Robustness of Multimodal LLM Judges](https://arxiv.org/abs/2606.15608v1)** | 2026-06-14 |  |
-| **[Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades](https://arxiv.org/abs/2606.15308v1)** | 2026-06-13 |  |
+| **[Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs](https://arxiv.org/abs/2606.17110v1)** | 2026-06-15 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166v1)** | 2026-06-16 |  |
+| **[Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping](https://arxiv.org/abs/2606.18120v1)** | 2026-06-16 | 7 pages, 6 figures |
+| **[Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond](https://arxiv.org/abs/2606.18062v1)** | 2026-06-16 |  |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v3)** | 2026-06-16 |  |
+| **[From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails](https://arxiv.org/abs/2606.14517v2)** | 2026-06-16 |  |
+| **[PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents](https://arxiv.org/abs/2606.17467v1)** | 2026-06-16 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables. Under submission at EMNLP 2026 Industry Track</p></details> |
+| **[RepSelect: Robust LLM Unlearning via Representation Selectivity](https://arxiv.org/abs/2606.17168v1)** | 2026-06-15 |  |
 | **[How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation](https://arxiv.org/abs/2606.16821v1)** | 2026-06-15 | 23 pages, 3 figures |
 | **[The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs](https://arxiv.org/abs/2606.16358v1)** | 2026-06-15 |  |
-| **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v2)** | 2026-06-15 |  |
-| **[Cordyceps: Covert Control Attacks on LLMs via Data Poisoning](https://arxiv.org/abs/2605.26595v2)** | 2026-06-15 | USENIX Security '26 |
-| **[Your "Pro" LLM Subscription May Actually Be "Free": Exposing Fingerprint Spoofing Risks in LLM Inference Services](https://arxiv.org/abs/2606.16100v1)** | 2026-06-15 |  |
-| **[GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](https://arxiv.org/abs/2606.15788v1)** | 2026-06-14 |  |
-| **[From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs](https://arxiv.org/abs/2505.14368v2)** | 2026-06-14 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, EMNLP 2026 under review</p></details> |
-| **[HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment](https://arxiv.org/abs/2510.15499v2)** | 2026-06-14 |  |
-| **[On the Adversarial Robustness of Multimodal LLM Judges](https://arxiv.org/abs/2606.15608v1)** | 2026-06-14 |  |
-| **[Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades](https://arxiv.org/abs/2606.15308v1)** | 2026-06-13 |  |
+| **[Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs](https://arxiv.org/abs/2606.17110v1)** | 2026-06-15 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Surjectivity of Neural Networks: Can you elicit any behavior from your model?](https://arxiv.org/abs/2508.19445v3)** | 2026-06-16 | <details><summary>Blog:...</summary><p>Blog: https://astro-eric.github.io/blogs/surjective/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v3)** | 2026-06-16 |  |
+| **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
+| **[CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models](https://arxiv.org/abs/2606.17464v1)** | 2026-06-16 |  |
+| **[Membership Inference Attacks against Large Audio Language Models](https://arxiv.org/abs/2603.28378v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[Selection Without Signal, Recovery Through Expression: A Measurement Study of Post-Hoc Falsification Operators for Frozen Small Code Models](https://arxiv.org/abs/2606.16999v1)** | 2026-06-15 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 8 tables</p></details> |
 | **[Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837v1)** | 2026-06-15 |  |
 | **[Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models](https://arxiv.org/abs/2606.16808v1)** | 2026-06-15 |  |
-| **[The Art of Mixology: Mixup-based Obfuscation for Privacy-Preserving Split Learning in Large Language Models](https://arxiv.org/abs/2606.16801v1)** | 2026-06-15 | 19 pages, 5 figures |
-| **[Cross-Silo De-Anonymization Under Local Differential Privacy: Threat Model, Phase Transition, and Coordination Necessity](https://arxiv.org/abs/2606.16763v1)** | 2026-06-15 | 23 pages, 4 figures |
-| **[Adaptation of the hybrid fictitious domain-immersed boundary method for Reynolds-averaged turbulence modeling](https://arxiv.org/abs/2606.06135v2)** | 2026-06-15 | preprint |
-| **[ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control](https://arxiv.org/abs/2606.16605v1)** | 2026-06-15 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, 5 tables. Source code available at https://github.com/zaoanguai/ARB4WM</p></details> |
-| **[BadWorld: Adversarial Attacks on World Models](https://arxiv.org/abs/2606.16519v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project Page: https://linghuiishen.github.io/BadWorld/</p></details> |
-| **[Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?](https://arxiv.org/abs/2409.01062v5)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research (TMLR). First two authors contributed equally</p></details> |
-| **[Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot](https://arxiv.org/abs/2606.15810v1)** | 2026-06-14 | 16 pages |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Surjectivity of Neural Networks: Can you elicit any behavior from your model?](https://arxiv.org/abs/2508.19445v3)** | 2026-06-16 | <details><summary>Blog:...</summary><p>Blog: https://astro-eric.github.io/blogs/surjective/</p></details> |
+| **[A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](https://arxiv.org/abs/2606.18193v1)** | 2026-06-16 | White paper |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v3)** | 2026-06-16 |  |
+| **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
+| **[CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models](https://arxiv.org/abs/2606.17464v1)** | 2026-06-16 |  |
+| **[Membership Inference Attacks against Large Audio Language Models](https://arxiv.org/abs/2603.28378v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026</p></details> |
 | **[Selection Without Signal, Recovery Through Expression: A Measurement Study of Post-Hoc Falsification Operators for Frozen Small Code Models](https://arxiv.org/abs/2606.16999v1)** | 2026-06-15 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 8 tables</p></details> |
 | **[Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837v1)** | 2026-06-15 |  |
 | **[Adaptive and Explicit safe: Triggering Latent Safety Awareness in Large Reasoning Models](https://arxiv.org/abs/2606.16808v1)** | 2026-06-15 |  |
-| **[The Art of Mixology: Mixup-based Obfuscation for Privacy-Preserving Split Learning in Large Language Models](https://arxiv.org/abs/2606.16801v1)** | 2026-06-15 | 19 pages, 5 figures |
-| **[Cross-Silo De-Anonymization Under Local Differential Privacy: Threat Model, Phase Transition, and Coordination Necessity](https://arxiv.org/abs/2606.16763v1)** | 2026-06-15 | 23 pages, 4 figures |
-| **[Adaptation of the hybrid fictitious domain-immersed boundary method for Reynolds-averaged turbulence modeling](https://arxiv.org/abs/2606.06135v2)** | 2026-06-15 | preprint |
-| **[ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control](https://arxiv.org/abs/2606.16605v1)** | 2026-06-15 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, 5 tables. Source code available at https://github.com/zaoanguai/ARB4WM</p></details> |
-| **[BadWorld: Adversarial Attacks on World Models](https://arxiv.org/abs/2606.16519v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project Page: https://linghuiishen.github.io/BadWorld/</p></details> |
-| **[Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?](https://arxiv.org/abs/2409.01062v5)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research (TMLR). First two authors contributed equally</p></details> |
-| **[Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot](https://arxiv.org/abs/2606.15810v1)** | 2026-06-14 | 16 pages |
 
