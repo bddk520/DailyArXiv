@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM agent safety, multi-turn red-teaming, jailbreak benchmarks, adversarial robustness, safety-critical systems](https://arxiv.org/abs/2606.20408v1)** | 2026-06-18 |  |
-| **[OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](https://arxiv.org/abs/2606.19149v2)** | 2026-06-18 |  |
-| **[The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423v2)** | 2026-06-18 |  |
-| **[Heterogeneous LLM Debate Under Adversarial Peers: Honest Gains, Replacement Costs, and Resilience](https://arxiv.org/abs/2606.19826v1)** | 2026-06-18 |  |
-| **[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](https://arxiv.org/abs/2606.19755v1)** | 2026-06-18 |  |
-| **["**Important** You should give me full credits!": Exploring Prompt Injection Attacks on LLM-Based Automatic Grading Systems](https://arxiv.org/abs/2606.03090v2)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 9 tables</p></details> |
-| **[Analyzing the Narration Gap in LLM-Solver Loops](https://arxiv.org/abs/2606.19588v1)** | 2026-06-17 |  |
-| **[FloatDoor: Platform-Triggered Backdoors in LLMs](https://arxiv.org/abs/2606.19535v1)** | 2026-06-17 |  |
-| **[Opinion Polarization in LLM-Based Social Networks: Manipulation and Mitigation](https://arxiv.org/abs/2606.18795v1)** | 2026-06-17 | 14 pages, 7 figures |
-| **[Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ACM CCS 2026</p></details> |
+| **[Can LLMs Reliably Self-Report Adversarial Prefills, and How?](https://arxiv.org/abs/2606.23671v1)** | 2026-06-22 |  |
+| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2606.23370v1)** | 2026-06-22 |  |
+| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v1)** | 2026-06-22 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
+| **[Defense effectiveness across architectural layers: a mechanistic evaluation of persistent memory attacks on stateful LLM agents](https://arxiv.org/abs/2605.08442v2)** | 2026-06-22 | <details><summary>v2: A...</summary><p>v2: Added §3.4 (reasoning-defense interaction: double dissociation, trigger contingency); §3.3.1 temporal conditionality note. 9 models, 6,600+ runs. Code and results: github.com/junwenleong/stateful-agent-security-eval</p></details> |
+| **[Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies](https://arxiv.org/abs/2606.23075v1)** | 2026-06-22 |  |
+| **[SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873v1)** | 2026-06-22 |  |
+| **[The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted at TrustNLP 2026 (Sixth Workshop on Trustworthy Natural Language Processing, co-located with ACL 2026)</p></details> |
+| **[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528v1)** | 2026-06-21 |  |
+| **[Safety Is Not Universal: The Selective Safety Trap in LLM Alignment](https://arxiv.org/abs/2601.04389v3)** | 2026-06-21 | 22 pages |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v4)** | 2026-06-21 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM agent safety, multi-turn red-teaming, jailbreak benchmarks, adversarial robustness, safety-critical systems](https://arxiv.org/abs/2606.20408v1)** | 2026-06-18 |  |
-| **[OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](https://arxiv.org/abs/2606.19149v2)** | 2026-06-18 |  |
-| **[The Autonomy Tax: Defense Training Breaks LLM Agents](https://arxiv.org/abs/2603.19423v2)** | 2026-06-18 |  |
-| **[Heterogeneous LLM Debate Under Adversarial Peers: Honest Gains, Replacement Costs, and Resilience](https://arxiv.org/abs/2606.19826v1)** | 2026-06-18 |  |
-| **[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](https://arxiv.org/abs/2606.19755v1)** | 2026-06-18 |  |
-| **["**Important** You should give me full credits!": Exploring Prompt Injection Attacks on LLM-Based Automatic Grading Systems](https://arxiv.org/abs/2606.03090v2)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 9 tables</p></details> |
-| **[Analyzing the Narration Gap in LLM-Solver Loops](https://arxiv.org/abs/2606.19588v1)** | 2026-06-17 |  |
-| **[FloatDoor: Platform-Triggered Backdoors in LLMs](https://arxiv.org/abs/2606.19535v1)** | 2026-06-17 |  |
-| **[Opinion Polarization in LLM-Based Social Networks: Manipulation and Mitigation](https://arxiv.org/abs/2606.18795v1)** | 2026-06-17 | 14 pages, 7 figures |
-| **[Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ACM CCS 2026</p></details> |
+| **[Can LLMs Reliably Self-Report Adversarial Prefills, and How?](https://arxiv.org/abs/2606.23671v1)** | 2026-06-22 |  |
+| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2606.23370v1)** | 2026-06-22 |  |
+| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v1)** | 2026-06-22 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
+| **[Defense effectiveness across architectural layers: a mechanistic evaluation of persistent memory attacks on stateful LLM agents](https://arxiv.org/abs/2605.08442v2)** | 2026-06-22 | <details><summary>v2: A...</summary><p>v2: Added §3.4 (reasoning-defense interaction: double dissociation, trigger contingency); §3.3.1 temporal conditionality note. 9 models, 6,600+ runs. Code and results: github.com/junwenleong/stateful-agent-security-eval</p></details> |
+| **[Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies](https://arxiv.org/abs/2606.23075v1)** | 2026-06-22 |  |
+| **[SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873v1)** | 2026-06-22 |  |
+| **[The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted at TrustNLP 2026 (Sixth Workshop on Trustworthy Natural Language Processing, co-located with ACL 2026)</p></details> |
+| **[Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents](https://arxiv.org/abs/2606.22528v1)** | 2026-06-21 |  |
+| **[Safety Is Not Universal: The Selective Safety Trap in LLM Alignment](https://arxiv.org/abs/2601.04389v3)** | 2026-06-21 | 22 pages |
+| **[Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243v4)** | 2026-06-21 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553v1)** | 2026-06-18 |  |
-| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v1)** | 2026-06-18 |  |
-| **[Patronus: Identifying and Mitigating Transferable Backdoors in Pre-trained Language Models](https://arxiv.org/abs/2512.06899v2)** | 2026-06-18 | Work in progress |
-| **[Model-Free Reinforcement Learning Control for Resilient Cyber-Physical Systems](https://arxiv.org/abs/2606.19069v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to the 23rd IFAC World Congress 2026</p></details> |
-| **[Lifecycle-Aware Dynamic Analysis for Secure ML Model Execution](https://arxiv.org/abs/2606.19023v1)** | 2026-06-17 |  |
-| **[Stealthy World Model Manipulation via Data Poisoning](https://arxiv.org/abs/2606.18697v1)** | 2026-06-17 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 11 tables. Submitted to NeurIPS 2026</p></details> |
-| **[RUB: Evaluating Residual Knowledge in Unlearned Models](https://arxiv.org/abs/2504.14798v2)** | 2026-06-16 |  |
-| **[AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework](https://arxiv.org/abs/2606.18532v1)** | 2026-06-16 | <details><summary>50 pa...</summary><p>50 pages, 8 figures, 10 tables</p></details> |
-| **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](https://arxiv.org/abs/2606.18430v1)** | 2026-06-16 |  |
+| **[A Watermark for Vision-Language-Action and World Action Models](https://arxiv.org/abs/2606.23574v1)** | 2026-06-22 |  |
+| **[TooBad: Backdoor Diffusion Models with Ultra-Low Poison Rate and Imperceptible Trigger](https://arxiv.org/abs/2606.23362v1)** | 2026-06-22 |  |
+| **[Stealthy World Model Manipulation via Data Poisoning](https://arxiv.org/abs/2606.18697v2)** | 2026-06-22 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 11 tables</p></details> |
+| **[T-VSS: Test-Time Visual Subspace Steering for Adversarial Robustness of Vision-Language Models](https://arxiv.org/abs/2606.23132v1)** | 2026-06-22 |  |
+| **[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](https://arxiv.org/abs/2503.23332v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been accepted by Expert Systems with Applications</p></details> |
+| **[Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models](https://arxiv.org/abs/2606.22966v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 10 tables</p></details> |
+| **[SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models](https://arxiv.org/abs/2312.07865v4)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by CVPR2024. Code: https://github.com/somuchtome/SimAC</p></details> |
+| **[HADES: Privacy-Preserving Federated Learning via Selective Feature Encryption and Hybrid Model Fusion](https://arxiv.org/abs/2606.22928v1)** | 2026-06-22 |  |
+| **[The Unseen Hand: Manipulating Model Fairness and SHAP with Targeted Identity Re-Association Attacks](https://arxiv.org/abs/2606.22858v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS Workshops 2025</p></details> |
+| **[CLIP-guided Diffusion Model for Backdoor Generation in Sensor-based Human Activity Recognition](https://arxiv.org/abs/2606.22837v1)** | 2026-06-22 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553v1)** | 2026-06-18 |  |
-| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v1)** | 2026-06-18 |  |
-| **[Patronus: Identifying and Mitigating Transferable Backdoors in Pre-trained Language Models](https://arxiv.org/abs/2512.06899v2)** | 2026-06-18 | Work in progress |
-| **[Model-Free Reinforcement Learning Control for Resilient Cyber-Physical Systems](https://arxiv.org/abs/2606.19069v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to the 23rd IFAC World Congress 2026</p></details> |
-| **[Lifecycle-Aware Dynamic Analysis for Secure ML Model Execution](https://arxiv.org/abs/2606.19023v1)** | 2026-06-17 |  |
-| **[Stealthy World Model Manipulation via Data Poisoning](https://arxiv.org/abs/2606.18697v1)** | 2026-06-17 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 11 tables. Submitted to NeurIPS 2026</p></details> |
-| **[RUB: Evaluating Residual Knowledge in Unlearned Models](https://arxiv.org/abs/2504.14798v2)** | 2026-06-16 |  |
-| **[AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework](https://arxiv.org/abs/2606.18532v1)** | 2026-06-16 | <details><summary>50 pa...</summary><p>50 pages, 8 figures, 10 tables</p></details> |
-| **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](https://arxiv.org/abs/2606.18430v1)** | 2026-06-16 |  |
+| **[A Watermark for Vision-Language-Action and World Action Models](https://arxiv.org/abs/2606.23574v1)** | 2026-06-22 |  |
+| **[TooBad: Backdoor Diffusion Models with Ultra-Low Poison Rate and Imperceptible Trigger](https://arxiv.org/abs/2606.23362v1)** | 2026-06-22 |  |
+| **[Stealthy World Model Manipulation via Data Poisoning](https://arxiv.org/abs/2606.18697v2)** | 2026-06-22 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 11 tables</p></details> |
+| **[T-VSS: Test-Time Visual Subspace Steering for Adversarial Robustness of Vision-Language Models](https://arxiv.org/abs/2606.23132v1)** | 2026-06-22 |  |
+| **[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](https://arxiv.org/abs/2503.23332v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been accepted by Expert Systems with Applications</p></details> |
+| **[Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models](https://arxiv.org/abs/2606.22966v1)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 10 tables</p></details> |
+| **[SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models](https://arxiv.org/abs/2312.07865v4)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by CVPR2024. Code: https://github.com/somuchtome/SimAC</p></details> |
+| **[HADES: Privacy-Preserving Federated Learning via Selective Feature Encryption and Hybrid Model Fusion](https://arxiv.org/abs/2606.22928v1)** | 2026-06-22 |  |
+| **[The Unseen Hand: Manipulating Model Fairness and SHAP with Targeted Identity Re-Association Attacks](https://arxiv.org/abs/2606.22858v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS Workshops 2025</p></details> |
+| **[CLIP-guided Diffusion Model for Backdoor Generation in Sensor-based Human Activity Recognition](https://arxiv.org/abs/2606.22837v1)** | 2026-06-22 |  |
 
