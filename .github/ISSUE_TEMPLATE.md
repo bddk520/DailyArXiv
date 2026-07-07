@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1)** | 2026-07-02 |  |
-| **[RedCoder: Automated Multi-Turn Red Teaming for Code LLMs](https://arxiv.org/abs/2507.22063v2)** | 2026-07-02 | ACL 2026 |
-| **[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](https://arxiv.org/abs/2601.22710v2)** | 2026-07-02 |  |
-| **[Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification](https://arxiv.org/abs/2607.01793v1)** | 2026-07-02 |  |
-| **[Black-Box Inference of LLM Architectural Properties with Restrictive API Access](https://arxiv.org/abs/2607.01313v1)** | 2026-07-01 |  |
-| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2606.23370v2)** | 2026-07-01 | <details><summary>Repea...</summary><p>Repeated paper uploading due to mistakes. See arXiv:2603.09046</p></details> |
-| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2603.09046v3)** | 2026-07-01 | 13 pages, 11 figures |
-| **[NeuroFilter: Activation-Based Guardrails for Privacy-Conscious LLM Agents](https://arxiv.org/abs/2601.14660v2)** | 2026-07-01 |  |
-| **[Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety](https://arxiv.org/abs/2607.01277v1)** | 2026-07-01 |  |
-| **[Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces](https://arxiv.org/abs/2607.00481v1)** | 2026-07-01 |  |
+| **[Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses](https://arxiv.org/abs/2607.05029v1)** | 2026-07-06 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 2 figures, 4 tables</p></details> |
+| **[Agents at Risk: How Users Unwittingly Undermine LLM Safety](https://arxiv.org/abs/2601.10758v2)** | 2026-07-06 | <details><summary>User-...</summary><p>User-relayed Context Manipulation; LLM-based Agents; Agent Security; Human Factors in Cybersecurity; Web-Use Agents; Planning Agents</p></details> |
+| **[CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning](https://arxiv.org/abs/2604.23270v2)** | 2026-07-06 |  |
+| **[Seven Security Challenges in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847v5)** | 2026-07-06 |  |
+| **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v2)** | 2026-07-06 | 17 pages, 3 figures |
+| **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v5)** | 2026-07-06 |  |
+| **[NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408v3)** | 2026-07-06 |  |
+| **[Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379v1)** | 2026-07-05 | 9 pages, 5 figures |
+| **[SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](https://arxiv.org/abs/2510.15476v3)** | 2026-07-04 |  |
+| **[PathMark: Protecting Intellectual Property of Mixture-of-Expert LLMs via Path Watermarks](https://arxiv.org/abs/2607.03688v1)** | 2026-07-04 | <details><summary>20 pa...</summary><p>20 pages, accepted by CCS'26</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1)** | 2026-07-02 |  |
-| **[RedCoder: Automated Multi-Turn Red Teaming for Code LLMs](https://arxiv.org/abs/2507.22063v2)** | 2026-07-02 | ACL 2026 |
-| **[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](https://arxiv.org/abs/2601.22710v2)** | 2026-07-02 |  |
-| **[Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification](https://arxiv.org/abs/2607.01793v1)** | 2026-07-02 |  |
-| **[Black-Box Inference of LLM Architectural Properties with Restrictive API Access](https://arxiv.org/abs/2607.01313v1)** | 2026-07-01 |  |
-| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2606.23370v2)** | 2026-07-01 | <details><summary>Repea...</summary><p>Repeated paper uploading due to mistakes. See arXiv:2603.09046</p></details> |
-| **[FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation](https://arxiv.org/abs/2603.09046v3)** | 2026-07-01 | 13 pages, 11 figures |
-| **[NeuroFilter: Activation-Based Guardrails for Privacy-Conscious LLM Agents](https://arxiv.org/abs/2601.14660v2)** | 2026-07-01 |  |
-| **[Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety](https://arxiv.org/abs/2607.01277v1)** | 2026-07-01 |  |
-| **[Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces](https://arxiv.org/abs/2607.00481v1)** | 2026-07-01 |  |
+| **[Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses](https://arxiv.org/abs/2607.05029v1)** | 2026-07-06 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 2 figures, 4 tables</p></details> |
+| **[Agents at Risk: How Users Unwittingly Undermine LLM Safety](https://arxiv.org/abs/2601.10758v2)** | 2026-07-06 | <details><summary>User-...</summary><p>User-relayed Context Manipulation; LLM-based Agents; Agent Security; Human Factors in Cybersecurity; Web-Use Agents; Planning Agents</p></details> |
+| **[CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning](https://arxiv.org/abs/2604.23270v2)** | 2026-07-06 |  |
+| **[Seven Security Challenges in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847v5)** | 2026-07-06 |  |
+| **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v2)** | 2026-07-06 | 17 pages, 3 figures |
+| **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v5)** | 2026-07-06 |  |
+| **[NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408v3)** | 2026-07-06 |  |
+| **[Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379v1)** | 2026-07-05 | 9 pages, 5 figures |
+| **[SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](https://arxiv.org/abs/2510.15476v3)** | 2026-07-04 |  |
+| **[PathMark: Protecting Intellectual Property of Mixture-of-Expert LLMs via Path Watermarks](https://arxiv.org/abs/2607.03688v1)** | 2026-07-04 | <details><summary>20 pa...</summary><p>20 pages, accepted by CCS'26</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](https://arxiv.org/abs/2601.22710v2)** | 2026-07-02 |  |
-| **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
-| **[Pmeta-TLA: Backdoor Attacks for Speech Classification Models via Meta-Learning with Timbre Leakage Attack](https://arxiv.org/abs/2607.01702v1)** | 2026-07-02 |  |
-| **[From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection](https://arxiv.org/abs/2607.01442v1)** | 2026-07-01 |  |
-| **[Reasoning Up the Instruction Ladder for Controllable Language Models](https://arxiv.org/abs/2511.04694v5)** | 2026-07-01 |  |
-| **[Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org/abs/2408.01139v4)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research (TMLR 2024)</p></details> |
-| **[Unsupervised Cross-Protocol Anomaly Analysis in Mobile Core Networks via Multi-Embedding Models Consensus](https://arxiv.org/abs/2603.15344v2)** | 2026-07-01 | <details><summary>Withd...</summary><p>Withdrawn pending internal review and alignment with external collaborators</p></details> |
-| **[Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks](https://arxiv.org/abs/2607.00553v1)** | 2026-07-01 |  |
-| **[ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models](https://arxiv.org/abs/2607.00361v1)** | 2026-07-01 | ECCV 2026 |
-| **[Rethinking Robust Adversarial Concept Erasure in Diffusion Models](https://arxiv.org/abs/2510.27285v4)** | 2026-07-01 |  |
+| **[From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure](https://arxiv.org/abs/2607.05111v1)** | 2026-07-06 |  |
+| **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v3)** | 2026-07-06 | ICLR 2026 |
+| **[Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model](https://arxiv.org/abs/2606.26373v3)** | 2026-07-06 |  |
+| **[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](https://arxiv.org/abs/2506.07468v4)** | 2026-07-06 | ICML 2026 Poster |
+| **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
+| **[Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations](https://arxiv.org/abs/2607.04645v1)** | 2026-07-06 |  |
+| **[Beyond Compliance: A Large Scale Study on the Completeness and Consistency of the GitHub SBOMs](https://arxiv.org/abs/2607.04614v1)** | 2026-07-06 |  |
+| **[Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery](https://arxiv.org/abs/2606.08728v2)** | 2026-07-06 | <details><summary>Under...</summary><p>Under review, 47 pages, 14 figures, 22 tables</p></details> |
+| **[Mean Time to Remediate Is Not a Fielding Model: A Cadence Audit for Enterprise Vulnerability Management](https://arxiv.org/abs/2607.04511v1)** | 2026-07-05 |  |
+| **[Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models](https://arxiv.org/abs/2602.04356v2)** | 2026-07-05 | Pre-print |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](https://arxiv.org/abs/2601.22710v2)** | 2026-07-02 |  |
-| **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
-| **[Pmeta-TLA: Backdoor Attacks for Speech Classification Models via Meta-Learning with Timbre Leakage Attack](https://arxiv.org/abs/2607.01702v1)** | 2026-07-02 |  |
-| **[From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection](https://arxiv.org/abs/2607.01442v1)** | 2026-07-01 |  |
-| **[Reasoning Up the Instruction Ladder for Controllable Language Models](https://arxiv.org/abs/2511.04694v5)** | 2026-07-01 |  |
-| **[Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org/abs/2408.01139v4)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research (TMLR 2024)</p></details> |
-| **[Unsupervised Cross-Protocol Anomaly Analysis in Mobile Core Networks via Multi-Embedding Models Consensus](https://arxiv.org/abs/2603.15344v2)** | 2026-07-01 | <details><summary>Withd...</summary><p>Withdrawn pending internal review and alignment with external collaborators</p></details> |
-| **[Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks](https://arxiv.org/abs/2607.00553v1)** | 2026-07-01 |  |
-| **[ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models](https://arxiv.org/abs/2607.00361v1)** | 2026-07-01 | ECCV 2026 |
-| **[Rethinking Robust Adversarial Concept Erasure in Diffusion Models](https://arxiv.org/abs/2510.27285v4)** | 2026-07-01 |  |
+| **[From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure](https://arxiv.org/abs/2607.05111v1)** | 2026-07-06 |  |
+| **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v3)** | 2026-07-06 | ICLR 2026 |
+| **[Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model](https://arxiv.org/abs/2606.26373v3)** | 2026-07-06 |  |
+| **[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](https://arxiv.org/abs/2506.07468v4)** | 2026-07-06 | ICML 2026 Poster |
+| **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
+| **[Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations](https://arxiv.org/abs/2607.04645v1)** | 2026-07-06 |  |
+| **[Beyond Compliance: A Large Scale Study on the Completeness and Consistency of the GitHub SBOMs](https://arxiv.org/abs/2607.04614v1)** | 2026-07-06 |  |
+| **[Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery](https://arxiv.org/abs/2606.08728v2)** | 2026-07-06 | <details><summary>Under...</summary><p>Under review, 47 pages, 14 figures, 22 tables</p></details> |
+| **[Mean Time to Remediate Is Not a Fielding Model: A Cadence Audit for Enterprise Vulnerability Management](https://arxiv.org/abs/2607.04511v1)** | 2026-07-05 |  |
+| **[Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models](https://arxiv.org/abs/2602.04356v2)** | 2026-07-05 | Pre-print |
 
