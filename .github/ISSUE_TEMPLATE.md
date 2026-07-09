@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Poisoned Chalice of LLM Evaluation Report](https://arxiv.org/abs/2607.07481v1)** | 2026-07-08 | <details><summary>Repor...</summary><p>Report of the competition hosted at FSE 2026</p></details> |
+| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
 | **[Context-to-Execution Integrity for LLM Agents](https://arxiv.org/abs/2607.06000v1)** | 2026-07-07 | 20 pages |
 | **[Agents at Risk: How Users Unwittingly Undermine LLM Safety](https://arxiv.org/abs/2601.10758v3)** | 2026-07-07 | <details><summary>User-...</summary><p>User-relayed Context Manipulation; LLM-based Agents; Agent Security; Human Factors in Cybersecurity; Web-Use Agents; Planning Agents</p></details> |
 | **[Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](https://arxiv.org/abs/2510.27140v3)** | 2026-07-07 |  |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Seven Security Challenges in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847v5)** | 2026-07-06 |  |
 | **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v2)** | 2026-07-06 | 17 pages, 3 figures |
 | **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v5)** | 2026-07-06 |  |
-| **[NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408v3)** | 2026-07-06 |  |
-| **[Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379v1)** | 2026-07-05 | 9 pages, 5 figures |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Poisoned Chalice of LLM Evaluation Report](https://arxiv.org/abs/2607.07481v1)** | 2026-07-08 | <details><summary>Repor...</summary><p>Report of the competition hosted at FSE 2026</p></details> |
+| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
 | **[Context-to-Execution Integrity for LLM Agents](https://arxiv.org/abs/2607.06000v1)** | 2026-07-07 | 20 pages |
 | **[Agents at Risk: How Users Unwittingly Undermine LLM Safety](https://arxiv.org/abs/2601.10758v3)** | 2026-07-07 | <details><summary>User-...</summary><p>User-relayed Context Manipulation; LLM-based Agents; Agent Security; Human Factors in Cybersecurity; Web-Use Agents; Planning Agents</p></details> |
 | **[Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](https://arxiv.org/abs/2510.27140v3)** | 2026-07-07 |  |
@@ -29,32 +31,30 @@ labels: documentation
 | **[Seven Security Challenges in Cross-domain Multi-agent LLM Systems](https://arxiv.org/abs/2505.23847v5)** | 2026-07-06 |  |
 | **[Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031v2)** | 2026-07-06 | 17 pages, 3 figures |
 | **[LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878v5)** | 2026-07-06 |  |
-| **[NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408v3)** | 2026-07-06 |  |
-| **[Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379v1)** | 2026-07-05 | 9 pages, 5 figures |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces](https://arxiv.org/abs/2607.07375v1)** | 2026-07-08 |  |
+| **[InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models](https://arxiv.org/abs/2607.07288v1)** | 2026-07-08 |  |
+| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](https://arxiv.org/abs/2508.17304v3)** | 2026-07-08 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in SN Computer Science, and is available online at https://doi.org/10.1007/s42979-026-05087-1</p></details> |
+| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
 | **[AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485v1)** | 2026-07-07 |  |
 | **[Temporal Modeling of Optically Variable Devices in Identity Documents](https://arxiv.org/abs/2607.06408v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR 2026)</p></details> |
+| **[When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models](https://arxiv.org/abs/2607.06630v1)** | 2026-07-07 | <details><summary>12 pa...</summary><p>12 pages; To be published in peer-reviewed journal</p></details> |
 | **[AEGIS: A Mechanism-Guided Defense against Visual Synonym Jailbreaks in Text-to-Image Models](https://arxiv.org/abs/2607.06120v1)** | 2026-07-07 |  |
 | **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2510.02964v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted by IEEE TIFS</p></details> |
-| **[i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler](https://arxiv.org/abs/2607.05888v1)** | 2026-07-07 | <details><summary>In th...</summary><p>In the Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS 2026)</p></details> |
-| **[Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations](https://arxiv.org/abs/2607.05744v1)** | 2026-07-07 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 7 tables, 5 listings. Real-protocol proof-of-concept, 8 techniques across 3 independently developed MCP server libraries with 32 of 32 cross-library outcome cells agreeing, and 0 of 25 baseline false positives on a benign corpus. Data, harness, and fail-closed verifier released as a supplementary artifact</p></details> |
-| **[SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models](https://arxiv.org/abs/2512.18542v3)** | 2026-07-07 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 10 tables. Dataset available at https://huggingface.co/datasets/scthornton/securecode. Code and validation tools at https://github.com/scthornton/securecode</p></details> |
-| **[From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure](https://arxiv.org/abs/2607.05111v1)** | 2026-07-06 |  |
-| **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v3)** | 2026-07-06 | ICLR 2026 |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces](https://arxiv.org/abs/2607.07375v1)** | 2026-07-08 |  |
+| **[InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models](https://arxiv.org/abs/2607.07288v1)** | 2026-07-08 |  |
+| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](https://arxiv.org/abs/2508.17304v3)** | 2026-07-08 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in SN Computer Science, and is available online at https://doi.org/10.1007/s42979-026-05087-1</p></details> |
+| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
 | **[AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485v1)** | 2026-07-07 |  |
 | **[Temporal Modeling of Optically Variable Devices in Identity Documents](https://arxiv.org/abs/2607.06408v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR 2026)</p></details> |
+| **[When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models](https://arxiv.org/abs/2607.06630v1)** | 2026-07-07 | <details><summary>12 pa...</summary><p>12 pages; To be published in peer-reviewed journal</p></details> |
 | **[AEGIS: A Mechanism-Guided Defense against Visual Synonym Jailbreaks in Text-to-Image Models](https://arxiv.org/abs/2607.06120v1)** | 2026-07-07 |  |
 | **[External Data Extraction Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2510.02964v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted by IEEE TIFS</p></details> |
-| **[i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler](https://arxiv.org/abs/2607.05888v1)** | 2026-07-07 | <details><summary>In th...</summary><p>In the Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS 2026)</p></details> |
-| **[Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations](https://arxiv.org/abs/2607.05744v1)** | 2026-07-07 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 7 tables, 5 listings. Real-protocol proof-of-concept, 8 techniques across 3 independently developed MCP server libraries with 32 of 32 cross-library outcome cells agreeing, and 0 of 25 baseline false positives on a benign corpus. Data, harness, and fail-closed verifier released as a supplementary artifact</p></details> |
-| **[SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models](https://arxiv.org/abs/2512.18542v3)** | 2026-07-07 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 10 tables. Dataset available at https://huggingface.co/datasets/scthornton/securecode. Code and validation tools at https://github.com/scthornton/securecode</p></details> |
-| **[From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure](https://arxiv.org/abs/2607.05111v1)** | 2026-07-06 |  |
-| **[ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning](https://arxiv.org/abs/2507.11500v3)** | 2026-07-06 | ICLR 2026 |
 
