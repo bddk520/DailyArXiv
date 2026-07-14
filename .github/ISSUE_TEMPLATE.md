@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Membership Inference Attacks on In-Context Examples in LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665v6)** | 2026-07-10 | <details><summary>This ...</summary><p>This is paper is accepted by ACM RecSys 2026 main track</p></details> |
-| **[SherAgent: Scaling Attack Investigation in the Wild via LLM-Empowered Iterative Query-Filter Backtracking](https://arxiv.org/abs/2607.09176v1)** | 2026-07-10 |  |
-| **[Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls](https://arxiv.org/abs/2607.09076v1)** | 2026-07-10 |  |
-| **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v2)** | 2026-07-09 |  |
-| **[Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903v1)** | 2026-07-08 |  |
-| **[ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection](https://arxiv.org/abs/2605.03378v2)** | 2026-07-08 | 14 pages |
-| **[The Poisoned Chalice of LLM Evaluation Report](https://arxiv.org/abs/2607.07481v1)** | 2026-07-08 | <details><summary>Repor...</summary><p>Report of the competition hosted at FSE 2026</p></details> |
-| **[Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic Classifiers](https://arxiv.org/abs/2607.07739v1)** | 2026-07-08 | 13 pages, 5 figures |
-| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
-| **[Context-to-Execution Integrity for LLM Agents](https://arxiv.org/abs/2607.06000v1)** | 2026-07-07 | 20 pages |
+| **[Graph-Based Structural Evaluation of LLM-Translated Adversary Emulation Procedures](https://arxiv.org/abs/2607.11517v1)** | 2026-07-13 | <details><summary>This ...</summary><p>This technical contribution supports the MITRE white paper titled: Evaluating LLMs for Impact-Faithful Translation of Adversary Behavior Across Operating Systems</p></details> |
+| **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
+| **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v3)** | 2026-07-13 | ACL 2026 Main |
+| **[MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment](https://arxiv.org/abs/2607.11070v1)** | 2026-07-13 | <details><summary>29 pa...</summary><p>29 pages. Warning: This paper contains examples of harmful content</p></details> |
+| **[Can Watermarking Techniques Help Prevent LLM Model Stealing?](https://arxiv.org/abs/2607.10794v1)** | 2026-07-12 |  |
+| **[The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection](https://arxiv.org/abs/2606.09204v2)** | 2026-07-11 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 15 tables. Accepted at the ICML 2026 Workshop on Failure Modes in Agentic AI (FAGEN), a non-archival venue</p></details> |
+| **[Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety](https://arxiv.org/abs/2607.10112v1)** | 2026-07-11 |  |
+| **[A Survey on LLM Watermarking: Theory and Deployment](https://arxiv.org/abs/2607.10103v1)** | 2026-07-11 |  |
+| **[RISKTAGGER: Evidence-Guided LLM Agent for Post-Incident Forensic Analysis of Money Laundering in Web3](https://arxiv.org/abs/2510.17848v2)** | 2026-07-11 | <details><summary>11 pa...</summary><p>11 pages(main text), 6 figures</p></details> |
+| **[The Effect of Multi-Lingual and Keyword Adversarial Injection on LLM Relevance Judgment](https://arxiv.org/abs/2607.10080v1)** | 2026-07-11 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Membership Inference Attacks on In-Context Examples in LLM-based Recommender Systems](https://arxiv.org/abs/2508.18665v6)** | 2026-07-10 | <details><summary>This ...</summary><p>This is paper is accepted by ACM RecSys 2026 main track</p></details> |
-| **[SherAgent: Scaling Attack Investigation in the Wild via LLM-Empowered Iterative Query-Filter Backtracking](https://arxiv.org/abs/2607.09176v1)** | 2026-07-10 |  |
-| **[Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls](https://arxiv.org/abs/2607.09076v1)** | 2026-07-10 |  |
-| **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v2)** | 2026-07-09 |  |
-| **[Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903v1)** | 2026-07-08 |  |
-| **[ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection](https://arxiv.org/abs/2605.03378v2)** | 2026-07-08 | 14 pages |
-| **[The Poisoned Chalice of LLM Evaluation Report](https://arxiv.org/abs/2607.07481v1)** | 2026-07-08 | <details><summary>Repor...</summary><p>Report of the competition hosted at FSE 2026</p></details> |
-| **[Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic Classifiers](https://arxiv.org/abs/2607.07739v1)** | 2026-07-08 | 13 pages, 5 figures |
-| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
-| **[Context-to-Execution Integrity for LLM Agents](https://arxiv.org/abs/2607.06000v1)** | 2026-07-07 | 20 pages |
+| **[Graph-Based Structural Evaluation of LLM-Translated Adversary Emulation Procedures](https://arxiv.org/abs/2607.11517v1)** | 2026-07-13 | <details><summary>This ...</summary><p>This technical contribution supports the MITRE white paper titled: Evaluating LLMs for Impact-Faithful Translation of Adversary Behavior Across Operating Systems</p></details> |
+| **[LLM-Guided Program Evolution for Targeted Black-Box Attacks on Perceptual Hash Algorithms](https://arxiv.org/abs/2607.11472v1)** | 2026-07-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 9 tables</p></details> |
+| **[HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing](https://arxiv.org/abs/2604.19274v3)** | 2026-07-13 | ACL 2026 Main |
+| **[MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment](https://arxiv.org/abs/2607.11070v1)** | 2026-07-13 | <details><summary>29 pa...</summary><p>29 pages. Warning: This paper contains examples of harmful content</p></details> |
+| **[Can Watermarking Techniques Help Prevent LLM Model Stealing?](https://arxiv.org/abs/2607.10794v1)** | 2026-07-12 |  |
+| **[The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection](https://arxiv.org/abs/2606.09204v2)** | 2026-07-11 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 15 tables. Accepted at the ICML 2026 Workshop on Failure Modes in Agentic AI (FAGEN), a non-archival venue</p></details> |
+| **[Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety](https://arxiv.org/abs/2607.10112v1)** | 2026-07-11 |  |
+| **[A Survey on LLM Watermarking: Theory and Deployment](https://arxiv.org/abs/2607.10103v1)** | 2026-07-11 |  |
+| **[RISKTAGGER: Evidence-Guided LLM Agent for Post-Incident Forensic Analysis of Money Laundering in Web3](https://arxiv.org/abs/2510.17848v2)** | 2026-07-11 | <details><summary>11 pa...</summary><p>11 pages(main text), 6 figures</p></details> |
+| **[The Effect of Multi-Lingual and Keyword Adversarial Injection on LLM Relevance Judgment](https://arxiv.org/abs/2607.10080v1)** | 2026-07-11 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](https://arxiv.org/abs/2607.08867v1)** | 2026-07-09 |  |
-| **[Communication-Efficient Byzantine-Robust Federated Conformal Prediction via Partial Model Sharing](https://arxiv.org/abs/2602.18396v2)** | 2026-07-09 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 6 tables, Submitted to IEEE Transactions on Signal Processing (TSP)</p></details> |
-| **[Efficient Safety Alignment of Language Models via Latent Personality Traits](https://arxiv.org/abs/2607.07918v1)** | 2026-07-08 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Accepted at COLM 2026</p></details> |
-| **[Open Models, Open Risks: Measuring Unsafe Generation in Text-to-Image Models In the Wild](https://arxiv.org/abs/2607.07827v1)** | 2026-07-08 |  |
-| **[On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces](https://arxiv.org/abs/2607.07375v1)** | 2026-07-08 |  |
-| **[InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models](https://arxiv.org/abs/2607.07288v1)** | 2026-07-08 |  |
-| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](https://arxiv.org/abs/2508.17304v3)** | 2026-07-08 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in SN Computer Science, and is available online at https://doi.org/10.1007/s42979-026-05087-1</p></details> |
-| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
-| **[AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485v1)** | 2026-07-07 |  |
-| **[Temporal Modeling of Optically Variable Devices in Identity Documents](https://arxiv.org/abs/2607.06408v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR 2026)</p></details> |
+| **[Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models](https://arxiv.org/abs/2607.11538v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[destroR: A Benchmark and Adversarial-Training Defense for Bangla Transfer Models under Meaning-Preserving Attacks](https://arxiv.org/abs/2511.11309v2)** | 2026-07-13 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 9 Table</p></details> |
+| **[AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation](https://arxiv.org/abs/2607.11063v1)** | 2026-07-13 | <details><summary>ACM I...</summary><p>ACM International Conference on Multimedia 2026</p></details> |
+| **[Learning-Based Automated Adversarial Red-Teaming for Robustness Evaluation of Large Language Models](https://arxiv.org/abs/2512.20677v6)** | 2026-07-12 | <details><summary>ACL A...</summary><p>ACL ARR minor revision</p></details> |
+| **[Can Watermarking Techniques Help Prevent LLM Model Stealing?](https://arxiv.org/abs/2607.10794v1)** | 2026-07-12 |  |
+| **[World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning](https://arxiv.org/abs/2607.10630v1)** | 2026-07-12 |  |
+| **[NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations](https://arxiv.org/abs/2607.10490v1)** | 2026-07-11 |  |
+| **[Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](https://arxiv.org/abs/2507.04673v2)** | 2026-07-11 | <details><summary>We st...</summary><p>We stopped working on this idea because we realized that there was a paper submitted before it that took almost identical approach</p></details> |
+| **[Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability](https://arxiv.org/abs/2607.10402v1)** | 2026-07-11 | 35 pages, 8 figures |
+| **[Imperceptible and Reversible Adversarial Examples against Vision-Language Models for Privacy Protection](https://arxiv.org/abs/2607.10329v1)** | 2026-07-11 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](https://arxiv.org/abs/2607.08867v1)** | 2026-07-09 |  |
-| **[Communication-Efficient Byzantine-Robust Federated Conformal Prediction via Partial Model Sharing](https://arxiv.org/abs/2602.18396v2)** | 2026-07-09 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 6 tables, Submitted to IEEE Transactions on Signal Processing (TSP)</p></details> |
-| **[Tokens, the oft-overlooked appetizer: Large language models, the distributional hypothesis, and meaning](https://arxiv.org/abs/2412.10924v10)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted at IC2S2 2026</p></details> |
-| **[Efficient Safety Alignment of Language Models via Latent Personality Traits](https://arxiv.org/abs/2607.07918v1)** | 2026-07-08 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Accepted at COLM 2026</p></details> |
-| **[Open Models, Open Risks: Measuring Unsafe Generation in Text-to-Image Models In the Wild](https://arxiv.org/abs/2607.07827v1)** | 2026-07-08 |  |
-| **[On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces](https://arxiv.org/abs/2607.07375v1)** | 2026-07-08 |  |
-| **[InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models](https://arxiv.org/abs/2607.07288v1)** | 2026-07-08 |  |
-| **[An Efficient Recommendation Filtering-based Trust Model for Securing Internet of Things](https://arxiv.org/abs/2508.17304v3)** | 2026-07-08 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this article is published in SN Computer Science, and is available online at https://doi.org/10.1007/s42979-026-05087-1</p></details> |
-| **[Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](https://arxiv.org/abs/2607.06963v1)** | 2026-07-08 | <details><summary>Invit...</summary><p>Invited survey paper. 10 pages, 5 figures, 2 tables</p></details> |
-| **[AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485v1)** | 2026-07-07 |  |
+| **[Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models](https://arxiv.org/abs/2607.11538v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[destroR: A Benchmark and Adversarial-Training Defense for Bangla Transfer Models under Meaning-Preserving Attacks](https://arxiv.org/abs/2511.11309v2)** | 2026-07-13 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 9 Table</p></details> |
+| **[AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation](https://arxiv.org/abs/2607.11063v1)** | 2026-07-13 | <details><summary>ACM I...</summary><p>ACM International Conference on Multimedia 2026</p></details> |
+| **[Learning-Based Automated Adversarial Red-Teaming for Robustness Evaluation of Large Language Models](https://arxiv.org/abs/2512.20677v6)** | 2026-07-12 | <details><summary>ACL A...</summary><p>ACL ARR minor revision</p></details> |
+| **[Can Watermarking Techniques Help Prevent LLM Model Stealing?](https://arxiv.org/abs/2607.10794v1)** | 2026-07-12 |  |
+| **[World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning](https://arxiv.org/abs/2607.10630v1)** | 2026-07-12 |  |
+| **[NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations](https://arxiv.org/abs/2607.10490v1)** | 2026-07-11 |  |
+| **[Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](https://arxiv.org/abs/2507.04673v2)** | 2026-07-11 | <details><summary>We st...</summary><p>We stopped working on this idea because we realized that there was a paper submitted before it that took almost identical approach</p></details> |
+| **[Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability](https://arxiv.org/abs/2607.10402v1)** | 2026-07-11 | 35 pages, 8 figures |
+| **[Imperceptible and Reversible Adversarial Examples against Vision-Language Models for Privacy Protection](https://arxiv.org/abs/2607.10329v1)** | 2026-07-11 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
 
