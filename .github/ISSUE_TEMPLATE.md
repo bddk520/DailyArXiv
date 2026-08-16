@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
+| **[LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](https://arxiv.org/abs/2608.13450v1)** | 2026-08-13 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
+| **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
 | **[Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents](https://arxiv.org/abs/2608.12273v1)** | 2026-08-12 |  |
 | **[Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents](https://arxiv.org/abs/2604.27143v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at RAISE workshop (https://raise-workshop.github.io/)</p></details> |
 | **[SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails](https://arxiv.org/abs/2601.09321v2)** | 2026-08-12 |  |
@@ -14,13 +17,13 @@ labels: documentation
 | **[Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs](https://arxiv.org/abs/2608.11624v1)** | 2026-08-12 |  |
 | **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417v3)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks](https://arxiv.org/abs/2604.01039v4)** | 2026-08-12 | <details><summary>An ea...</summary><p>An earlier version of this manuscript will appear in the proceedings of IEEE Cyber-AI 2026 Conference. Project source code is available at https://github.com/Keysight/LLM-EncodeGuard</p></details> |
-| **[Measure, Don't Optimize: Forecasting Recovery in LLM Unlearning](https://arxiv.org/abs/2608.11408v1)** | 2026-08-11 | In processing |
-| **[An Empirical Study of Output-to-Input Loops for Black-Box Backdoor Detection in Fine-Tuned Open-Weight LLMs](https://arxiv.org/abs/2608.11348v1)** | 2026-08-11 |  |
-| **[REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems](https://arxiv.org/abs/2608.10669v1)** | 2026-08-11 | <details><summary>6 fig...</summary><p>6 figures, 4 tables. Supplementary material included</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides](https://arxiv.org/abs/2606.07316v2)** | 2026-08-13 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 20 tables, 1 algorithm. Substantial revision: new title, new framing, new downstream-audit experiment; supersedes v1</p></details> |
+| **[LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](https://arxiv.org/abs/2608.13450v1)** | 2026-08-13 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
+| **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
 | **[Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents](https://arxiv.org/abs/2608.12273v1)** | 2026-08-12 |  |
 | **[Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents](https://arxiv.org/abs/2604.27143v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at RAISE workshop (https://raise-workshop.github.io/)</p></details> |
 | **[SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails](https://arxiv.org/abs/2601.09321v2)** | 2026-08-12 |  |
@@ -28,35 +31,32 @@ labels: documentation
 | **[Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs](https://arxiv.org/abs/2608.11624v1)** | 2026-08-12 |  |
 | **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417v3)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks](https://arxiv.org/abs/2604.01039v4)** | 2026-08-12 | <details><summary>An ea...</summary><p>An earlier version of this manuscript will appear in the proceedings of IEEE Cyber-AI 2026 Conference. Project source code is available at https://github.com/Keysight/LLM-EncodeGuard</p></details> |
-| **[Measure, Don't Optimize: Forecasting Recovery in LLM Unlearning](https://arxiv.org/abs/2608.11408v1)** | 2026-08-11 | In processing |
-| **[An Empirical Study of Output-to-Input Loops for Black-Box Backdoor Detection in Fine-Tuned Open-Weight LLMs](https://arxiv.org/abs/2608.11348v1)** | 2026-08-11 |  |
-| **[Backdoor Decontamination Dynamics in LLM Agents](https://arxiv.org/abs/2608.11295v1)** | 2026-08-11 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers](https://arxiv.org/abs/2605.21392v2)** | 2026-08-12 |  |
-| **[Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring](https://arxiv.org/abs/2608.11802v1)** | 2026-08-12 | 14 pages |
-| **[Defending against Model Extraction for GNNs with Model Reprogramming](https://arxiv.org/abs/2608.11495v1)** | 2026-08-11 | Accepted by KDD 2026 |
-| **[Analysis of Federated Aggregation under Model Poisoning and Backdoor Attacks: A Reconstructed Cross-Dataset and Cross-Architecture Benchmark](https://arxiv.org/abs/2608.11423v1)** | 2026-08-11 | <details><summary>30 pa...</summary><p>30 pages, 7 main figures, 7 main tables; includes 11 pages of Supplementary Information with 14 supplementary figures. Code and reproducibility resources: https://github.com/mazumdarsoumya/RobustFL-Bench</p></details> |
-| **[Association-based Privacy Attacks in Wireless Protocols: Formal Modeling and Mitigation](https://arxiv.org/abs/2608.11337v1)** | 2026-08-11 |  |
-| **[Covert Visual Prompt Injection against Commercial Multimodal Large Language Models](https://arxiv.org/abs/2603.29418v2)** | 2026-08-11 |  |
-| **[Investigating Adversarial Robustness of Multi-modal Large Language Models](https://arxiv.org/abs/2606.03713v2)** | 2026-08-11 |  |
-| **[Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models](https://arxiv.org/abs/2606.03730v3)** | 2026-08-11 |  |
-| **[Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793v2)** | 2026-08-11 |  |
-| **[Demystifying Adversarial Robustness in Diffusion Models: Compression, Randomness, and Geometry](https://arxiv.org/abs/2505.22839v2)** | 2026-08-11 | <details><summary>28 pa...</summary><p>28 pages, 6 figures, 7 supplementary figures</p></details> |
+| **[Concept Drift Detection and Adaptive Retraining of Malware Classification Models](https://arxiv.org/abs/2608.13465v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear as a chapter in the book "Artificial Intelligence for Cyber Defense in Emerging Threats", to be published by Springer by early 2027</p></details> |
+| **[UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models](https://arxiv.org/abs/2608.13453v1)** | 2026-08-13 |  |
+| **[Large-scale Testing Global Optimization Methods with Black-box Adversarial Attacks](https://arxiv.org/abs/2608.13296v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to PPSN 2026</p></details> |
+| **[LoRA-based Adaptation Alone Is Not Enough: Understanding the Limits of Foundation Models for Face Presentation Attack Detection](https://arxiv.org/abs/2608.09633v2)** | 2026-08-13 |  |
+| **[Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise](https://arxiv.org/abs/2601.21628v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to 34th ACM International Conference on Multimedia (MM 2026)</p></details> |
+| **[Technical Report on Resilient and Secure Large-Scale Energy Internet Systems](https://arxiv.org/abs/2608.12916v1)** | 2026-08-13 | <details><summary>Task ...</summary><p>Task Force on Resilient and Secure Large-Scale Energy Internet Systems, August 2026</p></details> |
+| **[HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models](https://arxiv.org/abs/2608.12821v1)** | 2026-08-13 | Preprint |
+| **[JailWAM: Jailbreaking World Action Models in Robot Control](https://arxiv.org/abs/2604.05498v2)** | 2026-08-13 |  |
+| **[Subtract, Transport, or Replay? Auditable Deletion from Language-Model Memory](https://arxiv.org/abs/2607.27539v2)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages (9-page main text), 11 figures. v2: major revision. Replaces the trained-conversion pipeline with a training-free retrofit of the support-vector gate into frozen Gemma 3; adds the native Kimi Linear (KDA) receipt/forcing study and checkpoint-replay deletion audits on MIMIC. Earlier trained-conversion results are retained as legacy appendix diagnostics</p></details> |
+| **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers](https://arxiv.org/abs/2605.21392v2)** | 2026-08-12 |  |
-| **[Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring](https://arxiv.org/abs/2608.11802v1)** | 2026-08-12 | 14 pages |
-| **[Defending against Model Extraction for GNNs with Model Reprogramming](https://arxiv.org/abs/2608.11495v1)** | 2026-08-11 | Accepted by KDD 2026 |
-| **[Analysis of Federated Aggregation under Model Poisoning and Backdoor Attacks: A Reconstructed Cross-Dataset and Cross-Architecture Benchmark](https://arxiv.org/abs/2608.11423v1)** | 2026-08-11 | <details><summary>30 pa...</summary><p>30 pages, 7 main figures, 7 main tables; includes 11 pages of Supplementary Information with 14 supplementary figures. Code and reproducibility resources: https://github.com/mazumdarsoumya/RobustFL-Bench</p></details> |
-| **[Association-based Privacy Attacks in Wireless Protocols: Formal Modeling and Mitigation](https://arxiv.org/abs/2608.11337v1)** | 2026-08-11 |  |
-| **[Covert Visual Prompt Injection against Commercial Multimodal Large Language Models](https://arxiv.org/abs/2603.29418v2)** | 2026-08-11 |  |
-| **[Investigating Adversarial Robustness of Multi-modal Large Language Models](https://arxiv.org/abs/2606.03713v2)** | 2026-08-11 |  |
-| **[Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models](https://arxiv.org/abs/2606.03730v3)** | 2026-08-11 |  |
-| **[Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793v2)** | 2026-08-11 |  |
-| **[Demystifying Adversarial Robustness in Diffusion Models: Compression, Randomness, and Geometry](https://arxiv.org/abs/2505.22839v2)** | 2026-08-11 | <details><summary>28 pa...</summary><p>28 pages, 6 figures, 7 supplementary figures</p></details> |
+| **[Concept Drift Detection and Adaptive Retraining of Malware Classification Models](https://arxiv.org/abs/2608.13465v1)** | 2026-08-13 | <details><summary>To ap...</summary><p>To appear as a chapter in the book "Artificial Intelligence for Cyber Defense in Emerging Threats", to be published by Springer by early 2027</p></details> |
+| **[UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models](https://arxiv.org/abs/2608.13453v1)** | 2026-08-13 |  |
+| **[Large-scale Testing Global Optimization Methods with Black-box Adversarial Attacks](https://arxiv.org/abs/2608.13296v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to PPSN 2026</p></details> |
+| **[LoRA-based Adaptation Alone Is Not Enough: Understanding the Limits of Foundation Models for Face Presentation Attack Detection](https://arxiv.org/abs/2608.09633v2)** | 2026-08-13 |  |
+| **[Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise](https://arxiv.org/abs/2601.21628v2)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to 34th ACM International Conference on Multimedia (MM 2026)</p></details> |
+| **[Technical Report on Resilient and Secure Large-Scale Energy Internet Systems](https://arxiv.org/abs/2608.12916v1)** | 2026-08-13 | <details><summary>Task ...</summary><p>Task Force on Resilient and Secure Large-Scale Energy Internet Systems, August 2026</p></details> |
+| **[HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models](https://arxiv.org/abs/2608.12821v1)** | 2026-08-13 | Preprint |
+| **[JailWAM: Jailbreaking World Action Models in Robot Control](https://arxiv.org/abs/2604.05498v2)** | 2026-08-13 |  |
+| **[Subtract, Transport, or Replay? Auditable Deletion from Language-Model Memory](https://arxiv.org/abs/2607.27539v2)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages (9-page main text), 11 figures. v2: major revision. Replaces the trained-conversion pipeline with a training-free retrofit of the support-vector gate into frozen Gemma 3; adds the native Kimi Linear (KDA) receipt/forcing study and checkpoint-replay deletion audits on MIMIC. Earlier trained-conversion results are retained as legacy appendix diagnostics</p></details> |
+| **[Adjustable Text-Guided Backdoor Attacks with Natural-Word Triggers on Multimodal Pretrained Models](https://arxiv.org/abs/2604.05809v2)** | 2026-08-13 |  |
 
