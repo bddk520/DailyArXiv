@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond](https://arxiv.org/abs/2609.03999v1)** | 2026-09-03 |  |
+| **[Inferring Hidden User Models from the Behavior of Personalized LLM Agents](https://arxiv.org/abs/2609.03815v1)** | 2026-09-03 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, and 5 tables</p></details> |
+| **[Refusal Before Decoding: Detecting and Exploiting Refusal Signals in Intermediate LLM Activations](https://arxiv.org/abs/2605.28553v2)** | 2026-09-03 |  |
+| **[Sealing the Audit-Runtime Gap for LLM Skills](https://arxiv.org/abs/2605.05274v2)** | 2026-09-03 |  |
+| **[AKRASIA: Stealthy Backdoor Attack on Reasoning-based Code LLMs](https://arxiv.org/abs/2609.01023v2)** | 2026-09-03 |  |
+| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v4)** | 2026-09-03 |  |
 | **[ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use](https://arxiv.org/abs/2609.02690v1)** | 2026-09-02 |  |
 | **[Whitewashing Hate, Smearing Harmless Content: Annotator-Style Rebuttal Attacks on LLM-Based Moderation](https://arxiv.org/abs/2608.22230v2)** | 2026-09-02 | <details><summary>We id...</summary><p>We identified errors in the experimental setup and analysis that affect several key results and conclusions. As substantial re-analysis is required and the conclusions may change, we respectfully request withdrawal of the current version</p></details> |
 | **[Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions](https://arxiv.org/abs/2607.12406v2)** | 2026-09-02 |  |
 | **[CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents](https://arxiv.org/abs/2609.02265v1)** | 2026-09-02 | <details><summary>Under...</summary><p>Under review at ICLR 2027</p></details> |
-| **[WeaveMark: Robust and Scalable Multi-bit LLM Watermarking via Coded Payload Spreading](https://arxiv.org/abs/2609.02177v1)** | 2026-09-02 | <details><summary>16 pa...</summary><p>16 pages, 11 figures. Code: https://github.com/qkrrkd90-source/WeaveMark</p></details> |
-| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v3)** | 2026-09-02 |  |
-| **[Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching](https://arxiv.org/abs/2609.02035v1)** | 2026-09-02 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 5 tables</p></details> |
-| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v4)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version accepted at EMNLP 2026 Main conference. Code and data are publicly available on the project website: https://chartattack.insait.ai/</p></details> |
-| **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](https://arxiv.org/abs/2609.01604v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
-| **[Can LLMs Reliably Self-Report Adversarial Prefills, and How?](https://arxiv.org/abs/2606.23671v5)** | 2026-09-01 | EMNLP 2026 (Main) |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond](https://arxiv.org/abs/2609.03999v1)** | 2026-09-03 |  |
+| **[Inferring Hidden User Models from the Behavior of Personalized LLM Agents](https://arxiv.org/abs/2609.03815v1)** | 2026-09-03 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, and 5 tables</p></details> |
+| **[Refusal Before Decoding: Detecting and Exploiting Refusal Signals in Intermediate LLM Activations](https://arxiv.org/abs/2605.28553v2)** | 2026-09-03 |  |
+| **[Sealing the Audit-Runtime Gap for LLM Skills](https://arxiv.org/abs/2605.05274v2)** | 2026-09-03 |  |
+| **[AKRASIA: Stealthy Backdoor Attack on Reasoning-based Code LLMs](https://arxiv.org/abs/2609.01023v2)** | 2026-09-03 |  |
+| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v4)** | 2026-09-03 |  |
 | **[ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use](https://arxiv.org/abs/2609.02690v1)** | 2026-09-02 |  |
 | **[Whitewashing Hate, Smearing Harmless Content: Annotator-Style Rebuttal Attacks on LLM-Based Moderation](https://arxiv.org/abs/2608.22230v2)** | 2026-09-02 | <details><summary>We id...</summary><p>We identified errors in the experimental setup and analysis that affect several key results and conclusions. As substantial re-analysis is required and the conclusions may change, we respectfully request withdrawal of the current version</p></details> |
 | **[Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions](https://arxiv.org/abs/2607.12406v2)** | 2026-09-02 |  |
 | **[CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents](https://arxiv.org/abs/2609.02265v1)** | 2026-09-02 | <details><summary>Under...</summary><p>Under review at ICLR 2027</p></details> |
-| **[WeaveMark: Robust and Scalable Multi-bit LLM Watermarking via Coded Payload Spreading](https://arxiv.org/abs/2609.02177v1)** | 2026-09-02 | <details><summary>16 pa...</summary><p>16 pages, 11 figures. Code: https://github.com/qkrrkd90-source/WeaveMark</p></details> |
-| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v3)** | 2026-09-02 |  |
-| **[Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching](https://arxiv.org/abs/2609.02035v1)** | 2026-09-02 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 5 tables</p></details> |
-| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v4)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version accepted at EMNLP 2026 Main conference. Code and data are publicly available on the project website: https://chartattack.insait.ai/</p></details> |
-| **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](https://arxiv.org/abs/2609.01604v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
-| **[Can LLMs Reliably Self-Report Adversarial Prefills, and How?](https://arxiv.org/abs/2606.23671v5)** | 2026-09-01 | EMNLP 2026 (Main) |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representational alignment yields generalizable safety in language models](https://arxiv.org/abs/2609.04022v1)** | 2026-09-03 |  |
+| **[Inferring Hidden User Models from the Behavior of Personalized LLM Agents](https://arxiv.org/abs/2609.03815v1)** | 2026-09-03 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, and 5 tables</p></details> |
+| **[Temperature Scaling Attack Disrupting Model Confidence in Federated Learning](https://arxiv.org/abs/2602.06638v3)** | 2026-09-03 | 20 pages, 20 figures |
+| **[Beyond the Trust Boundary: A Critical Reassessment of the FIDO2 Threat Model](https://arxiv.org/abs/2609.03789v1)** | 2026-09-03 |  |
+| **[IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks](https://arxiv.org/abs/2609.03781v1)** | 2026-09-03 | <details><summary>38 pa...</summary><p>38 pages, 7 figures, 33 tables. Accepted to Findings of EMNLP 2026. Contains examples of harmful model outputs</p></details> |
+| **[Extracting Forgotten Prompts from Targeted Unlearned Models](https://arxiv.org/abs/2609.03662v1)** | 2026-09-03 |  |
+| **[Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models](https://arxiv.org/abs/2608.27531v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
+| **[Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems](https://arxiv.org/abs/2609.03064v1)** | 2026-09-02 | <details><summary>9 pag...</summary><p>9 pages, Journal research article</p></details> |
 | **[GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315v2)** | 2026-09-02 |  |
 | **[Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate](https://arxiv.org/abs/2609.01168v2)** | 2026-09-02 | 16 pages, 11 figures |
-| **[Evaluating ML-based Intrusion Detection Systems: The Illusion of Model Efficacy](https://arxiv.org/abs/2609.02469v1)** | 2026-09-02 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
-| **[InfraPatch: Cross-Task Targeted Grayscale Patch Attacks on Infrared-Adapted Vision-Language Models](https://arxiv.org/abs/2609.02233v1)** | 2026-09-02 |  |
-| **[ASCII Attack: Recontextualising Harmful Requests as Artistic Critique in Large Language Models](https://arxiv.org/abs/2609.02215v1)** | 2026-09-02 |  |
-| **[TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models](https://arxiv.org/abs/2603.02436v2)** | 2026-09-01 | <details><summary>23 pa...</summary><p>23 pages,18 figures,8 tables</p></details> |
-| **[Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models](https://arxiv.org/abs/2609.01723v1)** | 2026-09-01 | 18 pages |
-| **[A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection](https://arxiv.org/abs/2505.12586v6)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
-| **[VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models](https://arxiv.org/abs/2609.01325v1)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](https://arxiv.org/abs/2609.01249v1)** | 2026-09-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, and 2 tables</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representational alignment yields generalizable safety in language models](https://arxiv.org/abs/2609.04022v1)** | 2026-09-03 |  |
+| **[Inferring Hidden User Models from the Behavior of Personalized LLM Agents](https://arxiv.org/abs/2609.03815v1)** | 2026-09-03 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, and 5 tables</p></details> |
+| **[Temperature Scaling Attack Disrupting Model Confidence in Federated Learning](https://arxiv.org/abs/2602.06638v3)** | 2026-09-03 | 20 pages, 20 figures |
+| **[Beyond the Trust Boundary: A Critical Reassessment of the FIDO2 Threat Model](https://arxiv.org/abs/2609.03789v1)** | 2026-09-03 |  |
+| **[IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks](https://arxiv.org/abs/2609.03781v1)** | 2026-09-03 | <details><summary>38 pa...</summary><p>38 pages, 7 figures, 33 tables. Accepted to Findings of EMNLP 2026. Contains examples of harmful model outputs</p></details> |
+| **[Extracting Forgotten Prompts from Targeted Unlearned Models](https://arxiv.org/abs/2609.03662v1)** | 2026-09-03 |  |
+| **[Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models](https://arxiv.org/abs/2608.27531v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
+| **[Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems](https://arxiv.org/abs/2609.03064v1)** | 2026-09-02 | <details><summary>9 pag...</summary><p>9 pages, Journal research article</p></details> |
 | **[GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models](https://arxiv.org/abs/2312.06315v2)** | 2026-09-02 |  |
 | **[Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate](https://arxiv.org/abs/2609.01168v2)** | 2026-09-02 | 16 pages, 11 figures |
-| **[Evaluating ML-based Intrusion Detection Systems: The Illusion of Model Efficacy](https://arxiv.org/abs/2609.02469v1)** | 2026-09-02 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
-| **[InfraPatch: Cross-Task Targeted Grayscale Patch Attacks on Infrared-Adapted Vision-Language Models](https://arxiv.org/abs/2609.02233v1)** | 2026-09-02 |  |
-| **[ASCII Attack: Recontextualising Harmful Requests as Artistic Critique in Large Language Models](https://arxiv.org/abs/2609.02215v1)** | 2026-09-02 |  |
-| **[TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models](https://arxiv.org/abs/2603.02436v2)** | 2026-09-01 | <details><summary>23 pa...</summary><p>23 pages,18 figures,8 tables</p></details> |
-| **[Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models](https://arxiv.org/abs/2609.01723v1)** | 2026-09-01 | 18 pages |
-| **[A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection](https://arxiv.org/abs/2505.12586v6)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
-| **[VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models](https://arxiv.org/abs/2609.01325v1)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](https://arxiv.org/abs/2609.01249v1)** | 2026-09-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, and 2 tables</p></details> |
 
