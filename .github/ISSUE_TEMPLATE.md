@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
+| **[Robust Detection of LLM-Generated Text under Contamination](https://arxiv.org/abs/2609.29935v1)** | 2026-09-24 |  |
+| **[Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs](https://arxiv.org/abs/2609.29775v1)** | 2026-09-24 |  |
+| **[OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure](https://arxiv.org/abs/2609.29757v1)** | 2026-09-24 | 24 pages, 7 figures |
+| **[MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting](https://arxiv.org/abs/2603.26797v2)** | 2026-09-24 |  |
+| **[Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings](https://arxiv.org/abs/2608.17556v2)** | 2026-09-24 | <details><summary>Some ...</summary><p>Some fundamental changes took place</p></details> |
+| **[DistillGuard: Malicious NPM Package Detection and API Attack Chain Analysis via Static Graph and LLM Distillation](https://arxiv.org/abs/2609.28996v1)** | 2026-09-24 |  |
+| **[Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning](https://arxiv.org/abs/2603.17174v2)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in ACM CCS '26</p></details> |
+| **[Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks](https://arxiv.org/abs/2609.28673v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to COMMA 2026</p></details> |
 | **[Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory](https://arxiv.org/abs/2605.03228v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to ACM CCS 2026</p></details> |
-| **[Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams](https://arxiv.org/abs/2609.27996v1)** | 2026-09-23 |  |
-| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v4)** | 2026-09-23 |  |
-| **[Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures](https://arxiv.org/abs/2609.15293v3)** | 2026-09-23 | <details><summary>27 pa...</summary><p>27 pages, 3 figures, 8 tables. Submitted to ICLR 2027</p></details> |
-| **[SR-Fraud: An Outcome-Supervised Reflective LLM Agent Framework for Non-Stationary Payment Fraud Detection](https://arxiv.org/abs/2609.27287v1)** | 2026-09-23 |  |
-| **[Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection](https://arxiv.org/abs/2609.27091v1)** | 2026-09-22 |  |
-| **[ActGov: Governing LLM Agent Actions via Policy-Constrained Validation](https://arxiv.org/abs/2609.24446v2)** | 2026-09-22 |  |
-| **[Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application](https://arxiv.org/abs/2503.06989v5)** | 2026-09-22 | ESORICS 2026 |
-| **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://arxiv.org/abs/2604.16548v3)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 3 tables. Accepted to EMNLP 2026</p></details> |
-| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v6)** | 2026-09-22 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory](https://arxiv.org/abs/2605.03228v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to ACM CCS 2026</p></details> |
-| **[Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams](https://arxiv.org/abs/2609.27996v1)** | 2026-09-23 |  |
-| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v4)** | 2026-09-23 |  |
-| **[Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures](https://arxiv.org/abs/2609.15293v3)** | 2026-09-23 | <details><summary>27 pa...</summary><p>27 pages, 3 figures, 8 tables. Submitted to ICLR 2027</p></details> |
-| **[SR-Fraud: An Outcome-Supervised Reflective LLM Agent Framework for Non-Stationary Payment Fraud Detection](https://arxiv.org/abs/2609.27287v1)** | 2026-09-23 |  |
-| **[Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection](https://arxiv.org/abs/2609.27091v1)** | 2026-09-22 |  |
-| **[ActGov: Governing LLM Agent Actions via Policy-Constrained Validation](https://arxiv.org/abs/2609.24446v2)** | 2026-09-22 |  |
-| **[Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application](https://arxiv.org/abs/2503.06989v5)** | 2026-09-22 | ESORICS 2026 |
-| **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://arxiv.org/abs/2604.16548v3)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 3 tables. Accepted to EMNLP 2026</p></details> |
-| **[Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141v6)** | 2026-09-22 |  |
+| **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
+| **[Robust Detection of LLM-Generated Text under Contamination](https://arxiv.org/abs/2609.29935v1)** | 2026-09-24 |  |
+| **[Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs](https://arxiv.org/abs/2609.29775v1)** | 2026-09-24 |  |
+| **[OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure](https://arxiv.org/abs/2609.29757v1)** | 2026-09-24 | 24 pages, 7 figures |
+| **[MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting](https://arxiv.org/abs/2603.26797v2)** | 2026-09-24 |  |
+| **[Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings](https://arxiv.org/abs/2608.17556v2)** | 2026-09-24 | <details><summary>Some ...</summary><p>Some fundamental changes took place</p></details> |
+| **[DistillGuard: Malicious NPM Package Detection and API Attack Chain Analysis via Static Graph and LLM Distillation](https://arxiv.org/abs/2609.28996v1)** | 2026-09-24 |  |
+| **[Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning](https://arxiv.org/abs/2603.17174v2)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in ACM CCS '26</p></details> |
+| **[LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders](https://arxiv.org/abs/2609.07746v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2026</p></details> |
+| **[Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks](https://arxiv.org/abs/2609.28673v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to COMMA 2026</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026). Keywords: agentic AI security, large language models, jailbreak attacks, prompt injection, cyber deception</p></details> |
+| **[Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving](https://arxiv.org/abs/2609.29178v1)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in the 2026 ACM Conference on Computer and Communications Security (CCS)</p></details> |
+| **[Diffusion-aided Task-oriented Semantic Communications with Model Inversion Attack](https://arxiv.org/abs/2506.19886v3)** | 2026-09-24 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Cognitive Communications and Networking</p></details> |
+| **[Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713v1)** | 2026-09-23 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 5 tables. Accepted to the Spoken Language Technology (SLT) 2026</p></details> |
 | **[Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams](https://arxiv.org/abs/2609.27996v1)** | 2026-09-23 |  |
 | **[Psychoacoustically Aligned Latent Smoothing for Adversarial Robustness of Full-Duplex Speech-to-Speech Dialogue Models](https://arxiv.org/abs/2609.27378v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 | **[Formally Modeling the Terrapin Attack on SSH](https://arxiv.org/abs/2609.26358v1)** | 2026-09-22 | 34 pages, 11 figures |
 | **[LoRango: It Takes Two LoRAs to Unlock Hidden Behaviors in Diffusion Models](https://arxiv.org/abs/2609.25884v1)** | 2026-09-22 |  |
 | **[Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application](https://arxiv.org/abs/2503.06989v5)** | 2026-09-22 | ESORICS 2026 |
 | **[SambaGraph: Action-Reaction Spatio-Temporal Graphs for Soccer Tactical Response Modeling](https://arxiv.org/abs/2609.25569v1)** | 2026-09-22 |  |
-| **[Looking for Bidding Teammates: A Game-Theoretic Model of Stranger Collusion in Peer Review](https://arxiv.org/abs/2609.05444v2)** | 2026-09-21 |  |
-| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v5)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
-| **[BadWAM: When World-Action Models Dream Right but Act Wrong](https://arxiv.org/abs/2607.15207v2)** | 2026-09-21 |  |
-| **[Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154v1)** | 2026-09-21 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026). Keywords: agentic AI security, large language models, jailbreak attacks, prompt injection, cyber deception</p></details> |
+| **[Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving](https://arxiv.org/abs/2609.29178v1)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in the 2026 ACM Conference on Computer and Communications Security (CCS)</p></details> |
+| **[Diffusion-aided Task-oriented Semantic Communications with Model Inversion Attack](https://arxiv.org/abs/2506.19886v3)** | 2026-09-24 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Cognitive Communications and Networking</p></details> |
+| **[Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713v1)** | 2026-09-23 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 5 tables. Accepted to the Spoken Language Technology (SLT) 2026</p></details> |
 | **[Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams](https://arxiv.org/abs/2609.27996v1)** | 2026-09-23 |  |
 | **[Psychoacoustically Aligned Latent Smoothing for Adversarial Robustness of Full-Duplex Speech-to-Speech Dialogue Models](https://arxiv.org/abs/2609.27378v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 | **[Formally Modeling the Terrapin Attack on SSH](https://arxiv.org/abs/2609.26358v1)** | 2026-09-22 | 34 pages, 11 figures |
 | **[LoRango: It Takes Two LoRAs to Unlock Hidden Behaviors in Diffusion Models](https://arxiv.org/abs/2609.25884v1)** | 2026-09-22 |  |
 | **[Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application](https://arxiv.org/abs/2503.06989v5)** | 2026-09-22 | ESORICS 2026 |
 | **[SambaGraph: Action-Reaction Spatio-Temporal Graphs for Soccer Tactical Response Modeling](https://arxiv.org/abs/2609.25569v1)** | 2026-09-22 |  |
-| **[Looking for Bidding Teammates: A Game-Theoretic Model of Stranger Collusion in Peer Review](https://arxiv.org/abs/2609.05444v2)** | 2026-09-21 |  |
-| **[Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://arxiv.org/abs/2606.21210v5)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to INTERSPEECH'26</p></details> |
-| **[BadWAM: When World-Action Models Dream Right but Act Wrong](https://arxiv.org/abs/2607.15207v2)** | 2026-09-21 |  |
-| **[Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154v1)** | 2026-09-21 |  |
 
