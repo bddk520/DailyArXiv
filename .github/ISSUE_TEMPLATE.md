@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation](https://arxiv.org/abs/2609.31552v1)** | 2026-09-25 |  |
-| **[From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs](https://arxiv.org/abs/2505.14368v3)** | 2026-09-25 | <details><summary>4 pag...</summary><p>4 pages, 1 figures, ICASSP 2027 under review</p></details> |
-| **[AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots](https://arxiv.org/abs/2609.31110v1)** | 2026-09-25 |  |
-| **[MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes](https://arxiv.org/abs/2609.31039v1)** | 2026-09-25 |  |
-| **[AGATE: Provenance-Based Runtime Defense Against Compositional Attacks on LLM Agents](https://arxiv.org/abs/2609.30830v1)** | 2026-09-25 |  |
-| **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
-| **[Robust Detection of LLM-Generated Text under Contamination](https://arxiv.org/abs/2609.29935v1)** | 2026-09-24 |  |
-| **[Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs](https://arxiv.org/abs/2609.29775v1)** | 2026-09-24 |  |
-| **[OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure](https://arxiv.org/abs/2609.29757v1)** | 2026-09-24 | 24 pages, 7 figures |
-| **[MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting](https://arxiv.org/abs/2603.26797v2)** | 2026-09-24 |  |
+| **[WeaveMark: Robust and Scalable Multi-bit LLM Watermarking via Coded Payload Spreading](https://arxiv.org/abs/2609.02177v2)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 16 tables. v2: added extended comparisons (payload scalability, generalization across model families), additional robustness results (insertion/deletion, truncation, copy-paste, rewriting), context-window and statistical reliability analyses; revised presentation</p></details> |
+| **[Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents](https://arxiv.org/abs/2609.35576v1)** | 2026-09-28 | <details><summary>37 pa...</summary><p>37 pages. Code: https://github.com/psidharth567/Share-Borne-Virus</p></details> |
+| **[Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation](https://arxiv.org/abs/2609.35308v1)** | 2026-09-28 | <details><summary>9 fig...</summary><p>9 figures, 19 tables. Benchmark, code, and protocol definitions: https://github.com/fahrellgiovanny/epistemic-policy-divergence</p></details> |
+| **[SkillBloat: Token Amplification Attacks via Skill Injection in LLM Coding Agents](https://arxiv.org/abs/2608.21929v2)** | 2026-09-28 |  |
+| **[TULIP: Targeted LLM Unlearning at Layers Identified Per-Input](https://arxiv.org/abs/2609.34591v1)** | 2026-09-28 |  |
+| **[CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents](https://arxiv.org/abs/2609.34463v1)** | 2026-09-28 |  |
+| **[AutoDojo: A Generative Benchmark for Evaluating Prompt Injection Defenses in LLM Agents](https://arxiv.org/abs/2606.15057v3)** | 2026-09-28 |  |
+| **[MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents](https://arxiv.org/abs/2605.29960v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted by ACM CCS 2026</p></details> |
+| **[From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents](https://arxiv.org/abs/2609.34132v1)** | 2026-09-28 |  |
+| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v3)** | 2026-09-27 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation](https://arxiv.org/abs/2609.31552v1)** | 2026-09-25 |  |
-| **[From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs](https://arxiv.org/abs/2505.14368v3)** | 2026-09-25 | <details><summary>4 pag...</summary><p>4 pages, 1 figures, ICASSP 2027 under review</p></details> |
-| **[AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots](https://arxiv.org/abs/2609.31110v1)** | 2026-09-25 |  |
-| **[MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes](https://arxiv.org/abs/2609.31039v1)** | 2026-09-25 |  |
-| **[AGATE: Provenance-Based Runtime Defense Against Compositional Attacks on LLM Agents](https://arxiv.org/abs/2609.30830v1)** | 2026-09-25 |  |
-| **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
-| **[Robust Detection of LLM-Generated Text under Contamination](https://arxiv.org/abs/2609.29935v1)** | 2026-09-24 |  |
-| **[Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs](https://arxiv.org/abs/2609.29775v1)** | 2026-09-24 |  |
-| **[OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure](https://arxiv.org/abs/2609.29757v1)** | 2026-09-24 | 24 pages, 7 figures |
-| **[MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting](https://arxiv.org/abs/2603.26797v2)** | 2026-09-24 |  |
+| **[WeaveMark: Robust and Scalable Multi-bit LLM Watermarking via Coded Payload Spreading](https://arxiv.org/abs/2609.02177v2)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 16 tables. v2: added extended comparisons (payload scalability, generalization across model families), additional robustness results (insertion/deletion, truncation, copy-paste, rewriting), context-window and statistical reliability analyses; revised presentation</p></details> |
+| **[Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents](https://arxiv.org/abs/2609.35576v1)** | 2026-09-28 | <details><summary>37 pa...</summary><p>37 pages. Code: https://github.com/psidharth567/Share-Borne-Virus</p></details> |
+| **[Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation](https://arxiv.org/abs/2609.35308v1)** | 2026-09-28 | <details><summary>9 fig...</summary><p>9 figures, 19 tables. Benchmark, code, and protocol definitions: https://github.com/fahrellgiovanny/epistemic-policy-divergence</p></details> |
+| **[SkillBloat: Token Amplification Attacks via Skill Injection in LLM Coding Agents](https://arxiv.org/abs/2608.21929v2)** | 2026-09-28 |  |
+| **[TULIP: Targeted LLM Unlearning at Layers Identified Per-Input](https://arxiv.org/abs/2609.34591v1)** | 2026-09-28 |  |
+| **[CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents](https://arxiv.org/abs/2609.34463v1)** | 2026-09-28 |  |
+| **[AutoDojo: A Generative Benchmark for Evaluating Prompt Injection Defenses in LLM Agents](https://arxiv.org/abs/2606.15057v3)** | 2026-09-28 |  |
+| **[MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents](https://arxiv.org/abs/2605.29960v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted by ACM CCS 2026</p></details> |
+| **[From Attack Success to Attack Severity: Counterfactual Memory Attacks on LLM Agents](https://arxiv.org/abs/2609.34132v1)** | 2026-09-28 |  |
+| **[Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672v3)** | 2026-09-27 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers](https://arxiv.org/abs/2609.31403v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to the First Workshop on Document Intelligence and Understanding (DocInsights 2026), co-located with the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
-| **[JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models](https://arxiv.org/abs/2609.31142v1)** | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 19 tables. Project website: https://JevAdvBench.github.io/JevAdvBench/</p></details> |
-| **[FeatMark: Feature-level Watermark Protection against Mimicry Attacks with Diffusion Models](https://arxiv.org/abs/2609.30980v1)** | 2026-09-25 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 14 tables; includes appendices</p></details> |
-| **[The Uncontrolled Variable: Vision-Language Refusal Is Conditioned on the Image-Attachment Interface, and Not Robust to Irrelevant Image Properties](https://arxiv.org/abs/2609.26174v2)** | 2026-09-25 | <details><summary>27 pa...</summary><p>27 pages (8 pages main text, references, 18 pages supplementary material), 1 figure, 23 tables</p></details> |
-| **[Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis](https://arxiv.org/abs/2609.30841v1)** | 2026-09-25 | 27 pages, 10 figures |
-| **[The Plot Twist: Jailbreaking Unified Multimodal Models with a Three-Act NarrativeAttack](https://arxiv.org/abs/2509.26473v2)** | 2026-09-25 | EMNLP 2026 Findings |
-| **[A Large-Scale Empirical Study of Modern Phishing Email Content](https://arxiv.org/abs/2609.30683v1)** | 2026-09-25 | 22 pages |
-| **[Prompt Injection Detection for Email Agents Through Attack Chain Modeling](https://arxiv.org/abs/2609.30657v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2026</p></details> |
-| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026). Keywords: agentic AI security, large language models, jailbreak attacks, prompt injection, cyber deception</p></details> |
-| **[Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving](https://arxiv.org/abs/2609.29178v1)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in the 2026 ACM Conference on Computer and Communications Security (CCS)</p></details> |
+| **[SoK: Cryptocurrency Mixing and Anonymity - Architectures, Threat Models, Operational Aspects and Security](https://arxiv.org/abs/2504.20296v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages overall, submitted to, and presented at EAI BlockTEA 2026 conference (accepted)</p></details> |
+| **[Let the Neurons Die: Exploiting ReLU-Induced Model Degradation](https://arxiv.org/abs/2609.35528v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to the Trustworthy AI for Good (AI4Good) Workshop @ ICML 2026 in Seoul, South Korea; Presented as a poster on July 10, 2026</p></details> |
+| **[DuplexJail: Spoken Interruption Attacks on Full-Duplex Speech Models](https://arxiv.org/abs/2609.09420v2)** | 2026-09-28 |  |
+| **[TANGO: Watermarking Masked Diffusion Language Models in Token Pairs](https://arxiv.org/abs/2609.35224v1)** | 2026-09-28 |  |
+| **[MissClick: Execution-Aware Adversarial Attacks on Coordinate Generation in GUI Grounding Models](https://arxiv.org/abs/2608.03740v2)** | 2026-09-28 |  |
+| **[Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models](https://arxiv.org/abs/2609.35002v1)** | 2026-09-28 | <details><summary>29 pa...</summary><p>29 pages, 11 figures, 13 tables</p></details> |
+| **[When Choices Become Risks: Safety Failures of Large Language Models under Multiple-Choice Constraints](https://arxiv.org/abs/2604.16916v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to Findings of AACL-IJCNLP 2026</p></details> |
+| **[RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models](https://arxiv.org/abs/2609.34920v1)** | 2026-09-28 |  |
+| **[DeShortcut-Align: Decoupling Spurious Shortcuts for Robust Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.34896v1)** | 2026-09-28 | 35 pages, 7 figures |
+| **[Decoding One Safety Trigger Token for Balancing Safety and Usability in Large Language Models](https://arxiv.org/abs/2505.07167v4)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers](https://arxiv.org/abs/2609.31403v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to the First Workshop on Document Intelligence and Understanding (DocInsights 2026), co-located with the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</p></details> |
-| **[JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models](https://arxiv.org/abs/2609.31142v1)** | 2026-09-25 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 19 tables. Project website: https://JevAdvBench.github.io/JevAdvBench/</p></details> |
-| **[FeatMark: Feature-level Watermark Protection against Mimicry Attacks with Diffusion Models](https://arxiv.org/abs/2609.30980v1)** | 2026-09-25 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 14 tables; includes appendices</p></details> |
-| **[The Uncontrolled Variable: Vision-Language Refusal Is Conditioned on the Image-Attachment Interface, and Not Robust to Irrelevant Image Properties](https://arxiv.org/abs/2609.26174v2)** | 2026-09-25 | <details><summary>27 pa...</summary><p>27 pages (8 pages main text, references, 18 pages supplementary material), 1 figure, 23 tables</p></details> |
-| **[Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis](https://arxiv.org/abs/2609.30841v1)** | 2026-09-25 | 27 pages, 10 figures |
-| **[The Plot Twist: Jailbreaking Unified Multimodal Models with a Three-Act NarrativeAttack](https://arxiv.org/abs/2509.26473v2)** | 2026-09-25 | EMNLP 2026 Findings |
-| **[A Large-Scale Empirical Study of Modern Phishing Email Content](https://arxiv.org/abs/2609.30683v1)** | 2026-09-25 | 22 pages |
-| **[Prompt Injection Detection for Email Agents Through Attack Chain Modeling](https://arxiv.org/abs/2609.30657v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2026</p></details> |
-| **[Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](https://arxiv.org/abs/2606.20470v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026). Keywords: agentic AI security, large language models, jailbreak attacks, prompt injection, cyber deception</p></details> |
-| **[Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving](https://arxiv.org/abs/2609.29178v1)** | 2026-09-24 | <details><summary>To ap...</summary><p>To appear in the 2026 ACM Conference on Computer and Communications Security (CCS)</p></details> |
+| **[SoK: Cryptocurrency Mixing and Anonymity - Architectures, Threat Models, Operational Aspects and Security](https://arxiv.org/abs/2504.20296v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages overall, submitted to, and presented at EAI BlockTEA 2026 conference (accepted)</p></details> |
+| **[Let the Neurons Die: Exploiting ReLU-Induced Model Degradation](https://arxiv.org/abs/2609.35528v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to the Trustworthy AI for Good (AI4Good) Workshop @ ICML 2026 in Seoul, South Korea; Presented as a poster on July 10, 2026</p></details> |
+| **[DuplexJail: Spoken Interruption Attacks on Full-Duplex Speech Models](https://arxiv.org/abs/2609.09420v2)** | 2026-09-28 |  |
+| **[TANGO: Watermarking Masked Diffusion Language Models in Token Pairs](https://arxiv.org/abs/2609.35224v1)** | 2026-09-28 |  |
+| **[MissClick: Execution-Aware Adversarial Attacks on Coordinate Generation in GUI Grounding Models](https://arxiv.org/abs/2608.03740v2)** | 2026-09-28 |  |
+| **[Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models](https://arxiv.org/abs/2609.35002v1)** | 2026-09-28 | <details><summary>29 pa...</summary><p>29 pages, 11 figures, 13 tables</p></details> |
+| **[When Choices Become Risks: Safety Failures of Large Language Models under Multiple-Choice Constraints](https://arxiv.org/abs/2604.16916v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to Findings of AACL-IJCNLP 2026</p></details> |
+| **[RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models](https://arxiv.org/abs/2609.34920v1)** | 2026-09-28 |  |
+| **[DeShortcut-Align: Decoupling Spurious Shortcuts for Robust Safety Alignment in Large Reasoning Models](https://arxiv.org/abs/2609.34896v1)** | 2026-09-28 | 35 pages, 7 figures |
+| **[Decoding One Safety Trigger Token for Balancing Safety and Usability in Large Language Models](https://arxiv.org/abs/2505.07167v4)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 
