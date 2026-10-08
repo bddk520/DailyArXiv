@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpliTEE: Fast and Private LLM Inference by Coupling GPU-Assisted Trusted Execution Environments with Differential Privacy](https://arxiv.org/abs/2609.15039v3)** | 2026-10-06 |  |
-| **[Safeguarding LLMs via Model-Agnostic Latent Safety Signals from Dark Knowledge](https://arxiv.org/abs/2610.07532v1)** | 2026-10-05 | <details><summary>proje...</summary><p>project page: https://wonjuun.github.io/LADE/</p></details> |
-| **[Harmful SFT Leaves a Continuous Trace in LLM Checkpoint Updates](https://arxiv.org/abs/2610.07518v1)** | 2026-10-05 |  |
-| **[Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510v1)** | 2026-10-05 | EMNLP 2026 Findings |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by EEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v2)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published at NeurIPS2026</p></details> |
-| **[Jailbreaking Open-Weight LLMs via Random Embedding Perturbations](https://arxiv.org/abs/2610.07125v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, Code: https://github.com/AbhinavDubey30/Perturbed-Embedding-Vectors</p></details> |
-| **[Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175v3)** | 2026-10-05 |  |
-| **[RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents](https://arxiv.org/abs/2610.06401v1)** | 2026-10-05 |  |
-| **[Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection](https://arxiv.org/abs/2602.05484v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at RAID 2026</p></details> |
+| **[The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search](https://arxiv.org/abs/2512.01353v4)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project website: https://everywheresafety.github.io/cka-agent/</p></details> |
+| **[APEX: Active Protection at Execution Boundaries for LLM Agents](https://arxiv.org/abs/2610.06966v2)** | 2026-10-07 |  |
+| **[TACS: Trajectory-Aware Candidate Selection for LLM Jailbreak Suffix Optimization](https://arxiv.org/abs/2608.29564v3)** | 2026-10-07 | <details><summary>We id...</summary><p>We identified an error in the theoretical analysis, which affects the validity of the main conclusions of the manuscript. Since the current version does not adequately support this conclusion, we have decided to withdraw the paper</p></details> |
+| **[Auditing Privacy Risks in LLM-Enhanced Graph Neural Networks](https://arxiv.org/abs/2608.25727v2)** | 2026-10-07 |  |
+| **[Reasoning Enhances Robustness to Prompt Injection in LLM-Based Consensus](https://arxiv.org/abs/2508.04281v5)** | 2026-10-07 | 29 pages |
+| **[RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents](https://arxiv.org/abs/2610.06401v2)** | 2026-10-07 |  |
+| **[Sensitive-Topic Leakage Through LLM Routing Metadata: Measurement and Mitigation](https://arxiv.org/abs/2610.09981v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 9 tables</p></details> |
+| **[Formal Runtime Verification for Tool-Using LLM Agents: An Offline Same-Benchmark Study on AgentDojo and STAC](https://arxiv.org/abs/2610.09793v1)** | 2026-10-07 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 13 tables. Accepted at the 8th Workshop on CPS&IoT Security and Privacy (CPSIoTSec '26), co-located with ACM CCS 2026, The Hague</p></details> |
+| **[Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation](https://arxiv.org/abs/2609.35308v2)** | 2026-10-07 | <details><summary>9 fig...</summary><p>9 figures, 19 tables. Benchmark, code, and protocol definitions: https://github.com/fahrellgiovanny/epistemic-policy-divergence</p></details> |
+| **[Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense](https://arxiv.org/abs/2610.09337v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE GLOBECOM 2026. Proceedings forthcoming. 6 pages, 4 figures</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpliTEE: Fast and Private LLM Inference by Coupling GPU-Assisted Trusted Execution Environments with Differential Privacy](https://arxiv.org/abs/2609.15039v3)** | 2026-10-06 |  |
-| **[Safeguarding LLMs via Model-Agnostic Latent Safety Signals from Dark Knowledge](https://arxiv.org/abs/2610.07532v1)** | 2026-10-05 | <details><summary>proje...</summary><p>project page: https://wonjuun.github.io/LADE/</p></details> |
-| **[Harmful SFT Leaves a Continuous Trace in LLM Checkpoint Updates](https://arxiv.org/abs/2610.07518v1)** | 2026-10-05 |  |
-| **[Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510v1)** | 2026-10-05 | EMNLP 2026 Findings |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by EEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v2)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published at NeurIPS2026</p></details> |
-| **[Jailbreaking Open-Weight LLMs via Random Embedding Perturbations](https://arxiv.org/abs/2610.07125v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, Code: https://github.com/AbhinavDubey30/Perturbed-Embedding-Vectors</p></details> |
-| **[Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175v3)** | 2026-10-05 |  |
-| **[RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents](https://arxiv.org/abs/2610.06401v1)** | 2026-10-05 |  |
-| **[Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection](https://arxiv.org/abs/2602.05484v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at RAID 2026</p></details> |
+| **[The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search](https://arxiv.org/abs/2512.01353v4)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project website: https://everywheresafety.github.io/cka-agent/</p></details> |
+| **[APEX: Active Protection at Execution Boundaries for LLM Agents](https://arxiv.org/abs/2610.06966v2)** | 2026-10-07 |  |
+| **[TACS: Trajectory-Aware Candidate Selection for LLM Jailbreak Suffix Optimization](https://arxiv.org/abs/2608.29564v3)** | 2026-10-07 | <details><summary>We id...</summary><p>We identified an error in the theoretical analysis, which affects the validity of the main conclusions of the manuscript. Since the current version does not adequately support this conclusion, we have decided to withdraw the paper</p></details> |
+| **[Auditing Privacy Risks in LLM-Enhanced Graph Neural Networks](https://arxiv.org/abs/2608.25727v2)** | 2026-10-07 |  |
+| **[Reasoning Enhances Robustness to Prompt Injection in LLM-Based Consensus](https://arxiv.org/abs/2508.04281v5)** | 2026-10-07 | 29 pages |
+| **[RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents](https://arxiv.org/abs/2610.06401v2)** | 2026-10-07 |  |
+| **[Sensitive-Topic Leakage Through LLM Routing Metadata: Measurement and Mitigation](https://arxiv.org/abs/2610.09981v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 9 tables</p></details> |
+| **[Formal Runtime Verification for Tool-Using LLM Agents: An Offline Same-Benchmark Study on AgentDojo and STAC](https://arxiv.org/abs/2610.09793v1)** | 2026-10-07 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 13 tables. Accepted at the 8th Workshop on CPS&IoT Security and Privacy (CPSIoTSec '26), co-located with ACM CCS 2026, The Hague</p></details> |
+| **[Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation](https://arxiv.org/abs/2609.35308v2)** | 2026-10-07 | <details><summary>9 fig...</summary><p>9 figures, 19 tables. Benchmark, code, and protocol definitions: https://github.com/fahrellgiovanny/epistemic-policy-divergence</p></details> |
+| **[Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense](https://arxiv.org/abs/2610.09337v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE GLOBECOM 2026. Proceedings forthcoming. 6 pages, 4 figures</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](https://arxiv.org/abs/2610.08773v1)** | 2026-10-06 | <details><summary>Code ...</summary><p>Code at https://github.com/Sarim-MBZUAI/advsim2real</p></details> |
-| **[TAPDreamer: Transferable Adversarial Patches for World Action Models](https://arxiv.org/abs/2610.06814v2)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project Page: https://tapdreamer.github.io</p></details> |
-| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v1)** | 2026-10-06 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
-| **[Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving](https://arxiv.org/abs/2610.08331v1)** | 2026-10-06 |  |
-| **[MARCO: The Radioactive Watermark for Protein Generative Models](https://arxiv.org/abs/2610.08316v1)** | 2026-10-06 |  |
-| **[Modeling Time-Dependent Responses of Optical Compressors with Selective State Space Models](https://arxiv.org/abs/2408.12549v4)** | 2026-10-06 | <details><summary>in Jo...</summary><p>in Journal of the Audio Engineering Society vol. 73, 2025</p></details> |
-| **[SCSM: A Traffic-Native Foundation Model for Transferable Website Fingerprinting](https://arxiv.org/abs/2610.07776v1)** | 2026-10-06 |  |
-| **[The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models](https://arxiv.org/abs/2610.07723v1)** | 2026-10-06 |  |
-| **[Adaptive Model Inversion Attacks Generalize a Privacy-Robustness Tradeoff](https://arxiv.org/abs/2610.07677v1)** | 2026-10-06 |  |
+| **[Detecting Adversarial Images through Response Profiles of Vision-Language Models](https://arxiv.org/abs/2610.10436v1)** | 2026-10-07 |  |
+| **[Targeting World Models to Compromise Robot Learning Pipelines](https://arxiv.org/abs/2606.09499v2)** | 2026-10-07 | <details><summary>9 Pag...</summary><p>9 Pages, CoRL Spotlight</p></details> |
+| **[Estimating Model-Level Membership Inference Vulnerability Without Reference Models](https://arxiv.org/abs/2510.19773v2)** | 2026-10-07 |  |
+| **[Efficient Provably Private Classification with a Tabular Foundation Model](https://arxiv.org/abs/2610.10068v1)** | 2026-10-07 | <details><summary>74 pa...</summary><p>74 pages, 18 figures; includes supplementary information</p></details> |
+| **[Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions](https://arxiv.org/abs/2610.09941v1)** | 2026-10-07 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 14 tables</p></details> |
+| **[Defensive Sufficiency in a Stackelberg Model of AI Security](https://arxiv.org/abs/2610.09892v1)** | 2026-10-07 | <details><summary>27 pa...</summary><p>27 pages, 3 figures, 1 table</p></details> |
+| **[Backdooring Acoustic Foundation Models for Physically Realizable Triggers](https://arxiv.org/abs/2610.09819v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at RAID 2026</p></details> |
+| **[Restricting the Model, Missing the System: Measurement and Accountability in Offensive AI Governance](https://arxiv.org/abs/2605.09504v3)** | 2026-10-07 |  |
+| **[Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v4)** | 2026-10-07 | 9 pages |
+| **[TMT: Runtime Backdoor Detection for Vision-Language-Action Policies on Unseen Tasks](https://arxiv.org/abs/2610.09462v1)** | 2026-10-07 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](https://arxiv.org/abs/2610.08773v1)** | 2026-10-06 | <details><summary>Code ...</summary><p>Code at https://github.com/Sarim-MBZUAI/advsim2real</p></details> |
-| **[TAPDreamer: Transferable Adversarial Patches for World Action Models](https://arxiv.org/abs/2610.06814v2)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project Page: https://tapdreamer.github.io</p></details> |
-| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v1)** | 2026-10-06 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
-| **[Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving](https://arxiv.org/abs/2610.08331v1)** | 2026-10-06 |  |
-| **[MARCO: The Radioactive Watermark for Protein Generative Models](https://arxiv.org/abs/2610.08316v1)** | 2026-10-06 |  |
-| **[Modeling Time-Dependent Responses of Optical Compressors with Selective State Space Models](https://arxiv.org/abs/2408.12549v4)** | 2026-10-06 | <details><summary>in Jo...</summary><p>in Journal of the Audio Engineering Society vol. 73, 2025</p></details> |
-| **[SCSM: A Traffic-Native Foundation Model for Transferable Website Fingerprinting](https://arxiv.org/abs/2610.07776v1)** | 2026-10-06 |  |
-| **[The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models](https://arxiv.org/abs/2610.07723v1)** | 2026-10-06 |  |
-| **[Adaptive Model Inversion Attacks Generalize a Privacy-Robustness Tradeoff](https://arxiv.org/abs/2610.07677v1)** | 2026-10-06 |  |
+| **[Detecting Adversarial Images through Response Profiles of Vision-Language Models](https://arxiv.org/abs/2610.10436v1)** | 2026-10-07 |  |
+| **[Targeting World Models to Compromise Robot Learning Pipelines](https://arxiv.org/abs/2606.09499v2)** | 2026-10-07 | <details><summary>9 Pag...</summary><p>9 Pages, CoRL Spotlight</p></details> |
+| **[Estimating Model-Level Membership Inference Vulnerability Without Reference Models](https://arxiv.org/abs/2510.19773v2)** | 2026-10-07 |  |
+| **[How to train your model organism](https://arxiv.org/abs/2610.10203v1)** | 2026-10-07 |  |
+| **[Efficient Provably Private Classification with a Tabular Foundation Model](https://arxiv.org/abs/2610.10068v1)** | 2026-10-07 | <details><summary>74 pa...</summary><p>74 pages, 18 figures; includes supplementary information</p></details> |
+| **[Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions](https://arxiv.org/abs/2610.09941v1)** | 2026-10-07 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 14 tables</p></details> |
+| **[Defensive Sufficiency in a Stackelberg Model of AI Security](https://arxiv.org/abs/2610.09892v1)** | 2026-10-07 | <details><summary>27 pa...</summary><p>27 pages, 3 figures, 1 table</p></details> |
+| **[Backdooring Acoustic Foundation Models for Physically Realizable Triggers](https://arxiv.org/abs/2610.09819v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at RAID 2026</p></details> |
+| **[Restricting the Model, Missing the System: Measurement and Accountability in Offensive AI Governance](https://arxiv.org/abs/2605.09504v3)** | 2026-10-07 |  |
+| **[Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/abs/2602.04448v4)** | 2026-10-07 | 9 pages |
 
