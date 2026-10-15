@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense](https://arxiv.org/abs/2610.11005v2)** | 2026-10-13 |  |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v3)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations](https://arxiv.org/abs/2609.32717v2)** | 2026-10-13 | <details><summary>58 pa...</summary><p>58 pages. Accepted at NeurIPS 2026</p></details> |
-| **[Adaptive Co-Serving LLM Watermarking on Modern Inference Engines](https://arxiv.org/abs/2610.03955v2)** | 2026-10-13 |  |
-| **[Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents](https://arxiv.org/abs/2610.18457v1)** | 2026-10-13 |  |
-| **[Pin It on Anyone: Certified Targeted Displacement of Multi-Bit LLM Watermarks Without the Key](https://arxiv.org/abs/2610.18359v1)** | 2026-10-13 |  |
-| **[Can Agents Forget When Asked? A Benchmark for Memory Unlearning in LLM Agents](https://arxiv.org/abs/2610.18052v1)** | 2026-10-13 |  |
-| **[Cost-Efficient Privacy Enforcement for Email-Generating LLM Agents under Strategic Information Requests](https://arxiv.org/abs/2610.18007v1)** | 2026-10-13 | 24 pages |
-| **[Same Attack, Different Judge: A First Controlled Adversarial Comparison of Jev, LLM Judges, and Purpose-Built Safety Classifiers](https://arxiv.org/abs/2610.17820v1)** | 2026-10-13 | 21 pages, 10 figures |
-| **[Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains](https://arxiv.org/abs/2610.17723v1)** | 2026-10-13 |  |
+| **[Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety](https://arxiv.org/abs/2608.13304v2)** | 2026-10-14 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 24 tables</p></details> |
+| **[SecureClaw: Clawing Back Control of LLM Agents](https://arxiv.org/abs/2606.09549v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (poster). Revised presentation and additional evaluation; 29 pages including appendices</p></details> |
+| **[Towards Security-Auditable LLM Agents: A Unified Graph Representation](https://arxiv.org/abs/2605.06812v2)** | 2026-10-14 |  |
+| **[TULIP: Targeted LLM Unlearning at Layers Identified Per-input](https://arxiv.org/abs/2609.34591v2)** | 2026-10-14 |  |
+| **[Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs](https://arxiv.org/abs/2605.10998v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains](https://arxiv.org/abs/2610.19498v1)** | 2026-10-14 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables. Artifact: https://github.com/Rlonglong/gguf-verifiability-artifact</p></details> |
+| **[NOMOS: Compiling Written Policies into Statically Verified Tool-Call Gates for LLM Agents](https://arxiv.org/abs/2610.11030v2)** | 2026-10-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 19 tables. Submitted to IEEE Access</p></details> |
+| **[AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety](https://arxiv.org/abs/2610.19422v1)** | 2026-10-14 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v3)** | 2026-10-13 | 28 pages |
+| **[Did the LLM Answer the Question? A Semantic Reconstruction Game for Jailbreak Evaluation](https://arxiv.org/abs/2610.19306v1)** | 2026-10-13 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense](https://arxiv.org/abs/2610.11005v2)** | 2026-10-13 |  |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v3)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations](https://arxiv.org/abs/2609.32717v2)** | 2026-10-13 | <details><summary>58 pa...</summary><p>58 pages. Accepted at NeurIPS 2026</p></details> |
-| **[Adaptive Co-Serving LLM Watermarking on Modern Inference Engines](https://arxiv.org/abs/2610.03955v2)** | 2026-10-13 |  |
-| **[Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents](https://arxiv.org/abs/2610.18457v1)** | 2026-10-13 |  |
-| **[Pin It on Anyone: Certified Targeted Displacement of Multi-Bit LLM Watermarks Without the Key](https://arxiv.org/abs/2610.18359v1)** | 2026-10-13 |  |
-| **[Can Agents Forget When Asked? A Benchmark for Memory Unlearning in LLM Agents](https://arxiv.org/abs/2610.18052v1)** | 2026-10-13 |  |
-| **[Cost-Efficient Privacy Enforcement for Email-Generating LLM Agents under Strategic Information Requests](https://arxiv.org/abs/2610.18007v1)** | 2026-10-13 | 24 pages |
-| **[Same Attack, Different Judge: A First Controlled Adversarial Comparison of Jev, LLM Judges, and Purpose-Built Safety Classifiers](https://arxiv.org/abs/2610.17820v1)** | 2026-10-13 | 21 pages, 10 figures |
-| **[Upstream Influence, Downstream Re-Anchoring in LLM Agent Chains](https://arxiv.org/abs/2610.17723v1)** | 2026-10-13 |  |
+| **[Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety](https://arxiv.org/abs/2608.13304v2)** | 2026-10-14 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 24 tables</p></details> |
+| **[SecureClaw: Clawing Back Control of LLM Agents](https://arxiv.org/abs/2606.09549v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (poster). Revised presentation and additional evaluation; 29 pages including appendices</p></details> |
+| **[Towards Security-Auditable LLM Agents: A Unified Graph Representation](https://arxiv.org/abs/2605.06812v2)** | 2026-10-14 |  |
+| **[TULIP: Targeted LLM Unlearning at Layers Identified Per-input](https://arxiv.org/abs/2609.34591v2)** | 2026-10-14 |  |
+| **[Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs](https://arxiv.org/abs/2605.10998v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains](https://arxiv.org/abs/2610.19498v1)** | 2026-10-14 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables. Artifact: https://github.com/Rlonglong/gguf-verifiability-artifact</p></details> |
+| **[NOMOS: Compiling Written Policies into Statically Verified Tool-Call Gates for LLM Agents](https://arxiv.org/abs/2610.11030v2)** | 2026-10-14 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 19 tables. Submitted to IEEE Access</p></details> |
+| **[AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety](https://arxiv.org/abs/2610.19422v1)** | 2026-10-14 |  |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v3)** | 2026-10-13 | 28 pages |
+| **[Did the LLM Answer the Question? A Semantic Reconstruction Game for Jailbreak Evaluation](https://arxiv.org/abs/2610.19306v1)** | 2026-10-13 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928v2)** | 2026-10-14 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 3 tables. Accepted at NeurIPS 2026</p></details> |
+| **[Quantifying privacy risks in foundation model representations of brain MRI](https://arxiv.org/abs/2610.20494v1)** | 2026-10-14 |  |
+| **[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/abs/2609.05903v2)** | 2026-10-14 |  |
+| **[SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models](https://arxiv.org/abs/2610.17727v2)** | 2026-10-14 | <details><summary>21 pa...</summary><p>21 pages, including references and appendices</p></details> |
+| **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v3)** | 2026-10-13 | 28 pages |
+| **[DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision](https://arxiv.org/abs/2610.19118v1)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, including references and appendices. Benchmark website: https://yifan-lan.github.io/DecisionRobust/</p></details> |
+| **[Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models](https://arxiv.org/abs/2604.01444v3)** | 2026-10-13 |  |
 | **[How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense](https://arxiv.org/abs/2610.11005v2)** | 2026-10-13 |  |
-| **[From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models](https://arxiv.org/abs/2610.18674v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at AACL-IJCNLP 2026</p></details> |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v3)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](https://arxiv.org/abs/2610.18609v1)** | 2026-10-13 |  |
-| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v2)** | 2026-10-13 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
-| **[FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation](https://arxiv.org/abs/2610.18430v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Principled Design for Trustworthy AI. This is an author-owned preprint, not the official proceedings version</p></details> |
-| **[Swiss4Arg: A Parallel Dataset for Multilingual Argument Mining across Swiss National Languages](https://arxiv.org/abs/2610.17894v1)** | 2026-10-13 |  |
-| **[SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models](https://arxiv.org/abs/2610.17727v1)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, including references and appendices</p></details> |
-| **[Beyond Model Scaling: Rethinking Sequence Construction for Transformer-based Network Intrusion Detection](https://arxiv.org/abs/2610.17725v1)** | 2026-10-13 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 5 tables. Reproducibility artifact: https://github.com/ZeeshanZulkiflShah/sequence-construction-nids-artifact/tree/arxiv-v1-artifact</p></details> |
-| **[RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/abs/2606.03344v2)** | 2026-10-12 | <details><summary>To ap...</summary><p>To appear in IEEE Symposium on Security and Privacy (S&P), 2027</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928v2)** | 2026-10-14 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 3 tables. Accepted at NeurIPS 2026</p></details> |
+| **[Quantifying privacy risks in foundation model representations of brain MRI](https://arxiv.org/abs/2610.20494v1)** | 2026-10-14 |  |
+| **[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/abs/2609.05903v2)** | 2026-10-14 |  |
+| **[SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models](https://arxiv.org/abs/2610.17727v2)** | 2026-10-14 | <details><summary>21 pa...</summary><p>21 pages, including references and appendices</p></details> |
+| **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
+| **[LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface](https://arxiv.org/abs/2603.22519v3)** | 2026-10-13 | 28 pages |
+| **[DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision](https://arxiv.org/abs/2610.19118v1)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, including references and appendices. Benchmark website: https://yifan-lan.github.io/DecisionRobust/</p></details> |
+| **[Cooking Up Risks: Benchmarking and Reducing Food Safety Risks in Large Language Models](https://arxiv.org/abs/2604.01444v3)** | 2026-10-13 |  |
 | **[How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense](https://arxiv.org/abs/2610.11005v2)** | 2026-10-13 |  |
-| **[From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models](https://arxiv.org/abs/2610.18674v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at AACL-IJCNLP 2026</p></details> |
-| **[What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains](https://arxiv.org/abs/2606.15020v3)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy (S&P 2027)</p></details> |
-| **[DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](https://arxiv.org/abs/2610.18609v1)** | 2026-10-13 |  |
-| **[Secure Speculative Decoding for Large Language Models](https://arxiv.org/abs/2610.08678v2)** | 2026-10-13 | <details><summary>18 pa...</summary><p>18 pages, accepted by IEEE S&P 2027</p></details> |
-| **[FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation](https://arxiv.org/abs/2610.18430v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Principled Design for Trustworthy AI. This is an author-owned preprint, not the official proceedings version</p></details> |
-| **[Swiss4Arg: A Parallel Dataset for Multilingual Argument Mining across Swiss National Languages](https://arxiv.org/abs/2610.17894v1)** | 2026-10-13 |  |
-| **[SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models](https://arxiv.org/abs/2610.17727v1)** | 2026-10-13 | <details><summary>21 pa...</summary><p>21 pages, including references and appendices</p></details> |
-| **[Beyond Model Scaling: Rethinking Sequence Construction for Transformer-based Network Intrusion Detection](https://arxiv.org/abs/2610.17725v1)** | 2026-10-13 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 5 tables. Reproducibility artifact: https://github.com/ZeeshanZulkiflShah/sequence-construction-nids-artifact/tree/arxiv-v1-artifact</p></details> |
-| **[RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/abs/2606.03344v2)** | 2026-10-12 | <details><summary>To ap...</summary><p>To appear in IEEE Symposium on Security and Privacy (S&P), 2027</p></details> |
 
