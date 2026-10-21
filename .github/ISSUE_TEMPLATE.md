@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,54 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](https://arxiv.org/abs/2610.28425v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
+| **[MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems](https://arxiv.org/abs/2610.28397v1)** | 2026-10-20 |  |
+| **[Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection](https://arxiv.org/abs/2605.23175v2)** | 2026-10-20 |  |
+| **[AgenTest: Mining Business Rules to Test LLM Agents for Business Logic Bugs](https://arxiv.org/abs/2610.28116v1)** | 2026-10-20 |  |
+| **[Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation](https://arxiv.org/abs/2602.08062v2)** | 2026-10-20 |  |
+| **[ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents](https://arxiv.org/abs/2610.28093v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the AgenticOS Workshop @ NeurIPS 2026 (non-archival). 6 pages, 1 figure, 1 table</p></details> |
+| **[HydraPoT: A Configurable Multi-Agent Framework for Cost-Aware LLM-Assisted Honeypots](https://arxiv.org/abs/2610.27722v1)** | 2026-10-20 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables. Accepted at AINTEC 2026. Preprint version</p></details> |
+| **[LLM-Attack Suite: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems](https://arxiv.org/abs/2610.22722v2)** | 2026-10-19 |  |
 | **[Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability](https://arxiv.org/abs/2610.26809v1)** | 2026-10-19 |  |
 | **[Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks](https://arxiv.org/abs/2610.26589v1)** | 2026-10-19 |  |
-| **[Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents](https://arxiv.org/abs/2610.26438v1)** | 2026-10-19 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 18 tables</p></details> |
-| **[Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback](https://arxiv.org/abs/2610.25897v1)** | 2026-10-19 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 4 tables</p></details> |
-| **[I CAN Debias: Uncovering and Enhancing Self-debiasing Mechanisms of Social Bias in LLMs](https://arxiv.org/abs/2605.09647v2)** | 2026-10-19 |  |
-| **[SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](https://arxiv.org/abs/2510.15476v5)** | 2026-10-18 |  |
-| **[SEAL: Towards Persistent Tool Poisoning Attack against LLM Agents via Prefix-Eliciting Trigger](https://arxiv.org/abs/2610.25372v1)** | 2026-10-18 |  |
-| **[MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents](https://arxiv.org/abs/2607.14651v2)** | 2026-10-18 |  |
-| **[The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents](https://arxiv.org/abs/2610.24873v1)** | 2026-10-17 | Under Review |
-| **[The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check](https://arxiv.org/abs/2610.24872v1)** | 2026-10-17 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 17 tables. Code and labels: https://anonymous.4open.science/r/missing-compliance-class-4F6F</p></details> |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](https://arxiv.org/abs/2610.28425v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
+| **[MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems](https://arxiv.org/abs/2610.28397v1)** | 2026-10-20 |  |
+| **[Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection](https://arxiv.org/abs/2605.23175v2)** | 2026-10-20 |  |
+| **[AgenTest: Mining Business Rules to Test LLM Agents for Business Logic Bugs](https://arxiv.org/abs/2610.28116v1)** | 2026-10-20 |  |
+| **[Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation](https://arxiv.org/abs/2602.08062v2)** | 2026-10-20 |  |
+| **[ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents](https://arxiv.org/abs/2610.28093v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the AgenticOS Workshop @ NeurIPS 2026 (non-archival). 6 pages, 1 figure, 1 table</p></details> |
+| **[HydraPoT: A Configurable Multi-Agent Framework for Cost-Aware LLM-Assisted Honeypots](https://arxiv.org/abs/2610.27722v1)** | 2026-10-20 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables. Accepted at AINTEC 2026. Preprint version</p></details> |
+| **[LLM-Attack Suite: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems](https://arxiv.org/abs/2610.22722v2)** | 2026-10-19 |  |
 | **[Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability](https://arxiv.org/abs/2610.26809v1)** | 2026-10-19 |  |
 | **[Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks](https://arxiv.org/abs/2610.26589v1)** | 2026-10-19 |  |
-| **[Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents](https://arxiv.org/abs/2610.26438v1)** | 2026-10-19 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 18 tables</p></details> |
-| **[Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback](https://arxiv.org/abs/2610.25897v1)** | 2026-10-19 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 4 tables</p></details> |
-| **[I CAN Debias: Uncovering and Enhancing Self-debiasing Mechanisms of Social Bias in LLMs](https://arxiv.org/abs/2605.09647v2)** | 2026-10-19 |  |
-| **[SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](https://arxiv.org/abs/2510.15476v5)** | 2026-10-18 |  |
-| **[SEAL: Towards Persistent Tool Poisoning Attack against LLM Agents via Prefix-Eliciting Trigger](https://arxiv.org/abs/2610.25372v1)** | 2026-10-18 |  |
-| **[MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents](https://arxiv.org/abs/2607.14651v2)** | 2026-10-18 |  |
-| **[The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents](https://arxiv.org/abs/2610.24873v1)** | 2026-10-17 | Under Review |
-| **[The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check](https://arxiv.org/abs/2610.24872v1)** | 2026-10-17 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 17 tables. Code and labels: https://anonymous.4open.science/r/missing-compliance-class-4F6F</p></details> |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DICE: Tilting the Odds through Interface Attacks on System One Model](https://arxiv.org/abs/2610.14404v2)** | 2026-10-19 |  |
-| **[Flipping Minds by Flipping Bits: Decision-Level Cognitive Hijacking of Large Language Models](https://arxiv.org/abs/2607.25227v2)** | 2026-10-19 |  |
-| **[MapSteal: Map-based Autonomous Knowledge Stealing Attack Against Large Language Models](https://arxiv.org/abs/2610.25626v1)** | 2026-10-19 |  |
-| **[Quantifying Memorization and Privacy Risks in Genomic Language Models](https://arxiv.org/abs/2603.08913v3)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at ACM BCB 2026</p></details> |
-| **[Topic-Based Watermarks for Large Language Models](https://arxiv.org/abs/2404.02138v7)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
-| **[Defending Against Dormant Poisoning Attacks Across Language and Multimodal Agents](https://arxiv.org/abs/2610.24379v1)** | 2026-10-17 | <details><summary>Proje...</summary><p>Project page: https://wonjuun.github.io/LookAhead/</p></details> |
-| **[Multimodal Resource-Exhaustion Attacks on Vision-Language Models via Joint Pixel-Prompt Optimization](https://arxiv.org/abs/2609.05889v2)** | 2026-10-17 | <details><summary>Exten...</summary><p>Extended version of the paper accepted by ACM CCS 2026</p></details> |
-| **[COPEX: Benchmarking LLM Robustness to Adversarial Context Across Model Context Protocol (MCP) Layers](https://arxiv.org/abs/2610.04378v2)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted as a poster at the NeurIPS 2026 Workshop on Agents in the Wild</p></details> |
-| **[Backdoor Attacks on Discrete Graph Diffusion Models](https://arxiv.org/abs/2503.06340v3)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Under the Skin: Backdoor Infection in Multimodal Large Language Models](https://arxiv.org/abs/2610.24058v1)** | 2026-10-16 |  |
+| **[TAPDreamer: Transferable Adversarial Patches for World Action Models](https://arxiv.org/abs/2610.06814v3)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project Page: https://tapdreamer.github.io</p></details> |
+| **[Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG](https://arxiv.org/abs/2610.28364v1)** | 2026-10-20 |  |
+| **[Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure](https://arxiv.org/abs/2610.27739v1)** | 2026-10-20 |  |
+| **[RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735v1)** | 2026-10-20 |  |
+| **[A Unified Attack Framework against Statistical Generative Watermarks for Large Language Models](https://arxiv.org/abs/2610.27653v1)** | 2026-10-20 |  |
+| **[ABench: Adversarily Benchmarking Large Language Models across Taxonomized Values](https://arxiv.org/abs/2610.27611v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 16 pages, 6 figures, 7 tables</p></details> |
+| **[Can Native Safety Travel? Reusing Safety Pretraining Across Models via On-Policy Distillation](https://arxiv.org/abs/2610.27555v1)** | 2026-10-20 |  |
+| **[Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490v1)** | 2026-10-20 | <details><summary>19 pa...</summary><p>19 pages (inclusive of bibliography and appendix), 2 figures, 3 tables</p></details> |
+| **[Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices](https://arxiv.org/abs/2610.27152v1)** | 2026-10-19 |  |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DICE: Tilting the Odds through Interface Attacks on System One Model](https://arxiv.org/abs/2610.14404v2)** | 2026-10-19 |  |
-| **[Flipping Minds by Flipping Bits: Decision-Level Cognitive Hijacking of Large Language Models](https://arxiv.org/abs/2607.25227v2)** | 2026-10-19 |  |
-| **[MapSteal: Map-based Autonomous Knowledge Stealing Attack Against Large Language Models](https://arxiv.org/abs/2610.25626v1)** | 2026-10-19 |  |
-| **[Quantifying Memorization and Privacy Risks in Genomic Language Models](https://arxiv.org/abs/2603.08913v3)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at ACM BCB 2026</p></details> |
-| **[Topic-Based Watermarks for Large Language Models](https://arxiv.org/abs/2404.02138v7)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
-| **[Defending Against Dormant Poisoning Attacks Across Language and Multimodal Agents](https://arxiv.org/abs/2610.24379v1)** | 2026-10-17 | <details><summary>Proje...</summary><p>Project page: https://wonjuun.github.io/LookAhead/</p></details> |
-| **[Multimodal Resource-Exhaustion Attacks on Vision-Language Models via Joint Pixel-Prompt Optimization](https://arxiv.org/abs/2609.05889v2)** | 2026-10-17 | <details><summary>Exten...</summary><p>Extended version of the paper accepted by ACM CCS 2026</p></details> |
-| **[COPEX: Benchmarking LLM Robustness to Adversarial Context Across Model Context Protocol (MCP) Layers](https://arxiv.org/abs/2610.04378v2)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted as a poster at the NeurIPS 2026 Workshop on Agents in the Wild</p></details> |
-| **[Backdoor Attacks on Discrete Graph Diffusion Models](https://arxiv.org/abs/2503.06340v3)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Structural Causal Bottleneck Models](https://arxiv.org/abs/2603.08682v3)** | 2026-10-16 | NeurIPS 2026 |
+| **[TAPDreamer: Transferable Adversarial Patches for World Action Models](https://arxiv.org/abs/2610.06814v3)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project Page: https://tapdreamer.github.io</p></details> |
+| **[Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG](https://arxiv.org/abs/2610.28364v1)** | 2026-10-20 |  |
+| **[Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure](https://arxiv.org/abs/2610.27739v1)** | 2026-10-20 |  |
+| **[RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735v1)** | 2026-10-20 |  |
+| **[A Unified Attack Framework against Statistical Generative Watermarks for Large Language Models](https://arxiv.org/abs/2610.27653v1)** | 2026-10-20 |  |
+| **[ABench: Adversarily Benchmarking Large Language Models across Taxonomized Values](https://arxiv.org/abs/2610.27611v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 16 pages, 6 figures, 7 tables</p></details> |
+| **[Can Native Safety Travel? Reusing Safety Pretraining Across Models via On-Policy Distillation](https://arxiv.org/abs/2610.27555v1)** | 2026-10-20 |  |
+| **[Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models](https://arxiv.org/abs/2610.27490v1)** | 2026-10-20 | <details><summary>19 pa...</summary><p>19 pages (inclusive of bibliography and appendix), 2 figures, 3 tables</p></details> |
+| **[Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices](https://arxiv.org/abs/2610.27152v1)** | 2026-10-19 |  |
 
