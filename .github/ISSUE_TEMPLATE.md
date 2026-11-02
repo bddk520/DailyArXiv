@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## LLM AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Envelope Layer: An Underestimated Surface of LLM Agent Defense](https://arxiv.org/abs/2610.37415v2)** | 2026-10-30 |  |
+| **[Beyond Public Access in LLM Pre-Training Data](https://arxiv.org/abs/2505.00020v3)** | 2026-10-30 | <details><summary>38 pa...</summary><p>38 pages, 6 figures, 12 tables. Updated to reflect the published version in AI and Ethics</p></details> |
+| **[What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer](https://arxiv.org/abs/2610.41803v1)** | 2026-10-30 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 6 tables. Code, data and every monitor call: https://github.com/Mahmoud-Abbasi-svg/agent-trace-detector-eval</p></details> |
+| **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://arxiv.org/abs/2604.16548v5)** | 2026-10-30 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 4 tables. Expanded arXiv version; conference version accepted to EMNLP 2026. Added 21 references and clarified security objectives, recovery semantics, and VMG evaluation. Revision notes in Appendix F</p></details> |
+| **[Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs](https://arxiv.org/abs/2602.01600v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Evaluations & Dataset Track (spotlight paper)</p></details> |
+| **[Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents](https://arxiv.org/abs/2610.41056v1)** | 2026-10-29 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 6 tables</p></details> |
+| **[Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs](https://arxiv.org/abs/2610.41039v1)** | 2026-10-29 |  |
 | **[The Privacy and Security Risks of Edge LLM Optimization](https://arxiv.org/abs/2610.40543v1)** | 2026-10-29 |  |
 | **[Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510v3)** | 2026-10-29 | EMNLP 2026 Findings |
 | **[Understanding and Mitigating Role Spoofing in LLMs](https://arxiv.org/abs/2610.40396v1)** | 2026-10-29 |  |
-| **[Surprise Alone Learns Lies: Evidence-Gated Continual Learning for LLMs from Streaming Claims](https://arxiv.org/abs/2610.39840v1)** | 2026-10-29 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Code: https://github.com/Metalesaek/sura-metales</p></details> |
-| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-Tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v3)** | 2026-10-29 |  |
-| **[The Illusion of Local Privacy: Confidentiality Boundary Failures in Consumer LLM Serving Systems](https://arxiv.org/abs/2609.18526v3)** | 2026-10-29 | <details><summary>21 pa...</summary><p>21 pages, 2 figure, 13 tables. Code and experimental artifacts: https://github.com/0xzodiac/Local-LLMs-Forensics, Preprint for IEEE Transactions on Information Forensics and Security (T-IFS)</p></details> |
-| **[BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition](https://arxiv.org/abs/2610.21565v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Where You Inject Matters: The Trust Region Effect in LLM Agents](https://arxiv.org/abs/2610.38867v1)** | 2026-10-28 |  |
-| **[Controlled Decoding Attacks on Black-Box LLMs](https://arxiv.org/abs/2609.36956v2)** | 2026-10-28 |  |
-| **[Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes](https://arxiv.org/abs/2610.38595v1)** | 2026-10-28 |  |
 
 ## LLM AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Envelope Layer: An Underestimated Surface of LLM Agent Defense](https://arxiv.org/abs/2610.37415v2)** | 2026-10-30 |  |
+| **[Beyond Public Access in LLM Pre-Training Data](https://arxiv.org/abs/2505.00020v3)** | 2026-10-30 | <details><summary>38 pa...</summary><p>38 pages, 6 figures, 12 tables. Updated to reflect the published version in AI and Ethics</p></details> |
+| **[What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer](https://arxiv.org/abs/2610.41803v1)** | 2026-10-30 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 6 tables. Code, data and every monitor call: https://github.com/Mahmoud-Abbasi-svg/agent-trace-detector-eval</p></details> |
+| **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://arxiv.org/abs/2604.16548v5)** | 2026-10-30 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 4 tables. Expanded arXiv version; conference version accepted to EMNLP 2026. Added 21 references and clarified security objectives, recovery semantics, and VMG evaluation. Revision notes in Appendix F</p></details> |
+| **[Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs](https://arxiv.org/abs/2602.01600v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Evaluations & Dataset Track (spotlight paper)</p></details> |
+| **[Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents](https://arxiv.org/abs/2610.41056v1)** | 2026-10-29 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 6 tables</p></details> |
+| **[Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs](https://arxiv.org/abs/2610.41039v1)** | 2026-10-29 |  |
 | **[The Privacy and Security Risks of Edge LLM Optimization](https://arxiv.org/abs/2610.40543v1)** | 2026-10-29 |  |
 | **[Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510v3)** | 2026-10-29 | EMNLP 2026 Findings |
 | **[Understanding and Mitigating Role Spoofing in LLMs](https://arxiv.org/abs/2610.40396v1)** | 2026-10-29 |  |
-| **[Surprise Alone Learns Lies: Evidence-Gated Continual Learning for LLMs from Streaming Claims](https://arxiv.org/abs/2610.39840v1)** | 2026-10-29 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Code: https://github.com/Metalesaek/sura-metales</p></details> |
-| **[CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-Tenant LLM Serving Systems](https://arxiv.org/abs/2603.10726v3)** | 2026-10-29 |  |
-| **[The Illusion of Local Privacy: Confidentiality Boundary Failures in Consumer LLM Serving Systems](https://arxiv.org/abs/2609.18526v3)** | 2026-10-29 | <details><summary>21 pa...</summary><p>21 pages, 2 figure, 13 tables. Code and experimental artifacts: https://github.com/0xzodiac/Local-LLMs-Forensics, Preprint for IEEE Transactions on Information Forensics and Security (T-IFS)</p></details> |
-| **[Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays](https://arxiv.org/abs/2610.39435v1)** | 2026-10-29 |  |
-| **[BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition](https://arxiv.org/abs/2610.21565v3)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Where You Inject Matters: The Trust Region Effect in LLM Agents](https://arxiv.org/abs/2610.38867v1)** | 2026-10-28 |  |
-| **[Controlled Decoding Attacks on Black-Box LLMs](https://arxiv.org/abs/2609.36956v2)** | 2026-10-28 |  |
 
 ## large language model AND attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v2)** | 2026-10-30 | <details><summary>The S...</summary><p>The Science of Physical AI Safety Workshop at CoRL 2026</p></details> |
+| **[A Failure Mode Taxonomy and Severity Model for Ethereum Smart Contracts](https://arxiv.org/abs/2610.41685v1)** | 2026-10-30 |  |
+| **[Enhancing Safety of Large Language Models via Embedding Space Separation](https://arxiv.org/abs/2603.20206v2)** | 2026-10-30 |  |
+| **[Janus Vehicles: Entity-Centric Threat Modelling of Protocol-Conformant Vehicles under a Malicious-Manufacturer Assumption](https://arxiv.org/abs/2610.37059v2)** | 2026-10-30 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, This is a preprint of a paper accepted for publication in the proceedings of the 31st IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2026) - which will be held in 2~4 December 2026</p></details> |
+| **[Inadvertent Context Leakage in Language Models](https://arxiv.org/abs/2608.19857v2)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[A Unified Attack Framework against Statistical Generative Watermarks for Large Language Models](https://arxiv.org/abs/2610.27653v2)** | 2026-10-29 | <details><summary>Corre...</summary><p>Correct the affiliation information and add a link to the source code</p></details> |
+| **[Integrating of Attack Patterns and Threat Modeling to Support Security Analysis in the Automotive Domain](https://arxiv.org/abs/2610.40944v1)** | 2026-10-29 |  |
 | **[Difficulty Calibration Across Time for Membership Inference in Diffusion Models](https://arxiv.org/abs/2610.40616v1)** | 2026-10-29 |  |
 | **[How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates](https://arxiv.org/abs/2610.40516v1)** | 2026-10-29 |  |
 | **[Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication](https://arxiv.org/abs/2610.40398v1)** | 2026-10-29 |  |
-| **[Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models](https://arxiv.org/abs/2610.40309v1)** | 2026-10-29 |  |
-| **[LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models](https://arxiv.org/abs/2610.39848v1)** | 2026-10-29 |  |
-| **[PASA-KV: Attacking Action-Facing Visual Routes in World Action Models](https://arxiv.org/abs/2610.39816v1)** | 2026-10-29 |  |
-| **[Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin](https://arxiv.org/abs/2610.39590v1)** | 2026-10-29 |  |
-| **[Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models](https://arxiv.org/abs/2610.39509v1)** | 2026-10-29 |  |
-| **[Data-Efficient Unknown Attack Detection in IoT Networks Using Pretrained Language Models](https://arxiv.org/abs/2602.12183v2)** | 2026-10-29 | 19 pages, 2 figures |
-| **[Explainability-Aware Evaluation of Transfer Learning Models for IoT DDoS Detection Under Resource Constraints](https://arxiv.org/abs/2602.22488v2)** | 2026-10-29 | <details><summary>Updat...</summary><p>Updated version with several corrections, contains more clarification, and corrected typos in at the text and references</p></details> |
 
 ## large language model AND Backdoor Attack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v2)** | 2026-10-30 | <details><summary>The S...</summary><p>The Science of Physical AI Safety Workshop at CoRL 2026</p></details> |
+| **[A Failure Mode Taxonomy and Severity Model for Ethereum Smart Contracts](https://arxiv.org/abs/2610.41685v1)** | 2026-10-30 |  |
+| **[Enhancing Safety of Large Language Models via Embedding Space Separation](https://arxiv.org/abs/2603.20206v2)** | 2026-10-30 |  |
+| **[Janus Vehicles: Entity-Centric Threat Modelling of Protocol-Conformant Vehicles under a Malicious-Manufacturer Assumption](https://arxiv.org/abs/2610.37059v2)** | 2026-10-30 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, This is a preprint of a paper accepted for publication in the proceedings of the 31st IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2026) - which will be held in 2~4 December 2026</p></details> |
+| **[Inadvertent Context Leakage in Language Models](https://arxiv.org/abs/2608.19857v2)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[A Unified Attack Framework against Statistical Generative Watermarks for Large Language Models](https://arxiv.org/abs/2610.27653v2)** | 2026-10-29 | <details><summary>Corre...</summary><p>Correct the affiliation information and add a link to the source code</p></details> |
+| **[Integrating of Attack Patterns and Threat Modeling to Support Security Analysis in the Automotive Domain](https://arxiv.org/abs/2610.40944v1)** | 2026-10-29 |  |
 | **[Difficulty Calibration Across Time for Membership Inference in Diffusion Models](https://arxiv.org/abs/2610.40616v1)** | 2026-10-29 |  |
 | **[How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates](https://arxiv.org/abs/2610.40516v1)** | 2026-10-29 |  |
 | **[Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication](https://arxiv.org/abs/2610.40398v1)** | 2026-10-29 |  |
-| **[Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models](https://arxiv.org/abs/2610.40309v1)** | 2026-10-29 |  |
-| **[LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models](https://arxiv.org/abs/2610.39848v1)** | 2026-10-29 |  |
-| **[PASA-KV: Attacking Action-Facing Visual Routes in World Action Models](https://arxiv.org/abs/2610.39816v1)** | 2026-10-29 |  |
-| **[Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin](https://arxiv.org/abs/2610.39590v1)** | 2026-10-29 |  |
-| **[Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models](https://arxiv.org/abs/2610.39509v1)** | 2026-10-29 |  |
-| **[Data-Efficient Unknown Attack Detection in IoT Networks Using Pretrained Language Models](https://arxiv.org/abs/2602.12183v2)** | 2026-10-29 | 19 pages, 2 figures |
-| **[Explainability-Aware Evaluation of Transfer Learning Models for IoT DDoS Detection Under Resource Constraints](https://arxiv.org/abs/2602.22488v2)** | 2026-10-29 | <details><summary>Updat...</summary><p>Updated version with several corrections, contains more clarification, and corrected typos in at the text and references</p></details> |
 
